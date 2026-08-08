@@ -21,9 +21,28 @@ function assemble(content, item, brand, { bullets, hook, takeaway }) {
 }
 
 /**
- * Telegram rasm captionida 1024 belgi chegarasi bor (emoji 2 ta hisoblanadi).
+ * Telegram 1024 chegarasini HTML teglarisiz, KO'RINADIGAN matn bo'yicha sanaydi:
+ * <b> va <a href="..."> markup limitga kirmaydi, faqat havolaning ko'rinadigan
+ * yozuvi kiradi. Xom `caption.length` bilan sanash uzun havolali AAP postlarida
+ * punktni keraksiz o'chirib yuborardi.
+ */
+export function visibleLength(html) {
+  return html
+    .replace(/<a\s+href="[^"]*">/gi, '')
+    .replace(/<\/?(?:a|b|i|u|s|code|pre)>/gi, '')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&').length;
+}
+
+// Telegram hisobi bilan bizniki chetda farq qilib qolsa, post yo'qolmasin.
+const SAFETY_MARGIN = 16;
+
+/**
  * Manba va link HECH QACHON qisqartirilmaydi — ular postning asosi.
- * Shuning uchun avval 3-punkt, keyin hook, keyin takeaway qisqaradi.
+ * Qisqartirish tartibi: avval eng kam ma'lumot yo'qotadigan qadam.
+ * Butun punktni o'chirish — oxirgi chora, chunki u eng ko'p ma'lumot yo'qotadi.
  */
 export function buildCaption(content, item, brand) {
   let bullets = [...content.bullets];
@@ -31,26 +50,30 @@ export function buildCaption(content, item, brand) {
   let takeaway = content.takeaway;
 
   const steps = [
-    () => { if (bullets.length > 2) { bullets = bullets.slice(0, 2); return true; } return false; },
-    () => { if (hook.length > 90) { hook = truncate(hook, 90); return true; } return false; },
-    () => { if (takeaway.length > 120) { takeaway = truncate(takeaway, 120); return true; } return false; },
-    () => { if (bullets.length > 1) { bullets = bullets.slice(0, 1); return true; } return false; },
-    () => { if (hook) { hook = ''; return true; } return false; },
+    () => { if (hook.length > 110) { hook = truncate(hook, 110); return true; } return false; },
+    () => { if (takeaway.length > 140) { takeaway = truncate(takeaway, 140); return true; } return false; },
     () => {
-      const before = bullets.length;
-      bullets = bullets.map((b) => truncate(b, 90));
-      return before > 0;
+      if (bullets.some((b) => b.length > 105)) {
+        bullets = bullets.map((b) => truncate(b, 105));
+        return true;
+      }
+      return false;
     },
+    () => { if (hook.length > 70) { hook = truncate(hook, 70); return true; } return false; },
+    () => { if (bullets.length > 2) { bullets = bullets.slice(0, 2); return true; } return false; },
+    () => { if (hook) { hook = ''; return true; } return false; },
+    () => { if (bullets.length > 1) { bullets = bullets.slice(0, 1); return true; } return false; },
   ];
 
+  const limit = CAPTION_LIMIT - SAFETY_MARGIN;
   let caption = assemble(content, item, brand, { bullets, hook, takeaway });
   for (const step of steps) {
-    if (caption.length <= CAPTION_LIMIT) break;
+    if (visibleLength(caption) <= limit) break;
     if (!step()) continue;
     caption = assemble(content, item, brand, { bullets, hook, takeaway });
   }
 
-  if (caption.length > CAPTION_LIMIT) {
+  if (visibleLength(caption) > limit) {
     // Kutilmagan holat — hech bo'lmasa yuborilsin, link saqlanib qolsin.
     caption = assemble(content, item, brand, { bullets: [], hook: '', takeaway: '' });
   }

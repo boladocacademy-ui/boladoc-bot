@@ -69,6 +69,50 @@ export function escapeHtml(s = '') {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
+/** Har xil apostrof ko'rinishlari: ' ’ ‘ ` ´ ʹ ʻ ʼ */
+const APOS_CLASS = "['’‘`´ʹʻʼ]";
+
+/**
+ * O'zbek lotin yozuvidagi apostroflarni bir xillashtiradi.
+ * Model bir postda ham "o'" ham "oʻ" yozib yuboradi — bu tahrir qilinmagandek ko'rinadi.
+ *   oʻ / gʻ  → U+02BB (okina, harfning bir qismi)
+ *   sunʼiy   → U+02BC (tutuq belgisi)
+ */
+export function fixUzbekApostrophes(s = '') {
+  const OKINA = 'ʻ';
+  const TUTUQ = 'ʼ';
+  const MARK = '@@OKINA@@'; // vaqtinchalik belgi; oddiy matnda uchramaydi
+  // Ikki bosqichni ajratish shart: bitta o'tishda 2-qadam 1-qadam qo'ygan
+  // okinani ham tutuqqa aylantirib yuborardi.
+  return String(s)
+    .replace(new RegExp(`([ogOG])${APOS_CLASS}`, 'g'), `$1${MARK}`)
+    .replace(new RegExp(APOS_CLASS, 'g'), TUTUQ)
+    .replace(new RegExp(MARK, 'g'), OKINA);
+}
+
+/**
+ * Hashtagni tozalaydi. Model ba'zan boshqa alifbo qo'shib yuboradi
+ * (kuzatilgan holat: "#endokrinologiya批判") — bunday hashtag kanalga chiqmasligi kerak.
+ * Faqat ASCII harf, raqam va pastki chiziq qoldiriladi.
+ */
+export function cleanHashtag(raw = '') {
+  const body = String(raw)
+    .trim()
+    .replace(/^#+/, '')
+    .replace(new RegExp(APOS_CLASS, 'g'), '')
+    .replace(/\s+/g, '_')
+    .replace(/[^A-Za-z0-9_]/g, '')
+    .replace(/_{2,}/g, '_')
+    .replace(/^_+|_+$/g, '');
+
+  if (body.length < 3 || body.length > 30) return '';
+  // Model ba'zan ichki axlat chiqaradi, masalan:
+  // "#pediatriya_me0000000e00_lower_bounds_range_0_0" — raqam uyumi shuning belgisi.
+  if (/\d{3,}/.test(body)) return '';
+  if (!/[A-Za-z]{3}/.test(body)) return '';
+  return `#${body}`;
+}
+
 export function truncate(s = '', max = 200) {
   const t = String(s).trim();
   return t.length <= max ? t : t.slice(0, max - 1).trimEnd() + '…';

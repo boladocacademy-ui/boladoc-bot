@@ -11,7 +11,7 @@ import { fetchAllFeeds, fetchAbstract } from './feeds.js';
 import { selectCandidates } from './relevance.js';
 import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
-import { buildCaption, CAPTION_LIMIT } from './caption.js';
+import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
 import { loadPosted } from './state.js';
 
 const SAMPLE = {
@@ -60,7 +60,7 @@ async function main() {
     }
 
     const caption = buildCaption(content, item, config.brand);
-    console.log(`\n--- CAPTION (${caption.length}/${CAPTION_LIMIT}) ---\n${caption}\n`);
+    console.log(`\n--- CAPTION (${visibleLength(caption)}/${CAPTION_LIMIT} ko'rinadigan belgi) ---\n${caption}\n`);
 
     const png = await buildImage({
       content,

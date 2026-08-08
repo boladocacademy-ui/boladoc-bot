@@ -1,6 +1,8 @@
-import { fetchWithRetry, log, truncate } from './util.js';
+import { fetchWithRetry, log, truncate, cleanHashtag, fixUzbekApostrophes } from './util.js';
 
-const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash'];
+// Birinchisi ishlamasa keyingisiga o'tadi. gemini-2.5/2.0 olib tashlandi:
+// Google ularni yangi kalitlar uchun yopgan (404 / free tier limit: 0).
+const MODELS = ['gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-flash-latest'];
 
 const RESPONSE_SCHEMA = {
   type: 'object',
@@ -67,7 +69,9 @@ async function callGemini(model, apiKey, prompt) {
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
         generationConfig: {
           temperature: 0.55,
-          maxOutputTokens: 2048,
+          // Gemini 3 modellarida "o'ylash" tokenlari ham shu limitdan yeydi.
+          // 2048 da JSON yarim uzilib qolardi ("Unterminated string").
+          maxOutputTokens: 8192,
           responseMimeType: 'application/json',
           responseSchema: RESPONSE_SCHEMA,
         },
@@ -88,41 +92,64 @@ async function callGemini(model, apiKey, prompt) {
 export async function generateContent(item, abstract, brand, apiKey) {
   const prompt = buildPrompt(item, abstract, brand);
   let lastErr;
+  let fallback = null; // to'liq bo'lmagan, lekin ishlatsa bo'ladigan natija
 
   for (const model of MODELS) {
     try {
-      const out = await callGemini(model, apiKey, prompt);
+      const out = normalize(await callGemini(model, apiKey, prompt), item);
+
+      // Model ba'zan 3 ta o'rniga 2 ta punkt qaytaradi. Bu post to'liq
+      // ko'rinmasligiga olib keladi, shuning uchun keyingi modelni sinaymiz —
+      // lekin bori ham yo'qdan yaxshi, shuning uchun zaxiraga saqlab qo'yamiz.
+      if (out.bullets.length < 3 || !out.title_uz || !out.takeaway) {
+        log(`gemini to'liqmas (${model}): ${out.bullets.length} ta punkt — keyingisi sinaladi`);
+        fallback ??= out;
+        continue;
+      }
+
       log(`gemini ok: ${model}`);
-      return normalize(out);
+      return out;
     } catch (err) {
       lastErr = err;
       log(`gemini xato (${model}): ${err.message}`);
     }
   }
+
+  if (fallback) {
+    log('gemini: to\'liqmas natija ishlatilmoqda');
+    return fallback;
+  }
   throw new Error(`Gemini ishlamadi: ${lastErr?.message}`);
 }
 
 /** Model chegaralarni ba'zan buzadi — bu yerda majburan kesamiz. */
-function normalize(raw) {
+function normalize(raw, item = {}) {
+  const uz = (s, max) => truncate(fixUzbekApostrophes(String(s ?? '')), max);
+
   const bullets = (Array.isArray(raw.bullets) ? raw.bullets : [])
-    .map((b) => truncate(String(b), 140))
+    .map((b) => uz(b, 140))
     .filter(Boolean)
     .slice(0, 3);
 
-  const hashtags = (Array.isArray(raw.hashtags) ? raw.hashtags : [])
-    .map((h) => String(h).trim().replace(/\s+/g, ''))
-    .map((h) => (h.startsWith('#') ? h : `#${h}`))
-    .filter((h) => h.length > 1)
-    .slice(0, 5);
+  // Buzuq hashtaglar tashlab yuborilgach post tagsiz qolmasligi uchun zaxira.
+  const fallbackTags = ['#pediatriya', cleanHashtag(item.source || ''), '#BoladocAcademy'];
+  const hashtags = [
+    ...new Set(
+      [...(Array.isArray(raw.hashtags) ? raw.hashtags : []), ...fallbackTags]
+        .map(cleanHashtag)
+        .filter(Boolean),
+    ),
+  ].slice(0, 5);
 
   return {
-    title_uz: truncate(raw.title_uz, 100),
-    hook: truncate(raw.hook, 160),
+    title_uz: uz(raw.title_uz, 100),
+    hook: uz(raw.hook, 160),
     bullets,
-    takeaway: truncate(raw.takeaway, 190),
+    takeaway: uz(raw.takeaway, 190),
     hashtags,
     card_topic: truncate(String(raw.card_topic || '').toUpperCase(), 24),
-    card_title: truncate(raw.card_title, 70),
+    card_title: uz(raw.card_title, 70),
+    // image_prompt inglizcha — apostrof tuzatish qo'llanmaydi.
     image_prompt: truncate(raw.image_prompt, 400),
   };
 }

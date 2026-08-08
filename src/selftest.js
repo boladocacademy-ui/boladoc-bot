@@ -3,7 +3,7 @@
  * Caption chegarasi, tasdiq o'qish, filtrlar va matn o'rash tekshiriladi.
  */
 import { readDecision } from './publish.js';
-import { buildCaption, CAPTION_LIMIT } from './caption.js';
+import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
 import { isJunk, isPediatric, selectCandidates } from './relevance.js';
 
 let failed = 0;
@@ -31,7 +31,10 @@ console.log('\n1) Caption chegarasi');
     hashtags: ['#pediatriya', '#JAMA', '#bolalar', '#tadqiqot', '#BoladocAcademy'],
   };
   const cap = buildCaption(content, item, brand);
-  check(`uzun matn ${cap.length} ≤ ${CAPTION_LIMIT}`, cap.length <= CAPTION_LIMIT);
+  check(
+    `uzun matn ${visibleLength(cap)} ≤ ${CAPTION_LIMIT}`,
+    visibleLength(cap) <= CAPTION_LIMIT,
+  );
   check('link saqlandi', cap.includes(item.link));
   check('manba saqlandi', cap.includes('JAMA Pediatrics — Online First'));
 
