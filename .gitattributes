@@ -1,0 +1,3 @@
+# Workflow fayllari Linux runner'da bash bilan ishlaydi — CRLF bo'lsa skript yiqiladi.
+* text=auto eol=lf
+*.png binary
