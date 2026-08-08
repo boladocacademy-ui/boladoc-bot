@@ -1,0 +1,46 @@
+name: 2) Kanalga chiqarish (08:00 Toshkent)
+
+on:
+  schedule:
+    # 02:50 UTC da boshlanadi, skript aniq 03:00 UTC = 08:00 Toshkent gacha kutadi.
+    # (GitHub croni bir necha daqiqa kechikishi mumkin — shuning uchun zaxira vaqt olingan.)
+    - cron: '50 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: boladoc-bot
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Bog'liqliklar
+        run: npm install --no-audit --no-fund
+
+      - name: Tasdiqni tekshirib kanalga chiqarish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: npm run publish
+
+      - name: Holatni saqlash
+        if: always()
+        run: |
+          git config user.name "boladoc-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state
+          git diff --staged --quiet || git commit -m "publish: $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash || true
+          git push

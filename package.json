@@ -1,0 +1,22 @@
+{
+  "name": "boladoc-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Boladoc Academy — AAP/CDC/JAMA pediatriya yangiliklarini o'zbek tilida Telegram kanalga avtomatik chiqaruvchi bot",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "draft": "node src/build-draft.js",
+    "publish": "node src/publish.js",
+    "test": "node src/selftest.js",
+    "check": "node src/setup-check.js",
+    "preview": "node src/preview.js",
+    "test:feeds": "node src/build-draft.js --dry-run"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "fast-xml-parser": "^4.5.0"
+  }
+}
