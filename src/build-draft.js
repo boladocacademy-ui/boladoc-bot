@@ -32,11 +32,18 @@ async function main() {
   if (!items.length) throw new Error('Hech qaysi manbadan yozuv olinmadi');
 
   const { set: posted } = loadPosted();
+  const blocked = [];
   const candidates = selectCandidates(items, {
     posted,
     maxAgeDays: config.maxAgeDays,
     limit: config.draftCount,
+    extraBlocked: config.blockedExtra ?? [],
+    onBlocked: (it, category) => blocked.push(`  [${category}] ${it.title}`),
   });
+
+  if (blocked.length) {
+    log(`taqiqlangan mavzu tufayli ${blocked.length} ta maqola tashlandi:\n${blocked.join('\n')}`);
+  }
 
   if (!candidates.length) {
     const msg = '⚠️ Bugun yangi mos maqola topilmadi (hammasi allaqachon chiqarilgan).';

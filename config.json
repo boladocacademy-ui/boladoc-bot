@@ -58,9 +58,12 @@
   "_comment_maxAgeDays": "Shu kundan eski maqolalar tanlanmaydi.",
   "maxAgeDays": 45,
 
+  "_comment_blockedExtra": "Bu yerga qo'shilgan so'z/ibora sarlavha yoki tavsifda uchrasa, maqola tanlovga UMUMAN kirmaydi. Asosiy taqiq ro'yxati src/relevance.js dagi BLOCKED_TOPICS da. Kichik harfda yozing.",
+  "blockedExtra": [],
+
   "_comment_image": "aiBackground=false bo'lsa faqat brendli gradient kartochka chiziladi (AI rasmsiz).",
   "image": {
-    "aiBackground": true,
+    "aiBackground": false,
     "width": 1280,
     "height": 720
   }

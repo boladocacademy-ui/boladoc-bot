@@ -41,6 +41,8 @@ async function main() {
     posted,
     maxAgeDays: config.maxAgeDays,
     limit: config.draftCount,
+    extraBlocked: config.blockedExtra ?? [],
+    onBlocked: (it, category) => log(`taqiq [${category}]: ${it.title}`),
   });
 
   if (!candidates.length) {

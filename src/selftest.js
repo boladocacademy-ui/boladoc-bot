@@ -4,7 +4,7 @@
  */
 import { readDecision } from './publish.js';
 import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
-import { isJunk, isPediatric, selectCandidates } from './relevance.js';
+import { isJunk, isPediatric, blockedCategory, selectCandidates } from './relevance.js';
 
 let failed = 0;
 function check(name, cond) {
@@ -110,7 +110,41 @@ console.log('\n4) Filtrlar');
     !isPediatric({ pedsFeed: false, title: 'Workplace Poisoning Among Adults', description: 'occupational exposure' }));
 }
 
-console.log('\n5) Tanlov');
+console.log('\n5) Taqiqlangan mavzular');
+{
+  const b = (title, description = '') => blockedCategory({ title, description });
+
+  check('transgender maqolasi tashlanadi',
+    b('Puberty Suppression in Transgender Adolescents') === 'gender');
+  check('suitsid maqolasi tashlanadi',
+    b('Suicidal Ideation Among Adolescents After Discharge') === 'zarar');
+  check('veyp maqolasi tashlanadi',
+    b('E-cigarette Use and Respiratory Symptoms in Teens') === 'zarar');
+  check('qurol maqolasi tashlanadi',
+    b('Firearm Injuries Among Children Aged 0-17') === 'aqsh');
+  check('Medicaid maqolasi tashlanadi',
+    b('Medicaid Unwinding and Pediatric Coverage Loss') === 'aqsh');
+  check('taqiq tavsifdan ham topiladi',
+    b('Screening Outcomes in a Large Cohort', 'the cohort examined cannabis exposure') === 'zarar');
+
+  // Bexosdan tushib qolmasligi kerak bo'lgan maqolalar:
+  check('oddiy pediatriya maqolasi qoladi',
+    b('Erythropoietin for Neonatal Hypoxic-Ischemic Encephalopathy') === null);
+  check('"gender farqlari" bexosdan tashlanmaydi',
+    b('Sex and Gender Differences in Childhood Asthma Severity') === null);
+  check('"begun" so‘zi qurol deb hisoblanmaydi',
+    b('Vaccination Has Begun in Rural Districts') === null);
+  check('reproduktiv salomatlik qoladi (taqiqlanmagan)',
+    b('HPV Vaccination Coverage Among Adolescents') === null);
+
+  check('config blockedExtra ishlaydi',
+    blockedCategory({ title: 'A Trial of Homeopathy in Infants', description: '' }, ['homeopathy'])
+      === 'qo‘shimcha');
+  check('blockedExtra bo‘sh bo‘lsa ta’sir qilmaydi',
+    blockedCategory({ title: 'A Trial of Homeopathy in Infants', description: '' }, []) === null);
+}
+
+console.log('\n6) Tanlov');
 {
   const mk = (o) => ({
     title: 'Randomized Trial of Neonatal Screening Strategies in Infants',
@@ -131,6 +165,17 @@ console.log('\n5) Tanlov');
     { posted: new Set(), maxAgeDays: 45, limit: 2 },
   );
   check('eski maqola tashlanadi', old.length === 0);
+
+  const seen = [];
+  const withBlocked = selectCandidates(
+    [
+      mk({ key: 'ok', source: 'AAP' }),
+      mk({ key: 'bad', source: 'JAMA Pediatrics', title: 'Gender-Affirming Care in Adolescents' }),
+    ],
+    { posted: new Set(), maxAgeDays: 45, limit: 5, onBlocked: (it, c) => seen.push([it.key, c]) },
+  );
+  check('taqiqlangan maqola nomzodlarga kirmaydi', !withBlocked.some((p) => p.key === 'bad'));
+  check('onBlocked chaqiriladi', seen.length === 1 && seen[0][0] === 'bad' && seen[0][1] === 'gender');
 }
 
 console.log(`\n${failed === 0 ? '✅ Hammasi o‘tdi' : `❌ ${failed} ta test yiqildi`}\n`);

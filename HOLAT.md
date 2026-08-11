@@ -1,4 +1,4 @@
-# HOLAT — 8-avgust 2026
+# HOLAT — 11-avgust 2026
 
 Bu fayl ishni to'xtatgan joyni eslatib turadi. Yangi suhbat boshlaganda
 avval shuni o'qing.
@@ -26,7 +26,7 @@ RSS (5 manba) → pediatriya filtri → Gemini tarjima → rasm → caption
 
 | Qism | Holat |
 |---|---|
-| Kod | ✅ ishlaydi, 22 ta test o'tadi (`npm test`) |
+| Kod | ✅ ishlaydi, 36 ta test o'tadi (`npm test`) |
 | Telegram bot | ✅ @Boladocacademymanagerbot |
 | Kanal | ✅ @Boladoc_uz (ID `-1003114000709`, 1548 obunachi) |
 | Bot kanalda admin | ✅ `can_post_messages: true` |
@@ -46,35 +46,49 @@ RSS (5 manba) → pediatriya filtri → Gemini tarjima → rasm → caption
 
 ---
 
-## HAL QILINMAGAN 2 TA SAVOL
+## 11-avgustda hal qilingan 2 ta savol
 
-Ishni davom ettirishdan oldin shu ikkisiga javob kerak.
+### 1. AI rasm — O'CHIRILDI
 
-### 1. AI rasm qolsinmi?
+`config.json` da `"image": { "aiBackground": false }`. Endi faqat toza
+brendli gradient kartochka chiziladi. AI rasm bo'lmaganda sarlavha butun
+kenglikni egallaydi (`src/image.js` dagi `split` shuni hisobga oladi), post
+tezroq yasaladi va sifat har safar bir xil bo'ladi.
 
-Pollinations.ai bepul, lekin sifati past — sinovda bittasi tushunarsiz
-yashil dog', ikkinchisi g'alati manekin boshi chiqdi. Kartochka dizaynining
-o'zi yaxshi.
+Qaytarish uchun shu qiymatni `true` qilish kifoya.
 
-O'chirish uchun `config.json`:
+### 2. Taqiqlangan mavzular — QO'SHILDI
 
-```json
-"image": { "aiBackground": false }
-```
+`src/relevance.js` dagi `BLOCKED_TOPICS` — 3 ta kategoriya. Bu iboralar
+sarlavha yoki tavsifda uchrasa, maqola tanlovga **umuman kirmaydi**:
 
-Shunda faqat toza brendli gradient kartochka qoladi.
-**Tavsiya: o'chirish.**
+| Kategoriya | Nima taqiqlangan |
+|---|---|
+| `gender` | transgender, gender identifikatsiyasi, balog'atni bostiruvchi dorilar, LGBT |
+| `zarar` | suitsid, o'z-o'ziga zarar, narkotik, opioid, alkogol, veyp/tamaki |
+| `aqsh` | qurol, Medicaid/Medicare, sug'urta siyosati, irqiy tengsizlik, migratsiya |
 
-### 2. Qaysi mavzular chiqmasin?
+**Taqiqlanmagan:** reproduktiv salomatlik (HPV emlash, o'smirlar jinsiy
+tarbiyasi va h.k.) — foydalanuvchi buni ataylab qoldirdi.
 
-Sinovda bot JAMA Pediatrics'dan "Transgender o'smirlarda balog'atni
-bostirish" maqolasini tanladi. Bot to'g'ri ishladi — bu haqiqatan eng yangi
-pediatriya maqolasi edi. Lekin auditoriya uchun mos kelmasligi mumkin.
+Yangi so'z qo'shish uchun kodga tegish shart emas — `config.json` dagi
+`"blockedExtra": []` ga kichik harfda yozing.
 
-Kerak: taqiqlangan mavzular ro'yxati. Bunday maqolalar tanlovga
-umuman kirmaydi (`src/relevance.js` ga qo'shiladi).
+⚠️ Ehtiyot: naqshlar substring bo'yicha solishtiriladi. Shuning uchun
+yolg'iz `gender` yoki `gun` kabi so'zlar yozilmaydi — ular "gender
+farqlari" yoki "begun" ga bexosdan mos kelib, foydali maqolani ham
+tashlab yuboradi. Har doim ikki so'zli ibora yozing.
 
-Foydalanuvchi qaysi mavzularni istisno qilishni hali aytmagan.
+11-avgust sinovida 4207 ta yozuvdan 7 tasi shu filtr bilan tashlandi,
+jumladan HOLAT'da eslatilgan transgender maqolasi.
+
+### Ochiq qolgan kichik savol
+
+AAP feedidagi "Achieving Equity in an Age of Artificial Intelligence"
+kabi *equity/disparities* mavzusidagi maqolalar hozir o'tib ketyapti —
+faqat "racial/ethnic disparity" iboralari taqiqlangan. Agar bular ham
+kerak bo'lmasa, `aqsh` ro'yxatiga `health equity`, `health disparit`,
+`social determinants` qo'shish kerak.
 
 ---
 

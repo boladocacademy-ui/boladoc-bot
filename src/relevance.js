@@ -37,6 +37,54 @@ const JUNK_PATTERNS = [
   /^(patient page|jama patient page)/i,
 ];
 
+/**
+ * TAQIQLANGAN MAVZULAR — bu iboralar sarlavha yoki tavsifda uchrasa, maqola
+ * tanlovga umuman kirmaydi (ball ham hisoblanmaydi).
+ *
+ * Naqshlar substring bo'yicha, kichik harfda solishtiriladi. Shuning uchun
+ * "gender" yoki "gun" kabi yolg'iz so'zlar YOZILMAYDI — ular "gender
+ * farqlari" yoki "begun" kabi bexosdan mos kelib, foydali maqolani ham
+ * tashlab yuboradi. Har doim ikki so'zli ibora yoki uzun o'zak yozing.
+ *
+ * Ro'yxatni tahrirlash: shu yerdan olib tashlang yoki config.json dagi
+ * "blockedExtra" ga yangisini qo'shing.
+ */
+export const BLOCKED_TOPICS = {
+  // 1) Gender identifikatsiyasi va transgender mavzulari
+  gender: [
+    'transgender', 'transsexual', 'cisgender', 'nonbinary', 'non-binary',
+    'gender identity', 'gender-affirming', 'gender affirming',
+    'gender dysphoria', 'gender-diverse', 'gender diverse', 'gender minority',
+    'puberty blocker', 'puberty suppression', 'pubertal suppression',
+    'sexual orientation', 'sexual minority', 'lgbt',
+  ],
+
+  // 2) O'z joniga qasd, o'z-o'ziga zarar va giyohvand moddalar
+  zarar: [
+    'suicid', 'self-harm', 'self harm', 'self-injur', 'nonsuicidal',
+    'overdose', 'opioid', 'fentanyl', 'naloxone', 'heroin', 'cocaine',
+    'methamphetamine', 'cannabis', 'marijuana', 'addiction',
+    'vaping', 'vape', 'e-cigarette', 'electronic cigarette', 'nicotine',
+    'tobacco', 'smoking', 'secondhand smoke',
+    'alcohol use', 'alcohol consumption', 'binge drinking', 'underage drinking',
+    'substance use', 'substance abuse', 'drug use', 'illicit drug',
+  ],
+
+  // 3) AQShga xos siyosat va statistika — O'zbekiston auditoriyasiga foydasi kam
+  aqsh: [
+    'firearm', 'gun violence', 'gun safety', 'gun ownership', 'handgun',
+    'school shooting', 'mass shooting',
+    'medicaid', 'medicare', 'affordable care act', 'health insurance',
+    'uninsured', 'insurance coverage',
+    'racism', 'racial disparit', 'ethnic disparit', 'racial and ethnic',
+    'immigrant', 'immigration', 'deportation', 'undocumented',
+  ],
+};
+
+const BLOCKED_FLAT = Object.entries(BLOCKED_TOPICS).flatMap(
+  ([category, terms]) => terms.map((term) => [term, category]),
+);
+
 /** Fikr-mulohaza janrlari — chiqarilishi mumkin, lekin tadqiqotdan keyin turadi. */
 const OPINION_TERMS = [
   'viewpoint', 'editorial', 'invited commentary', 'commentary', 'perspective',
@@ -59,6 +107,22 @@ export function isJunk(item) {
   const t = item.title.trim();
   if (t.length < 15) return true;
   return JUNK_PATTERNS.some((re) => re.test(t));
+}
+
+/**
+ * Taqiqlangan mavzu topilsa — kategoriya nomini, aks holda null qaytaradi.
+ * Nomini qaytarish sababi: nima uchun tashlanganini logda ko'rsatish uchun.
+ */
+export function blockedCategory(item, extraBlocked = []) {
+  const h = hay(item);
+  for (const [term, category] of BLOCKED_FLAT) {
+    if (h.includes(term)) return category;
+  }
+  for (const term of extraBlocked) {
+    const t = String(term).trim().toLowerCase();
+    if (t && h.includes(t)) return 'qo‘shimcha';
+  }
+  return null;
 }
 
 export function isPediatric(item) {
@@ -99,7 +163,10 @@ export function scoreItem(item, { maxAgeDays }) {
   return score;
 }
 
-export function selectCandidates(items, { posted, maxAgeDays, limit }) {
+export function selectCandidates(
+  items,
+  { posted, maxAgeDays, limit, extraBlocked = [], onBlocked },
+) {
   const cutoff = Date.now() - maxAgeDays * 86_400_000;
   const seen = new Set();
 
@@ -108,6 +175,12 @@ export function selectCandidates(items, { posted, maxAgeDays, limit }) {
     if (seen.has(it.key)) return false;
     if (isJunk(it)) return false;
     if (!isPediatric(it)) return false;
+    const blocked = blockedCategory(it, extraBlocked);
+    if (blocked) {
+      seen.add(it.key);
+      if (onBlocked) onBlocked(it, blocked);
+      return false;
+    }
     if (it.publishedAt && it.publishedAt.getTime() < cutoff) return false;
     seen.add(it.key);
     return true;
