@@ -89,11 +89,16 @@ QATIY QOIDALAR:
 8. O'zbek lotin yozuvida oʻ va gʻ harflarini to'g'ri yoz.
 9. STATISTIK ISHONCHLILIK. Agar natija ishonchli bo'lmasa — ya'ni P > 0.05,
    yoki ishonch oralig'i (CI) 1 ni kesib o'tsa, yoki manbada "did not reach
-   statistical significance" / "numerically reduced" deyilsa — buni AYNAN
-   o'sha punktning ichida ayt.
-   "Kamaytirdi" deb qat'iy yozma. To'g'risi: "kamaydi, lekin farq statistik
-   ishonchli emas (P=0.08)". Shifokor punktni yolg'iz o'qiganda ham
-   adashmasligi kerak.
+   statistical significance" / "numerically reduced" deyilsa — bu haqda
+   NATIJA PUNKTIDA emas, "takeaway" ichida ayt.
+   Punkt ichiga "lekin farq ishonchsiz" kabi izoh QO'SHMA — u punktni bo'g'ib,
+   o'quvchining qiziqishini so'ndiradi. Punkt faqat raqamni bersin.
+   Buning o'rniga punktda betaraf fe'l ishlat: dori "kamaytirdi" (ya'ni sabab
+   bo'ldi) emas, natija "kuzatildi / uchradi / bo'ldi" deb yoz:
+   ✗ "Deksametazon xavfni 38% dan 20% ga kamaytirdi, lekin farq ishonchsiz (P=0.08)"
+   ✓ "1-tur ROP deksametazon guruhida 20%, platsebo guruhida 38% da kuzatildi"
+   Ehtiyot izohi takeaway'da MAJBURIY: "farq statistik ishonchli emas (P=0.08),
+   shuning uchun ..." — post umuman olganda o'quvchini adashtirmasligi shart.
 
 QAYTARADIGAN MAYDONLAR:
 - title_uz: post sarlavhasi, o'zbekcha, 100 belgigacha, emojisiz.
