@@ -5,14 +5,15 @@ avval shuni o'qing.
 
 ## Ishni qanday davom ettirish
 
-Terminalda **albatta** shu papkadan boshlang:
+Claude Code suhbatlarni **ish papkasi bo'yicha** ajratadi, shuning uchun
+`/resume` ro'yxati qaysi papkadan boshlaganingizga bog'liq:
 
-```
-cd C:\Users\user
-claude
-```
+| Suhbat | Qaysi papkadan boshlash kerak |
+|---|---|
+| 3-8 avgust (bot yozilgan kunlar) | `cd C:\Users\user` |
+| 11-avgust (taqiq filtri, GitHub'ga yuklash) | `cd "C:\Users\user\Desktop\Fathulla Don't Touch"` |
 
-Boshqa papkadan boshlansa, eski suhbatlar `/resume` ro'yxatida ko'rinmaydi.
+Eski suhbat topilmasa — yo'qolgan emas, shunchaki boshqa papkaga tegishli.
 
 ---
 
@@ -33,16 +34,27 @@ RSS (5 manba) → pediatriya filtri → Gemini tarjima → rasm → caption
 | ADMIN_CHAT_ID | ✅ `8364248980` |
 | Gemini kaliti | ✅ ishlaydi, `.env` faylida |
 | Lokal sinov | ✅ `npm run preview` haqiqiy post yasaydi |
+| Bot tokeni | ✅ 11-avgustda BotFather orqali `/revoke` qilinib almashtirildi |
+| `.env` | ✅ 4 ta kalit ham joyida; lokal buyruqlar uni o'zi o'qiydi |
+| GitHub repo | ✅ https://github.com/boladocacademy-ui/boladoc-bot (Public) |
+| GitHub Secrets | ✅ 4 tasi qo'shilgan |
+| Workflow permissions | ✅ Read and write (bot `state/` ni commit qila oladi) |
+| GitHub Actions sinovi | ✅ 11-avgust: "1) Draft tayyorlash" qo'lda ishga tushirilib, 2 ta variant Telegramga yetib bordi |
 
 **Kanalga hali BIRORTA post chiqmagan.** `state/posted.json` bo'sh.
 
-## Nima tayyor emas
+11-avgust holatiga ko'ra `state/draft.json` da `status: pending` —
+2 ta variant admin tasdig'ini kutyapti (A: retinopatiya/deksametazon,
+B: sun'iy intellekt va salomatlik tengligi).
 
-| Ish | Izoh |
-|---|---|
-| GitHub'ga yuklash | Kod faqat shu kompyuterda (`git remote` bo'sh). GitHub'siz avtomatik jadval ishlamaydi |
-| GitHub Secrets | 4 ta secret qo'shilishi kerak — README 6-qadamga qarang |
-| Bot tokenini yangilash | Token suhbatda ochiq yozilgan edi. BotFather → `/revoke` → yangi tokenni `.env` va GitHub Secrets'ga qo'yish |
+## Keyingi qadam
+
+Telegramda variantlardan biri tasdiqlansa, post ertasi kuni 08:00 da
+kanalga chiqadi. Kutmasdan sinash uchun: GitHub → Actions →
+**2) Kanalga chiqarish** → Run workflow.
+
+Birinchi post chiqqach `state/posted.json` bo'sh bo'lmay qoladi — shundan
+keyin kundalik jadval o'z-o'zidan ishlaydi (21:00 draft, 08:00 post).
 
 ---
 
