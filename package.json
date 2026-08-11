@@ -5,15 +5,15 @@
   "type": "module",
   "description": "Boladoc Academy — AAP/CDC/JAMA pediatriya yangiliklarini o'zbek tilida Telegram kanalga avtomatik chiqaruvchi bot",
   "engines": {
-    "node": ">=20"
+    "node": ">=20.12"
   },
   "scripts": {
-    "draft": "node src/build-draft.js",
-    "publish": "node src/publish.js",
+    "draft": "node --env-file-if-exists=.env src/build-draft.js",
+    "publish": "node --env-file-if-exists=.env src/publish.js",
     "test": "node src/selftest.js",
-    "check": "node src/setup-check.js",
-    "preview": "node src/preview.js",
-    "test:feeds": "node src/build-draft.js --dry-run"
+    "check": "node --env-file-if-exists=.env src/setup-check.js",
+    "preview": "node --env-file-if-exists=.env src/preview.js",
+    "test:feeds": "node --env-file-if-exists=.env src/build-draft.js --dry-run"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",

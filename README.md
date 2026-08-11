@@ -53,15 +53,24 @@ Botni oching → **Start** bosing.
 3. Karta ma'lumoti so'ralmaydi.
 
 ### 5. ID larni aniqlash
-Shu papkada PowerShell'da:
+Kalitlarni `.env` fayliga yozing (bu fayl GitHub'ga hech qachon yuklanmaydi):
+
+```
+TELEGRAM_BOT_TOKEN=BotFather_bergan_token
+TELEGRAM_CHANNEL_ID=-1003114000709
+GEMINI_API_KEY=gemini_kaliti
+ADMIN_CHAT_ID=npm_run_check_bergan_raqam
+```
+
+Qo'shtirnoq qo'ymang, `=` atrofida bo'sh joy qoldirmang. Keyin:
 
 ```powershell
-$env:TELEGRAM_BOT_TOKEN = "bot_tokeningiz"
-$env:TELEGRAM_CHANNEL_ID = "@BoladocAcademy"
-$env:GEMINI_API_KEY = "gemini_kalitingiz"
 npm install
 npm run check
 ```
+
+Lokal buyruqlar `.env` ni o'zi o'qiydi — `$env:` bilan qo'lda o'rnatish shart emas.
+GitHub Actions'da `.env` bo'lmaydi, u yerda Secrets ishlatiladi.
 
 Chiqishda `ADMIN_CHAT_ID = 123456789` ko'rinadi — shuni saqlang.
 Skript bot admin ekanini, Gemini ishlashini va 5 ta RSS manbani ham tekshiradi.
@@ -115,7 +124,13 @@ npm run test:feeds   # faqat manbalar va tanlovni tekshiradi
 | `publishAtUtc` | `"03:00"` = 08:00 Toshkent. O'zgartirsangiz `.github/workflows/publish.yml` dagi cron'ni ham surib qo'ying |
 | `maxAgeDays` | shundan eski maqolalar tanlanmaydi |
 | `feeds` | manbalar; `weight` — ustuvorlik, `peds:true` — feed to'liq pediatrik |
-| `image.aiBackground` | `false` qilsangiz AI rasmsiz, faqat brendli gradient kartochka |
+| `image.aiBackground` | `false` qilsangiz AI rasmsiz, faqat brendli gradient kartochka (hozir `false`) |
+| `blockedExtra` | shu so'z/ibora uchragan maqola tanlovga umuman kirmaydi |
+
+Taqiqlangan mavzular ro'yxati — `src/relevance.js` dagi `BLOCKED_TOPICS`
+(`gender`, `zarar`, `aqsh`). Naqshlar substring bo'yicha solishtiriladi,
+shuning uchun yolg'iz `gender` yoki `gun` kabi so'zlar yozilmaydi — ular
+"gender differences" va "begun" ga bexosdan mos keladi. Ikki so'zli ibora yozing.
 
 Postning ohangi va tuzilishi — `src/gemini.js` ichidagi prompt.
 Caption formati — `src/caption.js`.
