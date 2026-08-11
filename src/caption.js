@@ -14,10 +14,19 @@ function assemble(content, item, brand, { bullets, hook, takeaway }) {
   const sourceLine = `📚 <b>Manba:</b> ${escapeHtml(item.sourceFull)}${dateText ? ` · ${escapeHtml(dateText)}` : ''}`;
   parts.push(`${sourceLine}\n🔗 <a href="${escapeHtml(item.link)}">Original maqolani o‘qish</a>`);
 
-  const tags = content.hashtags.join(' ');
-  parts.push(`${escapeHtml(tags)}\n${escapeHtml(brand.handle)}`);
+  return `${parts.join('\n\n')}${buildFooter(brand)}`;
+}
 
-  return parts.join('\n\n');
+/**
+ * Tugash bloki har postda bir xil: bo'sh abzats, keyin telefon, kanal va
+ * Instagram — har biri alohida abzatsda.
+ */
+export function buildFooter(brand) {
+  const lines = [''];
+  if (brand.phone) lines.push(`📞 ${escapeHtml(brand.phone)}`);
+  if (brand.handle) lines.push(`😎 ${escapeHtml(brand.handle)}`);
+  if (brand.instagram) lines.push(`😎 <a href="${escapeHtml(brand.instagram)}">Instagram</a>`);
+  return lines.length > 1 ? `\n\n${lines.join('\n\n')}` : '';
 }
 
 /**

@@ -3,7 +3,7 @@
  * Kanalga HECH NARSA chiqmaydi.
  */
 import { loadConfig, log, todayId, formatDateUz, truncate } from './util.js';
-import { fetchAllFeeds, fetchAbstract } from './feeds.js';
+import { fetchAllFeeds, fetchAbstract, MIN_ABSTRACT } from './feeds.js';
 import { selectCandidates } from './relevance.js';
 import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
@@ -36,7 +36,9 @@ async function main() {
   const candidates = selectCandidates(items, {
     posted,
     maxAgeDays: config.maxAgeDays,
-    limit: config.draftCount,
+    // Zaxira bilan olamiz: abstrakti topilmagan maqola o'tkazib yuboriladi,
+    // shunda ham kerakli sondagi variant yig'ilsin.
+    limit: config.draftCount + 4,
     extraBlocked: config.blockedExtra ?? [],
     onBlocked: (it, category) => blocked.push(`  [${category}] ${it.title}`),
   });
@@ -86,13 +88,23 @@ async function main() {
   );
 
   const options = [];
+  const skipped = [];
 
-  for (let i = 0; i < candidates.length; i++) {
-    const item = candidates[i];
+  for (const item of candidates) {
+    if (options.length >= config.draftCount) break;
+    const i = options.length;
     const label = LABELS[i];
     try {
       log(`[${label}] abstrakt olinmoqda: ${item.link}`);
-      const abstract = await fetchAbstract(item.link);
+      const abstract = await fetchAbstract(item.link, item.title);
+
+      // Abstraktsiz post natijani ayta olmaydi — "tadqiqot o'tkazildi" dan
+      // nariga o'tmaydi. Bunday maqolani chiqargandan ko'ra keyingisiga o'tamiz.
+      if (abstract.length < MIN_ABSTRACT) {
+        log(`[${label}] abstrakt yetarli emas (${abstract.length} belgi) — o'tkazib yuborildi: ${item.title}`);
+        skipped.push(item.title);
+        continue;
+      }
 
       log(`[${label}] Gemini matn tayyorlamoqda`);
       const content = await generateContent(item, abstract, config.brand, geminiKey);
@@ -158,6 +170,9 @@ async function main() {
     options,
   });
 
+  if (skipped.length) {
+    log(`abstrakti topilmagani uchun o'tkazib yuborilgan ${skipped.length} ta maqola:\n  ${skipped.join('\n  ')}`);
+  }
   if (!options.length) throw new Error('Hech qaysi variant tayyorlanmadi');
   log(`draft saqlandi: ${options.length} ta variant`);
 }

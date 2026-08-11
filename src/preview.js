@@ -7,7 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { loadConfig, log, formatDateUz, todayId, ROOT } from './util.js';
-import { fetchAllFeeds, fetchAbstract } from './feeds.js';
+import { fetchAllFeeds, fetchAbstract, MIN_ABSTRACT } from './feeds.js';
 import { selectCandidates } from './relevance.js';
 import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
@@ -40,7 +40,7 @@ async function main() {
   const candidates = selectCandidates(items, {
     posted,
     maxAgeDays: config.maxAgeDays,
-    limit: config.draftCount,
+    limit: config.draftCount + 4,
     extraBlocked: config.blockedExtra ?? [],
     onBlocked: (it, category) => log(`taqiq [${category}]: ${it.title}`),
   });
@@ -50,12 +50,20 @@ async function main() {
     return;
   }
 
-  for (const [i, item] of candidates.entries()) {
-    console.log(`\n─── VARIANT ${'ABC'[i]} ─── [${item.source}] ${item.title}\n${item.link}`);
+  let made = 0;
+  for (const item of candidates) {
+    if (made >= config.draftCount) break;
+    console.log(`\n─── VARIANT ${'ABC'[made]} ─── [${item.source}] ${item.title}\n${item.link}`);
 
     let content = SAMPLE;
     if (process.env.GEMINI_API_KEY) {
-      const abstract = await fetchAbstract(item.link);
+      const abstract = await fetchAbstract(item.link, item.title);
+      // build-draft.js dagi bilan bir xil chegara — preview haqiqiy botdan
+      // farq qilmasin, aks holda bu yerda chiqadigan post kanalga chiqmaydi.
+      if (abstract.length < MIN_ABSTRACT) {
+        log(`abstrakt yetarli emas (${abstract.length} belgi) — bot bu maqolani o‘tkazib yuborardi`);
+        continue;
+      }
       content = await generateContent(item, abstract, config.brand, process.env.GEMINI_API_KEY);
     } else {
       log('GEMINI_API_KEY yo‘q — namuna matn ishlatilmoqda');
@@ -69,11 +77,12 @@ async function main() {
       item,
       dateText: formatDateUz(item.pubDate),
       imageConfig: config.image,
-      seed: 1000 + i,
+      seed: 1000 + made,
     });
-    const file = path.join(outDir, `preview-${todayId()}-${'ABC'[i]}.png`);
+    const file = path.join(outDir, `preview-${todayId()}-${'ABC'[made]}.png`);
     fs.writeFileSync(file, png);
     console.log(`rasm: ${file} (${Math.round(png.length / 1024)} KB)`);
+    made++;
   }
 }
 

@@ -82,11 +82,83 @@ export async function fetchAllFeeds(feeds) {
   return results.flat();
 }
 
+const EPMC_SEARCH = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search';
+
+/**
+ * Shundan qisqa abstraktda natija bo'lmaydi — u RSS'ning bir jumlalik
+ * "bu tadqiqot X ni baholaydi" tavsifi xolos. Bunday matndan yozilgan post
+ * "tadqiqot o'tkazildi" dan nariga o'tmaydi.
+ */
+export const MIN_ABSTRACT = 400;
+
+/**
+ * Strukturali abstraktda bo'limlar qo'shilib ketadi: "...treatment.ObjectiveTo evaluate..."
+ * Gemini uchun ularni ajratib beramiz — qaysi jumla NATIJA ekani aniq ko'rinsin.
+ * Uzunroq nomlar avval turadi, aks holda "Design" "Design, setting..." ni yeb qo'yadi.
+ */
+const ABSTRACT_SECTIONS = [
+  'Design, setting, and participants', 'Main outcomes and measures',
+  'Conclusions and relevance', 'Trial registration', 'Main outcome measures',
+  'Importance', 'Background', 'Objectives', 'Objective', 'Interventions',
+  'Intervention', 'Methods', 'Results', 'Conclusions', 'Conclusion',
+];
+
+function tidyStructuredAbstract(text) {
+  let out = stripHtml(text);
+  for (const name of ABSTRACT_SECTIONS) {
+    out = out.replace(new RegExp(`${name}(?=[A-Z])`, 'g'), `\n\n${name}: `);
+  }
+  return out.replace(/\n{3,}/g, '\n\n').trim();
+}
+
+function normTitle(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * Sarlavha bo'yicha topilgan yozuv HAQIQATAN o'sha maqolami?
+ * Europe PMC ko'pincha to'liq sarlavhani beradi, RSS esa qisqartirilganini
+ * ("...: The DROPROP Randomized Clinical Trial" qismisiz) — shuning uchun
+ * biri ikkinchisining boshlanishi bo'lsa ham yetarli deb hisoblaymiz.
+ */
+function sameArticle(rssTitle, foundTitle) {
+  const a = normTitle(rssTitle);
+  const b = normTitle(foundTitle);
+  if (!a || !b || a.length < 25 || b.length < 25) return false;
+  return a === b || b.startsWith(a) || a.startsWith(b);
+}
+
+/**
+ * Europe PMC — bepul, kalit talab qilmaydi, JAMA/AAP/MMWR maqolalarining
+ * to'liq strukturali abstraktini beradi. Nashriyot saytlari botni bloklagani
+ * uchun (JAMA → HTTP 403) asosiy manba shu.
+ */
+export async function fetchAbstractFromEuropePmc(title) {
+  try {
+    const q = encodeURIComponent(`TITLE:"${title.replace(/"/g, '')}"`);
+    const res = await fetchWithRetry(
+      `${EPMC_SEARCH}?query=${q}&resultType=core&format=json&pageSize=3`,
+      { timeoutMs: 25_000, accept: 'application/json' },
+      2,
+    );
+    const data = await res.json();
+    for (const hit of data?.resultList?.result ?? []) {
+      if (!hit.abstractText) continue;
+      if (!sameArticle(title, hit.title)) continue;
+      return tidyStructuredAbstract(hit.abstractText).slice(0, 4000);
+    }
+    return '';
+  } catch (err) {
+    log(`Europe PMC xatosi: ${err.message}`);
+    return '';
+  }
+}
+
 /**
  * Maqola sahifasidan abstraktni olishga urinadi — Gemini'ga kontekst boyroq bo'lishi uchun.
  * Muvaffaqiyatsiz bo'lsa RSS description ishlatiladi, xato tashlanmaydi.
  */
-export async function fetchAbstract(url) {
+export async function fetchAbstractFromPage(url) {
   try {
     const res = await fetchWithRetry(url, { timeoutMs: 30_000, accept: 'text/html' }, 2);
     const html = await res.text();
@@ -109,4 +181,23 @@ export async function fetchAbstract(url) {
   } catch {
     return '';
   }
+}
+
+/**
+ * Abstraktni ikki manbadan qidiradi. Europe PMC birinchi: u NATIJA va XULOSA
+ * bo'limlari bilan to'liq matn beradi, nashriyot sahifasidagi og:description
+ * esa ko'pincha bir jumlalik "bu tadqiqot X ni baholaydi" bo'ladi — undan
+ * natijali post yozib bo'lmaydi.
+ */
+export async function fetchAbstract(url, title) {
+  if (title) {
+    const epmc = await fetchAbstractFromEuropePmc(title);
+    if (epmc && epmc.length >= 300) {
+      log(`abstrakt: Europe PMC (${epmc.length} belgi)`);
+      return epmc;
+    }
+  }
+  const page = await fetchAbstractFromPage(url);
+  if (page) log(`abstrakt: nashriyot sahifasi (${page.length} belgi)`);
+  return page;
 }

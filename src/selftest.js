@@ -12,7 +12,12 @@ function check(name, cond) {
   if (!cond) failed++;
 }
 
-const brand = { name: 'Boladoc Academy', handle: '@boladocacademy' };
+const brand = {
+  name: 'Boladoc Academy',
+  handle: '@Boladoc_uz',
+  phone: '+998908161498',
+  instagram: 'https://www.instagram.com/boladoc_uz',
+};
 const item = {
   sourceFull: 'JAMA Pediatrics — Online First',
   link: 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2852527',
@@ -44,6 +49,35 @@ console.log('\n1) Caption chegarasi');
     brand,
   );
   check('qisqa matnda 3 bullet ham qoldi', short.includes('🔹 bir') && short.includes('⏱ uch'));
+}
+
+console.log('\n1b) Tugash bloki va hashtaglar');
+{
+  const content = {
+    title_uz: 'Sarlavha',
+    hook: 'Hook',
+    bullets: ['🔹 bir', '📊 ikki', '⏱ uch'],
+    takeaway: 'xulosa',
+    hashtags: ['#pediatriya', '#JAMA'],
+  };
+  const cap = buildCaption(content, item, brand);
+
+  check('hashtaglar chiqmaydi', !cap.includes('#pediatriya') && !cap.includes('#JAMA'));
+  check('telefon chiqadi', cap.includes('📞 +998908161498'));
+  check('kanal handle chiqadi', cap.includes('😎 @Boladoc_uz'));
+  check('Instagram havola bilan chiqadi',
+    cap.includes('<a href="https://www.instagram.com/boladoc_uz">Instagram</a>'));
+
+  const tail = cap.slice(cap.indexOf('🔗'));
+  check('link va telefon orasida bo‘sh abzats bor', /<\/a>\n\n\n\n📞/.test(tail));
+  check('tugash qatorlari alohida abzatsda',
+    /📞 [^\n]+\n\n😎 @Boladoc_uz\n\n😎 <a /.test(cap));
+  check('tugash bloki eng oxirida', cap.trimEnd().endsWith('>Instagram</a>'));
+
+  const noExtras = buildCaption(content, item, { name: 'X', handle: '@x' });
+  check('phone/instagram bo‘lmasa o‘sha qatorlar chiqmaydi',
+    !noExtras.includes('📞') && !noExtras.includes('Instagram'));
+  check('handle esa baribir chiqadi', noExtras.includes('😎 @x'));
 }
 
 console.log('\n2) HTML xavfsizligi');
