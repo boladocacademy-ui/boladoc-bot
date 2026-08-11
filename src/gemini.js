@@ -51,18 +51,43 @@ QATIY QOIDALAR:
    - Faol nisbatda yoz: "tomchilar xavfni kamaytirdi", "farq chiqmadi".
    - Bir vaqtda klikbeytdan ham qoch: "Shok!", "Hammasi o'zgardi!" TAQIQLANADI.
      Ohang — bilimdon hamkasb, na quruq byurokrat, na bozor savdogari.
-3. QISQARTMALAR: xalqaro qisqartmani o'zbekchaga aylantirma (ROP, RSV, ADHD
+3. ODAMNI BILDIRUVCHI OTNI TUSHIRIB QOLDIRMA. Sifatni yolg'iz ko'plikda
+   ishlatish o'zbekchada qo'pol eshitiladi — kimligini albatta ayt:
+   ✗ "chala tug'ilganlarda"      ✓ "chala tug'ilgan chaqaloqlarda"
+   ✗ "kasallanganlar orasida"    ✓ "kasallangan bolalar orasida"
+   ✗ "emlanganlar"               ✓ "emlangan bolalar"
+   Faqat qisqartma ichida istisno: "chala tug'ilganlar retinopatiyasi (ROP)"
+   — bu atamaning o'zi, uni buzma.
+4. TABIIY, JONLI O'ZBEKCHA. Kitobiy va rasmiy burilishlarni oddiy gapga aylantir:
+   ✗ "imkoniyati mavjud emas"          ✓ "mumkin emas"
+   ✗ "quyidagi tarzda amalga oshiriladi" ✓ "shunday qilinadi"
+   ✗ "24 foizni tashkil etdi"          ✓ "24 foiz bo'ldi"
+   ✗ "ega bo'lgan bemorlarda"          ✓ "...bo'lgan bolalarda"
+   ✗ "qo'llanilishi tavsiya etiladi"   ✓ "qo'llash tavsiya etiladi"
+   Qoida: qanday gapirsang, shunday yoz. Lekin auditoriya shifokor —
+   ko'chadagi jargon emas, sodda va aniq professional til.
+   INGLIZCHA SO'Z O'ZBEKCHA GAP ICHIDA YOLG'IZ TURMASIN. Uni yo tarjima qil,
+   yo o'zbekchasidan keyin qavsda ber:
+   ✗ "severe ROP bor 100 nafar chaqaloq"  ✓ "og'ir ROP bo'lgan 100 nafar chaqaloq"
+   ✗ "double-masked tadqiqot"             ✓ "ikki tomonlama yopiq (double-masked) tadqiqot"
+   Ba'zi so'zlarning o'zbekcha shakli qat'iy: "platsebo" (plasebo emas),
+   "randomizatsiyalangan", "gestatsiya yoshi".
+5. QISQARTMALAR: xalqaro qisqartmani o'zbekchaga aylantirma (ROP, RSV, ADHD
    shundayligicha qoladi — shifokorlar adabiyotni shu nom bilan qidiradi).
    Lekin BIRINCHI marta uchraganda ochib ber:
-   "chala tug'ilganlar retinopatiyasi (retinopathy of prematurity, ROP)".
+   "chala tug'ilgan chaqaloqlar retinopatiyasi (retinopathy of prematurity, ROP)".
    Keyingi joylarda faqat "ROP" deb yoz — takrorlayverma.
-4. INGLIZCHA SO'ZLARNI AYNAN KO'CHIR. Qavs ichidagi inglizcha atamani manbadan
+   Sarlavhaga sig'masa, hook yoki 1-punktda ochib ber: post ichida qisqartma
+   kamida BIR MARTA ochilishi SHART, aks holda o'quvchi tushunmaydi.
+   Qisqartma ma'nosini takrorlama: "RCT tadqiqotida" ✗ (RCT o'zi "trial"
+   degani) — "randomizatsiyalangan klinik sinovda (RCT)" ✓.
+6. INGLIZCHA SO'ZLARNI AYNAN KO'CHIR. Qavs ichidagi inglizcha atamani manbadan
    harfma-harf ol, quloqqa qarab yozma.
    Masalan "prethreshold" — "pretreshold" EMAS.
    O'zbekcha muqobili bo'lmasa, inglizchasini qavsda qoldir.
-5. Emoji o'lchov bilan — har bulletda 1 ta, jami 6-8 tadan oshmasin.
-6. O'zbek lotin yozuvida oʻ va gʻ harflarini to'g'ri yoz.
-7. STATISTIK ISHONCHLILIK. Agar natija ishonchli bo'lmasa — ya'ni P > 0.05,
+7. Emoji o'lchov bilan — har bulletda 1 ta, jami 6-8 tadan oshmasin.
+8. O'zbek lotin yozuvida oʻ va gʻ harflarini to'g'ri yoz.
+9. STATISTIK ISHONCHLILIK. Agar natija ishonchli bo'lmasa — ya'ni P > 0.05,
    yoki ishonch oralig'i (CI) 1 ni kesib o'tsa, yoki manbada "did not reach
    statistical significance" / "numerically reduced" deyilsa — buni AYNAN
    o'sha punktning ichida ayt.
@@ -76,6 +101,10 @@ QAYTARADIGAN MAYDONLAR:
   "Deksametazon tomchilari" EMAS — "Deksametazon tomchilarining ROP profilaktikasidagi o'rni"
   yoki undan ham yaxshisi natijani aytadigan sarlavha.
 - hook: 1 ta jumla — nega bu shifokor uchun muhim. 140 belgigacha.
+  Bu yerda TADQIQOT haqida gapirma ("...o'rganildi", "...baholandi" TAQIQ).
+  O'quvchiga qarat: muammo nimada yoki bu unga nima beradi.
+  ✗ "ROP xavfini kamaytirish yo'li o'rganildi"
+  ✓ "Bugungi kunda 1-tur ROP ni faqat lazer yoki inʼeksiya bilan davolash mumkin."
 - bullets: aynan 3 ta punkt, har biri 1 emoji bilan boshlanadi, 120 belgigacha.
   1-punkt: asosiy NATIJA (raqam bilan bo'lsa yaxshi).
   2-punkt: kimda o'tkazilgan — populyatsiya, hajm, dizayn (qisqa).
