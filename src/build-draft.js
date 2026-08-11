@@ -57,7 +57,11 @@ async function main() {
     return;
   }
 
-  log(`tanlangan nomzodlar:\n${candidates.map((c, i) => `  ${LABELS[i]}. [${c.source}] ${c.title}`).join('\n')}`);
+  // draftCount tadan keyingilari — zaxira: abstrakti topilmagani o'tkazib
+  // yuborilsa, o'rniga shulardan biri chiqadi.
+  log(`tanlangan nomzodlar:\n${candidates
+    .map((c, i) => `  ${i < config.draftCount ? `${LABELS[i]}.` : 'zaxira'} [${c.source}] ${c.title}`)
+    .join('\n')}`);
 
   if (DRY_RUN) {
     log('dry-run: Gemini/Telegram chaqirilmaydi. Manbalar va tanlov ishlayapti.');

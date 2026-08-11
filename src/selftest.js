@@ -4,6 +4,7 @@
  */
 import { readDecision } from './publish.js';
 import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
+import { normalizeUrl } from './util.js';
 import { isJunk, isPediatric, blockedCategory, selectCandidates } from './relevance.js';
 
 let failed = 0;
@@ -78,6 +79,22 @@ console.log('\n1b) Tugash bloki va hashtaglar');
   check('phone/instagram bo‘lmasa o‘sha qatorlar chiqmaydi',
     !noExtras.includes('📞') && !noExtras.includes('Instagram'));
   check('handle esa baribir chiqadi', noExtras.includes('😎 @x'));
+}
+
+console.log('\n1c) Havolani normallashtirish');
+{
+  const cdc = normalizeUrl('https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&amp;c=766070');
+  check('RSS dagi &amp; ochiladi', cdc === 'https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766070');
+
+  const cap = buildCaption(
+    { title_uz: 'T', hook: '', bullets: [], takeaway: 'x', hashtags: [] },
+    { ...item, link: cdc },
+    brand,
+  );
+  check('caption ichida &amp;amp; qolmaydi', !cap.includes('&amp;amp;'));
+  check('caption ichida bir marta kodlanadi', cap.includes('m=342778&amp;c=766070'));
+  check('oddiy havola o‘zgarmaydi',
+    normalizeUrl('https://jamanetwork.com/a/b?x=1') === 'https://jamanetwork.com/a/b?x=1');
 }
 
 console.log('\n2) HTML xavfsizligi');

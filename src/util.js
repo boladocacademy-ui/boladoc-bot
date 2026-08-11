@@ -119,8 +119,24 @@ export function truncate(s = '', max = 200) {
 }
 
 /** RSS linklarida bo'sh joy uchraydi (AAP), Telegram uni link deb qabul qilmaydi. */
+/**
+ * RSS'da havola HTML entity bilan keladi: "...?m=342778&amp;c=766070".
+ * Parser processEntities:false bilan ishlagani uchun ular ochilmaydi, keyin
+ * caption yasashda escapeHtml ustiga yana bir marta kodlaydi va havola
+ * "&amp;amp;" bo'lib buziladi. Shuning uchun entity'larni shu yerda ochamiz.
+ */
 export function normalizeUrl(u = '') {
-  return String(u).trim().replace(/\s/g, '%20');
+  return String(u)
+    .trim()
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    // &amp; oxirida: aks holda "&amp;amp;" dan bittasi qolib ketadi.
+    .replace(/&amp;/g, '&')
+    .replace(/\s/g, '%20');
 }
 
 export function dedupeKey(item) {
