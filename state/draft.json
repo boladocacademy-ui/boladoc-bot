@@ -1,7 +1,7 @@
 {
   "draftId": "2026-08-12",
   "createdAt": "2026-08-11T19:47:08.293Z",
-  "status": "pending",
+  "status": "no-approval",
   "options": [
     {
       "index": 0,
@@ -31,5 +31,6 @@
       "fileId": "AgACAgIAAxkDAAMNant8PJvYFevSiQp4uyh9PUu7LUoAAhMWaxvK8OBLkd8E6DNNKAIBAAMCAAN5AAM9BA",
       "adminMessageId": 13
     }
-  ]
+  ],
+  "handledAt": "2026-08-12T07:00:17.751Z"
 }
