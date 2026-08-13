@@ -2,7 +2,7 @@
  * Tarmoqsiz mantiqiy testlar: node src/selftest.js
  * Caption chegarasi, tasdiq o'qish, filtrlar va matn o'rash tekshiriladi.
  */
-import { readDecision } from './publish.js';
+import { parseUpdate, enqueue } from './approvals.js';
 import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
 import { normalizeUrl } from './util.js';
 import { isJunk, isPediatric, blockedCategory, selectCandidates } from './relevance.js';
@@ -116,44 +116,49 @@ console.log('\n2) HTML xavfsizligi');
 
 console.log('\n3) Tasdiqni o‘qish');
 {
-  const draft = {
-    draftId: '2026-08-08',
-    createdAt: '2026-08-08T16:00:00.000Z',
-    options: [{ index: 0, label: 'A' }, { index: 1, label: 'B' }],
-  };
   const cb = (data, id = 1) => ({ update_id: id, callback_query: { id: 'q', data } });
-  const txt = (text, id = 1, when = '2026-08-08T17:00:00Z') => ({
-    update_id: id,
-    message: { text, date: Math.floor(new Date(when).getTime() / 1000), chat: { id: 555 } },
+  const txt = (text) => ({
+    update_id: 1,
+    message: { text, date: 1_786_000_000, chat: { id: 555 } },
   });
+  const p = (u) => parseUpdate(u, 555, '2026-08-08');
 
   check('tugma: B tasdiqlandi',
-    readDecision([cb('ok:2026-08-08:1')], draft, 555).decision?.index === 1);
-  check('tugma: bekor',
-    readDecision([cb('no:2026-08-08')], draft, 555).decision?.type === 'no');
-  check('boshqa kunning tugmasi hisobga olinmaydi',
-    readDecision([cb('ok:2026-08-07:0')], draft, 555).decision === null);
-  check('eskirgan tugma stale ro‘yxatiga tushadi',
-    readDecision([cb('ok:2026-08-07:0')], draft, 555).stale.length === 1);
-  check('eskirgan tugma callbackId bilan qaytadi',
-    readDecision([cb('ok:2026-08-07:0')], draft, 555).stale[0].callbackId === 'q');
-  check('to‘g‘ri tugma stale ga tushmaydi',
-    readDecision([cb('ok:2026-08-08:1')], draft, 555).stale.length === 0);
-  check('matn: "B" → 2-variant',
-    readDecision([txt('B')], draft, 555).decision?.index === 1);
-  check("matn: \"yo'q\" → bekor",
-    readDecision([txt('yo‘q')], draft, 555).decision?.type === 'no');
-  check('draftdan oldingi xabar hisobga olinmaydi',
-    readDecision([txt('A', 1, '2026-08-08T10:00:00Z')], draft, 555).decision === null);
+    p(cb('ok:2026-08-08:1'))?.index === 1 && p(cb('ok:2026-08-08:1'))?.type === 'ok');
+  check('tugma: o‘tkazib yuborish', p(cb('no:2026-08-08'))?.type === 'no');
+  check('ESKI kundagi tugma ham qabul qilinadi',
+    p(cb('ok:2026-07-31:0'))?.draftId === '2026-07-31');
+  check('eski tugmaning indeksi saqlanadi', p(cb('ok:2026-07-31:1'))?.index === 1);
+  check('callbackId qaytadi', p(cb('ok:2026-08-08:0'))?.callbackId === 'q');
+  check('matn: "B" → 2-variant', p(txt('B'))?.index === 1);
+  check('matn eng oxirgi draftga tegishli', p(txt('B'))?.draftId === '2026-08-08');
+  check("matn: \"yo'q\" → o‘tkazib yuborish", p(txt('yo‘q'))?.type === 'no');
   check('begona chatdan kelgan matn hisobga olinmaydi',
-    readDecision(
-      [{ update_id: 1, message: { text: 'A', date: 1_786_000_000, chat: { id: 999 } } }],
-      draft, 555,
-    ).decision === null);
-  check('oxirgi qaror ustun',
-    readDecision([cb('ok:2026-08-08:0', 1), cb('ok:2026-08-08:1', 2)], draft, 555).decision?.index === 1);
-  check('lastUpdateId qaytadi',
-    readDecision([cb('ok:2026-08-08:0', 7)], draft, 555).lastUpdateId === 7);
+    parseUpdate({ update_id: 1, message: { text: 'A', date: 1, chat: { id: 999 } } }, 555, '2026-08-08')
+      === null);
+  check('tanish bo‘lmagan matn e’tiborsiz qoladi', p(txt('salom')) === null);
+}
+
+console.log('\n3b) Navbat');
+{
+  const opt = (key) => ({ key, label: 'A', title: `T-${key}`, fileId: 'f', caption: 'c' });
+  const q = { items: [], skipNext: false };
+  const posted = new Set(['eski']);
+
+  check('birinchi tasdiq navbatga tushadi', enqueue(q, opt('a1'), posted).ok === true);
+  check('ikkinchi tasdiq ham tushadi (A ham, B ham)', enqueue(q, opt('b1'), posted).ok === true);
+  check('navbatda 2 ta post bor', q.items.length === 2);
+  check('tartib saqlanadi', q.items[0].key === 'a1' && q.items[1].key === 'b1');
+
+  const again = enqueue(q, opt('a1'), posted);
+  check('bir variant ikki marta navbatga tushmaydi', again.ok === false);
+  check('takror bosilganda o‘rni aytiladi', again.text.includes('1-o‘rin') || again.text.includes("1-o'rin"));
+  check('navbat uzunligi o‘zgarmadi', q.items.length === 2);
+
+  check('allaqachon chiqarilgani qaytarilmaydi', enqueue(q, opt('eski'), posted).ok === false);
+  check('arxivda topilmagan variant rad etiladi', enqueue(q, null, posted).ok === false);
+  check('navbatga qo‘shilganda o‘rin raqami aytiladi',
+    enqueue(q, opt('c1'), posted).text.includes('3'));
 }
 
 console.log('\n4) Filtrlar');

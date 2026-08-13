@@ -1,4 +1,4 @@
-# HOLAT — 11-avgust 2026
+# HOLAT — 13-avgust 2026
 
 Bu fayl ishni to'xtatgan joyni eslatib turadi. Yangi suhbat boshlaganda
 avval shuni o'qing.
@@ -27,7 +27,7 @@ RSS (5 manba) → pediatriya filtri → Gemini tarjima → rasm → caption
 
 | Qism | Holat |
 |---|---|
-| Kod | ✅ ishlaydi, 36 ta test o'tadi (`npm test`) |
+| Kod | ✅ ishlaydi, 61 ta test o'tadi (`npm test`) |
 | Telegram bot | ✅ @Boladocacademymanagerbot |
 | Kanal | ✅ @Boladoc_uz (ID `-1003114000709`, 1548 obunachi) |
 | Bot kanalda admin | ✅ `can_post_messages: true` |
@@ -43,18 +43,49 @@ RSS (5 manba) → pediatriya filtri → Gemini tarjima → rasm → caption
 
 **Kanalga hali BIRORTA post chiqmagan.** `state/posted.json` bo'sh.
 
-11-avgust holatiga ko'ra `state/draft.json` da `status: pending` —
-2 ta variant admin tasdig'ini kutyapti (A: retinopatiya/deksametazon,
-B: sun'iy intellekt va salomatlik tengligi).
+## 13-avgustda: NAVBAT tizimi
+
+**Muammo.** 12 va 13-avgustda post chiqmadi. Sabab kod xatosi emas edi:
+tugma ichida o'sha kungi `draftId` yozilgan, publish esa faqat o'sha
+kunning tugmasini qabul qilardi. Foydalanuvchi 11-avgustdagi eski
+xabardagi tugmani bosdi — bot uni jimgina tashlab yubordi, hech kimga
+xabar bermay.
+
+**Yechim — navbat (queue).** Endi tasdiq darhol chiqmaydi, `state/queue.json`
+ga tushadi. Har kuni 08:00 da navbat boshidagi **bitta** post chiqadi.
+
+| Nima o'zgardi | Qayerda |
+|---|---|
+| Istalgan kundagi tugma ishlaydi | `state/options.json` — yuborilgan 60 ta variant arxivi |
+| Bir kunda bir nechta variant tasdiqlash mumkin | `src/approvals.js` → `enqueue()` |
+| Bir maqola ikki marta chiqmaydi | `enqueue()` `posted` va navbatni tekshiradi |
+| Tugma bosilganda ekranda javob chiqadi | `answerCallback` — "✅ Navbatga qo'shildi — 2-o'rin" |
+| Bosilgan tugma yo'qolmaydi | `harvestApprovals()` draftda ham, publishda ham chaqiriladi |
+| Navbatdagi maqola qayta taklif qilinmaydi | `build-draft.js` — `taken = posted ∪ queue` |
+
+Arxiv 11–13 avgustdagi 6 ta variant bilan git tarixidan to'ldirilgan,
+shuning uchun Telegramdagi eski xabarlar ham ishlaydi.
+
+`state/queue.json` maydonlari: `items` (navbat), `skipNext` ("keyingi post
+chiqmasin" tugmasi), `handledOn` (bugun hal qilinganmi — jadval kechikib
+ikkinchi marta ishga tushsa, ikkita post ketib qolmasligi uchun).
+
+## Jadval kechikishi
+
+GitHub'ning bepul croni kechikadi. Kuzatilgani: draft `16:00 UTC` ga
+qo'yilgan, haqiqatda `19:47` da ishlagan (~3 soat 45 daqiqa).
+
+Qilingan chora:
+- cron daqiqalari soat boshidan olib tashlandi: draft `11 16`, publish `07 2`
+- publishga zaxira cron qo'shildi: `13 4` — birinchisi ishlagan bo'lsa,
+  ikkinchisi `handledOn` tufayli hech narsa qilmaydi
+- `MAX_WAIT_MS` 70 daqiqaga oshirildi (02:07 → 03:00 gacha kutish uchun)
 
 ## Keyingi qadam
 
-Telegramda variantlardan biri tasdiqlansa, post ertasi kuni 08:00 da
-kanalga chiqadi. Kutmasdan sinash uchun: GitHub → Actions →
-**2) Kanalga chiqarish** → Run workflow.
-
-Birinchi post chiqqach `state/posted.json` bo'sh bo'lmay qoladi — shundan
-keyin kundalik jadval o'z-o'zidan ishlaydi (21:00 draft, 08:00 post).
+Telegramda yoqqan variantlarni tugma bilan tasdiqlash — nechtasini
+xohlasangiz. Ular ketma-ket kunlarda chiqadi. Kutmasdan sinash uchun:
+GitHub → Actions → **2) Kanalga chiqarish** → Run workflow.
 
 ---
 

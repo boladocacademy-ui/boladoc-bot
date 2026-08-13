@@ -2,9 +2,11 @@ name: 2) Kanalga chiqarish (08:00 Toshkent)
 
 on:
   schedule:
-    # 02:50 UTC da boshlanadi, skript aniq 03:00 UTC = 08:00 Toshkent gacha kutadi.
-    # (GitHub croni bir necha daqiqa kechikishi mumkin — shuning uchun zaxira vaqt olingan.)
-    - cron: '50 2 * * *'
+    # 02:07 UTC da boshlanadi, skript aniq 03:00 UTC = 08:00 Toshkent gacha kutadi.
+    - cron: '07 2 * * *'
+    # Zaxira: GitHub jadvali soatlab kechikishi mumkin. Birinchisi ishlagan
+    # bo'lsa, bu ishga tushib ham hech narsa qilmaydi (queue.handledOn).
+    - cron: '13 4 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,7 +19,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 

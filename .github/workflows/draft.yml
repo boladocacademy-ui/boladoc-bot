@@ -2,8 +2,10 @@ name: 1) Draft tayyorlash (21:00 Toshkent)
 
 on:
   schedule:
-    # 16:00 UTC = 21:00 Asia/Tashkent (UTC+5, yozgi vaqt o'zgarishi yo'q)
-    - cron: '0 16 * * *'
+    # 16:11 UTC = 21:11 Asia/Tashkent (UTC+5, yozgi vaqt o'zgarishi yo'q).
+    # Aniq :00 emas: soatning boshi GitHub'da eng band daqiqa, jadval o'sha
+    # yerda eng ko'p kechikadi.
+    - cron: '11 16 * * *'
   workflow_dispatch:
 
 permissions:

@@ -85,25 +85,6 @@ export async function answerCallback(token, callbackQueryId, text, showAlert = f
   }
 }
 
-/**
- * Eski draftdagi tugmalarni o'chiradi. Aks holda admin kechagi xabardagi
- * tugmani bosadi, callback_data ichidagi draftId esa boshqa bo'ladi —
- * tasdiq jimgina e'tiborsiz qoladi.
- */
-export async function clearKeyboard(token, chatId, messageId) {
-  try {
-    await call(token, 'editMessageReplyMarkup', {
-      chat_id: chatId,
-      message_id: messageId,
-      reply_markup: { inline_keyboard: [] },
-    });
-    return true;
-  } catch {
-    // Xabar o'chirilgan yoki 48 soatdan oshgan bo'lishi mumkin — muhim emas.
-    return false;
-  }
-}
-
 export async function getMe(token) {
   return call(token, 'getMe', {});
 }

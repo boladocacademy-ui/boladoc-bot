@@ -1,13 +1,14 @@
 /**
- * 08:00 (Toshkent) — kechagi draftni tekshiradi va TASDIQLANGAN bo'lsagina kanalga chiqaradi.
- * Tasdiq bo'lmasa hech narsa chop etilmaydi.
+ * 08:00 (Toshkent) — navbatdagi bitta postni kanalga chiqaradi.
+ * Navbat bo'sh bo'lsa hech narsa chop etilmaydi.
  */
 import { pathToFileURL } from 'node:url';
-import { loadConfig, log, sleep, truncate } from './util.js';
-import { getUpdates, confirmUpdates, answerCallback, sendPhotoByFileId, sendMessage } from './telegram.js';
-import { loadDraft, markDraftHandled, addPosted } from './state.js';
+import { loadConfig, log, sleep, truncate, todayId } from './util.js';
+import { sendPhotoByFileId, sendMessage } from './telegram.js';
+import { loadDraft, loadQueue, saveQueue, addPosted, loadPosted } from './state.js';
+import { harvestApprovals } from './approvals.js';
 
-const MAX_WAIT_MS = 35 * 60 * 1000;
+const MAX_WAIT_MS = 70 * 60 * 1000;
 
 function env(name, required = true) {
   const v = process.env[name];
@@ -15,7 +16,7 @@ function env(name, required = true) {
   return v;
 }
 
-/** GitHub Actions croni bir necha daqiqa kechikadi — aniq 08:00 uchun kutamiz. */
+/** GitHub Actions croni kechikadi — aniq belgilangan daqiqagacha kutamiz. */
 async function waitUntilUtc(hhmm) {
   const [h, m] = hhmm.split(':').map(Number);
   const now = new Date();
@@ -39,106 +40,60 @@ async function waitUntilUtc(hhmm) {
   }
 }
 
-/**
- * Tugma bosilishi ham, oddiy javob matni ham qabul qilinadi:
- *   "A"/"1"/"ha"/"ok"  → 1-variant,  "B"/"2" → 2-variant,  "yo'q"/"no" → bekor.
- */
-export function readDecision(updates, draft, adminChatId) {
-  let decision = null;
-  let lastUpdateId;
-  const stale = [];
-
-  for (const u of updates) {
-    lastUpdateId = u.update_id;
-
-    const cq = u.callback_query;
-    if (cq?.data) {
-      const [action, id, idx] = cq.data.split(':');
-      if (id !== draft.draftId) {
-        // Eskirgan xabardagi tugma. Jimgina tashlab yuborilsa, admin
-        // "tasdiqladim-ku" deb o'ylab qoladi — shuning uchun eslab qolamiz.
-        stale.push({ callbackId: cq.id, draftId: id });
-        continue;
-      }
-      if (action === 'ok') decision = { type: 'ok', index: Number(idx), callbackId: cq.id };
-      if (action === 'no') decision = { type: 'no', callbackId: cq.id };
-      continue;
-    }
-
-    const msg = u.message;
-    if (msg?.text && String(msg.chat?.id) === String(adminChatId)) {
-      if (new Date(msg.date * 1000) < new Date(draft.createdAt)) continue;
-      const t = msg.text.trim().toLowerCase().replace(/[‘’']/g, "'");
-      if (['a', '1', 'ha', 'ok', 'okay', 'mayli', '+'].includes(t)) decision = { type: 'ok', index: 0 };
-      else if (['b', '2'].includes(t)) decision = { type: 'ok', index: 1 };
-      else if (['c', '3'].includes(t)) decision = { type: 'ok', index: 2 };
-      else if (["yo'q", 'yoq', 'no', 'bekor', '-'].includes(t)) decision = { type: 'no' };
-    }
-  }
-
-  return { decision, lastUpdateId, stale };
-}
-
 async function main() {
   const config = loadConfig();
   const token = env('TELEGRAM_BOT_TOKEN');
   const adminChat = env('ADMIN_CHAT_ID');
   const channel = env('TELEGRAM_CHANNEL_ID');
+  const today = todayId();
 
-  const draft = loadDraft();
-  if (!draft || !draft.options?.length) {
-    log('draft yo\'q — chiqariladigan post yo\'q');
-    return;
-  }
-  if (draft.status && draft.status !== 'pending') {
-    log(`draft holati "${draft.status}" — qayta chop etilmaydi`);
+  // Jadval kechikishiga qarshi publish kuniga ikki marta rejalashtirilgan.
+  // Birinchisi ishlagan bo'lsa, ikkinchisi hech narsa qilmaydi — aks holda
+  // navbatdan bir kunda ikkita post ketib qolardi.
+  if (loadQueue().handledOn === today) {
+    log(`bugungi chiqarish (${today}) allaqachon hal qilingan — takrorlanmaydi`);
     return;
   }
 
   await waitUntilUtc(config.publishAtUtc || '03:00');
 
-  const updates = await getUpdates(token);
-  const { decision, lastUpdateId, stale } = readDecision(updates, draft, adminChat);
+  // Oxirgi daqiqada bosilgan tugmalar ham hisobga olinsin.
+  await harvestApprovals(token, adminChat, loadDraft());
 
-  for (const s of stale) {
-    log(`eskirgan tugma bosilgan: draftId=${s.draftId}, joriy=${draft.draftId}`);
-    await answerCallback(
-      token,
-      s.callbackId,
-      'Bu eskirgan xabar. Eng oxirgi variantlardagi tugmani bosing.',
-      true,
-    );
-  }
+  const queue = loadQueue();
 
-  if (!decision) {
-    log(`tasdiq topilmadi — post chiqmaydi${stale.length ? ` (${stale.length} ta eskirgan tugma bosilgan)` : ''}`);
+  if (queue.skipNext) {
+    log('admin "post chiqmasin" degan — bugun o‘tkazib yuboriladi');
+    queue.skipNext = false;
+    queue.handledOn = today;
+    saveQueue(queue);
     await sendMessage(
       token,
       adminChat,
-      stale.length
-        ? '⏸ <b>Bugun post chiqmadi.</b>\nSabab: bosilgan tugma <b>eskirgan xabarga</b> tegishli edi. ' +
-            'Har kuni faqat <b>eng oxirgi</b> variantlardagi tugma ishlaydi.'
-        : '⏸ <b>Bugun post chiqmadi.</b>\nSabab: variantlardan biri tasdiqlanmadi.',
+      `🚫 <b>Bugun post chiqmadi</b> — siz o‘tkazib yuborishni so‘ragan edingiz.\n` +
+        `Navbatda ${queue.items.length} ta post turibdi.`,
     ).catch(() => {});
-    markDraftHandled('no-approval');
-    await confirmUpdates(token, lastUpdateId);
     return;
   }
 
-  if (decision.callbackId) {
-    await answerCallback(token, decision.callbackId, decision.type === 'ok' ? 'Qabul qilindi' : 'Bekor qilindi');
-  }
+  const { set: posted } = loadPosted();
+  // Navbat boshidagi, hali chiqarilmagan birinchi postni olamiz.
+  const idx = queue.items.findIndex((i) => !posted.has(i.key));
+  const option = idx === -1 ? null : queue.items[idx];
 
-  if (decision.type === 'no') {
-    log('admin bekor qildi');
-    await sendMessage(token, adminChat, '🚫 <b>Bekor qilindi.</b> Bugun kanalga post chiqmadi.').catch(() => {});
-    markDraftHandled('cancelled');
-    await confirmUpdates(token, lastUpdateId);
+  if (!option) {
+    log('navbat bo‘sh — post chiqmaydi');
+    queue.handledOn = today;
+    saveQueue(queue);
+    await sendMessage(
+      token,
+      adminChat,
+      '⏸ <b>Bugun post chiqmadi.</b>\nSabab: navbat bo‘sh — hech qaysi variant tasdiqlanmagan.',
+    ).catch(() => {});
     return;
   }
 
-  const option = draft.options.find((o) => o.index === decision.index) || draft.options[0];
-  log(`chop etilmoqda: variant ${option.label} — ${option.title}`);
+  log(`chop etilmoqda: ${option.draftId} / ${option.label} — ${option.title}`);
 
   try {
     const sent = await sendPhotoByFileId(token, channel, option.fileId, option.caption);
@@ -150,13 +105,20 @@ async function main() {
       source: option.source,
       messageId: sent.message_id,
     });
-    markDraftHandled('published');
-    log('kanalga chiqarildi');
+
+    const fresh = loadQueue();
+    fresh.items = fresh.items.filter((i) => i.key !== option.key);
+    fresh.handledOn = today;
+    saveQueue(fresh);
+    log(`kanalga chiqarildi — navbatda yana ${fresh.items.length} ta post`);
 
     await sendMessage(
       token,
       adminChat,
-      `✅ <b>Post kanalga chiqdi</b>\nVariant ${option.label} · ${option.source}\n${option.titleUz}`,
+      `✅ <b>Post kanalga chiqdi</b>\n${option.source} · ${option.titleUz}\n\n` +
+        (fresh.items.length
+          ? `📥 Navbatda yana <b>${fresh.items.length}</b> ta post bor — ertaga keyingisi chiqadi.`
+          : `📭 Navbat bo‘shadi.`),
     ).catch(() => {});
   } catch (err) {
     await sendMessage(
@@ -166,8 +128,6 @@ async function main() {
     ).catch(() => {});
     throw err;
   }
-
-  await confirmUpdates(token, lastUpdateId);
 }
 
 // Faqat to'g'ridan-to'g'ri ishga tushirilganda bajariladi (test uchun import qilinsa — yo'q).
