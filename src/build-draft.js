@@ -8,8 +8,8 @@ import { selectCandidates } from './relevance.js';
 import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
 import { buildCaption } from './caption.js';
-import { sendPhoto, sendMessage, getUpdates, confirmUpdates } from './telegram.js';
-import { loadPosted, saveDraft } from './state.js';
+import { sendPhoto, sendMessage, getUpdates, confirmUpdates, clearKeyboard } from './telegram.js';
+import { loadPosted, saveDraft, loadDraft } from './state.js';
 
 const DRY_RUN = process.argv.includes('--dry-run');
 
@@ -27,6 +27,7 @@ async function main() {
 
   log(`draft qurilmoqda — draftId=${draftId}, dry-run=${DRY_RUN}`);
 
+  const prevDraft = loadDraft();
   const items = await fetchAllFeeds(config.feeds);
   log(`jami ${items.length} ta yozuv olindi`);
   if (!items.length) throw new Error('Hech qaysi manbadan yozuv olinmadi');
@@ -72,6 +73,20 @@ async function main() {
   const adminChat = env('ADMIN_CHAT_ID');
   const geminiKey = env('GEMINI_API_KEY');
 
+  // Kechagi xabarlardagi tugmalarni o'chiramiz. Ular bosilsa ham ishlamaydi
+  // (callback_data ichidagi draftId eskirgan), lekin admin buni bilmaydi va
+  // tasdiqladim deb o'ylab qoladi — post esa chiqmaydi.
+  // Bir kunda ikki marta ishga tushirilsa ham tozalaymiz: draftId bir xil
+  // bo'lgani bilan indekslar (0=A, 1=B) boshqa maqolaga tegishli bo'lishi mumkin.
+  if (prevDraft?.options?.length) {
+    let cleared = 0;
+    for (const opt of prevDraft.options ?? []) {
+      if (!opt.adminMessageId) continue;
+      if (await clearKeyboard(token, adminChat, opt.adminMessageId)) cleared++;
+    }
+    if (cleared) log(`eski draft (${prevDraft.draftId}) dagi ${cleared} ta tugma o'chirildi`);
+  }
+
   // Eski javoblarni navbatdan tozalaymiz — aks holda kechagi tugma bugungi
   // tekshiruvda aralashib ketishi mumkin.
   try {
@@ -88,7 +103,9 @@ async function main() {
       `Sana: ${formatDateUz(new Date().toISOString())}\n\n` +
       `Quyidagilardan birini tugma orqali tasdiqlang. ` +
       `Tasdiqlangan post ertaga <b>08:00</b> da kanalga chiqadi.\n` +
-      `Hech narsa tanlanmasa — post chiqmaydi.`,
+      `Hech narsa tanlanmasa — post chiqmaydi.\n\n` +
+      `⚠️ Faqat shu xabardan <b>keyingi</b> variantlar amal qiladi; ` +
+      `eskilaridagi tugmalar o‘chirildi.`,
   );
 
   const options = [];

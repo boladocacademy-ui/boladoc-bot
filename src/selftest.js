@@ -133,6 +133,12 @@ console.log('\n3) Tasdiqni o‘qish');
     readDecision([cb('no:2026-08-08')], draft, 555).decision?.type === 'no');
   check('boshqa kunning tugmasi hisobga olinmaydi',
     readDecision([cb('ok:2026-08-07:0')], draft, 555).decision === null);
+  check('eskirgan tugma stale ro‘yxatiga tushadi',
+    readDecision([cb('ok:2026-08-07:0')], draft, 555).stale.length === 1);
+  check('eskirgan tugma callbackId bilan qaytadi',
+    readDecision([cb('ok:2026-08-07:0')], draft, 555).stale[0].callbackId === 'q');
+  check('to‘g‘ri tugma stale ga tushmaydi',
+    readDecision([cb('ok:2026-08-08:1')], draft, 555).stale.length === 0);
   check('matn: "B" → 2-variant',
     readDecision([txt('B')], draft, 555).decision?.index === 1);
   check("matn: \"yo'q\" → bekor",

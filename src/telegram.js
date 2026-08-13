@@ -73,11 +73,34 @@ export async function confirmUpdates(token, lastUpdateId) {
   }
 }
 
-export async function answerCallback(token, callbackQueryId, text) {
+export async function answerCallback(token, callbackQueryId, text, showAlert = false) {
   try {
-    await call(token, 'answerCallbackQuery', { callback_query_id: callbackQueryId, text });
+    await call(token, 'answerCallbackQuery', {
+      callback_query_id: callbackQueryId,
+      text,
+      show_alert: showAlert,
+    });
   } catch {
     // Tugma bosilganiga 24 soat bo'lganda Telegram xato beradi — bu kutilgan holat.
+  }
+}
+
+/**
+ * Eski draftdagi tugmalarni o'chiradi. Aks holda admin kechagi xabardagi
+ * tugmani bosadi, callback_data ichidagi draftId esa boshqa bo'ladi —
+ * tasdiq jimgina e'tiborsiz qoladi.
+ */
+export async function clearKeyboard(token, chatId, messageId) {
+  try {
+    await call(token, 'editMessageReplyMarkup', {
+      chat_id: chatId,
+      message_id: messageId,
+      reply_markup: { inline_keyboard: [] },
+    });
+    return true;
+  } catch {
+    // Xabar o'chirilgan yoki 48 soatdan oshgan bo'lishi mumkin — muhim emas.
+    return false;
   }
 }
 

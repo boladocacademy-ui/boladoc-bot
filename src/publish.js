@@ -46,6 +46,7 @@ async function waitUntilUtc(hhmm) {
 export function readDecision(updates, draft, adminChatId) {
   let decision = null;
   let lastUpdateId;
+  const stale = [];
 
   for (const u of updates) {
     lastUpdateId = u.update_id;
@@ -53,7 +54,12 @@ export function readDecision(updates, draft, adminChatId) {
     const cq = u.callback_query;
     if (cq?.data) {
       const [action, id, idx] = cq.data.split(':');
-      if (id !== draft.draftId) continue;
+      if (id !== draft.draftId) {
+        // Eskirgan xabardagi tugma. Jimgina tashlab yuborilsa, admin
+        // "tasdiqladim-ku" deb o'ylab qoladi — shuning uchun eslab qolamiz.
+        stale.push({ callbackId: cq.id, draftId: id });
+        continue;
+      }
       if (action === 'ok') decision = { type: 'ok', index: Number(idx), callbackId: cq.id };
       if (action === 'no') decision = { type: 'no', callbackId: cq.id };
       continue;
@@ -70,7 +76,7 @@ export function readDecision(updates, draft, adminChatId) {
     }
   }
 
-  return { decision, lastUpdateId };
+  return { decision, lastUpdateId, stale };
 }
 
 async function main() {
@@ -92,14 +98,27 @@ async function main() {
   await waitUntilUtc(config.publishAtUtc || '03:00');
 
   const updates = await getUpdates(token);
-  const { decision, lastUpdateId } = readDecision(updates, draft, adminChat);
+  const { decision, lastUpdateId, stale } = readDecision(updates, draft, adminChat);
+
+  for (const s of stale) {
+    log(`eskirgan tugma bosilgan: draftId=${s.draftId}, joriy=${draft.draftId}`);
+    await answerCallback(
+      token,
+      s.callbackId,
+      'Bu eskirgan xabar. Eng oxirgi variantlardagi tugmani bosing.',
+      true,
+    );
+  }
 
   if (!decision) {
-    log('tasdiq topilmadi — post chiqmaydi');
+    log(`tasdiq topilmadi — post chiqmaydi${stale.length ? ` (${stale.length} ta eskirgan tugma bosilgan)` : ''}`);
     await sendMessage(
       token,
       adminChat,
-      '⏸ <b>Bugun post chiqmadi.</b>\nSabab: variantlardan biri tasdiqlanmadi.',
+      stale.length
+        ? '⏸ <b>Bugun post chiqmadi.</b>\nSabab: bosilgan tugma <b>eskirgan xabarga</b> tegishli edi. ' +
+            'Har kuni faqat <b>eng oxirgi</b> variantlardagi tugma ishlaydi.'
+        : '⏸ <b>Bugun post chiqmadi.</b>\nSabab: variantlardan biri tasdiqlanmadi.',
     ).catch(() => {});
     markDraftHandled('no-approval');
     await confirmUpdates(token, lastUpdateId);
