@@ -62,6 +62,7 @@ ga tushadi. Har kuni 08:00 da navbat boshidagi **bitta** post chiqadi.
 | Tugma bosilganda ekranda javob chiqadi | `answerCallback` — "✅ Navbatga qo'shildi — 2-o'rin" |
 | Bosilgan tugma yo'qolmaydi | `harvestApprovals()` draftda ham, publishda ham chaqiriladi |
 | Navbatdagi maqola qayta taklif qilinmaydi | `build-draft.js` — `taken = posted ∪ queue` |
+| Tasdiq 15 daqiqada ishlanadi | `.github/workflows/check.yml` → `npm run approvals` |
 
 Arxiv 11–13 avgustdagi 6 ta variant bilan git tarixidan to'ldirilgan,
 shuning uchun Telegramdagi eski xabarlar ham ishlaydi.
@@ -156,6 +157,7 @@ tushirishda 6 ta nuqson chiqdi (batafsil: `git log`):
 ```powershell
 cd C:\Users\user\boladoc-bot
 npm test           # tarmoqsiz testlar
+npm run approvals  # bosilgan tugmalarni o'qib navbatga qo'shadi
 npm run preview    # haqiqiy post yasaydi, out/ ga PNG chiqaradi
 npm run check      # Telegram + Gemini + RSS ulanishini tekshiradi
 ```
