@@ -47,9 +47,14 @@ async function main() {
   const channel = env('TELEGRAM_CHANNEL_ID');
   const today = todayId();
 
-  // Jadval kechikishiga qarshi publish kuniga ikki marta rejalashtirilgan.
-  // Birinchisi ishlagan bo'lsa, ikkinchisi hech narsa qilmaydi — aks holda
-  // navbatdan bir kunda ikkita post ketib qolardi.
+  // Tasdiqlarni HAR DOIM o'qiymiz — hatto bugungi post allaqachon chiqqan
+  // bo'lsa ham. Aks holda erta qaytib ketsak, bosilgan tugma Telegram
+  // navbatida qolib, 24 soatdan keyin o'chib ketardi.
+  await harvestApprovals(token, adminChat, loadDraft());
+
+  // Jadval kechikishiga qarshi publish kuniga uch marta rejalashtirilgan.
+  // Birinchisi ishlagan bo'lsa, qolganlari hech narsa chiqarmaydi — aks
+  // holda navbatdan bir kunda bir nechta post ketib qolardi.
   if (loadQueue().handledOn === today) {
     log(`bugungi chiqarish (${today}) allaqachon hal qilingan — takrorlanmaydi`);
     return;
@@ -57,7 +62,7 @@ async function main() {
 
   await waitUntilUtc(config.publishAtUtc || '03:00');
 
-  // Oxirgi daqiqada bosilgan tugmalar ham hisobga olinsin.
+  // Kutish paytida bosilganlar ham hisobga olinsin.
   await harvestApprovals(token, adminChat, loadDraft());
 
   const queue = loadQueue();

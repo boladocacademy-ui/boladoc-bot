@@ -11,6 +11,7 @@
     "draft": "node --env-file-if-exists=.env src/build-draft.js",
     "publish": "node --env-file-if-exists=.env src/publish.js",
     "approvals": "node --env-file-if-exists=.env src/check-approvals.js",
+    "watch": "node --env-file-if-exists=.env src/watch.js",
     "test": "node src/selftest.js",
     "check": "node --env-file-if-exists=.env src/setup-check.js",
     "preview": "node --env-file-if-exists=.env src/preview.js",

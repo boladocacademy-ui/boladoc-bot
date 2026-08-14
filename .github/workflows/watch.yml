@@ -1,0 +1,43 @@
+name: 0) Uzluksiz kuzatuv (tugma bosilishini kutadi)
+
+# GitHub qisqa oraliqli cronlarni deyarli bajarmaydi: 13-14 avgustda
+# "har 15 daqiqada" cron 21 soatda ~84 ta o'rniga 5 marta ishga tushdi.
+# Shuning uchun cronga tayanmaymiz — bitta ish 55 daqiqa turadi va
+# Telegramni uzluksiz tinglaydi. Soatlik cron esa navbatdagisini boshlaydi;
+# u kechiksa ham eng yomoni bir necha daqiqalik uzilish bo'ladi.
+on:
+  schedule:
+    - cron: '9 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Draft/publish dan alohida guruh: uzoq turadigan kuzatuv ularni
+# kutib qoldirmasligi kerak. Telegramni bir vaqtda ikkitasi o'qisa,
+# Telegram 409 qaytaradi — watch.js buni ko'rib yo'l beradi.
+concurrency:
+  group: boladoc-watch
+  cancel-in-progress: true
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Tugmalarni uzluksiz kutish
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          WATCH_MINUTES: '55'
+          WATCH_PUSH: '1'
+        run: |
+          git config user.name "boladoc-bot"
+          git config user.email "bot@users.noreply.github.com"
+          npm run watch

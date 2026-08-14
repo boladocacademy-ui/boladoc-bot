@@ -11,7 +11,7 @@
  * chaqirilishi shart: u eski yangilanishlarni navbatdan tozalaydi, tozalashdan
  * oldin esa tasdiqlar yig'ib olinishi kerak — aks holda bosilgan tugma yo'qoladi.
  */
-import { getUpdates, confirmUpdates, answerCallback } from './telegram.js';
+import { getUpdates, confirmUpdates, answerCallback, sendMessage } from './telegram.js';
 import { loadQueue, saveQueue, loadPosted, findOption } from './state.js';
 import { log } from './util.js';
 
@@ -108,6 +108,18 @@ export async function harvestApprovals(token, adminChatId, latestDraft) {
     if (res.ok) added.push(res.option);
     else rejected.push(res.text);
     if (d.callbackId) await answerCallback(token, d.callbackId, res.text, !res.ok);
+
+    // Tugma bosilgan, lekin post navbatga tushmadi. answerCallback bir
+    // necha daqiqadan keyin Telegram tomonidan rad etiladi, ya'ni ekranda
+    // hech narsa chiqmasligi mumkin — shuning uchun oddiy xabar ham
+    // yuboramiz. Aks holda bosish izsiz yo'qoladi.
+    if (!res.ok) {
+      await sendMessage(
+        token,
+        adminChatId,
+        `⚠️ <b>Tugma bosildi, lekin post navbatga tushmadi.</b>\n${res.text}`,
+      ).catch(() => {});
+    }
   }
 
   saveQueue(queue);

@@ -62,7 +62,7 @@ ga tushadi. Har kuni 08:00 da navbat boshidagi **bitta** post chiqadi.
 | Tugma bosilganda ekranda javob chiqadi | `answerCallback` — "✅ Navbatga qo'shildi — 2-o'rin" |
 | Bosilgan tugma yo'qolmaydi | `harvestApprovals()` draftda ham, publishda ham chaqiriladi |
 | Navbatdagi maqola qayta taklif qilinmaydi | `build-draft.js` — `taken = posted ∪ queue` |
-| Tasdiq 15 daqiqada ishlanadi | `.github/workflows/check.yml` → `npm run approvals` |
+| Tasdiq soniyalarda ishlanadi | `.github/workflows/watch.yml` → `npm run watch` |
 
 Arxiv 11–13 avgustdagi 6 ta variant bilan git tarixidan to'ldirilgan,
 shuning uchun Telegramdagi eski xabarlar ham ishlaydi.
@@ -70,6 +70,50 @@ shuning uchun Telegramdagi eski xabarlar ham ishlaydi.
 `state/queue.json` maydonlari: `items` (navbat), `skipNext` ("keyingi post
 chiqmasin" tugmasi), `handledOn` (bugun hal qilinganmi — jadval kechikib
 ikkinchi marta ishga tushsa, ikkita post ketib qolmasligi uchun).
+
+## 14-avgust: GitHub croni ishonchsiz ekani o'lchandi
+
+**Birinchi post kanalga chiqdi** (14-avgust, qo'lda): nirsevimab / RSV,
+JAMA Pediatrics. `state/posted.json` endi bo'sh emas.
+
+Lekin 13-avgustda bosilgan tugmaga javob kelmagan. Sabab o'lchandi:
+
+| Cron | Kutilgan | Haqiqatda |
+|---|---|---|
+| `*/15` (tasdiq tekshiruvi) | 21 soatda ~84 marta | **5 marta** (94% tashlandi) |
+| `0 16` (draft) | 16:00 UTC | 19:47 UTC (3s 47d kech) |
+| `07 2` (publish) | 02:07 UTC | 06:57 UTC (4s 50d kech) |
+
+Xulosa: **GitHub'ning qisqa oraliqli cronlari deyarli bajarilmaydi.**
+Shuning uchun tugma bosilganda hech qanday javob kelmasdi.
+
+Telegram tomonidan yechim yo'qligi ham amalda sinaldi:
+```
+schedule_date                        -> e'tiborsiz qoladi, xabar DARHOL ketadi
+suggested_post_parameters.send_date  -> "only to channel direct messages"
+```
+Bot API kelajakka rejalashtira olmaydi (ilovadagi "scheduled" faqat odam
+akkaunti uchun).
+
+### Qilingan ish
+
+1. **`watch.yml` — uzluksiz kuzatuv.** `check.yml` o'chirildi. Endi bitta
+   ish 55 daqiqa turadi va Telegramni long polling bilan tinglaydi; tugma
+   bosilishi **soniyalarda** ishlanadi. Soatlik cron navbatdagisini
+   boshlaydi — u kechiksa ham eng yomoni bir necha daqiqalik uzilish.
+   Public repoda Actions daqiqalari cheksiz, ya'ni bepul.
+   Alohida concurrency guruhi (`boladoc-watch`) — draft/publish ni
+   kutib qoldirmaydi. Telegram 409 qaytarsa watch.js yo'l beradi.
+
+2. **Bosish endi izsiz yo'qolmaydi.** Ilgari tugma bosilib, post navbatga
+   tushmasa (masalan variant arxivda topilmasa), `confirmUpdates` uni
+   Telegram navbatidan o'chirib yuborardi va hech kim bilmay qolardi.
+   Endi har bunday holatda oddiy xabar yuboriladi — `answerCallback`
+   eskirgan bosish uchun ishlamasligi mumkin, xabar esa har doim yetadi.
+
+3. **publish tasdiqni har doim o'qiydi** — `handledOn` tekshiruvidan
+   OLDIN. Ilgari erta qaytib ketsa, bosilgan tugma navbatda qolib
+   24 soatdan keyin o'chib ketardi.
 
 ## Jadval kechikishi
 
