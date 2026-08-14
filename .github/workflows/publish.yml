@@ -4,9 +4,11 @@ on:
   schedule:
     # 02:07 UTC da boshlanadi, skript aniq 03:00 UTC = 08:00 Toshkent gacha kutadi.
     - cron: '07 2 * * *'
-    # Zaxira: GitHub jadvali soatlab kechikishi mumkin. Birinchisi ishlagan
-    # bo'lsa, bu ishga tushib ham hech narsa qilmaydi (queue.handledOn).
-    - cron: '13 4 * * *'
+    # Zaxira urinishlar: GitHub jadvali soatlab kechikishi mumkin. Qaysi biri
+    # birinchi ishga tushsa — o'sha chiqaradi, qolganlari queue.handledOn
+    # tufayli hech narsa qilmaydi. Ya'ni bir kunda baribir bitta post.
+    - cron: '13 3 * * *'
+    - cron: '17 4 * * *'
   workflow_dispatch:
 
 permissions:

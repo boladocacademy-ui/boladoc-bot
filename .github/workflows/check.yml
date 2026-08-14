@@ -1,8 +1,9 @@
-name: 0) Tasdiqlarni tekshirish (har 15 daqiqada)
+name: 0) Tasdiqlarni tekshirish (har 5 daqiqada)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # 5 daqiqa — GitHub Actions ruxsat beradigan eng qisqa oraliq.
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
