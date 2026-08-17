@@ -61,8 +61,27 @@
     }
   ],
 
-  "_comment_maxAgeDays": "Shu kundan eski maqolalar tanlanmaydi.",
-  "maxAgeDays": 45,
+  "_comment_maxAgeDays": "Shu kundan eski maqolalar tanlanmaydi. Bir yil = 365. Yangi maqola har doim ustun turadi (yangilik ustunligi 60 kunda tugaydi), eskilari faqat zaxira bo'lib qoladi.",
+  "maxAgeDays": 365,
+
+  "_comment_archive": "Europe PMC arxivi — RSS feedlari faqat oxirgi sonni beradi, bu esa bir yillik maqolalarni beradi va abstrakti bor maqolalarni kafolatlaydi (HAS_ABSTRACT). months=12 oy, pages=3 (har biri 100 ta maqola). O'chirish uchun enabled=false.",
+  "archive": {
+    "enabled": true,
+    "months": 12,
+    "pages": 3,
+    "journals": [
+      { "name": "Pediatrics", "source": "AAP", "sourceFull": "American Academy of Pediatrics — Pediatrics", "weight": 3 },
+      { "name": "JAMA pediatrics", "source": "JAMA Pediatrics", "sourceFull": "JAMA Pediatrics", "weight": 3 },
+      { "name": "The Lancet child & adolescent health", "source": "Lancet Child & Adolescent Health", "sourceFull": "The Lancet Child & Adolescent Health", "weight": 3 },
+      { "name": "Archives of disease in childhood", "source": "Arch Dis Child", "sourceFull": "Archives of Disease in Childhood — BMJ", "weight": 3 },
+      { "name": "MMWR. Morbidity and mortality weekly report", "source": "CDC MMWR", "sourceFull": "CDC — Morbidity and Mortality Weekly Report", "weight": 3 },
+      { "name": "The Journal of pediatrics", "source": "J Pediatrics", "sourceFull": "The Journal of Pediatrics", "weight": 2 },
+      { "name": "Hospital pediatrics", "source": "Hospital Pediatrics", "sourceFull": "Hospital Pediatrics — AAP", "weight": 2 },
+      { "name": "Academic pediatrics", "source": "Academic Pediatrics", "sourceFull": "Academic Pediatrics", "weight": 2 },
+      { "name": "European journal of pediatrics", "source": "Eur J Pediatrics", "sourceFull": "European Journal of Pediatrics", "weight": 2 },
+      { "name": "Acta paediatrica", "source": "Acta Paediatrica", "sourceFull": "Acta Paediatrica", "weight": 1 }
+    ]
+  },
 
   "_comment_blockedExtra": "Bu yerga qo'shilgan so'z/ibora sarlavha yoki tavsifda uchrasa, maqola tanlovga UMUMAN kirmaydi. Asosiy taqiq ro'yxati src/relevance.js dagi BLOCKED_TOPICS da. Kichik harfda yozing.",
   "blockedExtra": [],

@@ -101,6 +101,15 @@ export function offeredKeys() {
   return new Set((data.options || []).map((o) => o.key));
 }
 
+/**
+ * Bir maqola RSS'da va Europe PMC arxivida turli kalit bilan keladi, shuning
+ * uchun kalitdan tashqari sarlavha bo'yicha ham tekshirish kerak.
+ */
+export function offeredTitles() {
+  const data = readJson(OPTIONS_FILE, { options: [] });
+  return (data.options || []).map((o) => o.title).filter(Boolean);
+}
+
 /** Tugma bosilganda callback_data (draftId + index) shu arxivdan qidiriladi. */
 export function findOption(draftId, index) {
   const data = readJson(OPTIONS_FILE, { options: [] });

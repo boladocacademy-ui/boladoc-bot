@@ -6,6 +6,7 @@ import { parseUpdate, enqueue } from './approvals.js';
 import { buildCaption, visibleLength, CAPTION_LIMIT } from './caption.js';
 import { normalizeUrl } from './util.js';
 import { isJunk, isPediatric, blockedCategory, selectCandidates } from './relevance.js';
+import { buildQuery, toItem } from './archive.js';
 
 let failed = 0;
 function check(name, cond) {
@@ -263,6 +264,38 @@ console.log('\n6) Tanlov');
   );
   check('taqiqlangan maqola nomzodlarga kirmaydi', !withBlocked.some((p) => p.key === 'bad'));
   check('onBlocked chaqiriladi', seen.length === 1 && seen[0][0] === 'bad' && seen[0][1] === 'gender');
+}
+
+console.log('\n7) Arxiv (Europe PMC)');
+{
+  const journals = [{ name: 'JAMA pediatrics', source: 'JAMA Pediatrics', weight: 3 }];
+  const q = buildQuery(journals, 12);
+  check('so‘rovda abstrakt sharti bor', q.includes('HAS_ABSTRACT:Y'));
+  check('so‘rovda jurnal nomi bor', q.includes('JOURNAL:"JAMA pediatrics"'));
+  check('so‘rovda sana oynasi bor', /FIRST_PDATE:\[\d{4}-\d{2}-\d{2} TO \d{4}-\d{2}-\d{2}\]/.test(q));
+  check('muharrir maqolalari chiqarilgan', q.includes('NOT (PUB_TYPE:"Editorial"'));
+
+  const map = new Map(journals.map((j) => [j.name.toLowerCase(), j]));
+  const hit = {
+    title: 'Routine probiotics in infants &lt; 29 weeks: a cohort study.',
+    abstractText: 'x'.repeat(900),
+    doi: '10.1001/jamapediatrics.2026.1234',
+    pmid: '42599538',
+    firstPublicationDate: '2026-08-14',
+    journalInfo: { journal: { title: 'JAMA pediatrics' } },
+  };
+  const it = toItem(hit, map);
+  check('sarlavha oxiridagi nuqta olinadi', !it.title.endsWith('.'));
+  check('HTML entity ochiladi', it.title.includes('< 29 weeks'));
+  check('havola DOI orqali quriladi', it.link === 'https://doi.org/10.1001/jamapediatrics.2026.1234');
+  check('kalit pmid bo‘yicha', it.key === 'pmid:42599538');
+  check('jurnal og‘irligi olinadi', it.weight === 3 && it.source === 'JAMA Pediatrics');
+  check('abstrakt yozuvga ilashadi', it.abstract.length >= 900);
+  check('tavsif qisqartiriladi', it.description.length === 300);
+  check('sana o‘qiladi', it.publishedAt instanceof Date && !Number.isNaN(it.publishedAt.getTime()));
+
+  check('abstraktsiz yozuv olinmaydi', toItem({ ...hit, abstractText: '' }, map) === null);
+  check('havolasiz yozuv olinmaydi', toItem({ ...hit, doi: null, pmid: null }, map) === null);
 }
 
 console.log(`\n${failed === 0 ? '✅ Hammasi o‘tdi' : `❌ ${failed} ta test yiqildi`}\n`);

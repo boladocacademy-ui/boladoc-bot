@@ -103,7 +103,7 @@ const ABSTRACT_SECTIONS = [
   'Intervention', 'Methods', 'Results', 'Conclusions', 'Conclusion',
 ];
 
-function tidyStructuredAbstract(text) {
+export function tidyStructuredAbstract(text) {
   let out = stripHtml(text);
   for (const name of ABSTRACT_SECTIONS) {
     out = out.replace(new RegExp(`${name}(?=[A-Z])`, 'g'), `\n\n${name}: `);

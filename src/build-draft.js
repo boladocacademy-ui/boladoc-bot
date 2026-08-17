@@ -4,7 +4,8 @@
  */
 import { loadConfig, log, todayId, formatDateUz, truncate } from './util.js';
 import { fetchAllFeeds, fetchAbstract, MIN_ABSTRACT } from './feeds.js';
-import { selectCandidates } from './relevance.js';
+import { fetchArchive } from './archive.js';
+import { selectCandidates, titleKey } from './relevance.js';
 import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
 import { buildCaption } from './caption.js';
@@ -16,6 +17,7 @@ import {
   loadQueue,
   archiveOptions,
   offeredKeys,
+  offeredTitles,
 } from './state.js';
 import { harvestApprovals } from './approvals.js';
 
@@ -62,14 +64,25 @@ async function main() {
     }
   }
 
-  const items = await fetchAllFeeds(config.feeds);
-  log(`jami ${items.length} ta yozuv olindi`);
+  // Arxiv AVVAL turadi: bir maqola ikki manbada ham bo'lsa, arxivdagisi
+  // tanlanishi kerak — chunki uning abstrakti tayyor keladi.
+  const [archived, feedItems] = await Promise.all([
+    fetchArchive(config.archive),
+    fetchAllFeeds(config.feeds),
+  ]);
+  const items = [...archived, ...feedItems];
+  log(`jami ${items.length} ta yozuv olindi (arxiv ${archived.length} + feed ${feedItems.length})`);
   if (!items.length) throw new Error('Hech qaysi manbadan yozuv olinmadi');
 
-  const { set: posted } = loadPosted();
+  const { set: posted, entries: postedEntries } = loadPosted();
   const queue = loadQueue();
   // Navbatda turgan maqola qayta taklif qilinmasin.
   const taken = new Set([...posted, ...queue.items.map((i) => i.key)]);
+  const takenTitles = new Set(
+    [...postedEntries.map((e) => e.title), ...queue.items.map((i) => i.title)]
+      .filter(Boolean)
+      .map(titleKey),
+  );
   const blocked = [];
   // Zaxira KATTA bo'lishi kerak. O'lchandi (17-avgust): 20 ta nomzoddan faqat
   // 4 tasining abstrakti yetarli edi — jurnal feedlarining ko'p qismi xat,
@@ -82,8 +95,10 @@ async function main() {
     limit: pool,
     extraBlocked: config.blockedExtra ?? [],
     onBlocked: (it, category) => blocked.push(`  [${category}] ${it.title}`),
+    postedTitles: takenTitles,
     // Kechagi tasdiqlanmagan maqola bugun ham birinchi bo'lib chiqmasin.
     deprioritize: offeredKeys(),
+    deprioritizeTitles: new Set(offeredTitles().map(titleKey)),
   });
 
   if (blocked.length) {
@@ -138,8 +153,14 @@ async function main() {
     const i = options.length;
     const label = LABELS[i];
     try {
-      log(`[${label}] abstrakt olinmoqda: ${item.link}`);
-      const abstract = await fetchAbstract(item.link, item.title);
+      // Arxiv maqolasining abstrakti qidiruv javobida keladi — qayta so'ramaymiz.
+      let abstract = item.abstract || '';
+      if (abstract) {
+        log(`[${label}] abstrakt arxivdan (${abstract.length} belgi)`);
+      } else {
+        log(`[${label}] abstrakt olinmoqda: ${item.link}`);
+        abstract = await fetchAbstract(item.link, item.title);
+      }
 
       // Abstraktsiz post natijani ayta olmaydi — "tadqiqot o'tkazildi" dan
       // nariga o'tmaydi. Bunday maqolani chiqargandan ko'ra keyingisiga o'tamiz.

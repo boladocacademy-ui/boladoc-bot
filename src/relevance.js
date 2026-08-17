@@ -131,10 +131,13 @@ export function isPediatric(item) {
   return PEDS_TERMS.some((term) => h.includes(term));
 }
 
+/** Yangilik ustunligi shu kundan keyin tugaydi (tanlov oynasidan mustaqil). */
+const FRESH_DAYS = 60;
+
 /**
  * Ball: manba og'irligi + klinik qiymat + yangilik. Yuqori ball = avval chiqadi.
  */
-export function scoreItem(item, { maxAgeDays }) {
+export function scoreItem(item) {
   let score = item.weight * 10;
 
   const h = hay(item);
@@ -144,8 +147,12 @@ export function scoreItem(item, { maxAgeDays }) {
 
   if (item.publishedAt) {
     const ageDays = (Date.now() - item.publishedAt.getTime()) / 86_400_000;
-    // Yangi maqola eskisidan doim ustun; maxAgeDays ga yaqinlashgani sari yo'qoladi.
-    score += Math.max(0, 25 - (ageDays / maxAgeDays) * 25);
+    // Yangilik bali maxAgeDays ga BOG'LANMAYDI. Ilgari bog'langan edi va oyna
+    // bir yilga ochilganda 45 kunlik maqola ham deyarli yangi kabi ball olardi
+    // — natijada eski maqola bugungisini bosib ketishi mumkin edi. Endi
+    // gradient qat'iy: 60 kundan keyin yangilik ustunligi tugaydi va eski
+    // maqolalar faqat zaxira bo'lib qoladi.
+    score += Math.max(0, 25 - (ageDays / FRESH_DAYS) * 25);
   }
 
   for (const term of OPINION_TERMS) {
@@ -168,7 +175,7 @@ export function scoreItem(item, { maxAgeDays }) {
  * necha marta chiqadi ("RAASi in Pediatric CKD" — 3 marta). Kalitlari har xil
  * bo'lgani uchun kalit bo'yicha dedupe ularni tutmaydi.
  */
-function titleKey(title) {
+export function titleKey(title) {
   return String(title)
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, ' ')
@@ -177,7 +184,20 @@ function titleKey(title) {
 
 export function selectCandidates(
   items,
-  { posted, maxAgeDays, limit, extraBlocked = [], onBlocked, deprioritize },
+  {
+    posted,
+    maxAgeDays,
+    limit,
+    extraBlocked = [],
+    onBlocked,
+    deprioritize,
+    // Bir maqola RSS'da va Europe PMC arxivida turli kalit bilan keladi
+    // (JAMA'da "2852670", arxivda "pmid:42603200"). Shuning uchun chiqarilgani
+    // va oldin taklif qilingani sarlavha bo'yicha ham tekshiriladi — aks holda
+    // allaqachon kanalga chiqqan maqola ikkinchi marta chiqib ketardi.
+    postedTitles,
+    deprioritizeTitles,
+  },
 ) {
   const cutoff = Date.now() - maxAgeDays * 86_400_000;
   const seen = new Set();
@@ -187,6 +207,7 @@ export function selectCandidates(
     if (posted.has(it.key)) return false;
     if (seen.has(it.key)) return false;
     const tk = titleKey(it.title);
+    if (postedTitles?.has(tk)) return false;
     if (seenTitles.has(tk)) return false;
     if (isJunk(it)) return false;
     if (!isPediatric(it)) return false;
@@ -203,7 +224,7 @@ export function selectCandidates(
   });
 
   const ranked = pool
-    .map((it) => ({ ...it, score: scoreItem(it, { maxAgeDays }) }))
+    .map((it) => ({ ...it, score: scoreItem(it) }))
     .sort((a, b) => b.score - a.score);
 
   // Bir xil manbadan ketma-ket bir nechta variant chiqmasligi uchun aralashtiramiz.
@@ -227,9 +248,11 @@ export function selectCandidates(
 
   // Oldin taklif qilingan, lekin tasdiqlanmagan maqolalar oxiriga suriladi:
   // yangilari tugasa ular yana chiqadi, lekin har kuni bir xil variant emas.
-  if (deprioritize?.size) {
-    const fresh = diversified.filter((it) => !deprioritize.has(it.key));
-    const old = diversified.filter((it) => deprioritize.has(it.key));
+  if (deprioritize?.size || deprioritizeTitles?.size) {
+    const wasOffered = (it) =>
+      Boolean(deprioritize?.has(it.key)) || Boolean(deprioritizeTitles?.has(titleKey(it.title)));
+    const fresh = diversified.filter((it) => !wasOffered(it));
+    const old = diversified.filter(wasOffered);
     return [...fresh, ...old].slice(0, limit);
   }
 
