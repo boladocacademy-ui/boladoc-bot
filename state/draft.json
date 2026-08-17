@@ -1,21 +1,35 @@
 {
-  "draftId": "2026-08-16",
-  "createdAt": "2026-08-16T17:00:29.391Z",
+  "draftId": "2026-08-17",
+  "createdAt": "2026-08-17T09:01:12.268Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "publications.aap.org/pediatrics/article/158/supplement 1/e2026076070d/207917/equity-in-clinical-guidance-on-application-of",
-      "title": "Equity in Clinical Guidance on Application of Global Lung Function Initiative Guidelines for Pediatric Pulmonary Health Assessment",
-      "titleUz": "Spirometriyada irqsiz yondashuv qora irqdagi bolalarda obstruksiyani aniqroq koʻrsatadi",
-      "link": "https://publications.aap.org/pediatrics/article/158/Supplement%201/e2026076070D/207917/Equity-in-Clinical-Guidance-on-Application-of",
+      "key": "publications.aap.org/pediatrics/article/158/supplement 1/e2026076070c/207915/uncovering-the-relationship-between-skin",
+      "title": "Uncovering the Relationship Between Skin Pigmentation and Bone Density",
+      "titleUz": "BMD ni baholashda irqiy emas, terining obyektiv pigmentatsiyasini inobatga olish zarur",
+      "link": "https://publications.aap.org/pediatrics/article/158/Supplement%201/e2026076070C/207915/Uncovering-the-Relationship-Between-Skin",
       "source": "AAP",
       "sourceFull": "American Academy of Pediatrics — Pediatrics",
       "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "caption": "🩺 <b>Spirometriyada irqsiz yondashuv qora irqdagi bolalarda obstruksiyani aniqroq koʻrsatadi</b>\n\nOʻpka funksiyasini irqqa qarab baholash koʻp hollarda bolalardagi haqiqiy kasallik ogʻirligini yashirib qoʻyadi.\n\n🫁 Irqsiz (race-neutral) GLI tenglamalari astma bor qora irqdagi bolalarda ogʻirroq obstruksiyani koʻrsatdi.\n📊 ATS 2023-yilgi yoʻriqnomasida irq biologik emas, ijtimoiy omil boʻlgani uchun irqsiz baholashni tavsiya etgan.\n⚠️ Tashxisni qayta tasniflash bilan birga noqulay ijtimoiy omillar yoʻqotilmasa, tengsizlik yanada ortishi mumkin.\n\n💡 <b>Amaliyotga:</b> Spirometriyada oʻzgarish koʻrinsa, faqat asosiy kasallikni davolamay, oʻpka funksiyasini pasaytiruvchi ijtimoiy-muhit omillarini ham bartaraf eting.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-avgust 2026\n🔗 <a href=\"https://publications.aap.org/pediatrics/article/158/Supplement%201/e2026076070D/207917/Equity-in-Clinical-Guidance-on-Application-of\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAMhaoHsqv58ua4PUw7eC8x1XpfeLsoAAp0XaxvvHBFIWeK-fp5MDKsBAAMCAAN5AAM9BA",
-      "adminMessageId": 33
+      "caption": "🩺 <b>BMD ni baholashda irqiy emas, terining obyektiv pigmentatsiyasini inobatga olish zarur</b>\n\nSuyak mineral zichligini (bone mineral density, BMD) irqiy standartlar boʻyicha baholash aralash irqli bolalarda xatolikka olib keladi.\n\n💡 Irqiy standartlar oʻrniga terining miqdoriy va empirik pigmentatsiya darajasini (skin tone) baholashga oʻtish zarur.\n☀️ Vitamin D statusi, ultrabinafsha (UVB) nurlar va geografiya teridagi melanin hamda BMD ga bevosita taʼsir qiladi.\n🧬 Irq sotsial tushuncha; suyak zichligi va teri tonida genetik hamda muhit omillari hal qiluvchi oʻrin tutadi.\n\n💡 <b>Amaliyotga:</b> BMD natijalarini talqin qilishda irqqa emas, bemor bolaning vitamin D statusi, teri pigmentatsiyasi va muhit omillariga tayanish zarur.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-avgust 2026\n🔗 <a href=\"https://publications.aap.org/pediatrics/article/158/Supplement%201/e2026076070C/207915/Uncovering-the-Relationship-Between-Skin\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAMkaoLNm_BIG5wCZkNHSbhyXgGwKFYAAkwbaxvvHBFItz3fj63MdacBAAMCAAN5AAM9BA",
+      "adminMessageId": 36
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "2852526",
+      "title": "Neonatal Medical Male Circumcision and Child Autism Diagnosis",
+      "titleUz": "Chaqaloqlikdagi sunnat autizm xavfini oshirmaydi: JAMA Pediatrics tadqiqoti",
+      "link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2852526",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics — Online First",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "caption": "🩺 <b>Chaqaloqlikdagi sunnat autizm xavfini oshirmaydi: JAMA Pediatrics tadqiqoti</b>\n\nJamoatchilikda chaqaloqlikdagi tibbiy sunnat autizm spektri buzilishiga sabab boʻlishi mumkin degan xavotirlar uchrab turadi.\n\n📊 Sunnat qilingan oʻgʻil bolalarda autizm xavfi oshmadi: tuzatilgan imkoniyatlar nisbati (OR) 0,83 (95% CI, 0,59-1,17).\n👥 Kohortada 2771 nafar oʻgʻil bola qamrab olindi, ulardan 1840 nafari (66%) chaqaloqligida sunnat qilingan edi.\n🧩 Autistik alomatlar shkalalari (SRS-2 va CBCL 1.5/5) boʻyicha ham sunnat bilan hech qanday bogʻliqlik topilmadi.\n\n💡 <b>Amaliyotga:</b> Chaqaloqlikda oʻtkazilgan tibbiy sunnat autizm spektri buzilishi (ASD) xavfini oshirmaydi. Ota-onalar xavotiriga ilmiy asos yoʻq.\n\n📚 <b>Manba:</b> JAMA Pediatrics — Online First · 3-avgust 2026\n🔗 <a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2852526\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAMlaoLN2fsyobVZgF01TFGuK-pZLLQAAk0baxvvHBFIo2-LCUzglKUBAAMCAAN5AAM9BA",
+      "adminMessageId": 37
     }
   ]
 }

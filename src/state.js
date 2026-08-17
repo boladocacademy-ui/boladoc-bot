@@ -91,6 +91,16 @@ export function archiveOptions(draftId, options) {
   fs.writeFileSync(OPTIONS_FILE, JSON.stringify(data, null, 2), 'utf8');
 }
 
+/**
+ * Arxivda turgan (ya'ni oldin taklif qilingan) maqolalar kalitlari.
+ * Tasdiqlanmagan maqola ertasi kuni ham nomzod bo'lib qoladi — shuning uchun
+ * ularni ro'yxat oxiriga suramiz, aks holda har kuni bir xil variant chiqadi.
+ */
+export function offeredKeys() {
+  const data = readJson(OPTIONS_FILE, { options: [] });
+  return new Set((data.options || []).map((o) => o.key));
+}
+
 /** Tugma bosilganda callback_data (draftId + index) shu arxivdan qidiriladi. */
 export function findOption(draftId, index) {
   const data = readJson(OPTIONS_FILE, { options: [] });

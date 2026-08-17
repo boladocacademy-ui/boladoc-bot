@@ -163,16 +163,31 @@ export function scoreItem(item, { maxAgeDays }) {
   return score;
 }
 
+/**
+ * Bir maqolaning xati va javobi jurnal feedida bir xil sarlavha bilan bir
+ * necha marta chiqadi ("RAASi in Pediatric CKD" — 3 marta). Kalitlari har xil
+ * bo'lgani uchun kalit bo'yicha dedupe ularni tutmaydi.
+ */
+function titleKey(title) {
+  return String(title)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
 export function selectCandidates(
   items,
-  { posted, maxAgeDays, limit, extraBlocked = [], onBlocked },
+  { posted, maxAgeDays, limit, extraBlocked = [], onBlocked, deprioritize },
 ) {
   const cutoff = Date.now() - maxAgeDays * 86_400_000;
   const seen = new Set();
+  const seenTitles = new Set();
 
   const pool = items.filter((it) => {
     if (posted.has(it.key)) return false;
     if (seen.has(it.key)) return false;
+    const tk = titleKey(it.title);
+    if (seenTitles.has(tk)) return false;
     if (isJunk(it)) return false;
     if (!isPediatric(it)) return false;
     const blocked = blockedCategory(it, extraBlocked);
@@ -183,6 +198,7 @@ export function selectCandidates(
     }
     if (it.publishedAt && it.publishedAt.getTime() < cutoff) return false;
     seen.add(it.key);
+    seenTitles.add(tk);
     return true;
   });
 
@@ -207,6 +223,14 @@ export function selectCandidates(
         added = true;
       }
     }
+  }
+
+  // Oldin taklif qilingan, lekin tasdiqlanmagan maqolalar oxiriga suriladi:
+  // yangilari tugasa ular yana chiqadi, lekin har kuni bir xil variant emas.
+  if (deprioritize?.size) {
+    const fresh = diversified.filter((it) => !deprioritize.has(it.key));
+    const old = diversified.filter((it) => deprioritize.has(it.key));
+    return [...fresh, ...old].slice(0, limit);
   }
 
   return diversified.slice(0, limit);

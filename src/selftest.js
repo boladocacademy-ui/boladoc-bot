@@ -213,14 +213,39 @@ console.log('\n6) Tanlov');
     description: 'x'.repeat(300),
     weight: 3, pedsFeed: true, publishedAt: new Date(), ...o,
   });
+  // Sarlavhalar har xil — aks holda sarlavha bo'yicha dedupe ishga tushadi.
   const items = [
-    mk({ key: 'a', source: 'AAP' }),
-    mk({ key: 'b', source: 'AAP' }),
-    mk({ key: 'c', source: 'JAMA Pediatrics' }),
+    mk({ key: 'a', source: 'AAP', title: 'Randomized Trial of Neonatal Hearing Screening in Infants' }),
+    mk({ key: 'b', source: 'AAP', title: 'Cohort Study of Preterm Nutrition Practices in Infants' }),
+    mk({ key: 'c', source: 'JAMA Pediatrics', title: 'Guideline Update on Bronchiolitis Care in Children' }),
   ];
   const picked = selectCandidates(items, { posted: new Set(['a']), maxAgeDays: 45, limit: 2 });
   check('chiqarilgani qayta tanlanmaydi', !picked.some((p) => p.key === 'a'));
   check('manbalar aralashtiriladi', new Set(picked.map((p) => p.source)).size === 2);
+
+  // Jurnal feedida xat va unga javob bir xil sarlavha bilan bir necha marta
+  // chiqadi; kalitlari har xil bo'lgani uchun faqat sarlavha bo'yicha tutiladi.
+  const dup = selectCandidates(
+    [
+      mk({ key: 'd1', source: 'JAMA Pediatrics' }),
+      mk({ key: 'd2', source: 'JAMA Pediatrics' }),
+      mk({ key: 'd3', source: 'JAMA Pediatrics' }),
+    ],
+    { posted: new Set(), maxAgeDays: 45, limit: 5 },
+  );
+  check('bir xil sarlavha bir marta olinadi', dup.length === 1);
+
+  // Oldin taklif qilingani oxiriga suriladi — har kuni bir xil variant chiqmasin.
+  const order = selectCandidates(items, {
+    posted: new Set(),
+    maxAgeDays: 45,
+    limit: 5,
+    deprioritize: new Set(['a', 'b']),
+  });
+  check(
+    'oldin taklif qilingani oxirida turadi',
+    order.length === 3 && order[0].key === 'c',
+  );
 
   const old = selectCandidates(
     [mk({ key: 'z', source: 'AAP', publishedAt: new Date('2020-01-01') })],

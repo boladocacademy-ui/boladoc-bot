@@ -11,6 +11,9 @@
   "_comment_draftCount": "21:00 da sizga nechta variant yuborilsin (1-3). Siz bittasini tanlaysiz.",
   "draftCount": 2,
 
+  "_comment_candidatePool": "Nechta nomzodga abstrakt so'ralsin. Feedlardagi maqolalarning ko'pi xat/izoh bo'lib, abstrakti yo'q — 17-avgustda 20 tadan faqat 4 tasi yaroqli chiqdi. Shuning uchun zaxira katta bo'lishi kerak. Kamaytirmang.",
+  "candidatePool": 20,
+
   "_comment_publish": "Publish job UTC vaqtida shu daqiqagacha kutadi. 03:00 UTC = 08:00 Toshkent.",
   "publishAtUtc": "03:00",
 

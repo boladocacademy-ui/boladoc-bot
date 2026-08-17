@@ -9,7 +9,14 @@ import { generateContent } from './gemini.js';
 import { buildImage } from './image.js';
 import { buildCaption } from './caption.js';
 import { sendPhoto, sendMessage } from './telegram.js';
-import { loadPosted, saveDraft, loadDraft, loadQueue, archiveOptions } from './state.js';
+import {
+  loadPosted,
+  saveDraft,
+  loadDraft,
+  loadQueue,
+  archiveOptions,
+  offeredKeys,
+} from './state.js';
 import { harvestApprovals } from './approvals.js';
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -22,9 +29,22 @@ function env(name, required = true) {
   return v;
 }
 
+/**
+ * draftId tugma ichiga yoziladi va arxiv kaliti bo'lib xizmat qiladi. Faqat
+ * sana bo'lsa, bir kunda ikki marta ishlaganda (jadval + qo'lda) ikkinchi run
+ * arxivdagi birinchisining yozuvlari ustiga yozib yuboradi — ertalabki tugma
+ * bosilganda navbatga butunlay boshqa maqola tushardi. Soat-daqiqa qo'shamiz.
+ */
+function makeDraftId() {
+  const d = new Date();
+  const hh = String(d.getUTCHours()).padStart(2, '0');
+  const mm = String(d.getUTCMinutes()).padStart(2, '0');
+  return `${todayId()}-${hh}${mm}`;
+}
+
 async function main() {
   const config = loadConfig();
-  const draftId = todayId();
+  const draftId = makeDraftId();
 
   log(`draft qurilmoqda — draftId=${draftId}, dry-run=${DRY_RUN}`);
 
@@ -51,14 +71,19 @@ async function main() {
   // Navbatda turgan maqola qayta taklif qilinmasin.
   const taken = new Set([...posted, ...queue.items.map((i) => i.key)]);
   const blocked = [];
+  // Zaxira KATTA bo'lishi kerak. O'lchandi (17-avgust): 20 ta nomzoddan faqat
+  // 4 tasining abstrakti yetarli edi — jurnal feedlarining ko'p qismi xat,
+  // izoh va tuzatishlar bo'lib, ularda abstrakt umuman yo'q. Zaxira 4 ta
+  // bo'lganda kuniga bitta variant chiqib qolardi.
+  const pool = Math.max(config.candidatePool ?? 20, config.draftCount + 4);
   const candidates = selectCandidates(items, {
     posted: taken,
     maxAgeDays: config.maxAgeDays,
-    // Zaxira bilan olamiz: abstrakti topilmagan maqola o'tkazib yuboriladi,
-    // shunda ham kerakli sondagi variant yig'ilsin.
-    limit: config.draftCount + 4,
+    limit: pool,
     extraBlocked: config.blockedExtra ?? [],
     onBlocked: (it, category) => blocked.push(`  [${category}] ${it.title}`),
+    // Kechagi tasdiqlanmagan maqola bugun ham birinchi bo'lib chiqmasin.
+    deprioritize: offeredKeys(),
   });
 
   if (blocked.length) {
@@ -94,7 +119,7 @@ async function main() {
   await sendMessage(
     token,
     adminChat,
-    `🌙 <b>Yangi ${config.draftCount} ta variant</b>\n` +
+    `🌙 <b>Bugungi variantlar</b> (${config.draftCount} tagacha)\n` +
       `Sana: ${formatDateUz(new Date().toISOString())}\n\n` +
       `Yoqqanini tugma orqali tasdiqlang. Tasdiqlangan post <b>navbatga</b> tushadi, ` +
       `har kuni ertalab <b>08:00</b> da navbatdan bittasi kanalga chiqadi.\n\n` +
@@ -194,6 +219,19 @@ async function main() {
   if (skipped.length) {
     log(`abstrakti topilmagani uchun o'tkazib yuborilgan ${skipped.length} ta maqola:\n  ${skipped.join('\n  ')}`);
   }
+
+  // Kutilganidan kam variant chiqsa — sababini aytamiz. Ilgari bu jimgina
+  // o'tib ketardi va "nega faqat A keldi?" degan savol javobsiz qolardi.
+  if (options.length && options.length < config.draftCount) {
+    await sendMessage(
+      token,
+      adminChat,
+      `ℹ️ Bugun ${config.draftCount} ta emas, <b>${options.length} ta</b> variant chiqdi.\n` +
+        `Sabab: ${pool} ta nomzoddan ${skipped.length} tasining abstrakti topilmadi ` +
+        `(jurnal feedida xat, izoh va tuzatishlar ko‘p — ularda abstrakt bo‘lmaydi).`,
+    ).catch(() => {});
+  }
+
   if (!options.length) throw new Error('Hech qaysi variant tayyorlanmadi');
   log(`draft saqlandi: ${options.length} ta variant`);
 }
