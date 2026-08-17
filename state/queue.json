@@ -1,5 +1,21 @@
 {
-  "items": [],
+  "items": [
+    {
+      "index": 0,
+      "label": "A",
+      "key": "pmid:42189531",
+      "title": "Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis",
+      "titleUz": "60-90 kunlik isitmalayotgan chaqaloqlarda invaziv bakterial infeksiya xavfi: 1.11%",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.1815",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics",
+      "caption": "🩺 <b>60-90 kunlik isitmalayotgan chaqaloqlarda invaziv bakterial infeksiya xavfi: 1.11%</b>\n\nHayotining uchinchi oyidagi isitmalayotgan chaqaloqlarni boshqarish boʻyicha xalqaro tavsiyalar har xil va bir toʻxtamga kelmagan.\n\n📊 60-90 kunlik chaqaloqlarda invaziv bakterial infeksiya (IBI) 1.11%, bakteremiya 1.01%, meningit 0.11% uchraydi.\n👥 Meta-tahlil 34 835 nafar oʻzini yaxshi his qilayotgan, isitmalayotgan chaqaloqlar maʼlumotlarini qamrab oldi.\n🔍 Bakterial meningit juda kam uchraydi (0.11%), asosiy holatlar esa bakteremiya hisobiga toʻgʻri keladi.\n\n💡 <b>Amaliyotga:</b> 60-90 kunlik chaqaloqlarda meningit xavfi juda past (0.11%). Bu maʼlumotlar klinik koʻrsatmalarni yangilash va taktikani tanlashda yordam beradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.1815\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAMnaoLVBXSEu5mlRcCiKxN5ewLIiyQAAncbaxvvHBFIGwGWBkVeSoIBAAMCAAN5AAM9BA",
+      "adminMessageId": 39,
+      "draftId": "2026-08-17-0929",
+      "approvedAt": "2026-08-17T09:52:41.383Z"
+    }
+  ],
   "skipNext": false,
   "handledOn": "2026-08-17"
 }
