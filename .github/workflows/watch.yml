@@ -2,9 +2,8 @@ name: 0) Uzluksiz kuzatuv (tugma bosilishini kutadi)
 
 # GitHub qisqa oraliqli cronlarni deyarli bajarmaydi: 13-14 avgustda
 # "har 15 daqiqada" cron 21 soatda ~84 ta o'rniga 5 marta ishga tushdi.
-# Shuning uchun cronga tayanmaymiz — bitta ish 55 daqiqa turadi va
-# Telegramni uzluksiz tinglaydi. Soatlik cron esa navbatdagisini boshlaydi;
-# u kechiksa ham eng yomoni bir necha daqiqalik uzilish bo'ladi.
+# Shuning uchun cronga tayanmaymiz: bitta ish uzoq turadi va Telegramni
+# uzluksiz tinglaydi, cron esa faqat navbatdagisini boshlaydi.
 #
 # 17-avgust o'lchovi: soatlik cron + 55 daqiqalik ish YETARLI EMAS. 48 ta ish
 # bajarilgan, lekin ishga tushish vaqtlari 2:47, 3:51, 4:44, 8:28, 10:54,
