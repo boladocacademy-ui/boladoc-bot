@@ -143,6 +143,59 @@ Qilingan ish:
 marta ishlagan draft arxivdagi birinchisining yozuvlari ustiga yozardi va
 ertalabki tugma bosilganda navbatga **boshqa maqola** tushardi.
 
+## 17-avgust: bir yillik arxiv (Europe PMC)
+
+`maxAgeDays` ni oshirish **hech narsa bermaydi** — o'lchandi: 45 kun ham,
+365 kun ham 41 ta nomzod berdi. Chegara sana emas, RSS feedining o'zi:
+AAP 7 ta, JAMA 56 ta yozuv beradi, tamom.
+
+Shuning uchun yangi manba qo'shildi: **`src/archive.js`** — Europe PMC
+qidiruvi, 10 ta pediatriya jurnali, oxirgi 12 oy (2330 ta maqola).
+
+| Ustunligi | Nima beradi |
+|---|---|
+| `HAS_ABSTRACT:Y` | Abstrakti yo'q maqola qidiruvga tushmaydi — "kuniga bitta variant" muammosining ildizi shu edi |
+| Abstrakt javob ichida | Alohida so'rov kerak emas, tezroq va ishonchli |
+| Bepul, kalitsiz | Xarajat yo'q |
+
+Diqqat qilinadigan joylar:
+
+- **Sahifalash `cursorMark` bilan.** `page` parametri Europe PMC'da
+  e'tiborsiz qoladi — o'lchandi: 1, 2, 3-sahifalar aynan bir xil 100 ta
+  natija qaytardi. Endi 3 sahifa = 300 ta maqola.
+- **Sarlavha bo'yicha dedupe majburiy.** Bitta maqola RSS'da `2852670`,
+  arxivda `pmid:42603200` kaliti bilan keladi. Faqat kalitga tayanilsa,
+  kanalga chiqqan maqola ikkinchi marta chiqib ketardi.
+- **Yangilik bali `maxAgeDays` ga bog'lanmaydi** (`FRESH_DAYS = 60`).
+  Aks holda oyna bir yilga ochilganda eski maqola bugungisini bosib
+  ketishi mumkin edi.
+- **Taqiq filtriga abstraktning faqat boshi (300 belgi) beriladi.**
+  To'liq abstrakt berilsa, yo'l-yo'lakay eslatilgan omil ("maternal
+  smoking" kabi) butun maqolani tashlab yuborardi.
+
+O'chirish kerak bo'lsa: `config.json` → `"archive": { "enabled": false }`.
+
+## Bot qayerda ishlaydi
+
+O'z serveri **yo'q**, hech narsa sotib olinmagan.
+
+| Nima | Qayerda | Narx |
+|---|---|---|
+| Kod ishga tushishi | GitHub Actions, `ubuntu-latest` (GitHub'ning serveri) | bepul (public repo — cheksiz daqiqa) |
+| Kod va holat (`state/*.json`) | github.com/boladocacademy-ui/boladoc-bot | bepul |
+| Kalitlar | GitHub Secrets (4 ta) | — |
+| Matn tayyorlash | Google Gemini API | bepul tier |
+| Maqolalar | RSS + Europe PMC (EBI, Britaniya) | bepul |
+| Post yuborish | Telegram Bot API | bepul |
+
+Lokal nusxa: `C:\Users\user\boladoc-bot` (`.env` shu yerda, GitHub'ga
+hech qachon yuklanmaydi). Kompyuter o'chiq bo'lsa ham bot ishlaydi —
+lokal nusxa faqat qo'lda sinash uchun.
+
+Ma'lumotlar bazasi yo'q: holat oddiy JSON fayllarda va bot ularni har
+ishdan keyin repoga commit qiladi (`git log` da "publish: …", "draft: …"
+degan commitlar — ularni bot yozgan).
+
 ## Jadval kechikishi
 
 GitHub'ning bepul croni kechikadi. Kuzatilgani: draft `16:00 UTC` ga
