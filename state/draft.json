@@ -1,33 +1,35 @@
 {
-  "draftId": "2026-08-17-0929",
-  "createdAt": "2026-08-17T09:32:40.974Z",
+  "draftId": "2026-08-17-1713",
+  "createdAt": "2026-08-17T17:16:07.441Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42189531",
-      "title": "Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis",
-      "titleUz": "60-90 kunlik isitmalayotgan chaqaloqlarda invaziv bakterial infeksiya xavfi: 1.11%",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.1815",
+      "key": "pmid:42043807",
+      "title": "Impact of Removing the Universal Hepatitis B Birth-Dose Vaccination in the US",
+      "titleUz": "Gepatit B ga qarshi universal tugʻruqxona emlashini bekor qilish chaqaloqlar infeksiyasini oshiradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.1226",
       "source": "JAMA Pediatrics",
       "sourceFull": "JAMA Pediatrics",
-      "caption": "🩺 <b>60-90 kunlik isitmalayotgan chaqaloqlarda invaziv bakterial infeksiya xavfi: 1.11%</b>\n\nHayotining uchinchi oyidagi isitmalayotgan chaqaloqlarni boshqarish boʻyicha xalqaro tavsiyalar har xil va bir toʻxtamga kelmagan.\n\n📊 60-90 kunlik chaqaloqlarda invaziv bakterial infeksiya (IBI) 1.11%, bakteremiya 1.01%, meningit 0.11% uchraydi.\n👥 Meta-tahlil 34 835 nafar oʻzini yaxshi his qilayotgan, isitmalayotgan chaqaloqlar maʼlumotlarini qamrab oldi.\n🔍 Bakterial meningit juda kam uchraydi (0.11%), asosiy holatlar esa bakteremiya hisobiga toʻgʻri keladi.\n\n💡 <b>Amaliyotga:</b> 60-90 kunlik chaqaloqlarda meningit xavfi juda past (0.11%). Bu maʼlumotlar klinik koʻrsatmalarni yangilash va taktikani tanlashda yordam beradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.1815\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAMnaoLVBXSEu5mlRcCiKxN5ewLIiyQAAncbaxvvHBFIGwGWBkVeSoIBAAMCAAN5AAM9BA",
-      "adminMessageId": 39
+      "pubDate": "2026-08-01",
+      "caption": "🩺 <b>Gepatit B ga qarshi universal tugʻruqxona emlashini bekor qilish chaqaloqlar infeksiyasini oshiradi</b>\n\nGepatit B tugʻruqxona dozasidan maqsadli emlashga oʻtish chaqaloqlar xavfsizligida jiddiy uzilishlarga olib kelishi mumkin.\n\n👶 Maqsadli emlashga oʻtish chaqaloqlarda 69 dan 628 tagacha qoʻshimcha gepatit B infeksiyasini keltirib chiqaradi.\n📊 Model 3,6 milliondan ortiq chaqaloqlar koxortasida universal va maqsadli emlash strategiyalarini solishtirdi.\n⚠️ Zararni qoplash uchun qoʻshimcha 100-400 ming homilador ayolni gepatit B ga skrining qilish talab etiladi.\n\n💡 <b>Amaliyotga:</b> Onani skrining qilish qamrovi mukammal boʻlmagan sharoitda tugʻruqxonadagi universal emlash chaqaloqlarni gepatit B infeksiyasidan samaraliroq himoya qiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-avgust 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.1226\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAMsaoNByxz_7hSfVZdHoeFi4wG7XhAAAnMcaxvvHBlImfF_z22uis4BAAMCAAN5AAM9BA",
+      "adminMessageId": 44
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42572140",
-      "title": "Recommendations for Prevention and Control of Influenza in Children, 2026-2027: Policy Statement",
-      "titleUz": "Gripp mavsumi uchun AAP tavsiyalari: vaksinatsiya va davolash",
-      "link": "https://doi.org/10.1542/peds.2026-078778",
+      "key": "pmid:42572139",
+      "title": "Recommendations for Prevention and Control of Influenza in Children, 2026-2027: Technical Report",
+      "titleUz": "AAP tavsiyasi: Bolalarni grippga qarshi emlash 6 oylikdan boshlanadi",
+      "link": "https://doi.org/10.1542/peds.2026-078779",
       "source": "AAP",
       "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "caption": "🩺 <b>Gripp mavsumi uchun AAP tavsiyalari: vaksinatsiya va davolash</b>\n\nGripp asoratlari va gospitalizatsiyani kamaytirish uchun emlash va antiviral terapiyani toʻgʻri yoʻlga qoʻyish zarur.\n\n💉 6 oylikdan oshgan barcha bolalarni har yili emlash va yoshiga mos har qanday litsenziyalangan vaksinani qoʻllash lozim.\n💊 Ogʻir yoki xavf guruhidagi bolalarga emlanganligidan qatʼi nazar virusga qarshi davoni tezda boshlash kerak.\n🛡️ Emlanmagan xavf guruhidagi asimptomatik bolalarga muloqotdan soʻng virusga qarshi kimyoprofilaktika oʻtkazish mumkin.\n\n💡 <b>Amaliyotga:</b> Xavf guruhidagi bolalarda antiviral davoni kasallik davomiyligidan qatʼi nazar darhol boshlash asoratlar va gospitalizatsiyani sezilarli kamaytiradi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078778\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAMoaoLVOa6Pyp-v-dmxeJ8ECbvjG7YAAnkbaxvvHBFIxOk0NF8j-u4BAAMCAAN5AAM9BA",
-      "adminMessageId": 40
+      "pubDate": "2026-08-10",
+      "caption": "🩺 <b>AAP tavsiyasi: Bolalarni grippga qarshi emlash 6 oylikdan boshlanadi</b>\n\nGripp mavsumida Amerika pediatriya akademiyasi (AAP) bolalarni har yili emlash samaradorligini taʼkidlaydi.\n\n💉 6 oylikdan oshgan barcha bolalarni har yili grippga qarshi doimiy emlash tavsiya etiladi.\n🤰 Homilador va emizikli ayollarni emlash chaqaloqlarda grippga qarshi passiv immun javob beradi.\n💊 Erta diagnostika va antivirus dori vositalari kasallik asoratlarini va tarqalishini kamaytiradi.\n\n💡 <b>Amaliyotga:</b> Shifokorlar 6 oylikdan katta bolalarda yillik emlashni targʻib qilishi hamda erta davolash uchun antivirus vositalaridan toʻgʻri foydalanishi lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 10-avgust 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078779\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAMtaoNB1ykYNEMv1XKj8UxwEU4XTu8AAnQcaxvvHBlI-zzga9LZn8YBAAMCAAN5AAM9BA",
+      "adminMessageId": 45
     }
   ]
 }
