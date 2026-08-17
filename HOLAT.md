@@ -115,6 +115,34 @@ akkaunti uchun).
    OLDIN. Ilgari erta qaytib ketsa, bosilgan tugma navbatda qolib
    24 soatdan keyin o'chib ketardi.
 
+## 17-avgust: nega kuniga bitta variant chiqardi
+
+15, 16 va 17-avgustda draft **bitta** variant yasadi va uch kun ketma-ket
+bir xil maqolani taklif qildi. O'lchandi:
+
+| Nomzod zaxirasi | Abstrakti yetarli |
+|---|---|
+| 6 ta (eski sozlama) | **1 ta** |
+| 20 ta | 4 ta |
+
+Sabab: jurnal feedlarining katta qismi muharrirga xatlar, izohlar va
+tuzatishlar — ularda abstrakt umuman yo'q, `MIN_ABSTRACT = 400` ni
+o'tolmaydi. Zaxira `draftCount + 4` = 6 ta edi.
+
+Qilingan ish:
+
+| Nima | Qayerda |
+|---|---|
+| Zaxira 20 taga oshirildi | `config.json` → `candidatePool` |
+| Bir xil sarlavha bir marta olinadi (xat + javob 2-3 marta chiqadi) | `relevance.js` → `titleKey` |
+| Tasdiqlanmagan maqola ertasiga oxirga suriladi | `state.js` → `offeredKeys`, `selectCandidates(deprioritize)` |
+| `draftId` ga soat-daqiqa qo'shildi | `build-draft.js` → `makeDraftId()` |
+| Kam variant chiqsa sababi Telegramga yoziladi | `build-draft.js` oxiri |
+
+`draftId` ni o'zgartirish sababi: faqat sana bo'lganda, bir kunda ikkinchi
+marta ishlagan draft arxivdagi birinchisining yozuvlari ustiga yozardi va
+ertalabki tugma bosilganda navbatga **boshqa maqola** tushardi.
+
 ## Jadval kechikishi
 
 GitHub'ning bepul croni kechikadi. Kuzatilgani: draft `16:00 UTC` ga
