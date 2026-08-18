@@ -1,9 +1,19 @@
 {
   "keys": [
+    "pmid:42189531",
     "2852525",
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42189531",
+      "postedAt": "2026-08-18T04:10:50.124Z",
+      "title": "Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis",
+      "titleUz": "60-90 kunlik isitmalayotgan chaqaloqlarda invaziv bakterial infeksiya xavfi: 1.11%",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.1815",
+      "source": "JAMA Pediatrics",
+      "messageId": 749
+    },
     {
       "key": "2852525",
       "postedAt": "2026-08-15T04:03:27.737Z",
