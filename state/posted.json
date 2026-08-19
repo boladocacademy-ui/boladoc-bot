@@ -1,10 +1,20 @@
 {
   "keys": [
+    "pmid:42572140",
     "pmid:42189531",
     "2852525",
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42572140",
+      "postedAt": "2026-08-19T04:20:48.969Z",
+      "title": "Recommendations for Prevention and Control of Influenza in Children, 2026-2027: Policy Statement",
+      "titleUz": "Gripp mavsumi uchun AAP tavsiyalari: vaksinatsiya va davolash",
+      "link": "https://doi.org/10.1542/peds.2026-078778",
+      "source": "AAP",
+      "messageId": 750
+    },
     {
       "key": "pmid:42189531",
       "postedAt": "2026-08-18T04:10:50.124Z",
