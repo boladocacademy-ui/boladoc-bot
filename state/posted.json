@@ -1,11 +1,21 @@
 {
   "keys": [
+    "pmid:42043807",
     "pmid:42572140",
     "pmid:42189531",
     "2852525",
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42043807",
+      "postedAt": "2026-08-20T04:10:45.981Z",
+      "title": "Impact of Removing the Universal Hepatitis B Birth-Dose Vaccination in the US",
+      "titleUz": "Gepatit B ga qarshi universal tugʻruqxona emlashini bekor qilish chaqaloqlar infeksiyasini oshiradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.1226",
+      "source": "JAMA Pediatrics",
+      "messageId": 751
+    },
     {
       "key": "pmid:42572140",
       "postedAt": "2026-08-19T04:20:48.969Z",
