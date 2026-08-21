@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42572139",
     "pmid:42043807",
     "pmid:42572140",
     "pmid:42189531",
@@ -7,6 +8,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42572139",
+      "postedAt": "2026-08-21T04:22:42.986Z",
+      "title": "Recommendations for Prevention and Control of Influenza in Children, 2026-2027: Technical Report",
+      "titleUz": "AAP tavsiyasi: Bolalarni grippga qarshi emlash 6 oylikdan boshlanadi",
+      "link": "https://doi.org/10.1542/peds.2026-078779",
+      "source": "AAP",
+      "messageId": 752
+    },
     {
       "key": "pmid:42043807",
       "postedAt": "2026-08-20T04:10:45.981Z",
