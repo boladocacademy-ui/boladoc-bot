@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-08-22-1658",
-  "createdAt": "2026-08-22T16:59:33.789Z",
+  "draftId": "2026-08-23-1700",
+  "createdAt": "2026-08-23T17:01:23.917Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42623297",
-      "title": "Monkeypox Virus Surveillance - United States, 2024-2025",
-      "titleUz": "Maymun chechagida emlanmagan bemorlarda gospitalizatsiya xavfi 9,7 baravar yuqori",
-      "link": "https://doi.org/10.15585/mmwr.mm7532a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
-      "pubDate": "2026-08-20",
-      "caption": "🩺 <b>Maymun chechagida emlanmagan bemorlarda gospitalizatsiya xavfi 9,7 baravar yuqori</b>\n\nMaymun chechagi virusi (MPXV) tarqalishi davom etmoqda, lekin 2 dozali emlash ogʻir gospitalizatsiyadan samarali himoya qiladi.\n\n🛡️ Emlanmagan bemorlarda gospitalizatsiya ehtimoli toʻliq emlangan bemorlarga nisbatan 9,73 baravar yuqori boʻldi.\n📊 AQShda 2024–2025-yillarda 5 322 ta MPXV holati qayd etildi, jumladan clade Ib shtammi bilan zararlanish kuzatildi.\n⚠️ 2025-yil sentabr-oktabrda kasallanish 2 baravar oshgan boʻlsa-da, dekabr oxiriga kelib meʼyoriy darajaga qaytdi.\n\n💡 <b>Amaliyotga:</b> Xavf guruhidagi bemorlar va sayohatchilarga MPXV vaktsinasining 2 ta dozasini toʻliq olishni tavsiya qilish ogʻir asoratlar va gospitalizatsiyani keskin kamaytiradi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 20-avgust 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7532a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANCaonVX7ygKFZPTEMdK-YuEYdQqrkAAkkgaxuzz0hIqO9cHMZv3V0BAAMCAAN5AAM9BA",
-      "adminMessageId": 66
+      "key": "pmid:42264894",
+      "title": "Assessing and investigating children with suspected soft tissue sarcomas: an e-Delphi consensus process",
+      "titleUz": "Bolalarda yumshoq toʻqima sarkomasi: 98% ekspert konsensusiga erishildi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330398",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-08-19",
+      "caption": "🩺 <b>Bolalarda yumshoq toʻqima sarkomasi: 98% ekspert konsensusiga erishildi</b>\n\nYumshoq toʻqima sarkomasida (soft tissue sarcoma, STS) tashxis qoʻyish tezligi bevosita bolalar omon qolishiga taʼsir qiladi.\n\n🎯 Mutaxassislar taklif qilingan 48 ta klinik koʻrsatmaning 47 tasida (98%) bir ovozdan konsensusga erishdi.\n👥 e-Delphi konsensusida 87 nafar tibbiyot xodimi 2 bosqichli baholash soʻrovnomasida qatnashdi.\n📋 Tasdiqlangan 47 ta koʻrsatma birlamchi va ikkilamchi tibbiy boʻgʻin uchun milliy qoʻllanmaga kiritildi.\n\n💡 <b>Amaliyotga:</b> Ushbu koʻrsatmalar shifokorlarga STS shubhasi bor bolalarni tezroq va aniqroq aniqlash hamda oʻz vaqtida toʻgʻri yoʻnaltirishda amaliy yordam beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 19-avgust 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330398\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAANIaosnT43QHHo9eZurEqWRrP2J9DkAAo8kaxuzz1hIEJpswcHGTeIBAAMCAAN5AAM9BA",
+      "adminMessageId": 72
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42618057",
-      "title": "Two-Year Outcomes of a 211 Care Coordination Trial",
-      "titleUz": "Erta rivojlanish koordinatsiyasi bolalarning neyrorivojlanish natijalarini oʻzgartirmadi",
-      "link": "https://doi.org/10.1542/peds.2024-069315",
+      "key": "pmid:42613045",
+      "title": "Empiric MRSA Coverage for Children with Osteoarticular Infections: 2015 to 2024",
+      "titleUz": "Suyak-boʻgʻim infeksiyalarida empirik MRSA davosi keragidan ortiq ishlatilmoqda",
+      "link": "https://doi.org/10.1542/peds.2025-075407",
       "source": "AAP",
       "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-08-20",
-      "caption": "🩺 <b>Erta rivojlanish koordinatsiyasi bolalarning neyrorivojlanish natijalarini oʻzgartirmadi</b>\n\nRivojlanishida muammosi bor bolalarni erta aniqlab, mutaxassisga yoʻnaltirish doim ham yakuniy natijani yaxshilayvermaydi.\n\n📊 24 oylik kuzatuvda nutq (P&gt;0.9) va xulq-atvor (P&gt;0.4) koʻrsatkichlarida guruhlar oʻrtasida farq kuzatilmadi.\n👥 Randomizatsiyalangan klinik sinovda (RCT) 21–42 oylik 499 nafar bola 211LA va standart parvarish guruhiga boʻlindi.\n🔍 211LA guruhidagi oilalar telemeditsinadan koʻproq foydalandi va xizmat davomiyligi qisqaroq boʻldi.\n\n💡 <b>Amaliyotga:</b> Dasturiy koordinatsiya xizmatlarga yoʻnaltirishni oshirsa ham, statistik ishonchli rivojlanish farqini bermadi. Hozircha amaliyot oʻzgarmaydi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 20-avgust 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2024-069315\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANDaonVdbC83it6I5ZikBnrzfnshOAAAkogaxuzz0hImZKmvQWobxkBAAMCAAN5AAM9BA",
-      "adminMessageId": 67
+      "pubDate": "2026-08-19",
+      "caption": "🩺 <b>Suyak-boʻgʻim infeksiyalarida empirik MRSA davosi keragidan ortiq ishlatilmoqda</b>\n\nKasalxonalarning umumiy antibiogrammasi osteomiyelit va artritli bolalarda MRSA xavfini sunʼiy ravishda oshirib koʻrsatadi.\n\n🦠 MRSA aniqlanmagan bolalarning 58 foizi baribir empirik anti-MRSA terapiyasini olgan.\n📊 46 ta shifoxonada AHO (oʻtkir gematogen osteomiyelit) va ABA boʻlgan 15 841 nafar bola maʼlumotlari tahlil qilindi.\n⚠️ AHO va ABA (oʻtkir bakterial artrit) boʻlgan bolalarda MRSA koʻrsatkichi kasalxona boʻyicha koʻrsatkichdan 2 barobar kam chiqdi.\n\n💡 <b>Amaliyotga:</b> Umumiy antibiogrammaga tayanib darhol MRSA davosini boshlash shart emas. AHO va ABA uchun alohida antibiogrammalar tayyorlash va empirik terapiyani aniqlashtirish lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 19-avgust 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2025-075407\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAANJaosnY2oC3GbH4tGtv5Tx0SbW15YAApAkaxuzz1hIGf8LrQSUTUEBAAMCAAN5AAM9BA",
+      "adminMessageId": 73
     }
   ]
 }
