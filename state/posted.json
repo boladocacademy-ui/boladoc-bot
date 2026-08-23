@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42595297",
     "pmid:42572139",
     "pmid:42043807",
     "pmid:42572140",
@@ -8,6 +9,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42595297",
+      "postedAt": "2026-08-23T04:22:31.199Z",
+      "title": "Does Timing Matter? A Clinical Trial of Supporting Play Exploration and Early Development Intervention (SPEEDI) for Infants Born Preterm in the First Months of Life",
+      "titleUz": "Chala tugʻilgan chaqaloqlarda reabilitatsiyani NICUda boshlash aqliy rivojlanishni yaxshilaydi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115266",
+      "source": "J Pediatrics",
+      "messageId": 754
+    },
     {
       "key": "pmid:42572139",
       "postedAt": "2026-08-21T04:22:42.986Z",

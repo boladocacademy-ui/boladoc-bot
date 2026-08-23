@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42595297",
-      "title": "Does Timing Matter? A Clinical Trial of Supporting Play Exploration and Early Development Intervention (SPEEDI) for Infants Born Preterm in the First Months of Life",
-      "titleUz": "Chala tugʻilgan chaqaloqlarda reabilitatsiyani NICUda boshlash aqliy rivojlanishni yaxshilaydi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115266",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-08-13",
-      "caption": "🩺 <b>Chala tugʻilgan chaqaloqlarda reabilitatsiyani NICUda boshlash aqliy rivojlanishni yaxshilaydi</b>\n\nChala tugʻilgan chaqaloqlarga ilk rivojlanish yordamini hatto 3 oyga kechiktirish ham intervensiya samarasini pasaytiradi.\n\n🧠 SPEEDI usulini NICUda erta boshlash chaqaloqlarning 24 oylikdagi kognitiv va motorik koʻrsatkichlarini oshirdi.\n👶 Gestatsiya yoshi 26.5 haftalik 83 nafar oʻta chala tugʻilgan chaqaloq 3 ta taqqoslash guruhida kuzatildi.\n⏱ Rivojlantiruvchi mashgʻulotlarni bor-yoʻgʻi 3 oyga kechiktirish intervensiyaning uzoq muddatli samarasini kamaytirdi.\n\n💡 <b>Amaliyotga:</b> Oʻta chala tugʻilgan chaqaloqlarda ota-onalarni jalb qilgan holda rivojlantiruvchi mashqlarni kechiktirmay, intensiv terapiya boʻlimidayoq (NICU) boshlash zarur.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 13-avgust 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115266\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAM-aoiP5guv__oo24Ov4HlEh2M3_HgAAtQlaxuVSUBII_FCAAGs-k6UAQADAgADeQADPQQ",
-      "adminMessageId": 62,
-      "draftId": "2026-08-21-1750",
-      "approvedAt": "2026-08-22T21:01:40.402Z"
-    },
-    {
       "index": 1,
       "label": "B",
       "key": "pmid:42618057",
@@ -34,5 +18,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-08-22"
+  "handledOn": "2026-08-23"
 }
