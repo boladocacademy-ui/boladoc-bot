@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42618057",
     "pmid:42595297",
     "pmid:42572139",
     "pmid:42043807",
@@ -9,6 +10,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42618057",
+      "postedAt": "2026-08-24T04:30:43.851Z",
+      "title": "Two-Year Outcomes of a 211 Care Coordination Trial",
+      "titleUz": "Erta rivojlanish koordinatsiyasi bolalarning neyrorivojlanish natijalarini oʻzgartirmadi",
+      "link": "https://doi.org/10.1542/peds.2024-069315",
+      "source": "AAP",
+      "messageId": 755
+    },
     {
       "key": "pmid:42595297",
       "postedAt": "2026-08-23T04:22:31.199Z",
