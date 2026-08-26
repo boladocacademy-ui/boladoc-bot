@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:41927326",
-      "title": "Parents' preferences for interventions to improve aspects of children's current and future health: two discrete choice experiments",
-      "titleUz": "Ota-onalar bolalarda birinchi navbatda qaysi kasalliklar profilaktikasini afzal koʻradi?",
-      "link": "https://doi.org/10.1136/archdischild-2025-329155",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-08-19",
-      "caption": "🩺 <b>Ota-onalar bolalarda birinchi navbatda qaysi kasalliklar profilaktikasini afzal koʻradi?</b>\n\nProfilaktika va erta aralashuv dasturlari samarali boʻlishi uchun ota-onalarning ustuvorliklarini hisobga olish zarur.\n\n📊 Bolalar salomatligida xavotir va depressiya profilaktikasi eng yuqori oʻrinni egalladi (oʻrtacha ball 3.6).\n👨‍👩‍👧 GenV kohortasidagi 6-24 oylik bolalarning 1866 nafar ota-onasi diskret tanlov tajribasida (DCE) qatnashdi.\n🫀 Kattalar kasalliklari orasida yurak-qon tomir salomatligi va kognitiv rivojlanish birinchi oʻringa chiqdi.\n\n💡 <b>Amaliyotga:</b> Profilaktika va skrining dasturlarini tuzishda ota-onalarning ruhiy salomatlik hamda yurak-qon tomir tizimiga boʻlgan ustuvorligini hisobga olish lozim.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 19-avgust 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329155\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANNaoyFAAHho_F_P6mbieAMpEtT-_EDAALvI2sb1b1oSGQImTtaQ2f8AQADAgADeQADPQQ",
-      "adminMessageId": 77,
-      "draftId": "2026-08-24-1751",
-      "approvedAt": "2026-08-25T05:41:58.638Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42617793",
@@ -34,5 +18,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-08-25"
+  "handledOn": "2026-08-26"
 }

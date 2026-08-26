@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:41927326",
     "pmid:42618057",
     "pmid:42595297",
     "pmid:42572139",
@@ -10,6 +11,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:41927326",
+      "postedAt": "2026-08-26T04:24:30.240Z",
+      "title": "Parents' preferences for interventions to improve aspects of children's current and future health: two discrete choice experiments",
+      "titleUz": "Ota-onalar bolalarda birinchi navbatda qaysi kasalliklar profilaktikasini afzal koʻradi?",
+      "link": "https://doi.org/10.1136/archdischild-2025-329155",
+      "source": "Arch Dis Child",
+      "messageId": 756
+    },
     {
       "key": "pmid:42618057",
       "postedAt": "2026-08-24T04:30:43.851Z",
