@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42617793",
     "pmid:41927326",
     "pmid:42618057",
     "pmid:42595297",
@@ -11,6 +12,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42617793",
+      "postedAt": "2026-08-28T07:05:13.310Z",
+      "title": "Multisystem Inflammatory Syndrome Therapies in Children: A Comparative Effectiveness Trial",
+      "titleUz": "IVIG-rezistent MIS-C da infliksimab va steroidlar anakinradan koʻra samaraliroq boʻldi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115293",
+      "source": "J Pediatrics",
+      "messageId": 757
+    },
     {
       "key": "pmid:41927326",
       "postedAt": "2026-08-26T04:24:30.240Z",
