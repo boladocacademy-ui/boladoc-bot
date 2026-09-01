@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-08-31-1618",
-  "createdAt": "2026-08-31T16:19:38.635Z",
+  "draftId": "2026-09-01-1641",
+  "createdAt": "2026-09-01T16:43:04.801Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42665678",
-      "title": "Safety and long-term outcomes of surgical intervention in pediatrics with necrotizing pneumonia: a retrospective cohort study",
-      "titleUz": "Bolalardagi nekrozlanuvchi pnevmoniyada jarrohlik davolashning uzoq muddatli samaradorligi",
-      "link": "https://doi.org/10.1007/s00431-026-07365-9",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-08-29",
-      "caption": "🩺 <b>Bolalardagi nekrozlanuvchi pnevmoniyada jarrohlik davolashning uzoq muddatli samaradorligi</b>\n\nTerapevtik davolash samara bermagan nekrozlanuvchi pnevmoniyali bolalarda jarrohlik amaliyoti qanchalik xavfsiz?\n\n🎯 64 oylik kuzatuvda operatsiya qilingan bolalarda kasallik qaytalanishi yoki oʻlim holatlari umuman kuzatilmadi.\n📊 Tadqiqotda nekrozlanuvchi pnevmoniya (NP) boʻlgan 398 nafar boladan operatsiya qilingan 42 nafari tahlil qilindi.\n🦠 Patogenlarning 52,5% ini Mycoplasma pneumoniae tashkil etdi; operatsiyadan keyingi asoratlar toʻliq davolandi.\n\n💡 <b>Amaliyotga:</b> Konservativ davo samara bermasa, jarrohlikni kechiktirmang: oʻz vaqtida qilingan operatsiya xavfsiz va uzoq muddatli toʻliq sogʻayishni taʼminlaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-avgust 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07365-9\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANnapWphgqoCQqi_00_xSdgdAL-8tgAAgYfaxupf6lI0sns3m3W4zcBAAMCAAN5AAM9BA",
-      "adminMessageId": 103
+      "key": "pmid:42658733",
+      "title": "Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026",
+      "titleUz": "Qizamiq epidemiyasida real vaqtli nowcasting modeli aniq tendensiyani koʻrsatdi",
+      "link": "https://doi.org/10.15585/mmwr.mm7533a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "pubDate": "2026-08-27",
+      "caption": "🩺 <b>Qizamiq epidemiyasida real vaqtli nowcasting modeli aniq tendensiyani koʻrsatdi</b>\n\nAktiv epidemiya paytida hisobotlar kechikishi sababli kasallik tarqalishining haqiqiy tezligini aniqlash qiyin kechadi.\n\n📊 Nowcasting modeli 997 ta qizamiq holatida epidemik koʻlam va reproduktiv sonni ($R_t$) aniq koʻrsatib berdi.\n🇺🇸 AQSHdagi soʻnggi 30 yildagi eng yirik qizamiq avj olishida CDC maʼlumotlar kechikishini toʻgʻriladi.\n⚠️ Kasallik keskin koʻpaygan yanvar oyida hisobotlar toʻliq boʻlmagani sababli model aniqligi pasaydi.\n\n💡 <b>Amaliyotga:</b> Toshma toshgan va xabar berilgan sanalar aniq qayd etilsa, nowcasting moduli epidemiyani boshqarishda tezkor va toʻgʻri qarorlar qabul qilishni taʼminlaydi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 27-avgust 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7533a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAANrapcAAYD_CJT06QU6h_uRd1qPwQABPgAC9CFrG8iyuEgceGUUKEh5ggEAAwIAA3kAAz0E",
+      "adminMessageId": 107
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42665209",
-      "title": "Development of Perinatal Social Determinants of Health Composite Risk Score in Infants Born Preterm",
-      "titleUz": "Perinatal ijtimoiy xavf bali chala tugʻilgan chaqaloqlarda neyrorivojlanishni bashorat qiladi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115305",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-08-28",
-      "caption": "🩺 <b>Perinatal ijtimoiy xavf bali chala tugʻilgan chaqaloqlarda neyrorivojlanishni bashorat qiladi</b>\n\nTibbiy omillardan tashqari, ota-ona ijtimoiy ahvoli chala tugʻilgan chaqaloqlarning rivojlanishiga bevosita taʼsir qiladi.\n\n📊 Yuqori ijtimoiy xavf guruhidagi chaqaloqlarda 2 yoshda kognitiv ball 13,1 ga, nutq esa 19 ballga pastroq boʻldi.\n👶 Gestatsiya yoshi ≤32 hafta boʻlgan 328 nafar chaqaloq chaqaloqlar reanimatsiyasida (NICU) kuzatildi.\n🎯 Ijtimoiy determinantlar bali (SDoH) 5 yoshda ham kognitiv koʻrsatkichlarni bashorat qildi (r=0,33-0,35, p&lt;0,001).\n\n💡 <b>Amaliyotga:</b> Perinatal ijtimoiy xavf bali yuqori xavf guruhidagi chaqaloqlarni erta aniqlash va ularga maqsadli reabilitatsiyani koʻrsatish imkonini beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 28-avgust 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115305\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANoapWpmoZNnp_jgRuushKhrDlpqGMAAgcfaxupf6lIcUNm5eDygq8BAAMCAAN5AAM9BA",
-      "adminMessageId": 104
+      "key": "pmid:42671586",
+      "title": "Honey vs. pharmacological treatment for acute cough in children: a systematic review and meta-analysis of randomized controlled trials.",
+      "titleUz": "Bolalardagi oʻtkir yoʻtal: asal sintetik yoʻtal dorilaridan afzalroqmi?",
+      "link": "https://doi.org/10.1007/s00431-026-07348-w",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-08-31",
+      "caption": "🩺 <b>Bolalardagi oʻtkir yoʻtal: asal sintetik yoʻtal dorilaridan afzalroqmi?</b>\n\nBolalardagi oʻtkir yoʻtalda antitussiv dorilarni asossiz tayinlash koʻp uchraydi, vaholanki ularning xavfi yuqori.\n\n🍯 Asal bola uyqusiga taʼsirni kamaytirdi (MD: -0.73; p=0.05), post-hoc tahlilda barcha simptomlarda ustun keldi.\n📊 Meta-tahlilga 576 nafar yosh bolalar (oʻrtacha yoshi 3-5 yosh) ishtirok etgan 6 ta RCT kiritildi.\n💊 Dextromethorphan bilan taqqoslaganda ham asal 2 ta asosiy koʻrsatkich boʻyicha ustunlik koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Asal oʻtkir yoʻtalda dori vositalariga nisbatan xavfsiz va arzon muqobil boʻlib, uni antitussivlar oʻrniga kengroq tavsiya etish lozim.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 31-avgust 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07348-w\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAANsapcAAZgBs9zpnjbMWwNZiHBD7ALWAAL1IWsbyLK4SJ98YxCby7yiAQADAgADeQADPQQ",
+      "adminMessageId": 108
     }
   ]
 }
