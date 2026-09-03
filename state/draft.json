@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-02-1626",
-  "createdAt": "2026-09-02T16:28:53.382Z",
+  "draftId": "2026-09-03-1625",
+  "createdAt": "2026-09-03T16:39:13.112Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42556817",
-      "title": "Reducing Emergency Department Observation Time for Patients With Low-Risk Anaphylaxis",
-      "titleUz": "Anafilaksiyadan keyin bolalarni shoshilinch boʻlimda kuzatish vaqtini 79 daqiqaga qisqartirish mumkin",
-      "link": "https://doi.org/10.1542/peds.2024-066711",
+      "key": "pmid:42683684",
+      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement",
+      "titleUz": "Bolalarni COVID-19 ga qarshi emlash boʻyicha AAPʼning 2026-2027 yillardagi yangi tavsiyalari",
+      "link": "https://doi.org/10.1542/peds.2026-079045",
       "source": "AAP",
       "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-09-01",
-      "caption": "🩺 <b>Anafilaksiyadan keyin bolalarni shoshilinch boʻlimda kuzatish vaqtini 79 daqiqaga qisqartirish mumkin</b>\n\nAnafilaksiya bilan kelgan bolalarni epinefrindan keyin shifoxonada 4 soat ushlab turish har doim ham shart emas.\n\n⏱️ Past xavfli anafilaksiyasi boʻlgan bolalarni kuzatish vaqti 233 daqiqadan 154 daqiqaga (34% ga) qisqardi.\n🏥 Shoshilinch tibbiy yordam boʻlimida (ED) yangi klinik koʻrsatmalar asosida multidissiplinar yondashuv qoʻllandi.\n🛡️ Kuzatuv qisqarganda 72 soat ichida qayta murojaat koʻpaymadi va ikki fazali reaksiyalar oʻtkazib yuborilmadi.\n\n💡 <b>Amaliyotga:</b> Epinefrindan keyin simptomlari qolmagan past xavfli bolalarni shoshilinch boʻlimda 2 soat kuzatish xavfsiz va shifoxona yukini sezilarli darajada kamaytiradi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2024-066711\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANvaphOQOOSqjYCaw_HSYaqiU7beRoAAhomaxtNBMlISsH1cOzWwosBAAMCAAN5AAM9BA",
-      "adminMessageId": 111
+      "pubDate": "2026-09-02",
+      "caption": "🩺 <b>Bolalarni COVID-19 ga qarshi emlash boʻyicha AAPʼning 2026-2027 yillardagi yangi tavsiyalari</b>\n\nCOVID-19 shtammlari oʻzgarishi bilan emlash sxemalari ham yangilanadi — pediatrlar soʻnggi tavsiyalardan xabardor boʻlishi kerak.\n\n👶 AAP 6-23 oylik moneligi yoʻq barcha bolalarni yangi 2026-2027 COVID-19 vaksinasi bilan emlashni tavsiya qiladi.\n🩺 Xavf guruhidagi 2-18 yoshli bolalarga, emlash tarixidan qatʼi nazar, yangi vaksinadan 1 doza yuborish lozim.\n💉 Sogʻlom 2-18 yoshli bolalarni ham ota-onalar xohishiga koʻra yangilangan vaksinaning 1 dozasi bilan emlash mumkin.\n\n💡 <b>Amaliyotga:</b> Amaliyotda 6-23 oylik bolalarni emlang, xavf guruhidagi va ota-onasi xohlagan 2-18 yoshli bolalarga esa mavjud eng yangi vaksinadan bir doza yuboring.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 2-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-079045\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAANzapmgRC_VJmoR2dvfSBKQmoJ8SJcAAnkhaxtNBNFIDGCXnM3rbZwBAAMCAAN5AAM9BA",
+      "adminMessageId": 115
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42442759",
-      "title": "Interventions to Reduce Monitor Alarms Across Pediatric Inpatient Settings: A Systematic Review",
-      "titleUz": "Monitor charchogʻiga qarshi: ortiqcha signallarni kamaytirish choralari",
-      "link": "https://doi.org/10.1542/hpeds.2025-009079",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
+      "key": "pmid:42680581",
+      "title": "Caring for children with functional neurological disorders in the emergency department",
+      "titleUz": "Bolalarda funksional nevrologik buzilishlarni shoshilinch boʻlimda tashxislash",
+      "link": "https://doi.org/10.1136/archdischild-2026-330914",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
       "pubDate": "2026-09-01",
-      "caption": "🩺 <b>Monitor charchogʻiga qarshi: ortiqcha signallarni kamaytirish choralari</b>\n\nMonitorlarning tinimsiz va asossiz chalinishi shifokorlarda signal charchogʻini keltirib chiqarib, bemor xavfsizligiga tahdid soladi.\n\n📉 Tizimli tahlildagi deyarli barcha tadqiqotlarda monitor signallari soni va asossiz signallar chastotasi kamaydi.\n🏥 Chaqaloqlar va bolalar reanimatsiyasi (NICU, PICU) hamda boʻlimlardagi 23 ta tadqiqot tahlil qilindi.\n⚙️ Parametrlarni kengaytirish, kechikish vaqtini uzaytirish va xodimlarni oʻqitish eng samarali choralar boʻldi.\n\n💡 <b>Amaliyotga:</b> Signal charchogʻini kamaytirish uchun har bir bemorga individual signal chegaralarini oʻrnatish va kechikish vaqtini (time delay) qoʻllash tavsiya etiladi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-009079\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANwaphOxZn1wduy5zv9J1GijEoXwPQAAhwmaxtNBMlIF2wE-BY9R9ABAAMCAAN5AAM9BA",
-      "adminMessageId": 112
+      "caption": "🩺 <b>Bolalarda funksional nevrologik buzilishlarni shoshilinch boʻlimda tashxislash</b>\n\nShoshilinch boʻlimda bilimlarning yetishmasligi FND tashxisining kechikishi va ortiqcha xarajatlarga olib keladi.\n\n🚨 Tashxisni salbiy tahlillar bilan emas, klinik ʼrule-inʼ belgilari orqali tasdiqlash tavsiya etiladi.\n🩺 Funksional nevrologik buzilishlar (functional neurological disorder, FND) shoshilinch boʻlimda koʻp uchraydi.\n💬 Aniq tashxisni ota-ona va bolaga oʻz vaqtida, tushunarli hamda samimiy tarzda yetkazish muhim.\n\n💡 <b>Amaliyotga:</b> FND guruhidagi bolalarda keraksiz muolajalarning oldini olish uchun manfiy tahlillarni kutmasdan, ijobiy klinik belgilarga tayanib ish tuting.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 1-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330914\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAN2apmisGaFf7nxrqYxRm2NihRUmmcAAoUhaxtNBNFIu5oULHoiRRwBAAMCAAN5AAM9BA",
+      "adminMessageId": 118
     }
   ]
 }
