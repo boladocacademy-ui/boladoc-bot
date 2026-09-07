@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-06-1623",
-  "createdAt": "2026-09-06T16:34:46.437Z",
+  "draftId": "2026-09-07-1624",
+  "createdAt": "2026-09-07T16:25:28.847Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42686209",
-      "title": "Sleep Management and Recovery After TBI in Kids (SMART-Kids): Pilot Trial Using Melatonin",
-      "titleUz": "Bosh miya jarohatidan soʻng melatonin uyqu buzilishi xavfini kamaytiradi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009244",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-09-03",
-      "caption": "🩺 <b>Bosh miya jarohatidan soʻng melatonin uyqu buzilishi xavfini kamaytiradi</b>\n\nBosh miya jarohati (traumatic brain injury, TBI) oʻtkazgan bolalarning 50% dan koʻpida uyqu buzilib, tiklanish ogʻirlashadi.\n\n💊 30 kunlik melatonin kursi va uyqu taʼlimi platseboga nisbatan ogʻir uyqu buzilishi xavfini kamaytirdi.\n👥 Sinov 6-18 yoshli bosh miya jarohati (TBI) olgan bolalarda jarohatdan soʻng 72 soat ichida boshlandi.\n🛡 Usul yuqori xavfsizlik koʻrsatdi, nojoʻya taʼsirlar kuzatilmadi hamda dori ichish intizomi 79% boʻldi.\n\n💡 <b>Amaliyotga:</b> TBI dan soʻng erta melatonin tayinlash xavfsiz va istiqbolli, lekin usulni amaliyotga toʻliq kiritish uchun yirikroq tadqiqotlar natijasi kerak.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 3-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009244\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAODap2V9xOL9-TgY7oRsEMm7odxgyQAAtYeaxvPRulIwteKTBwoXiYBAAMCAAN5AAM9BA",
-      "adminMessageId": 131
+      "key": "pmid:42702269",
+      "title": "Health Literacy in Pediatric Care: Evidence, Gaps, and Opportunities.",
+      "titleUz": "Pediatriyada tibbiy savodxonlik: davolash samarasiga taʼsiri va amaliy usullar",
+      "link": "https://doi.org/10.1016/j.acap.2026.103432",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-09-06",
+      "caption": "🩺 <b>Pediatriyada tibbiy savodxonlik: davolash samarasiga taʼsiri va amaliy usullar</b>\n\nOta-onalarning tibbiy savodxonligi pastligi bolalarda klinik natijalar yomonlashuviga va tavsiyalarga buzilishiga olib keladi.\n\n📊 Past tibbiy savodxonlik (health literacy) kasallik haqida bilimlarni va klinik koʻrsatkichlarni yomonlashtiradi.\n👨‍👩‍👧 Past daromadli va boshqa tilda gapiradigan ota-onalarda savodxonlik yetishmovchiligi koʻproq uchraydi.\n💡 Teach-back usuli va raqamli qurollar tushunishni yaxshilaydi, lekin amaliyotda kam qoʻllaniladi.\n\n💡 <b>Amaliyotga:</b> Muloqotda universal ehtiyot choralarini va teach-back usulini qoʻllang. Bu ota-onalar koʻrsatmalarni toʻgʻri tushunishini va davolash samarasini oshiradi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 6-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103432\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOHap7laY7wpZXGG24zyIXQS1Cf0roAAqIhaxuDbfhIqCqniot3e8QBAAMCAAN5AAM9BA",
+      "adminMessageId": 135
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42692141",
-      "title": "Exploring Relationships Between Clinic Intervention Dosage and Child Weight Trajectories in the Greenlight Plus Trial",
-      "titleUz": "Poliklinika maslahatining dozasi goʻdaklar vazniga qanday taʼsir qiladi?",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115313",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
+      "key": "pmid:42691006",
+      "title": "Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025",
+      "titleUz": "Oʻsmirlarda vaksina qamrovi: HPV va asosiy koʻrsatkichlar",
+      "link": "https://doi.org/10.15585/mmwr.mm7534a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
       "pubDate": "2026-09-03",
-      "caption": "🩺 <b>Poliklinika maslahatining dozasi goʻdaklar vazniga qanday taʼsir qiladi?</b>\n\nBirlamchi boʻgʻindagi qisqa maslahatlar goʻdaklarda erta semirish xavfini kamaytirishda yetarsiz boʻlishi mumkin.\n\n📊 Konsultatsiya dozasi va bolaning vazn-boʻy nisbati (weight-for-length, WFL) oʻrtasida bogʻliqlik chiqmadi (p=0.31).\n👥 Tadqiqot 900 ta ota-ona va bola juftligida 7200 ta profilaktik koʻrik doirasida oʻtkazildi.\n💡 Faqat poliklinika guruhida doza dastlabki 6 oyda vaznni vaqtincha yaxshiladi (p=0.005).\n\n💡 <b>Amaliyotga:</b> Faqat koʻrik paytidagi maslahat yetarli emas. Natijani yaxshilash uchun koʻriklar oraligʻida raqamli texnologiyalar (SMS-eslatmalar) bilan qoʻllab-quvvatlash zarur.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 3-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115313\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOEap2WJpCSUH68vK1u__Cb_FaZKisAAtgeaxvPRulIBu9ugEJ-9UcBAAMCAAN5AAM9BA",
-      "adminMessageId": 132
+      "caption": "🩺 <b>Oʻsmirlarda vaksina qamrovi: HPV va asosiy koʻrsatkichlar</b>\n\nOʻsmirlarda odam papillomavirusi (human papillomavirus, HPV) va boshqa vaksinalar qamrovi pastligicha qolmoqda.\n\n💉 HPV vaksinatsiyasi 4 yildan beri oʻsmayapti; Tdap va MenACWY qamrovi esa ~90% ga tushdi\n📊 AQShda 13–17 yoshli 18 692 nafar oʻsmir bolalarning emlash maʼlumotlari tahlil qilindi\n🏘 Qishloqdagi oʻsmir bolalarda HPV bilan emlanish darajasi shaharga qaraganda 12.0% ga past boʻldi\n\n💡 <b>Amaliyotga:</b> Har bir tibbiy qabulda oʻsmir bolalarning emlash kartasini tekshirib, Tdap, MenACWY va HPV vaksinalarini oʻz vaqtida berish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 3-sentabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7534a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOIap7leBX0lI-hSJbKTwpl6SQqyCoAAqMhaxuDbfhI_ouVUEs8SCwBAAMCAAN5AAM9BA",
+      "adminMessageId": 136
     }
   ]
 }
