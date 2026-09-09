@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-08-1627",
-  "createdAt": "2026-09-08T16:29:20.490Z",
+  "draftId": "2026-09-09-1626",
+  "createdAt": "2026-09-09T16:27:51.295Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42704487",
-      "title": "Ibuprofen versus acetaminophen for acute mild-to-moderate pain management in pediatric populations: a systematic review and meta-analysis of their efficacy.",
-      "titleUz": "Oʻtkir ogʻriqda ibuprofen va atsetaminofen samaradorligi teng keldi",
-      "link": "https://doi.org/10.1007/s00431-026-07383-7",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-07",
-      "caption": "🩺 <b>Oʻtkir ogʻriqda ibuprofen va atsetaminofen samaradorligi teng keldi</b>\n\nPediatriyada yengil va oʻrtacha ogʻriqni qoldirishda ibuprofen va atsetaminofen oʻrtasidagi tanlov hali ham bahsli hisoblanadi.\n\n💊 Ibuprofen ogʻriq intensivligini biroz koʻproq kamaytirdi (SMD -0,28, 95% CI -0,57 dan 0,00 gacha).\n📊 Meta-tahlilga 1325 nafar bola ishtirok etgan 8 ta randomizatsiyalangan klinik sinov (RCT) kiritildi.\n🎯 Toʻliq ogʻriqsizlikka erishish koʻrsatkichi ikkala guruhda bir xil boʻldi (RR 1,03, 95% CI 0,53-1,99).\n\n💡 <b>Amaliyotga:</b> Ibuprofen biroz ustun koʻrinsa-da, farq statistik ishonchli emas (p=0.052). Amaliyotda har ikkala vosita teng samarali hisoblanadi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 7-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07383-7\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOLaqA3swuq9YcpL-OpBnfOfopHvm0AAh4kaxvxeAFJunP2aiqi1V8BAAMCAAN5AAM9BA",
-      "adminMessageId": 139
+      "key": "pmid:42709454",
+      "title": "RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.",
+      "titleUz": "Homiladorlikda RSVpreF vaksinasi chaqaloqlarda RSV gospitalizatsiyasini 82% gacha kamaytiradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.4074",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics",
+      "pubDate": "2026-09-08",
+      "caption": "🩺 <b>Homiladorlikda RSVpreF vaksinasi chaqaloqlarda RSV gospitalizatsiyasini 82% gacha kamaytiradi</b>\n\nChaqaloqlardagi ogʻir RSV-bronxiolitini davolash cheklangan, ammo uni homiladorlik davridagi vaksinatsiya orqali oldini olish mumkin.\n\n💉 RSVpreF bilan emlangan onalarning chaqaloqlarida RSV sababli gospitalizatsiya xavfi 3 oylikkacha 82% ga kamaydi.\n📊 Tahlilga AQSh, Buyuk Britaniya va Argentinadan jami 7 112 nafar chaqaloq qamrab olingan 7 ta tadqiqot kiritildi.\n⏱️ Himoya samaradorligi chaqaloq 6 oylik boʻlguncha 78% boʻldi (agar ona tugʻruqdan kamida 14 kun oldin emlangan boʻlsa).\n\n💡 <b>Amaliyotga:</b> Homiladorlikda RSVpreF vaksinasini qoʻllash chaqaloqlarni dastlabki 6 oyda RSV asoratlaridan samarali himoya qiladi. Uni rejali antenatal emlashga kiritish tavsiya etiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4074\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOPaqGI6qhjIAk71rjk7i9MyWIqN_4AAt0paxvxeAlJvHvPFcck7P0BAAMCAAN5AAM9BA",
+      "adminMessageId": 143
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42683687",
-      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Technical Report",
-      "titleUz": "2026–2027 mavsumida bolalarda COVID-19 ga qarshi emlash boʻyicha AAP tavsiyalari",
-      "link": "https://doi.org/10.1542/peds.2026-079046",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-09-02",
-      "caption": "🩺 <b>2026–2027 mavsumida bolalarda COVID-19 ga qarshi emlash boʻyicha AAP tavsiyalari</b>\n\nYangi mavsumda 6–23 oylik chaqaloqlar va xavf guruhidagi bolalarni COVID-19 ga qarshi emlash dolzarb hisoblanadi.\n\n💉 AAP 6 dan 23 oylikkacha boʻlgan barcha chaqaloqlarga COVID-19 vaksinasini olshni tavsiya qildi.\n🛡 Immunodefitsiti bor va yuqori xavf guruhidagi 6 oylikdan 18 yoshgacha boʻlgan bolalar ham emlanishi zarur.\n🏥 Hisobotda vaksina xavfsizligi, saqlash qoidalari va boshqa emlashlar bilan birga qoʻllash tartibi berildi.\n\n💡 <b>Amaliyotga:</b> Shifokorlar 6–23 oylik chaqaloqlar va xavf guruhidagi bolalarni yangi mavsumiy emlash rejasiga kiritishi hamda boshqa vaksinalar bilan bir vaqtda berishni rejalashtirishi kerak.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 2-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-079046\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOMaqA34H985Zcm7CLF_8ozI72DYkIAAh8kaxvxeAFJBRCQPRHD8oABAAMCAAN5AAM9BA",
-      "adminMessageId": 140
+      "key": "pmid:42711094",
+      "title": "Quality and concordance of international paediatric sepsis guidelines: a cross-sectional appraisal from the SENTINEL International study.",
+      "titleUz": "Bolalar sepsisi protokollari sifati past boʻlsa-da, asosiy tavsiyalarda xalqaro standartga mos keldi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330907",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-08",
+      "caption": "🩺 <b>Bolalar sepsisi protokollari sifati past boʻlsa-da, asosiy tavsiyalarda xalqaro standartga mos keldi</b>\n\nSepsisda har bir daqiqa gʻanimat, lekin shifoxonangizdagi ichki protokollar qanchalik ishonchli va xalqaro standartlarga mos?\n\n📉 Tahlil qilingan 14 ta shifoxona protokollarining barchasi AGREE II boʻyicha past metodologik sifatga ega boʻlib chiqdi.\n🌍 SENTINEL loyihasi 13 ta davlat shifoxonasining bolalar sepsisi klinik amaliyot tavsiyalarini (CPG) qamrab oldi.\n💉 Protokollarning Surviving Sepsis Campaign (SSC 2020) standartiga mosligi 42% dan 100% gacha boʻlib chiqdi.\n\n💡 <b>Amaliyotga:</b> Ichki protokollar metodologiyasi zaif boʻlsa-da, antibiotik va infuziya hajmi kabi vaqtga bogʻliq muhim qadamlarda SSC 2020 standartlariga tayanishda davom eting.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330907\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOQaqGJBzVqzX2P7HDw-5nXXPeZC4sAAt4paxvxeAlJK7KeLffUnNcBAAMCAAN5AAM9BA",
+      "adminMessageId": 144
     }
   ]
 }
