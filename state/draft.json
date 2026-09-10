@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-09-1626",
-  "createdAt": "2026-09-09T16:27:51.295Z",
+  "draftId": "2026-09-10-1624",
+  "createdAt": "2026-09-10T16:26:14.358Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42709454",
-      "title": "RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis.",
-      "titleUz": "Homiladorlikda RSVpreF vaksinasi chaqaloqlarda RSV gospitalizatsiyasini 82% gacha kamaytiradi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4074",
+      "key": "2853476",
+      "title": "RSV Bivalent Prefusion F Protein Vaccine in Pregnancy",
+      "titleUz": "Homiladorlikda RSV vaksinasi chaqaloqlar gospitalizatsiyasini 82% gacha kamaytiradi",
+      "link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853476",
       "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-08",
-      "caption": "🩺 <b>Homiladorlikda RSVpreF vaksinasi chaqaloqlarda RSV gospitalizatsiyasini 82% gacha kamaytiradi</b>\n\nChaqaloqlardagi ogʻir RSV-bronxiolitini davolash cheklangan, ammo uni homiladorlik davridagi vaksinatsiya orqali oldini olish mumkin.\n\n💉 RSVpreF bilan emlangan onalarning chaqaloqlarida RSV sababli gospitalizatsiya xavfi 3 oylikkacha 82% ga kamaydi.\n📊 Tahlilga AQSh, Buyuk Britaniya va Argentinadan jami 7 112 nafar chaqaloq qamrab olingan 7 ta tadqiqot kiritildi.\n⏱️ Himoya samaradorligi chaqaloq 6 oylik boʻlguncha 78% boʻldi (agar ona tugʻruqdan kamida 14 kun oldin emlangan boʻlsa).\n\n💡 <b>Amaliyotga:</b> Homiladorlikda RSVpreF vaksinasini qoʻllash chaqaloqlarni dastlabki 6 oyda RSV asoratlaridan samarali himoya qiladi. Uni rejali antenatal emlashga kiritish tavsiya etiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4074\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOPaqGI6qhjIAk71rjk7i9MyWIqN_4AAt0paxvxeAlJvHvPFcck7P0BAAMCAAN5AAM9BA",
-      "adminMessageId": 143
+      "sourceFull": "JAMA Pediatrics — Online First",
+      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "caption": "🩺 <b>Homiladorlikda RSV vaksinasi chaqaloqlar gospitalizatsiyasini 82% gacha kamaytiradi</b>\n\nRespirator-sintsitial virus (respiratory syncytial virus, RSV) goʻdaklarda ogʻir bronxiolitning asosiy sababchisidir.\n\n📊 Tugʻruqdan 14 kun va undan oldin emlangan onalar chaqaloqlarida 3 oylikkacha RSV gospitalizatsiyasi 82% ga kamaydi.\n👥 7112 nafar chaqaloq qamrab olingan 7 ta real amaliyot metaanalizida 6 oylikkacha boʻlgan samaradorlik 78% boʻldi.\n🛡️ Bivalent RSVpreF vaksinatsiyasi quyi nafas yoʻllari infektsiyasidan (lower respiratory tract infection, LRTI) saqlaydi.\n\n💡 <b>Amaliyotga:</b> Homiladorlikning antenatal davrida RSVpreF vaksinasini qoʻllash chaqaloqlarda hayotining birinchi 6 oyida RSV asoratlarini keskin kamaytiradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics — Online First · 8-sentabr 2026\n🔗 <a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853476\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOTaqLZv7gZtjsFbq92bhMTQBTMzrQAAhMgaxsd6hhJZ3Wa6or2cD0BAAMCAAN5AAM9BA",
+      "adminMessageId": 147
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42711094",
-      "title": "Quality and concordance of international paediatric sepsis guidelines: a cross-sectional appraisal from the SENTINEL International study.",
-      "titleUz": "Bolalar sepsisi protokollari sifati past boʻlsa-da, asosiy tavsiyalarda xalqaro standartga mos keldi",
-      "link": "https://doi.org/10.1136/archdischild-2026-330907",
+      "key": "pmid:42711093",
+      "title": "Clinically significant night-to-night variability in overnight oximetry screening for obstructive sleep apnoea in children with Down syndrome: a retrospective review of screening data",
+      "titleUz": "Daun sindromli bolalarda bir kechalik oximetriya obstruktiv uyqu apnoesini oʻtkazib yuborishi mumkin",
+      "link": "https://doi.org/10.1136/archdischild-2025-329937",
       "source": "Arch Dis Child",
       "sourceFull": "Archives of Disease in Childhood — BMJ",
       "pubDate": "2026-09-08",
-      "caption": "🩺 <b>Bolalar sepsisi protokollari sifati past boʻlsa-da, asosiy tavsiyalarda xalqaro standartga mos keldi</b>\n\nSepsisda har bir daqiqa gʻanimat, lekin shifoxonangizdagi ichki protokollar qanchalik ishonchli va xalqaro standartlarga mos?\n\n📉 Tahlil qilingan 14 ta shifoxona protokollarining barchasi AGREE II boʻyicha past metodologik sifatga ega boʻlib chiqdi.\n🌍 SENTINEL loyihasi 13 ta davlat shifoxonasining bolalar sepsisi klinik amaliyot tavsiyalarini (CPG) qamrab oldi.\n💉 Protokollarning Surviving Sepsis Campaign (SSC 2020) standartiga mosligi 42% dan 100% gacha boʻlib chiqdi.\n\n💡 <b>Amaliyotga:</b> Ichki protokollar metodologiyasi zaif boʻlsa-da, antibiotik va infuziya hajmi kabi vaqtga bogʻliq muhim qadamlarda SSC 2020 standartlariga tayanishda davom eting.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330907\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOQaqGJBzVqzX2P7HDw-5nXXPeZC4sAAt4paxvxeAlJK7KeLffUnNcBAAMCAAN5AAM9BA",
-      "adminMessageId": 144
+      "caption": "🩺 <b>Daun sindromli bolalarda bir kechalik oximetriya obstruktiv uyqu apnoesini oʻtkazib yuborishi mumkin</b>\n\nDaun sindromi bor bolalarda obstruktiv uyqu apnoesi (obstructive sleep apnoea, OSA) skriningida bir kechlik koʻrsatkich yetarsiz.\n\n📊 3 kechalik oximetriya tekshiruvida bolalarning 53 foizida kechalararo sezilarli farq (NTNV) kuzatildi.\n👶 Daun sindromi boʻlgan 1-18 yoshli bolalarda 150 ta toʻliq 3 kechalik oximetriya va poligrafiya natijalari tahlil qilindi.\n📈 Poligrafiya 60% bolada OSA koʻrsatdi, oʻrta-ogʻir apnoening 76% i 6 yoshdan katta bolalarga toʻgʻri keldi.\n\n💡 <b>Amaliyotga:</b> Daun sindromli bolalarda OSA skriningini bir necha kecha davomida oʻtkazish va kattaroq yoshdagi bolalarni ham muntazam tekshirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329937\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOUaqLaJuOT8PiItBfjmK8s_8MVw_UAAhogaxsd6hhJDm9kkdLf968BAAMCAAN5AAM9BA",
+      "adminMessageId": 148
     }
   ]
 }
