@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-10-1624",
-  "createdAt": "2026-09-10T16:26:14.358Z",
+  "draftId": "2026-09-12-1909",
+  "createdAt": "2026-09-11T19:13:11.109Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "2853476",
-      "title": "RSV Bivalent Prefusion F Protein Vaccine in Pregnancy",
-      "titleUz": "Homiladorlikda RSV vaksinasi chaqaloqlar gospitalizatsiyasini 82% gacha kamaytiradi",
-      "link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853476",
+      "key": "pmid:42507437",
+      "title": "Efficacy of Silver Diamine Fluoride on Young Children With Severe Early Childhood Caries: A Randomized Clinical Trial",
+      "titleUz": "38% SDF vositasi kichik yoshdagi bolalarda kariesni toʻxtatishda samarali boʻldi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.2567",
       "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics — Online First",
-      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
-      "caption": "🩺 <b>Homiladorlikda RSV vaksinasi chaqaloqlar gospitalizatsiyasini 82% gacha kamaytiradi</b>\n\nRespirator-sintsitial virus (respiratory syncytial virus, RSV) goʻdaklarda ogʻir bronxiolitning asosiy sababchisidir.\n\n📊 Tugʻruqdan 14 kun va undan oldin emlangan onalar chaqaloqlarida 3 oylikkacha RSV gospitalizatsiyasi 82% ga kamaydi.\n👥 7112 nafar chaqaloq qamrab olingan 7 ta real amaliyot metaanalizida 6 oylikkacha boʻlgan samaradorlik 78% boʻldi.\n🛡️ Bivalent RSVpreF vaksinatsiyasi quyi nafas yoʻllari infektsiyasidan (lower respiratory tract infection, LRTI) saqlaydi.\n\n💡 <b>Amaliyotga:</b> Homiladorlikning antenatal davrida RSVpreF vaksinasini qoʻllash chaqaloqlarda hayotining birinchi 6 oyida RSV asoratlarini keskin kamaytiradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics — Online First · 8-sentabr 2026\n🔗 <a href=\"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853476\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOTaqLZv7gZtjsFbq92bhMTQBTMzrQAAhMgaxsd6hhJZ3Wa6or2cD0BAAMCAAN5AAM9BA",
-      "adminMessageId": 147
+      "sourceFull": "JAMA Pediatrics",
+      "pubDate": "2026-09-01",
+      "caption": "🩺 <b>38% SDF vositasi kichik yoshdagi bolalarda kariesni toʻxtatishda samarali boʻldi</b>\n\nErta bolalikdagi ogʻir karies (severe early childhood caries, S-ECC) kichik yoshdagi bolalarda jiddiy muammo hisoblanadi.\n\n🦷 38% kumush diammin ftorid (SDF) 6 oyda karies zararlanishlarining 54.0% ini toʻxtatdi (platsebo guruhida 22.5%).\n👥 RCT sinovida S-ECC boʻlgan 1-6 yoshli 830 nafar bola qatnashdi.\n🛡️ Vositani takroriy qoʻllashda ham ogʻriq va nojoʻya taʼsirlar boʻyicha guruhlar oʻrtasida farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> 38% SDF vositasi kichik yoshdagi bolalarda kariesni invaziv boʻlmagan holda toʻxtatish uchun samarali va xavfsiz muqobil hisoblanadi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.2567\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOXaqRSSL-AghEE0MHvNxAjsVbZujgAAqYbaxufGShJlzoXppm_GWcBAAMCAAN5AAM9BA",
+      "adminMessageId": 151
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42711093",
-      "title": "Clinically significant night-to-night variability in overnight oximetry screening for obstructive sleep apnoea in children with Down syndrome: a retrospective review of screening data",
-      "titleUz": "Daun sindromli bolalarda bir kechalik oximetriya obstruktiv uyqu apnoesini oʻtkazib yuborishi mumkin",
-      "link": "https://doi.org/10.1136/archdischild-2025-329937",
+      "key": "pmid:42716708",
+      "title": "Paediatric familial hypercholesterolaemia in Australia: a real-world registry study",
+      "titleUz": "FH boʻlgan bolalarning yarmi davolashga qaramay LDL-C maqsadiga erishmayapti",
+      "link": "https://doi.org/10.1136/archdischild-2026-331003",
       "source": "Arch Dis Child",
       "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-08",
-      "caption": "🩺 <b>Daun sindromli bolalarda bir kechalik oximetriya obstruktiv uyqu apnoesini oʻtkazib yuborishi mumkin</b>\n\nDaun sindromi bor bolalarda obstruktiv uyqu apnoesi (obstructive sleep apnoea, OSA) skriningida bir kechlik koʻrsatkich yetarsiz.\n\n📊 3 kechalik oximetriya tekshiruvida bolalarning 53 foizida kechalararo sezilarli farq (NTNV) kuzatildi.\n👶 Daun sindromi boʻlgan 1-18 yoshli bolalarda 150 ta toʻliq 3 kechalik oximetriya va poligrafiya natijalari tahlil qilindi.\n📈 Poligrafiya 60% bolada OSA koʻrsatdi, oʻrta-ogʻir apnoening 76% i 6 yoshdan katta bolalarga toʻgʻri keldi.\n\n💡 <b>Amaliyotga:</b> Daun sindromli bolalarda OSA skriningini bir necha kecha davomida oʻtkazish va kattaroq yoshdagi bolalarni ham muntazam tekshirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 8-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329937\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOUaqLaJuOT8PiItBfjmK8s_8MVw_UAAhogaxsd6hhJDm9kkdLf968BAAMCAAN5AAM9BA",
-      "adminMessageId": 148
+      "pubDate": "2026-09-09",
+      "caption": "🩺 <b>FH boʻlgan bolalarning yarmi davolashga qaramay LDL-C maqsadiga erishmayapti</b>\n\nBolalardagi oilaaviy giperxolesterinemiya (familial hypercholesterolaemia, FH) oʻz vaqtida davolanmasa, erta aterosklerozga olib keladi.\n\n💊 Davo olgan FH boʻlgan bolalarning oʻrtacha LDL-C darajasi 3,8 mmol/L boʻlib, faqat 48,3% ida maqsadli darajaga erishildi.\n📊 341 nafar FH bor bolaning 85,4% i statin olgan, lekin faqat 12,7% iga ezetimib kombinatsiyasi tayinlangan.\n🧪 Bemor bolalarning faqat 52,6% ida genetik test va 33,7% ida lipoprotein(a) [Lp(a)] darajasi aniqlangan.\n\n💡 <b>Amaliyotga:</b> FH boʻlgan bolalarda statin monoterapiyasi nishon holatga yetishga kamlik qilishi mumkin. Target LDL-C uchun ezetimib bilan kombinatsiyalangan terapiya amaliyotini kengaytirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 9-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331003\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOYaqRSxjIOoqlyUXFTSfBuWJAWOUMAAqkbaxufGShJ6WTa2Biv9DwBAAMCAAN5AAM9BA",
+      "adminMessageId": 152
     }
   ]
 }
