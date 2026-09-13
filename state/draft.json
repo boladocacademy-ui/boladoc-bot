@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-12-1820",
-  "createdAt": "2026-09-12T18:21:16.704Z",
+  "draftId": "2026-09-13-1846",
+  "createdAt": "2026-09-13T18:47:06.241Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42684440",
-      "title": "Acute exercise for anxiety reduction in children and adolescents: a meta-analysis of developmental, contextual, and modality-specific effects",
-      "titleUz": "Bir martalik jismoniy mashqlar oʻsmirlarda xavotirlikni pasaytiradi",
-      "link": "https://doi.org/10.1007/s00431-026-07371-x",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-02",
-      "caption": "🩺 <b>Bir martalik jismoniy mashqlar oʻsmirlarda xavotirlikni pasaytiradi</b>\n\nOʻtkir xavotirlik xurujida bolalarga dori-darmonsiz tezkor yordam berish amaliyotda juda muhimdir.\n\n🏃 Bir martalik mashq vaziyatli xavotirlikni (state anxiety) ishonchli kamaytirdi (SMD = -0.77, P = 0.01).\n📊 Meta-tahlilga 6-18 yoshli 739 nafar bola va oʻsmir qatnashgan 12 ta tadqiqot kiritildi.\n🎯 13-18 yoshli oʻsmir bolalarda samaradorlik yanada yuqori boʻldi (SMD = -2.97, P &lt; 0.001).\n\n💡 <b>Amaliyotga:</b> Tadqiqotlar oʻrtasidagi yuqori geterogenlik (I² = 94.9%) sababli natijalarga ehtiyotkorlik bilan yondashish va oʻsmir holatiga qarab mashq tavsiya qilish kerak.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 2-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07371-x\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAObaqWYD8jZGbOWcAF-9fO8uCJ3RikAAhohaxufGTBJtJ-9hByPOdwBAAMCAAN5AAM9BA",
-      "adminMessageId": 155
+      "key": "pmid:42727989",
+      "title": "Evolving landscape of paediatric sepsis: progress, gaps and the next generation of tools",
+      "titleUz": "Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar",
+      "link": "https://doi.org/10.1136/archdischild-2026-331272",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-11",
+      "caption": "🩺 <b>Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar</b>\n\nSepsisdan oʻlim koʻpincha reanimatsiyaga yotqizilgunga qadar belgilanishi sababli, erta tashxis usullarini qayta koʻrib chiqish shart.\n\n🚨 Phoenix mezonlari sepsisni yalligʻlanishdan koʻra hayotga xavf soluvchi aʼzolar disfunksiyasiga koʻra belgilaydi.\n⏳ Koʻplab oʻlimlar bolalar reanimatsiyasiga (PICU) yuborilgach 24 soatda roʻy beradi, skrining hamon mukammal emas.\n💡 Kelajakda universal skriningdan koʻra xavf stratifikatsiyasi va sunʼiy intellekt modellariga eʼtibor qaratiladi.\n\n💡 <b>Amaliyotga:</b> Tashxisda faqat umumiy skriningga emas, ota-onalar xavotiri va klinik intuitsiyaga tayanib, davolashni ogʻirlik darajasiga qarab individuallashtirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 11-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331272\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOfaqbvlOfw7DTlzikmH7ekGJVraZAAAsUkaxvkMzlJQns7jYfuWoABAAMCAAN5AAM9BA",
+      "adminMessageId": 159
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42686199",
-      "title": "A Real-World Evaluation of Large Language Model-Generated Hospital Courses in Pediatrics",
-      "titleUz": "Pediatriyada EHR-integratsiyalangan LLM epikrizlarida 41% nomaqbulliklar aniqlandi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009216",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-09-03",
-      "caption": "🩺 <b>Pediatriyada EHR-integratsiyalangan LLM epikrizlarida 41% nomaqbulliklar aniqlandi</b>\n\nShifokorlar vaqtini tejaydigan AI-epikrizlar amaliyotda qanchalik xavfsiz va aniq ekanini bilasizmi?\n\n🤖 AI yaratgan epikrizlarda 41% nomaqbullik (inaccuracy) va 21% gallyutsinatsiya kuzatildi.\n👨‍⚕️ 50 nafar shifokor Epic EHR tizimi (GPT-4o va GPT-4.1) orqali tayyorlangan 129 ta epikrizni baholadi.\n📊 Matn sifati yuqori (4/5 ball) baholandi, potensial zarar esa past (median 0; IQR 0-1) darajada boʻldi.\n\n💡 <b>Amaliyotga:</b> LLM epikrizlarini faqat shifokor nazorati va yakuniy tahriri sharti bilan boshlangʻich qoralama sifatida ishlatish xavfsiz.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 3-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009216\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOcaqWYHGyNOX08s7VK34AsvpDpNMMAAhshaxufGTBJqO9FHOEpTegBAAMCAAN5AAM9BA",
-      "adminMessageId": 156
+      "key": "pmid:42716243",
+      "title": "Cerebrospinal Fluid Shunt Failure in Children Is Associated with Medical Complexity and Shunt Position, Not Shunt Technology: A Multicenter Prospective Study from the Hydrocephalus Clinical Research Network",
+      "titleUz": "Bolalarda shant nosozligi texnologiyaga emas, bemor holatiga bogʻliq",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115308",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-09-09",
+      "caption": "🩺 <b>Bolalarda shant nosozligi texnologiyaga emas, bemor holatiga bogʻliq</b>\n\nGidrotsefaliyalik bolalarda shant asoratlarini kamaytirish uchun texnologiyadan koʻra bemor omillari muhimroq.\n\n📊 3686 nafar shant oʻrnatilgan bolaning 35%ida shant nosozligi kuzatildi (29% nosozlik, 5% infeksiya).\n👶 0-6 oylik yosh, ensa sohasi (posterior entry) va ≥2 surunkali kasallik nosozlik xavfini oshirdi.\n⚙️ Antibiotikli nayschalar va klapan turlari shant nosozligi xavfini kamaytirib berolgani yoʻq.\n\n💡 <b>Amaliyotga:</b> Shant turidan qatʼi nazar, ensa sohasi kirishi va murakkab surunkali holatlari bor bolalarda koʻproq ehtiyotkorlik talab etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 9-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115308\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOgaqbvqrkzd3kC1PsT89skDZuUcRIAAsckaxvkMzlJbp38CKKD-SsBAAMCAAN5AAM9BA",
+      "adminMessageId": 160
     }
   ]
 }
