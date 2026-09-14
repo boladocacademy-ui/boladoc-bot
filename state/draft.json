@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-13-1846",
-  "createdAt": "2026-09-13T18:47:06.241Z",
+  "draftId": "2026-09-15-2017",
+  "createdAt": "2026-09-14T20:18:15.322Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42727989",
-      "title": "Evolving landscape of paediatric sepsis: progress, gaps and the next generation of tools",
-      "titleUz": "Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar",
-      "link": "https://doi.org/10.1136/archdischild-2026-331272",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-11",
-      "caption": "🩺 <b>Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar</b>\n\nSepsisdan oʻlim koʻpincha reanimatsiyaga yotqizilgunga qadar belgilanishi sababli, erta tashxis usullarini qayta koʻrib chiqish shart.\n\n🚨 Phoenix mezonlari sepsisni yalligʻlanishdan koʻra hayotga xavf soluvchi aʼzolar disfunksiyasiga koʻra belgilaydi.\n⏳ Koʻplab oʻlimlar bolalar reanimatsiyasiga (PICU) yuborilgach 24 soatda roʻy beradi, skrining hamon mukammal emas.\n💡 Kelajakda universal skriningdan koʻra xavf stratifikatsiyasi va sunʼiy intellekt modellariga eʼtibor qaratiladi.\n\n💡 <b>Amaliyotga:</b> Tashxisda faqat umumiy skriningga emas, ota-onalar xavotiri va klinik intuitsiyaga tayanib, davolashni ogʻirlik darajasiga qarab individuallashtirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 11-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331272\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOfaqbvlOfw7DTlzikmH7ekGJVraZAAAsUkaxvkMzlJQns7jYfuWoABAAMCAAN5AAM9BA",
-      "adminMessageId": 159
+      "key": "pmid:42732889",
+      "title": "Improving Goal Feeding and Discharge Time in Pediatrics After G-Tube Placement: A QI Project.",
+      "titleUz": "Gastrostomiya qoʻyilgan bolalarda klinik yoʻriqnoma ovqatlantirish va chiqarishni tezlashtirdi",
+      "link": "https://doi.org/10.1542/hpeds.2025-009110",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-09-14",
+      "caption": "🩺 <b>Gastrostomiya qoʻyilgan bolalarda klinik yoʻriqnoma ovqatlantirish va chiqarishni tezlashtirdi</b>\n\nGastrostomiya operatsiyasidan soʻng bolalarni toʻliq taomlantirish va shifoxonadan chiqarishda standartlashtirish muhim oʻrin tutadi.\n\n🎯 CPG qoʻllangach, toʻliq oʻtish vaqti 25.8 dan 19.3 soatga, gospitalizatsiya 30.6 dan 27.1 soatga qisqardi.\n📊 Sifatni yaxshilash (QI) loyihasida yoʻriqnomadan oldingi (N=82) va keyingi guruh koʻrsatkichlari solishtirildi.\n⚙️ Bemor bolalarda qayt qilish 24% dan 14% ga kamaydi, shoshilinch boʻlimga murojaat (23%) oʻzgarmadi.\n\n💡 <b>Amaliyotga:</b> Gastrostomiyadan keyingi standartlashtirilgan parvarish xavfsizlikni buzmagan holda bemor bolalarning tuzalishini tezlashtiradi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-009110\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOjaqhWfUbpIIoGubWcvIKAInWbxAIAAi4kaxuIIUBJqiFtYMLwl_EBAAMCAAN5AAM9BA",
+      "adminMessageId": 163
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42716243",
-      "title": "Cerebrospinal Fluid Shunt Failure in Children Is Associated with Medical Complexity and Shunt Position, Not Shunt Technology: A Multicenter Prospective Study from the Hydrocephalus Clinical Research Network",
-      "titleUz": "Bolalarda shant nosozligi texnologiyaga emas, bemor holatiga bogʻliq",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115308",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-09-09",
-      "caption": "🩺 <b>Bolalarda shant nosozligi texnologiyaga emas, bemor holatiga bogʻliq</b>\n\nGidrotsefaliyalik bolalarda shant asoratlarini kamaytirish uchun texnologiyadan koʻra bemor omillari muhimroq.\n\n📊 3686 nafar shant oʻrnatilgan bolaning 35%ida shant nosozligi kuzatildi (29% nosozlik, 5% infeksiya).\n👶 0-6 oylik yosh, ensa sohasi (posterior entry) va ≥2 surunkali kasallik nosozlik xavfini oshirdi.\n⚙️ Antibiotikli nayschalar va klapan turlari shant nosozligi xavfini kamaytirib berolgani yoʻq.\n\n💡 <b>Amaliyotga:</b> Shant turidan qatʼi nazar, ensa sohasi kirishi va murakkab surunkali holatlari bor bolalarda koʻproq ehtiyotkorlik talab etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 9-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115308\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOgaqbvqrkzd3kC1PsT89skDZuUcRIAAsckaxvkMzlJbp38CKKD-SsBAAMCAAN5AAM9BA",
-      "adminMessageId": 160
+      "key": "pmid:42732892",
+      "title": "Beta-Lactam Dose Optimization Using Therapeutic Drug Monitoring in Pediatric Patients.",
+      "titleUz": "Pediatriyada beta-laktamlarning standart dozalari maqsadli konsentratsiyani taʼminlay olmayapti",
+      "link": "https://doi.org/10.1542/hpeds.2025-008993",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-09-14",
+      "caption": "🩺 <b>Pediatriyada beta-laktamlarning standart dozalari maqsadli konsentratsiyani taʼminlay olmayapti</b>\n\nPediatrik amaliyotda beta-laktam antibiotiklarning standart dozalari koʻpincha yetarli dori konsentratsiyasini berolmaydi.\n\n💊 Beta-laktam qabul qilgan bolalarning 58,5 foizi 100%fT ≥ 4×MIC terapevtik koʻrsatkichiga erisha olmadi.\n📊 122 bolada dori monitoringi (therapeutic drug monitoring, TDM) dozasini 31% holatda oʻzgartirishga majbur qildi.\n⚠️ Yosh kichikligi va kalava filtratsiyasi (eGFR) yuqoriligi maqsadli konsentratsiyaga erishmaslik xavfini oshirdi.\n\n💡 <b>Amaliyotga:</b> Pediatriyada beta-laktamlarni buyurishda standart doza yetarli boʻlmasligi mumkin, ayniqsa kichik yoshli va buyrak funksiyasi yuqori bolalarda TDM oʻtkazish muhim.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-008993\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAOkaqhWh0UK9hjIsRBaUC4gr7Tsp4MAAi8kaxuIIUBJBVoI4qngd7wBAAMCAAN5AAM9BA",
+      "adminMessageId": 164
     }
   ]
 }
