@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-18-1942",
-  "createdAt": "2026-09-17T19:43:15.201Z",
+  "draftId": "2026-09-19-1901",
+  "createdAt": "2026-09-18T19:06:50.284Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42749213",
-      "title": "Incidence, Risk Factors, and Visual Outcomes of Ocular Hypertension in Pediatric Traumatic Hyphema.",
-      "titleUz": "Bolalardagi travmatik gifemada koʻz ichi gipertenziyasi rivojlanish xavfi va oqibatlari",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115325",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
+      "key": "pmid:42749127",
+      "title": "An ACEs Life Course Health Development Framework to Guide Prevention and Mitigation",
+      "titleUz": "Bolalikdagi noxush kechinmalar (ACEs) asoratlarini kamaytirishning yangi integratsiyalashgan tizimi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103444",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
       "pubDate": "2026-09-16",
-      "caption": "🩺 <b>Bolalardagi travmatik gifemada koʻz ichi gipertenziyasi rivojlanish xavfi va oqibatlari</b>\n\nBolalardagi gifemada koʻz ichi gipertenziyasi (ocular hypertension, OHT) har ikkinchi holatda uchrab, koʻrlik xavfini oshiradi.\n\n👁️ Travmatik gifemali 196 koʻzdan 47,4%ida OHT rivojlandi, ularning 38,7%ida jarrohlik amaliyoti talab etildi.\n📊 Oʻroqsimon hujayrali anemiya (AOR 29,9) va qorachiq yopilgan gifema (AOR 6,6) OHT uchun asosiy xavf omilidir.\n⚠️ Jarrohlik qilingan OHTli bolalar koʻzida koʻrlik darajasi OHTsiz guruhga nisbatan yuqori boʻldi (13,9% vs 2,9%).\n\n💡 <b>Amaliyotga:</b> Oʻroqsimon anemiya va ogʻir gifemasi bor bolalarni zudlik bilan oftalmologga yoʻnaltiring; oʻyinchoq qurollar jarohatning asosiy sababi (32,1%) boʻlib qolmoqda.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 16-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115325\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOvaqxCxyGL3s82YzMy8ti8yySYNAgAAvYwaxtHNGFJ8oUcEvw2AtUBAAMCAAN5AAM9BA",
-      "adminMessageId": 175
+      "caption": "🩺 <b>Bolalikdagi noxush kechinmalar (ACEs) asoratlarini kamaytirishning yangi integratsiyalashgan tizimi</b>\n\nBolalikdagi noxush kechinmalar (ACEs) katta yoshdagi surunkali kasalliklar va ruhiy buzilishlarning asosiy sababchisidir.\n\n🧠 Yangi ACEs LCHD tizimi bolalikdagi jarohatlarning keyingi hayotdagi jismoniy va ruhiy salomatlikka taʼsirini tushuntiradi.\n🏡 Ushbu model oila, jamiyat va ijtimoiy muhitni qamrab olib, avlodlararo salbiy omillar zanjirini uzishga yordam beradi.\n🤝 Shifokorlar uchun 4 ta ustuvor qadam, jumladan, hududiy koalitsiyalar tuzish va travmaga asoslangan yondashuv belgilandi.\n\n💡 <b>Amaliyotga:</b> Pediatrlarga bolalardagi ACEs xavfini baholash, oilalarni qoʻllab-quvvatlash tizimlariga yoʻnaltirish va travmaga asoslangan amaliyotni joriy etish tavsiya etiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 16-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103444\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAO6aq2Len2QiGehIx34URl8Y6vVAaUAArAfaxtHNHFJHDmXyyS6KpEBAAMCAAN5AAM9BA",
+      "adminMessageId": 186
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42744211",
-      "title": "Redesigning Primary Care Via Health Systems and Communities",
-      "titleUz": "Pediatriyada birlamchi tibbiy yordam va ijtimoiy xizmatlar integratsiyasi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103429",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-09-15",
-      "caption": "🩺 <b>Pediatriyada birlamchi tibbiy yordam va ijtimoiy xizmatlar integratsiyasi</b>\n\nBolalar salomatligida faqat tibbiy muolajalar emas, balki ijtimoiy omillar ham hal qiluvchi oʻrin tutadi.\n\n🤝 Tibbiy xizmatlarni ijtimoiy parvarish (social care) va jamoat hamkorligi bilan birlashtirish modeli taklif etildi.\n🏥 Kichik shifokorlar guruhi individual, yirik tibbiyot tizimlari esa jamoa miqyosida ijtimoiy integratsiyani beradi.\n💡 Muvaffaqiyat barqaror moliyalashtirish, kadrlar va maʼlumotlarga asoslangan tahlilga bogʻliq.\n\n💡 <b>Amaliyotga:</b> Bolalar salomatligida eng yaxshi natijaga erishish uchun birlamchi boʻgʻin shifokorlari ijtimoiy xizmatlar bilan integratsiyalashgan holda ishlashlari lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 15-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103429\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOwaqxC09d9_RCCDjpqbwY9oVaC5CUAAvcwaxtHNGFJgj0vt2RxLHoBAAMCAAN5AAM9BA",
-      "adminMessageId": 176
+      "key": "pmid:42754774",
+      "title": "Is methylphenidate truly cardiac-safe? Insight from biventricular speckle tracking echocardiography in pediatric patients with attention deficit hyperactivity disorder.",
+      "titleUz": "Metilfenidat qabul qilgan ADHDʼli bolalarda subklinik kardial oʻzgarishlar aniqlandi",
+      "link": "https://doi.org/10.1007/s00431-026-07388-2",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Metilfenidat qabul qilgan ADHDʼli bolalarda subklinik kardial oʻzgarishlar aniqlandi</b>\n\nADHDʼda keng qoʻllanadigan metilfenidat oddiy exokardiografiyada koʻrinmaydigan yashirin yurak disfunktsiyasiga sabab boʻlishi mumkin.\n\n🫀 6 oylik metilfenidat davosida 2D-STE orqali har ikkala qorincha sistolik va diastolik funksiyasi pasaygani aniqlandi.\n👥 40 nafar ADHDʼli va 40 nafar sogʻlom bolalarda metilfenidat qon bosimi hamda yurak urish chastotasini oshirgan.\n⚠️ Anʼanaviy exokardiografiya subklinik oʻzgarishlarni aniqlay olmadi, lekin aritmiyalar ham qayd etilmadi.\n\n💡 <b>Amaliyotga:</b> Metilfenidat tayinlashdan oldin va davolash davomida bolalarda bazaviy kardiovaskulyar baholash va muntazam monitoring oʻtkazish shart.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07388-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAO8aq2LysAPagGOAAGVwOp83f8vbNFFAAK4H2sbRzRxSaiqp3iwCfW4AQADAgADeQADPQQ",
+      "adminMessageId": 188
     }
   ]
 }
