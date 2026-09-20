@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42161576",
+      "title": "Intravenous rehydration in children with severe malnutrition and severe dehydration: a systematic review and meta-analysis",
+      "titleUz": "Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?",
+      "link": "https://doi.org/10.1136/archdischild-2026-330358",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?</b>\n\nOgʻir oʻtkir toʻyib ovqatlanmaslik (severe acute malnutrition, SAM) boʻlgan bolalarda vena ichiga suyuqlik yuborish xavflimi?\n\n💧 Vena ichiga regidratatsiya (IVR) oʻlim xavfini ogʻiz orqali yuborishga (OR) nisbatan 29% gacha kamaytirishi mumkin.\n📊 Meta-analiz ogʻir toʻyib ovqatlanmagan va suvsizlangan 484 nafar bola qatnashgan 3 ta klinik sinovni qamrab oldi.\n⚠️ IVR guruhida suyuqlikning ortiqcha yuklanishi (fluid overload) yoki ogʻir nojoʻya taʼsirlar xavfi yuqori boʻlmadi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga regidratatsiya oʻlim xavfini oshirmaydi va xavfsiz koʻrinadi, lekin farq statistik ishonchli emas (CI 0.46-1.10). Amaliyotni oʻzgartirishga hali erta.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330358\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPEarAp48q3SaJM0DCxj_gTHOZIYAEAAmcnaxuK2oBJgnRrgl05qXABAAMCAAN5AAM9BA",
+      "adminMessageId": 196,
+      "draftId": "2026-09-20-1845"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42309668",
+      "title": "Real-world outcomes of hybrid closed-loop insulin pump therapy in UK children and young people with type 1 diabetes and high HbA1c: a multicentre retrospective cohort study",
+      "titleUz": "Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330408",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi</b>\n\nHbA1c darajasi oʻta yuqori boʻlgan bolalarda glikemiyani barqarorlashtirish va gospitalizatsiyani kamaytirish endi osonroq.\n\n📉 HCL (gibrid yopiq konturli) insulin pompasi 12 oyda HbA1c darajasini oʻrtacha 14.4 mmol/mol ga pasaytirdi.\n👥 Retrospektiv tadqiqotda HbA1c darajasi yuqori (≥69 mmol/mol) boʻlgan 220 nafar bolaning natijalari tahlil qilindi.\n🏥 Eng katta samara boshlangʻich HbA1c &gt;100 mmol/mol boʻlgan bolalarda kuzatildi va gospitalizatsiya holatlari kamaydi.\n\n💡 <b>Amaliyotga:</b> HbA1c darajasi yuqori boʻlgan bolalarda HCL terapiyasini qoʻllash glikemiyani uzoq muddatli yaxshilash va gospitalizatsiyani kamaytirish imkonini beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330408\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPFarAqBxQL8hGbNoxNkcDVy5aSkKEAAmgnaxuK2oBJWQz3DTPXJfUBAAMCAAN5AAM9BA",
+      "adminMessageId": 197,
+      "draftId": "2026-09-20-1845"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42752608",
       "title": "Syphilis Screening in Correctional Facilities - Alaska, October 2023-September 2025",
       "titleUz": "Jazo muassasalarida opt-out skrining sifilisni aniqlash va davolash koʻrsatkichini oshirdi",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAM_aoiQKHO7NVbxsUdcq2AzprfSZmoAAuwlaxuVSUBIC2CDnrI8VPIBAAMCAAN5AAM9BA",
       "adminMessageId": 63,
       "draftId": "2026-08-21-1750"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42560851",
-      "title": "Poisoning Deaths in a Workshop for Ceremonial Papermaking - China, May 2025",
-      "titleUz": "Yopiq sigʻimdagi vodorod sulfid va boshqa gazlardan oʻtkir zaharlanish: 4 ta oʻlim holati",
-      "link": "https://doi.org/10.15585/mmwr.mm7530a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
-      "pubDate": "2026-08-06",
-      "caption": "🩺 <b>Yopiq sigʻimdagi vodorod sulfid va boshqa gazlardan oʻtkir zaharlanish: 4 ta oʻlim holati</b>\n\nYopiq hududlardagi zaharli gazlar daqiqalar ichida bir necha kishining oʻlimiga sabab boʻlishi mumkin.\n\n☠️ Oqova suv sigʻimidagi vodorod sulfid, ftorvodorod va fosfin darajasi meʼyordan bir necha barobar yuqori boʻlgan.\n🚨 Bir sigʻimga ketma-ket kirgan bir oilaning 4 nafar aʼzosi 20 daqiqa ichida oʻtkir zaharlanib halok boʻldi.\n🛡️ Yopiq joyda shaxsiy himoya vositalari boʻlmagani va gazlar toʻplanishi fojiaga olib kelgan.\n\n💡 <b>Amaliyotga:</b> Yopiq joylarda hushsiz topilgan bemorlarni qutqarishda oʻtkir gazli zaharlanishni gumon qilish va qutqaruvchilar xavfsizligini taʼminlash shart.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 6-avgust 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7530a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAM6aoc-X9XnteBtNQn9nS38IaTgc00AAmcdaxuOVjlI_yBDei7sibwBAAMCAAN5AAM9BA",
-      "adminMessageId": 58,
-      "draftId": "2026-08-20-1749"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42604759",
-      "title": "Variation in In-Hospital Emergency Transfer Rates Across Pediatric Hospitals",
-      "titleUz": "Bolalar shifoxonalarida shoshilinch reanimatsiyaga oʻtkazish koʻrsatkichi 4 barobargacha farq qiladi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009318",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-08-17",
-      "caption": "🩺 <b>Bolalar shifoxonalarida shoshilinch reanimatsiyaga oʻtkazish koʻrsatkichi 4 barobargacha farq qiladi</b>\n\nStatsionarda bolalar holati yomonlashganda PICUga oʻtkazish mezonlari standartlashmagani turli natijalarga olib keladi.\n\n🚨 Birlashgan shoshilinch oʻtkazish (ET) koʻrsatkichi 10 000 bemor-kunga 2,83 boʻlib, klinikalar orasida 1,2–5,1 gacha farq qildi.\n📊 7 ta uchinchi darajali bolalar shifoxonasida 1,5 mln bemor-kun va 11 100 ta rejalashtirilmagan oʻtkazishlar tahlil qilindi.\n💉 ET holatlarining 53 foizida intubatsiya (endotracheal intubation) va 46 foizida vasopressorlar qoʻllanishi kuzatildi.\n\n💡 <b>Amaliyotga:</b> Klinikalar oʻrtasida ish sifatini xolis taqqoslash uchun shoshilinch oʻtkazish (emergency transfer, ET) mezonlarini yagona standartga keltirish kerak.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 17-avgust 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009318\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAM7aoc-i6QxlixLVfpzjGUfQfYK7-AAAmsdaxuOVjlIkKHDHst-h6UBAAMCAAN5AAM9BA",
-      "adminMessageId": 59,
-      "draftId": "2026-08-20-1749"
     }
   ]
 }

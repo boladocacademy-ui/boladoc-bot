@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-19-1835",
-  "createdAt": "2026-09-19T18:37:00.971Z",
+  "draftId": "2026-09-20-1845",
+  "createdAt": "2026-09-20T18:46:31.826Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42752608",
-      "title": "Syphilis Screening in Correctional Facilities - Alaska, October 2023-September 2025",
-      "titleUz": "Jazo muassasalarida opt-out skrining sifilisni aniqlash va davolash koʻrsatkichini oshirdi",
-      "link": "https://doi.org/10.15585/mmwr.mm7536a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
-      "pubDate": "2026-09-17",
-      "caption": "🩺 <b>Jazo muassasalarida opt-out skrining sifilisni aniqlash va davolash koʻrsatkichini oshirdi</b>\n\nYopiq muassasalardagi infeksiya oʻchoqlari umumiy populyatsiyada sifilis va tugʻma sifilis tarqalishiga bevosita taʼsir qiladi.\n\n🔍 Muntazam (opt-out) skriningda 5 163 nafar mahkumdan 114 tasida (2,2%) yangi sifilis aniqlanib, 77,2% i davolandi.\n📊 Ayol mahkumlar orasida tezkor plazma reagini (rapid plasma reagin, RPR) testi 9,3% holatda musbat natija berdi.\n🛡 Ushbu yondashuv infeksiya oʻchogʻini bartaraf etish hamda tugʻma sifilis uzatilishini oldini olishga yordam beradi.\n\n💡 <b>Amaliyotga:</b> Jazo muassasalarida opt-out skrining tizimini joriy etish sifilisni erta davolashga hamda jamiyatda va chaqaloqlarda infeksiya tarqalishini kamaytirishga xizmat qiladi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 17-sentabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7536a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAO_aq7WCJKyp-8i2yiEJfh48rWVtc0AAi8haxtYlnhJ8xqJeeE5eXQBAAMCAAN5AAM9BA",
-      "adminMessageId": 191
+      "key": "pmid:42161576",
+      "title": "Intravenous rehydration in children with severe malnutrition and severe dehydration: a systematic review and meta-analysis",
+      "titleUz": "Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?",
+      "link": "https://doi.org/10.1136/archdischild-2026-330358",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?</b>\n\nOgʻir oʻtkir toʻyib ovqatlanmaslik (severe acute malnutrition, SAM) boʻlgan bolalarda vena ichiga suyuqlik yuborish xavflimi?\n\n💧 Vena ichiga regidratatsiya (IVR) oʻlim xavfini ogʻiz orqali yuborishga (OR) nisbatan 29% gacha kamaytirishi mumkin.\n📊 Meta-analiz ogʻir toʻyib ovqatlanmagan va suvsizlangan 484 nafar bola qatnashgan 3 ta klinik sinovni qamrab oldi.\n⚠️ IVR guruhida suyuqlikning ortiqcha yuklanishi (fluid overload) yoki ogʻir nojoʻya taʼsirlar xavfi yuqori boʻlmadi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga regidratatsiya oʻlim xavfini oshirmaydi va xavfsiz koʻrinadi, lekin farq statistik ishonchli emas (CI 0.46-1.10). Amaliyotni oʻzgartirishga hali erta.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330358\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPEarAp48q3SaJM0DCxj_gTHOZIYAEAAmcnaxuK2oBJgnRrgl05qXABAAMCAAN5AAM9BA",
+      "adminMessageId": 196
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42759842",
-      "title": "\"Do I Need Help?\": A Qualitative Study of Interns on a Pediatrics Night Float Rotation.",
-      "titleUz": "Pediatriya internlari tungi navbatchilikda qachon va nega yordam soʻrashga ikkilanishadi?",
-      "link": "https://doi.org/10.1016/j.acap.2026.103448",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
+      "key": "pmid:42309668",
+      "title": "Real-world outcomes of hybrid closed-loop insulin pump therapy in UK children and young people with type 1 diabetes and high HbA1c: a multicentre retrospective cohort study",
+      "titleUz": "Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330408",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
       "pubDate": "2026-09-18",
-      "caption": "🩺 <b>Pediatriya internlari tungi navbatchilikda qachon va nega yordam soʻrashga ikkilanishadi?</b>\n\nTungi navbatchilikda tajribali shifokorni uygʻotish yoki mustaqil qaror qabul qilish oʻrtasidagi chegara juda nozik.\n\n🔍 Internlar yordam soʻrashni 3 xil modelda hal qiladi: tezda soʻrash, ikkilanish va tonggacha kutishni afzal koʻrish.\n👥 Pediatriya va oilaviy tibbiyot yoʻnalishidagi 12 nafar internning tungi navbatchilikdagi 19 ta hikoyasi tahlil qilindi.\n⏳ Bemor ahvoli ogʻirligida tez yordam soʻralgan, ammo shifokorni uygʻotishdan tortinish yordam chaqirishni kechiktirgan.\n\n💡 <b>Amaliyotga:</b> Klinikada yordam soʻrash madaniyatini normallashtirish zarur, shunda yosh shifokorlar xato qilishdan qoʻrqmay, oʻz vaqtida koʻmak soʻray oladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103448\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAPBaq7WTGNJwKvc0tLrGlTs6HzSC5oAAjEhaxtYlnhJbyeM3QGd5P0BAAMCAAN5AAM9BA",
-      "adminMessageId": 193
+      "caption": "🩺 <b>Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi</b>\n\nHbA1c darajasi oʻta yuqori boʻlgan bolalarda glikemiyani barqarorlashtirish va gospitalizatsiyani kamaytirish endi osonroq.\n\n📉 HCL (gibrid yopiq konturli) insulin pompasi 12 oyda HbA1c darajasini oʻrtacha 14.4 mmol/mol ga pasaytirdi.\n👥 Retrospektiv tadqiqotda HbA1c darajasi yuqori (≥69 mmol/mol) boʻlgan 220 nafar bolaning natijalari tahlil qilindi.\n🏥 Eng katta samara boshlangʻich HbA1c &gt;100 mmol/mol boʻlgan bolalarda kuzatildi va gospitalizatsiya holatlari kamaydi.\n\n💡 <b>Amaliyotga:</b> HbA1c darajasi yuqori boʻlgan bolalarda HCL terapiyasini qoʻllash glikemiyani uzoq muddatli yaxshilash va gospitalizatsiyani kamaytirish imkonini beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330408\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPFarAqBxQL8hGbNoxNkcDVy5aSkKEAAmgnaxuK2oBJWQz3DTPXJfUBAAMCAAN5AAM9BA",
+      "adminMessageId": 197
     }
   ]
 }
