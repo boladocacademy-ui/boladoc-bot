@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-20-1845",
-  "createdAt": "2026-09-20T18:46:31.826Z",
+  "draftId": "2026-09-22-2024",
+  "createdAt": "2026-09-21T20:29:15.888Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42161576",
-      "title": "Intravenous rehydration in children with severe malnutrition and severe dehydration: a systematic review and meta-analysis",
-      "titleUz": "Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?",
-      "link": "https://doi.org/10.1136/archdischild-2026-330358",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-18",
-      "caption": "🩺 <b>Ogʻir suvsizlangan va toʻyib ovqatlanmagan bolalarda vena ichiga regidratatsiya qilish xavfsizmi?</b>\n\nOgʻir oʻtkir toʻyib ovqatlanmaslik (severe acute malnutrition, SAM) boʻlgan bolalarda vena ichiga suyuqlik yuborish xavflimi?\n\n💧 Vena ichiga regidratatsiya (IVR) oʻlim xavfini ogʻiz orqali yuborishga (OR) nisbatan 29% gacha kamaytirishi mumkin.\n📊 Meta-analiz ogʻir toʻyib ovqatlanmagan va suvsizlangan 484 nafar bola qatnashgan 3 ta klinik sinovni qamrab oldi.\n⚠️ IVR guruhida suyuqlikning ortiqcha yuklanishi (fluid overload) yoki ogʻir nojoʻya taʼsirlar xavfi yuqori boʻlmadi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga regidratatsiya oʻlim xavfini oshirmaydi va xavfsiz koʻrinadi, lekin farq statistik ishonchli emas (CI 0.46-1.10). Amaliyotni oʻzgartirishga hali erta.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330358\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAPEarAp48q3SaJM0DCxj_gTHOZIYAEAAmcnaxuK2oBJgnRrgl05qXABAAMCAAN5AAM9BA",
-      "adminMessageId": 196
+      "key": "pmid:42764171",
+      "title": "Eye Findings Following Congenital Cytomegalovirus Newborn Screening.",
+      "titleUz": "Tugʻma sitomegalovirusda yalpi koʻz tekshiruvi oʻzini oqlamaydi",
+      "link": "https://doi.org/10.1542/peds.2025-075586",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-09-21",
+      "caption": "🩺 <b>Tugʻma sitomegalovirusda yalpi koʻz tekshiruvi oʻzini oqlamaydi</b>\n\nTugʻma sitomegalovirus (congenital cytomegalovirus, cCMV) aniqlangan har bir chaqaloqni oftalmologga yuborish shartmi?\n\n👁️ Simptomsiz cCMV boʻlgan chaqaloqlarning birortasida ham koʻz patologiyasi aniqlanmadi.\n👶 Skriningda cCMV aniqlangan 347 nafar chaqaloqning koʻz tekshiruvi maʼlumotlari tahlil qilindi.\n🔍 Faqat 2 nafar ogʻir simptomli chaqaloqda (0,58%) koʻz shikastlanishi (xorioretinal chandiq) aniqlandi.\n\n💡 <b>Amaliyotga:</b> Simptomsiz cCMV boʻlgan chaqaloqlarni yalpi oftalmologik koʻrikdan oʻtkazish shart emas. Tekshiruvga faqat simptomli va xavf guruhidagi bolalarni yuborish tavsiya etiladi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 21-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2025-075586\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPIarGS1jFbOhnXJ84O02g8K83ZPVcAAn0caxuK2pBJKtoriHyB1ewBAAMCAAN5AAM9BA",
+      "adminMessageId": 200
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42309668",
-      "title": "Real-world outcomes of hybrid closed-loop insulin pump therapy in UK children and young people with type 1 diabetes and high HbA1c: a multicentre retrospective cohort study",
-      "titleUz": "Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi",
-      "link": "https://doi.org/10.1136/archdischild-2026-330408",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-18",
-      "caption": "🩺 <b>Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi</b>\n\nHbA1c darajasi oʻta yuqori boʻlgan bolalarda glikemiyani barqarorlashtirish va gospitalizatsiyani kamaytirish endi osonroq.\n\n📉 HCL (gibrid yopiq konturli) insulin pompasi 12 oyda HbA1c darajasini oʻrtacha 14.4 mmol/mol ga pasaytirdi.\n👥 Retrospektiv tadqiqotda HbA1c darajasi yuqori (≥69 mmol/mol) boʻlgan 220 nafar bolaning natijalari tahlil qilindi.\n🏥 Eng katta samara boshlangʻich HbA1c &gt;100 mmol/mol boʻlgan bolalarda kuzatildi va gospitalizatsiya holatlari kamaydi.\n\n💡 <b>Amaliyotga:</b> HbA1c darajasi yuqori boʻlgan bolalarda HCL terapiyasini qoʻllash glikemiyani uzoq muddatli yaxshilash va gospitalizatsiyani kamaytirish imkonini beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330408\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAPFarAqBxQL8hGbNoxNkcDVy5aSkKEAAmgnaxuK2oBJWQz3DTPXJfUBAAMCAAN5AAM9BA",
-      "adminMessageId": 197
+      "key": "pmid:42764127",
+      "title": "Change in Travel Distance for Pediatric Mental Health Admissions in Illinois, 2016 to 2024.",
+      "titleUz": "Bolalar psixiatrik statsionariga borish masofasi 2 baravargacha uzaydi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103450",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-09-20",
+      "caption": "🩺 <b>Bolalar psixiatrik statsionariga borish masofasi 2 baravargacha uzaydi</b>\n\nPsixiatrik yordamga muhtoj bolalarni statsionarga yotqizishda shifoxonalar olisligi asosiy toʻsiqqa aylanmoqda.\n\n🏥 2024-yilda psixiatrik yotqizilgan bolalarning 21.9 foizi 50 mildan ortiq masofa bosib oʻtishga majbur boʻldi.\n📊 2016-2024 yillardagi 5-17 yoshli bolalarning 40 mingdan ortiq gospitalizatsiya holatlari tahlil qilindi.\n📉 Muammo oddiy shifoxonalarda boʻlimlar yopilib, yordam ixtisoslashgan markazlarda toʻplangani bilan bogʻliq.\n\n💡 <b>Amaliyotga:</b> Pediatrlar ruhiy xastaligi bor bolalarni statsionarga yoʻnaltirayotganda transport va logistika kechikishlarini hisobga olishlari zarur.\n\n📚 <b>Manba:</b> Academic Pediatrics · 20-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103450\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAPKarGTm7nDzLpPgCGIP2pXh8YW56gAAn8caxuK2pBJvBs6gS_XIbUBAAMCAAN5AAM9BA",
+      "adminMessageId": 202
     }
   ]
 }
