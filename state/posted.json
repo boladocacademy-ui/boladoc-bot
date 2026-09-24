@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42767419",
     "pmid:42617793",
     "pmid:41927326",
     "pmid:42618057",
@@ -12,6 +13,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42767419",
+      "postedAt": "2026-09-24T07:32:05.241Z",
+      "title": "From Course to Clinical Practice: A Mixed-Methods Evaluation of a Longitudinal POCUS Curriculum for Community Pediatricians.",
+      "titleUz": "POCUS oʻquv dasturidan keyin pediatrlar rentgenga kamroq murojaat qilmoqdalar",
+      "link": "https://doi.org/10.1016/j.acap.2026.103445",
+      "source": "Academic Pediatrics",
+      "messageId": 790
+    },
     {
       "key": "pmid:42617793",
       "postedAt": "2026-08-28T07:05:13.310Z",

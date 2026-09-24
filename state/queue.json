@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42767419",
-      "title": "From Course to Clinical Practice: A Mixed-Methods Evaluation of a Longitudinal POCUS Curriculum for Community Pediatricians.",
-      "titleUz": "POCUS oʻquv dasturidan keyin pediatrlar rentgenga kamroq murojaat qilmoqdalar",
-      "link": "https://doi.org/10.1016/j.acap.2026.103445",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-09-21",
-      "caption": "🩺 <b>POCUS oʻquv dasturidan keyin pediatrlar rentgenga kamroq murojaat qilmoqdalar</b>\n\nHududiy pediatrlar bevosita koʻrik vaqtidagi ultratovush tekshiruvidan (POCUS) foydalansa, tashxis aniqligi va ota-onalar mamnunligi oshadi.\n\n📈 POCUS kursidan keyin hududiy pediatrlarning 44 foizi undan har hafta foydalandi, 65 foizi esa rentgenga ehtiyojni kamaytirdi.\n👥 Kursda 65 nafar pediatr qatnashdi: ular 2 kunlik nazariya va bolalar shoshilinch boʻlimida 4 ta amaliy navbatchilikni oʻtadi.\n⚠️ Qurilmalarning yetishmasligi, qayta tayyorlov yoʻqligi va tasvirlar sifatiga fikr bildirilmasligi asosiy toʻsiq boʻldi.\n\n💡 <b>Amaliyotga:</b> Pediatrlar amaliyotida POCUSni muvaffaqiyatli joriy etish uchun faqat kurs yetarli emas — doimiy ishlaydigan apparat va tajribali hamkasblar nazorati zarur.\n\n📚 <b>Manba:</b> Academic Pediatrics · 21-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103445\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAPOarLa0h_LF99OW2iRcBGlroBtSHsAAtMoaxsGAphJb2Vh2CuHqJ4BAAMCAAN5AAM9BA",
-      "adminMessageId": 206,
-      "draftId": "2026-09-23-1943",
-      "approvedAt": "2026-09-23T17:45:52.092Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42749298",
@@ -34,5 +18,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-09-23"
+  "handledOn": "2026-09-24"
 }
