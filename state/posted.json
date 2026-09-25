@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42749298",
     "pmid:42767419",
     "pmid:42617793",
     "pmid:41927326",
@@ -13,6 +14,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42749298",
+      "postedAt": "2026-09-25T07:38:15.534Z",
+      "title": "Clinical Outcomes of Systemic Steroid Use in Children Under 2 with Bronchiolitis and BPD",
+      "titleUz": "BPD bor goʻdaklarda oʻtkir bronxiolitda tizimli steroidlar shifoxonada yotish muddatini uzaytirdi",
+      "link": "https://doi.org/10.1542/hpeds.2025-008721",
+      "source": "Hospital Pediatrics",
+      "messageId": 791
+    },
     {
       "key": "pmid:42767419",
       "postedAt": "2026-09-24T07:32:05.241Z",
