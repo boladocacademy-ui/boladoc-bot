@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42764176",
+      "title": "Implementing Congenital CMV Screening in a Large Hospital System",
+      "titleUz": "Tugʻma sitomegalovirusni gibrid skrining qilish aniqlash chastotasini 2,5 barobarga oshirdi",
+      "link": "https://doi.org/10.1542/peds.2026-076776",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-09-21",
+      "caption": "🩺 <b>Tugʻma sitomegalovirusni gibrid skrining qilish aniqlash chastotasini 2,5 barobarga oshirdi</b>\n\nTugʻma sitomegalovirus (congenital cytomegalovirus, cCMV) chaqaloqlarda nogirorlik keltiruvchi neyrosensor karlikning bosh sababidir.\n\n🎯 Skrining cCMV aniqlanishini 2,5 barobar oshirdi: maqsadli guruhda 0,74%, universal guruhda esa 0,33% boʻldi (P=0,01).\n👥 Jami 50 438 nafar yangi tugʻilgan chaqaloqdan 7 491 nafari (14,9%) shifoxona tizimida gibrid skriningdan oʻtdi.\n⚠️ Tasdiqlangan chaqaloqlarda neyrovizualizatsiya anomaliyalari (32,3%) va kichik vazn (SGA, 26,5%) koʻp qayd etildi.\n\n💡 <b>Amaliyotga:</b> Gibrid cCMV skriningi erta tashxisni sezilarli oshiradi, ammo amaliy samara berishi uchun audiologik nazoratga oilalarning yetib borishini taʼminlash zarur.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 21-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076776\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBAWq4GUR7z2TxRy0jT5JhC9dNE9SfAAKCI2sbdOLBSeyvLsLDR2CwAQADAgADeQADPQQ",
+      "adminMessageId": 257,
+      "draftId": "2026-09-27-1912"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:41407517",
+      "title": "Point-of-care decision rule for antibiotic prescriptions in young children with fever without source: an open cluster randomised trial",
+      "titleUz": "Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon",
+      "link": "https://doi.org/10.1136/archdischild-2025-329438",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon</b>\n\nOʻchoqsiz isitmalayotgan kichik yoshli bolalarda antibiotikni asossiz tayinlashni klinik ekspress mezonlar orqali kamaytirish mumkin.\n\n📉 Yangi qaror qabul qilish qoidasi antibiotik tayinlashni 38.0% dan 26.2% ga tushirdi (OR 0.57; 95% CI 0.43-0.75).\n👶 Sinov 6 kunlikdan 36 oylikgacha boʻlgan 4882 nafar sababsiz isitmalagan bolada 25 ta ShTTYo markazida oʻtkazildi.\n🔬 Algoritm yosh, klinik belgilar, siydik tahlili va ekspress prokalsitonin darajasiga asoslanib, xavfsiz ekanini koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Tezkor prokalsitonin va klinik mezonlarga asoslangan algoritm shoshilinch yordam boʻlimlarida antibiotiklardan oʻrinsiz foydalanishni xavfsiz cheklashga yordam beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329438\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBAmq4GValS95nfiLkcTo-PwWoqRsqAAKDI2sbdOLBSS0sAX40jm2cAQADAgADeQADPQQ",
+      "adminMessageId": 258,
+      "draftId": "2026-09-27-1912"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42749296",
       "title": "Safety Considerations for Hospitalized Children and Adolescents With Obesity",
       "titleUz": "Semizligi bor bolalarni shifoxonada davolashda xavfsizlik choralari",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAANSao3ViuUZ_kLWd3WV9aufUzCTKBMAAmshaxsiWGhI9OEOhIXPtIkBAAMCAAN5AAM9BA",
       "adminMessageId": 82,
       "draftId": "2026-08-25-1748"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42637114",
-      "title": "Long-Term Outcomes of Expectant Management Versus Early Ibuprofen for Patent Ductus Arteriosus: 24-Month Follow-Up of the BeNeDuctus Trial.",
-      "titleUz": "PDA da erta ibuprofen qoʻllash 24 oylik rivojlanish va oʻlim koʻrsatkichini yaxshilamaydi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115292",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-08-24",
-      "caption": "🩺 <b>PDA da erta ibuprofen qoʻllash 24 oylik rivojlanish va oʻlim koʻrsatkichini yaxshilamaydi</b>\n\nChala tugʻilgan chaqaloqlarda ochiq arterial yoʻlni (PDA) ertangi medikamentoz yopish shartmi degan savol bahsli boʻlib qolmoqda.\n\n🧠 24 oylik korreksiyalangan yoshda asab rivojlanishi va oʻlimsiz yashash har ikki guruhda bir xil — 49% boʻldi (RR 1,00).\n👶 Gestatsiya yoshi &lt;28 hafta boʻlgan 234 nafar chaqaloq kutish taktikasi va erta ibuprofen guruhlariga boʻlindi.\n👁️ Koʻrish, eshitish va boʻy-vazn koʻrsatkichlarida ham guruhlar oʻrtasida sezilarli farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Erta ibuprofen berish kutish taktikasiga nisbatan uzoq muddatli afzallik bermaydi, shuning uchun uni tartibli ravishda qoʻllash shart emas.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-avgust 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115292\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANTao3VpcuNszu4JhvqpowiRQABnXipAAJtIWsbIlhoSJ8OxqDfy8sBAQADAgADeQADPQQ",
-      "adminMessageId": 83,
-      "draftId": "2026-08-25-1748"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42617793",
-      "title": "Multisystem Inflammatory Syndrome Therapies in Children: A Comparative Effectiveness Trial",
-      "titleUz": "IVIG-rezistent MIS-C da infliksimab va steroidlar anakinradan koʻra samaraliroq boʻldi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115293",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-08-19",
-      "caption": "🩺 <b>IVIG-rezistent MIS-C da infliksimab va steroidlar anakinradan koʻra samaraliroq boʻldi</b>\n\nVenaga immunoglobulin (intravenous immunoglobulin, IVIG) samarasiz boʻlgan MIS-C da keyingi dorini toʻgʻri tanlash muhim.\n\n💊 Birinchi dorisi anakinra boʻlgan bolalarda 2-terapiyaga ehtiyoj infliksimabga nisbatan 3,4 baravar yuqori boʻldi (OR=3.42).\n📊 Tadqiqot IVIG-rezistent bolalardagi multisistem yalligʻlanish sindromi (MIS-C) bor 71 nafar bolada oʻtkazildi.\n⚠️ Barcha nojoʻya taʼsirlarning 94,1 foizi steroidlar ulushiga toʻgʻri keldi, lekin ogʻir asoratlar kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> IVIG-rezistent MIS-C da infliksimab yoki steroidlarni birinchi qoʻllash afzal, lekin steroidlarning nojoʻya taʼsirlari koʻproq uchrashini hisobga olish lozim.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 19-avgust 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115293\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAANMaoyE71Wp_qe3Vko5o6l6VHDg7esAAu4jaxvVvWhI_Lst5PYTApEBAAMCAAN5AAM9BA",
-      "adminMessageId": 76,
-      "draftId": "2026-08-24-1751"
     }
   ]
 }

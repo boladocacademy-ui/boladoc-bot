@@ -1,6 +1,35 @@
 {
-  "draftId": "2026-09-26-2000",
-  "createdAt": "2026-09-25T20:05:31.877Z",
-  "status": "failed",
-  "options": []
+  "draftId": "2026-09-27-1912",
+  "createdAt": "2026-09-26T19:13:26.745Z",
+  "status": "pending",
+  "options": [
+    {
+      "index": 0,
+      "label": "A",
+      "key": "pmid:42764176",
+      "title": "Implementing Congenital CMV Screening in a Large Hospital System",
+      "titleUz": "Tugʻma sitomegalovirusni gibrid skrining qilish aniqlash chastotasini 2,5 barobarga oshirdi",
+      "link": "https://doi.org/10.1542/peds.2026-076776",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-09-21",
+      "caption": "🩺 <b>Tugʻma sitomegalovirusni gibrid skrining qilish aniqlash chastotasini 2,5 barobarga oshirdi</b>\n\nTugʻma sitomegalovirus (congenital cytomegalovirus, cCMV) chaqaloqlarda nogirorlik keltiruvchi neyrosensor karlikning bosh sababidir.\n\n🎯 Skrining cCMV aniqlanishini 2,5 barobar oshirdi: maqsadli guruhda 0,74%, universal guruhda esa 0,33% boʻldi (P=0,01).\n👥 Jami 50 438 nafar yangi tugʻilgan chaqaloqdan 7 491 nafari (14,9%) shifoxona tizimida gibrid skriningdan oʻtdi.\n⚠️ Tasdiqlangan chaqaloqlarda neyrovizualizatsiya anomaliyalari (32,3%) va kichik vazn (SGA, 26,5%) koʻp qayd etildi.\n\n💡 <b>Amaliyotga:</b> Gibrid cCMV skriningi erta tashxisni sezilarli oshiradi, ammo amaliy samara berishi uchun audiologik nazoratga oilalarning yetib borishini taʼminlash zarur.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 21-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076776\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBAWq4GUR7z2TxRy0jT5JhC9dNE9SfAAKCI2sbdOLBSeyvLsLDR2CwAQADAgADeQADPQQ",
+      "adminMessageId": 257
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:41407517",
+      "title": "Point-of-care decision rule for antibiotic prescriptions in young children with fever without source: an open cluster randomised trial",
+      "titleUz": "Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon",
+      "link": "https://doi.org/10.1136/archdischild-2025-329438",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon</b>\n\nOʻchoqsiz isitmalayotgan kichik yoshli bolalarda antibiotikni asossiz tayinlashni klinik ekspress mezonlar orqali kamaytirish mumkin.\n\n📉 Yangi qaror qabul qilish qoidasi antibiotik tayinlashni 38.0% dan 26.2% ga tushirdi (OR 0.57; 95% CI 0.43-0.75).\n👶 Sinov 6 kunlikdan 36 oylikgacha boʻlgan 4882 nafar sababsiz isitmalagan bolada 25 ta ShTTYo markazida oʻtkazildi.\n🔬 Algoritm yosh, klinik belgilar, siydik tahlili va ekspress prokalsitonin darajasiga asoslanib, xavfsiz ekanini koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Tezkor prokalsitonin va klinik mezonlarga asoslangan algoritm shoshilinch yordam boʻlimlarida antibiotiklardan oʻrinsiz foydalanishni xavfsiz cheklashga yordam beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329438\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBAmq4GValS95nfiLkcTo-PwWoqRsqAAKDI2sbdOLBSS0sAX40jm2cAQADAgADeQADPQQ",
+      "adminMessageId": 258
+    }
+  ]
 }
