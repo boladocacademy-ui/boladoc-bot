@@ -63,6 +63,22 @@
       "adminMessageId": 261,
       "draftId": "2026-09-28-1945",
       "approvedAt": "2026-09-29T08:26:59.192Z"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:41407517",
+      "title": "Point-of-care decision rule for antibiotic prescriptions in young children with fever without source: an open cluster randomised trial",
+      "titleUz": "Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon",
+      "link": "https://doi.org/10.1136/archdischild-2025-329438",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-18",
+      "caption": "🩺 <b>Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon</b>\n\nOʻchoqsiz isitmalayotgan kichik yoshli bolalarda antibiotikni asossiz tayinlashni klinik ekspress mezonlar orqali kamaytirish mumkin.\n\n📉 Yangi qaror qabul qilish qoidasi antibiotik tayinlashni 38.0% dan 26.2% ga tushirdi (OR 0.57; 95% CI 0.43-0.75).\n👶 Sinov 6 kunlikdan 36 oylikgacha boʻlgan 4882 nafar sababsiz isitmalagan bolada 25 ta ShTTYo markazida oʻtkazildi.\n🔬 Algoritm yosh, klinik belgilar, siydik tahlili va ekspress prokalsitonin darajasiga asoslanib, xavfsiz ekanini koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Tezkor prokalsitonin va klinik mezonlarga asoslangan algoritm shoshilinch yordam boʻlimlarida antibiotiklardan oʻrinsiz foydalanishni xavfsiz cheklashga yordam beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-329438\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBAmq4GValS95nfiLkcTo-PwWoqRsqAAKDI2sbdOLBSS0sAX40jm2cAQADAgADeQADPQQ",
+      "adminMessageId": 258,
+      "draftId": "2026-09-27-1912",
+      "approvedAt": "2026-09-29T08:27:09.546Z"
     }
   ],
   "skipNext": false,
