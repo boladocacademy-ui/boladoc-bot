@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42801339",
-      "title": "Combination therapy with furosemide and metolazone as compared to furosemide alone for treatment of edema in children with nephrotic syndrome: a randomized controlled trial.",
-      "titleUz": "Nefrotik sindromda furosemid va metolazon kombinatsiyasi samara beradimi?",
-      "link": "https://doi.org/10.1007/s00431-026-07445-w",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-27",
-      "caption": "🩺 <b>Nefrotik sindromda furosemid va metolazon kombinatsiyasi samara beradimi?</b>\n\nNefrotik sindromdagi ogʻir shishlarda petlyali diuretikka ikkinchi dori qoʻshish har doim ham kutilgan diurezni bermaydi.\n\n💧 48 soatlik diurez furosemid+metolazon guruhida 3,13 ml/kg/s, faqat furosemidda esa 2,96 ml/kg/s boʻldi (P&gt;0,05).\n📊 Nefrotik sindromi va shishlari boʻlgan 1-14 yoshli 50 nafar bola randomizatsiyalangan klinik sinovda qatnashdi.\n⚠️ Kombinatsiya olgan bolalarning 16 foizida keskin vazn yoʻqotilishi sababli terapiya toʻxtatildi.\n\n💡 <b>Amaliyotga:</b> Nefrotik sindromda furosemid va metolazonni birdaniga birga qoʻllash tavsiya etilmaydi, chunki u diurezni oshirmaydi hamda nojoʻya xavflarga ega.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 27-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07445-w\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBD2q65TlM4bOwhzj3ffevus1zFu5hAALuI2sbKSTYSa0vtGxa2hKWAQADAgADeQADPQQ",
-      "adminMessageId": 271,
-      "draftId": "2026-09-29-2157",
-      "approvedAt": "2026-09-29T08:26:22.349Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42784542",
@@ -98,5 +82,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-09-29"
+  "handledOn": "2026-09-30"
 }

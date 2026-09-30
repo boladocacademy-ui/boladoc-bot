@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42801339",
     "pmid:42749298",
     "pmid:42767419",
     "pmid:42617793",
@@ -14,6 +15,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42801339",
+      "postedAt": "2026-09-30T08:20:00.445Z",
+      "title": "Combination therapy with furosemide and metolazone as compared to furosemide alone for treatment of edema in children with nephrotic syndrome: a randomized controlled trial.",
+      "titleUz": "Nefrotik sindromda furosemid va metolazon kombinatsiyasi samara beradimi?",
+      "link": "https://doi.org/10.1007/s00431-026-07445-w",
+      "source": "Eur J Pediatrics",
+      "messageId": 792
+    },
     {
       "key": "pmid:42749298",
       "postedAt": "2026-09-25T07:38:15.534Z",
