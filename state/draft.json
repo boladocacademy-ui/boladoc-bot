@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-09-30-2044",
-  "createdAt": "2026-09-29T20:45:17.815Z",
+  "draftId": "2026-10-01-2048",
+  "createdAt": "2026-09-30T20:49:19.643Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42803594",
-      "title": "A Systematic Review and Meta-Analysis of the Prevention and Management of Pediatric Urinary Tract Infection and Suspected Urinary Tract Infection: Technical Report",
-      "titleUz": "Bolalarda siydik yoʻllari infeksiyasida qisqa kursli va oral antibiotiklar samarasi",
-      "link": "https://doi.org/10.1542/peds.2026-078568",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Bolalarda siydik yoʻllari infeksiyasida qisqa kursli va oral antibiotiklar samarasi</b>\n\nSiydik yoʻllari infeksiyasi boʻlgan bolalarda antibiotik kursini qisqartirish va gospitalizatsiyadan qochish imkoni bor.\n\n💊 7 kunlik yoki undan qisqa antibiotik kursi qaytalanish xavfini oshirmaydi va nojoʻya taʼsirlarni kamaytiradi.\n📊 AAP ekspertlari siydik yoʻllari infeksiyasi (urinary tract infection, UTI) boʻyicha 60 ta tadqiqotni tahlil qildi.\n⏱ Alomatlar boshlangan kundan boshlab 72 soat ichida shifokor koʻrigi buyrak chandiqlanishi xavfini kamaytiradi.\n\n💡 <b>Amaliyotga:</b> Dalillar ishonchliligi past boʻlsa-da, 7 kungacha oral antibiotik qoʻllash va 72 soat ichida tashxislash buyrak asoratlarining oldini olishga yordam beradi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078568\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBGGq8I0coqf4-t0YETPRMAb2_AAGYegAC6B9rG8Dr4Em2POvHHvyebwEAAwIAA3kAAz0E",
-      "adminMessageId": 280
+      "key": "pmid:42778185",
+      "title": "Barriers to Implementing the 2022 Clinical Practice Guidelines for Neonatal Hyperbilirubinemia",
+      "titleUz": "Yangi klinik tavsiyalar chaqaloqlarda subtreshold fototerapiya qoʻllashni kamaytirdi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009498",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-09-24",
+      "caption": "🩺 <b>Yangi klinik tavsiyalar chaqaloqlarda subtreshold fototerapiya qoʻllashni kamaytirdi</b>\n\nChaqaloqlardagi sariqlikni davolashda asossiz fototerapiyani kamaytirish va dam olish kunlari nazoratini toʻgʻri rejalashtirish zarur.\n\n📉 Yangi klinik tavsiyalar (CPG) joriy etilgach, subtreshold fototerapiya (STP) ulushi 64% dan 51% gacha kamaydi.\n👶 Tadqiqotda 5 ta shifoxonada fototerapiya olgan 35 haftalik va undan katta boʻlgan 1520 nafar chaqaloq tahlil qilindi.\n🗓️ Dam olish kunlari nazorat imkoniyati yoʻqligi va yuqori bilirubin koʻtarilish tezligi (ROR) STP qoʻllashga sabab boʻldi.\n\n💡 <b>Amaliyotga:</b> Chaqaloqlarda sariqlikni davolashda faqat yangi chegaraviy koʻrsatkichlarga emas, balki dam olish kunlari ambulator nazorat qilish imkoniyatiga ham eʼtibor bering.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009498\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBHGq9da9jdHOy06CZR4eJFRlwXU5wAAIfImsbwOvoSabnFz-aXtkvAQADAgADeQADPQQ",
+      "adminMessageId": 284
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42784552",
-      "title": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
-      "titleUz": "Ebola epidemiyalarining dastlabki 100 kuni: tarqalish dinamikasini qanday baholaymiz?",
-      "link": "https://doi.org/10.15585/mmwr.mm7537e1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "key": "pmid:42785516",
+      "title": "Effectiveness and Safety of Intravenous Iron Formulations in Children with Iron Deficiency",
+      "titleUz": "Bolalarda vena ichiga temir yuborish: qaysi preparat samaraliroq va xavfsizroq?",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115345",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
       "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Ebola epidemiyalarining dastlabki 100 kuni: tarqalish dinamikasini qanday baholaymiz?</b>\n\nEbola epidemiyasini jilovlashda dastlabki 100 kunlik dinamika kelgusi kasallanish va oʻlim koʻrsatkichlarini aniqlashda hal qiluvchi rol oʻynaydi.\n\n📊 Dastlabki 100 kunlik koʻrsatkichlar virus tarqalish dinamikasi va profilaktika choralarini baholash imkonini beradi.\n🌍 Mutaxassislar KDRdagi eng yirik epidemiyani oʻtmishdagi toʻrtta tarixiy Ebola epidemiyasi bilan solishtirdi.\n⚠️ Hisobotda aniq qiyosiy raqamlar berilmagan, tahlillar epidemiya trayektoriyasini prognozlashga qaratilgan.\n\n💡 <b>Amaliyotga:</b> Ebola kabi xavfli infeksiyalarda dastlabki 100 kunlik monitoring epidemiyani jilovlash va davolash strategiyasini toʻgʻri rejalashtirish uchun asosiy mezon hisoblanadi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7537e1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBGWq8I1043jcO_HHGA3KYhaqisPiIAALqH2sbwOvgSdYN-Gci-aXsAQADAgADeQADPQQ",
-      "adminMessageId": 281
+      "caption": "🩺 <b>Bolalarda vena ichiga temir yuborish: qaysi preparat samaraliroq va xavfsizroq?</b>\n\nBolalarda ogʻir temir tanqisligini tezda tuzatish kerak boʻlganda, vena ichiga yuboriladigan preparatni toʻgʻri tanlash juda muhim.\n\n📈 Past molekulyar dekstran (LMWID) gemoglobinni, temir karboksimaltozasi (FCM) esa ferritinni eng koʻp oshirdi.\n👥 Tadqiqotchilar 342 nafar bolada (0-21 yosh) vena ichiga yuborilgan 4 xil temir preparati natijalarini solishtirdi.\n⚠️ FCM olgan bolalarning 13,5%ida gipofosfatemiya, LMWID guruhida esa eng koʻp dori talab qiluvchi reaksiya (6,1%) boʻldi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga temir yuborishda FCM va LMWID juda samarali, ammo LMWIDda allergik reaksiya, FCMda esa gipofosfatemiya xavfini doimo hisobga olish lozim.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115345\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBHWq9dc-3-1gDbJ3qcaEMQ7vp-HAtAAIgImsbwOvoSXK34rpDdi0KAQADAgADeQADPQQ",
+      "adminMessageId": 285
     }
   ]
 }
