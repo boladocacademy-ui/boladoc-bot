@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-01-2048",
-  "createdAt": "2026-09-30T20:49:19.643Z",
+  "draftId": "2026-10-02-2100",
+  "createdAt": "2026-10-01T21:03:36.184Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42778185",
-      "title": "Barriers to Implementing the 2022 Clinical Practice Guidelines for Neonatal Hyperbilirubinemia",
-      "titleUz": "Yangi klinik tavsiyalar chaqaloqlarda subtreshold fototerapiya qoʻllashni kamaytirdi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009498",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Yangi klinik tavsiyalar chaqaloqlarda subtreshold fototerapiya qoʻllashni kamaytirdi</b>\n\nChaqaloqlardagi sariqlikni davolashda asossiz fototerapiyani kamaytirish va dam olish kunlari nazoratini toʻgʻri rejalashtirish zarur.\n\n📉 Yangi klinik tavsiyalar (CPG) joriy etilgach, subtreshold fototerapiya (STP) ulushi 64% dan 51% gacha kamaydi.\n👶 Tadqiqotda 5 ta shifoxonada fototerapiya olgan 35 haftalik va undan katta boʻlgan 1520 nafar chaqaloq tahlil qilindi.\n🗓️ Dam olish kunlari nazorat imkoniyati yoʻqligi va yuqori bilirubin koʻtarilish tezligi (ROR) STP qoʻllashga sabab boʻldi.\n\n💡 <b>Amaliyotga:</b> Chaqaloqlarda sariqlikni davolashda faqat yangi chegaraviy koʻrsatkichlarga emas, balki dam olish kunlari ambulator nazorat qilish imkoniyatiga ham eʼtibor bering.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009498\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBHGq9da9jdHOy06CZR4eJFRlwXU5wAAIfImsbwOvoSabnFz-aXtkvAQADAgADeQADPQQ",
-      "adminMessageId": 284
+      "key": "pmid:42804221",
+      "title": "Diagnostic Yield of Genetic Testing in Cerebral Palsy: A Systematic Review and Meta-Analysis",
+      "titleUz": "Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.4471",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics",
+      "pubDate": "2026-09-28",
+      "caption": "🩺 <b>Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi</b>\n\nBolalar serebral falaji (BSF) boʻlgan bolalarda genetik testlar qachon eng yuqori diagnostik foyda berishini bilasizmi?\n\n🧬 Sababi nomaʼlum (cryptogenic) BSFda genetik testlar 44%, NGS va CMA birgalikda qoʻllanganda esa 53% aniqlik berdi.\n📊 Olimlar 31 ta tadqiqotni tahlil qilib, BSF boʻlgan bolalarda genetik testlar samaradorligini solishtirdi.\n🧠 MRT normalligi (25-80%), yuz dismorfiyasi (66-71%) va tugʻma anomaliyasi (85%) bor bolalarda samara yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Sababi aniq boʻlmagan BSFda, ayniqsa MRT normalligi yoki yuz dismorfiyasi boʻlgan bolalarda NGS va CMA genetik testlarini standart tekshiruvga kiritish tavsiya etiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4471\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBIGq-yiCATc9G5mEKAAFgqe45d_a7ZwACSxlrG53U-EmuVaglgNWSygEAAwIAA3kAAz0E",
+      "adminMessageId": 288
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42785516",
-      "title": "Effectiveness and Safety of Intravenous Iron Formulations in Children with Iron Deficiency",
-      "titleUz": "Bolalarda vena ichiga temir yuborish: qaysi preparat samaraliroq va xavfsizroq?",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115345",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Bolalarda vena ichiga temir yuborish: qaysi preparat samaraliroq va xavfsizroq?</b>\n\nBolalarda ogʻir temir tanqisligini tezda tuzatish kerak boʻlganda, vena ichiga yuboriladigan preparatni toʻgʻri tanlash juda muhim.\n\n📈 Past molekulyar dekstran (LMWID) gemoglobinni, temir karboksimaltozasi (FCM) esa ferritinni eng koʻp oshirdi.\n👥 Tadqiqotchilar 342 nafar bolada (0-21 yosh) vena ichiga yuborilgan 4 xil temir preparati natijalarini solishtirdi.\n⚠️ FCM olgan bolalarning 13,5%ida gipofosfatemiya, LMWID guruhida esa eng koʻp dori talab qiluvchi reaksiya (6,1%) boʻldi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga temir yuborishda FCM va LMWID juda samarali, ammo LMWIDda allergik reaksiya, FCMda esa gipofosfatemiya xavfini doimo hisobga olish lozim.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115345\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBHWq9dc-3-1gDbJ3qcaEMQ7vp-HAtAAIgImsbwOvoSXK34rpDdi0KAQADAgADeQADPQQ",
-      "adminMessageId": 285
+      "key": "pmid:42805287",
+      "title": "Defining Graduation Expectations for Managing Acute Injury in General Pediatrics",
+      "titleUz": "Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103472",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-09-28",
+      "caption": "🩺 <b>Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi</b>\n\nRezidenturani bitirgan pediatr oʻtkir jarohatli bolaga qachon mustaqil yordam berishi, qachon esa mutaxassisga yuborishi kerakligini bilishi zarur.\n\n📋 Pediatrlar uchun 54 ta oʻtkir holat saralandi: 34 tasini aniqlash, 9 tasini davolash va 11 ta muolajani bajarish talab etiladi.\n🔍 Delphi usulidagi 3 bosqichli soʻrovnomada umumiy pediatrlar, shoshilinch yordam va sport tibbiyoti shifokorlari qatnashdi.\n🤝 Roʻyxatga oʻtkir jarohatlar va koʻnikmalarni kiritishda mutaxassislar oʻrtasida kamida 90 foizlik kelishuv mezoni qoʻllanildi.\n\n💡 <b>Amaliyotga:</b> Ushbu 54 ta standart yosh pediatrlarni tayyorlash dasturini yangilash va oʻtkir jarohatlarda amaliy xatolarni kamaytirish uchun asos boʻlib xizmat qiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103472\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBI2q-yqiJoqPgDfTjXNK7wv6fgDwwAAJVGWsbndT4SSB00JGMJd2BAQADAgADeQADPQQ",
+      "adminMessageId": 291
     }
   ]
 }
