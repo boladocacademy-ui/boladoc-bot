@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42784542",
     "pmid:42801339",
     "pmid:42749298",
     "pmid:42767419",
@@ -15,6 +16,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42784542",
+      "postedAt": "2026-10-01T08:43:43.058Z",
+      "title": "Environmental Investigation of a Campylobacteriosis Outbreak Among Wedding Attendees - York County, Pennsylvania, 2025",
+      "titleUz": "Ishlov berilmagan buloq suvi toʻyda Kampilobakterioz (Campylobacter jejuni) chaqirdi",
+      "link": "https://doi.org/10.15585/mmwr.mm7537a2",
+      "source": "CDC MMWR",
+      "messageId": 796
+    },
     {
       "key": "pmid:42801339",
       "postedAt": "2026-09-30T08:20:00.445Z",
