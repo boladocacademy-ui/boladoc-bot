@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42768127",
-      "title": "Optimal exercise dose and training modalities for improving gross motor function in children with cerebral palsy: a systematic review and Bayesian network meta-analysis of RCTs",
-      "titleUz": "BSF boʻlgan bolalarda harakat funksiyasini yaxshilovchi optimal mashq turi va dozasi",
-      "link": "https://doi.org/10.1007/s00431-026-07416-1",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-21",
-      "caption": "🩺 <b>BSF boʻlgan bolalarda harakat funksiyasini yaxshilovchi optimal mashq turi va dozasi</b>\n\nBolalar serebral falaji (BSF) boʻlgan bolalarda harakat funksiyalarini tiklashda mashqlar turi va dozasini toʻgʻri tanlash muhim.\n\n🤖 Robot-terapiya yurishni yaxshiladi (SMD=0.48, P=0.042), kuch mashqlari esa muvozanatga eng katta taʼsir qildi (SMD=0.95).\n📊 Tadqiqotchilar BSF boʻlgan 886 nafar bolani qamrab olgan 29 ta randomizatsiyalangan klinik sinov (RCT) natijasini birlashtirdi.\n📈 Doza va samara bogʻliqligi chiziqli emas: juda kam yoki haddan tashqari koʻp jismoniy yuklama davolash samarasini pasaytiradi.\n\n💡 <b>Amaliyotga:</b> BSF reabilitatsiyasida mashqlar dozasini individual belgilang, chunki kam yoki ortiqcha yuklama samara bermaydi. Ammo dalillar ishonchliligi hozircha pastligini yodda tuting.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 21-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07416-1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBB2q5cpFPWJt0PwoMZGaeonnxxaskAALDHmsbdOLRSThb56ycu8TAAQADAgADeQADPQQ",
-      "adminMessageId": 263,
-      "draftId": "2026-09-28-1945",
-      "approvedAt": "2026-09-29T08:26:56.585Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42772675",
@@ -66,5 +50,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-01"
+  "handledOn": "2026-10-02"
 }

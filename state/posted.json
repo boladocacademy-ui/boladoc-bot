@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42768127",
     "pmid:42784542",
     "pmid:42801339",
     "pmid:42749298",
@@ -16,6 +17,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42768127",
+      "postedAt": "2026-10-02T08:22:53.255Z",
+      "title": "Optimal exercise dose and training modalities for improving gross motor function in children with cerebral palsy: a systematic review and Bayesian network meta-analysis of RCTs",
+      "titleUz": "BSF boʻlgan bolalarda harakat funksiyasini yaxshilovchi optimal mashq turi va dozasi",
+      "link": "https://doi.org/10.1007/s00431-026-07416-1",
+      "source": "Eur J Pediatrics",
+      "messageId": 797
+    },
     {
       "key": "pmid:42784542",
       "postedAt": "2026-10-01T08:43:43.058Z",
