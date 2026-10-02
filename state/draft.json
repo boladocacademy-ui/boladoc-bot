@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-02-2100",
-  "createdAt": "2026-10-01T21:03:36.184Z",
+  "draftId": "2026-10-03-2041",
+  "createdAt": "2026-10-02T20:50:00.207Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42804221",
-      "title": "Diagnostic Yield of Genetic Testing in Cerebral Palsy: A Systematic Review and Meta-Analysis",
-      "titleUz": "Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4471",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi</b>\n\nBolalar serebral falaji (BSF) boʻlgan bolalarda genetik testlar qachon eng yuqori diagnostik foyda berishini bilasizmi?\n\n🧬 Sababi nomaʼlum (cryptogenic) BSFda genetik testlar 44%, NGS va CMA birgalikda qoʻllanganda esa 53% aniqlik berdi.\n📊 Olimlar 31 ta tadqiqotni tahlil qilib, BSF boʻlgan bolalarda genetik testlar samaradorligini solishtirdi.\n🧠 MRT normalligi (25-80%), yuz dismorfiyasi (66-71%) va tugʻma anomaliyasi (85%) bor bolalarda samara yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Sababi aniq boʻlmagan BSFda, ayniqsa MRT normalligi yoki yuz dismorfiyasi boʻlgan bolalarda NGS va CMA genetik testlarini standart tekshiruvga kiritish tavsiya etiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4471\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBIGq-yiCATc9G5mEKAAFgqe45d_a7ZwACSxlrG53U-EmuVaglgNWSygEAAwIAA3kAAz0E",
-      "adminMessageId": 288
+      "key": "pmid:42809127",
+      "title": "Subcutaneous infliximab for maintenance therapy in children and adolescents with inflammatory bowel disease: a systematic review and meta-analysis",
+      "titleUz": "IBD boʻlgan bolalarda teri osti infliksimabi 90% holatda remissiyani saqlab qoladi",
+      "link": "https://doi.org/10.1007/s00431-026-07443-y",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-09-29",
+      "caption": "🩺 <b>IBD boʻlgan bolalarda teri osti infliksimabi 90% holatda remissiyani saqlab qoladi</b>\n\nBolalarda teri osti infliksimabi hali off-label hisoblansa-da, tomir ichiga infuziyalarga qulay muqobil boʻla oladi.\n\n💉 Vena ichidan teri ostiga oʻtkazilganda klinik remissiya 90,2% bolalarda saqlandi, qaytalanish atigi 4,8% boʻldi.\n👥 Tahlilga ichakning yalligʻlanish kasalligi (IBD) boʻlgan 162 nafar bola (70% Kron kasalligi) kiritildi.\n📈 Qondagi infliksimab miqdori 2 baravar oshdi (11,4 dan 21,9 mkg/ml ga), jiddiy asoratlar 1,5% da kuzatildi.\n\n💡 <b>Amaliyotga:</b> Teri osti shakli remissiyani yaxshi saqlaydi, ammo u yangi boshlangan (de novo) holatlarda remissiyaga kiritish uchun hozircha tavsiya etilmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07443-y\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBKGrAGBw9EKSY5K-vxf10d5eTwyexAAKfHWsbgzQAAUoQoyM-ymig9QEAAwIAA3kAAz0E",
+      "adminMessageId": 296
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42805287",
-      "title": "Defining Graduation Expectations for Managing Acute Injury in General Pediatrics",
-      "titleUz": "Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103472",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
+      "key": "pmid:42804175",
+      "title": "Cardiovascular Disease Risk Among Childhood and Young Adult Cancer Survivors: A Systematic Review and Meta-Analysis",
+      "titleUz": "Bolalikdagi saratonni yenggan bemorlarda yurak xavfi 2,5 baravar yuqori",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.4478",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics",
       "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi</b>\n\nRezidenturani bitirgan pediatr oʻtkir jarohatli bolaga qachon mustaqil yordam berishi, qachon esa mutaxassisga yuborishi kerakligini bilishi zarur.\n\n📋 Pediatrlar uchun 54 ta oʻtkir holat saralandi: 34 tasini aniqlash, 9 tasini davolash va 11 ta muolajani bajarish talab etiladi.\n🔍 Delphi usulidagi 3 bosqichli soʻrovnomada umumiy pediatrlar, shoshilinch yordam va sport tibbiyoti shifokorlari qatnashdi.\n🤝 Roʻyxatga oʻtkir jarohatlar va koʻnikmalarni kiritishda mutaxassislar oʻrtasida kamida 90 foizlik kelishuv mezoni qoʻllanildi.\n\n💡 <b>Amaliyotga:</b> Ushbu 54 ta standart yosh pediatrlarni tayyorlash dasturini yangilash va oʻtkir jarohatlarda amaliy xatolarni kamaytirish uchun asos boʻlib xizmat qiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103472\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBI2q-yqiJoqPgDfTjXNK7wv6fgDwwAAJVGWsbndT4SSB00JGMJd2BAQADAgADeQADPQQ",
-      "adminMessageId": 291
+      "caption": "🩺 <b>Bolalikdagi saratonni yenggan bemorlarda yurak xavfi 2,5 baravar yuqori</b>\n\nOnkologik kasallikni muvaffaqiyatli yenggan yosh bemorlar keyinchalik yurak patologiyalari tufayli jiddiy xavf ostida qolmoqda.\n\n❤️ Bolalikda saratonni yenggan bemorlarda yurak kasalligi (CVD) xavfi 2,5 baravar oshdi (RR 2,48; 95% CI 1,87–3,27).\n👥 39 ta kohort tadqiqotida saratonni yenggan 536 399 nafar yosh bemor va 1,8 mln sogʻlom tengdosh qiyoslandi.\n⏳ Yurak xastaligi xavfi hatto onkologik tashxis qoʻyilganidan 20 yil oʻtib ham yuqoriligicha saqlanib qoldi.\n\n💡 <b>Amaliyotga:</b> Saratonni yenggan yosh bemorlarni onkologik davodan keyin kamida 20 yil davomida muntazam kardiologik nazorat va skriningda ushlash zarur.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4478\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBK2rAGPgoQtBwtr2JRM6WGFT8YgqEAAKjHWsbgzQAAUqlmKKBA-MVDAEAAwIAA3kAAz0E",
+      "adminMessageId": 299
     }
   ]
 }
