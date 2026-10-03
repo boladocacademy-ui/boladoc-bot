@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-03-2041",
-  "createdAt": "2026-10-02T20:50:00.207Z",
+  "draftId": "2026-10-04-1912",
+  "createdAt": "2026-10-03T19:13:11.104Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42809127",
-      "title": "Subcutaneous infliximab for maintenance therapy in children and adolescents with inflammatory bowel disease: a systematic review and meta-analysis",
-      "titleUz": "IBD boʻlgan bolalarda teri osti infliksimabi 90% holatda remissiyani saqlab qoladi",
-      "link": "https://doi.org/10.1007/s00431-026-07443-y",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-29",
-      "caption": "🩺 <b>IBD boʻlgan bolalarda teri osti infliksimabi 90% holatda remissiyani saqlab qoladi</b>\n\nBolalarda teri osti infliksimabi hali off-label hisoblansa-da, tomir ichiga infuziyalarga qulay muqobil boʻla oladi.\n\n💉 Vena ichidan teri ostiga oʻtkazilganda klinik remissiya 90,2% bolalarda saqlandi, qaytalanish atigi 4,8% boʻldi.\n👥 Tahlilga ichakning yalligʻlanish kasalligi (IBD) boʻlgan 162 nafar bola (70% Kron kasalligi) kiritildi.\n📈 Qondagi infliksimab miqdori 2 baravar oshdi (11,4 dan 21,9 mkg/ml ga), jiddiy asoratlar 1,5% da kuzatildi.\n\n💡 <b>Amaliyotga:</b> Teri osti shakli remissiyani yaxshi saqlaydi, ammo u yangi boshlangan (de novo) holatlarda remissiyaga kiritish uchun hozircha tavsiya etilmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07443-y\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBKGrAGBw9EKSY5K-vxf10d5eTwyexAAKfHWsbgzQAAUoQoyM-ymig9QEAAwIAA3kAAz0E",
-      "adminMessageId": 296
+      "key": "pmid:42821514",
+      "title": "Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026",
+      "titleUz": "Epidemiologik xavfga tayyormizmi? \"Sirli bemor\" testlari kamchiliklarni koʻrsatdi",
+      "link": "https://doi.org/10.15585/mmwr.mm7538a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Epidemiologik xavfga tayyormizmi? \"Sirli bemor\" testlari kamchiliklarni koʻrsatdi</b>\n\nEpidemiya boshlansa, klinikamiz bemorlarni tezda ajratib, xavfsizlikni taʼminlay oladimi? Haqiqiy sinovlar muammolarni ochib berdi.\n\n🚨 73 ta sinovda shifokorlarning faqat 25 foizi barcha tavsiya etilgan shaxsiy himoya vositalarini (PPE) toʻliq kiygan.\n🦠 Parranda grippi A(H5) ssenariysi boʻyicha \"sirli bemor\" aktyorlar ishtirokida jami 73 ta yashirin sinov oʻtkazildi.\n⏱️ Niqoblash va izolyatsiya qilish bor-yoʻgʻi 60% holatda birga bajarildi, jarayon belgilangan vaqtdan kechikib ketdi.\n\n💡 <b>Amaliyotga:</b> Shifoxonalarda epidemiologik xavfsizlik protokollarini qogʻozda qoldirmay, \"sirli bemor\" uslubidagi amaliy mashgʻulotlar orqali xodimlarning koʻnikmalarini doimiy charxlab borish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7538a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBLmrBU68aNcYEHAWxH5Oo7A0h0fajAAJdJGsbgzQISnZF2OM1dCUHAQADAgADeQADPQQ",
+      "adminMessageId": 302
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42804175",
-      "title": "Cardiovascular Disease Risk Among Childhood and Young Adult Cancer Survivors: A Systematic Review and Meta-Analysis",
-      "titleUz": "Bolalikdagi saratonni yenggan bemorlarda yurak xavfi 2,5 baravar yuqori",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4478",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Bolalikdagi saratonni yenggan bemorlarda yurak xavfi 2,5 baravar yuqori</b>\n\nOnkologik kasallikni muvaffaqiyatli yenggan yosh bemorlar keyinchalik yurak patologiyalari tufayli jiddiy xavf ostida qolmoqda.\n\n❤️ Bolalikda saratonni yenggan bemorlarda yurak kasalligi (CVD) xavfi 2,5 baravar oshdi (RR 2,48; 95% CI 1,87–3,27).\n👥 39 ta kohort tadqiqotida saratonni yenggan 536 399 nafar yosh bemor va 1,8 mln sogʻlom tengdosh qiyoslandi.\n⏳ Yurak xastaligi xavfi hatto onkologik tashxis qoʻyilganidan 20 yil oʻtib ham yuqoriligicha saqlanib qoldi.\n\n💡 <b>Amaliyotga:</b> Saratonni yenggan yosh bemorlarni onkologik davodan keyin kamida 20 yil davomida muntazam kardiologik nazorat va skriningda ushlash zarur.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4478\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBK2rAGPgoQtBwtr2JRM6WGFT8YgqEAAKjHWsbgzQAAUqlmKKBA-MVDAEAAwIAA3kAAz0E",
-      "adminMessageId": 299
+      "key": "pmid:42810821",
+      "title": "How do we diagnose dysfunctional breathing (breathing pattern disorder) in children and young people: an eDelphi consensus",
+      "titleUz": "Bolalarda disfunksional nafas olishni tashxislash uchun 10 ta klinik belgi kelishib olindi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330393",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-29",
+      "caption": "🩺 <b>Bolalarda disfunksional nafas olishni tashxislash uchun 10 ta klinik belgi kelishib olindi</b>\n\nBolalarda disfunksional nafas olishni (breathing pattern disorder) aniqlash uchun yagona tasdiqlangan diagnostika vositasi yoʻq.\n\n🤝 Mutaxassislar disfunksional nafas olishga xos 10 ta klinik belgi va 12 ta keng tarqalgan iborani kelishib oldi.\n🇬🇧 Buyuk Britaniyaning yetakchi pediatr-respirologlari 3 bosqichli eDelphi konsensusida ushbu mezonlarni tasdiqladi.\n🤷‍♂️ Kasallik nomi boʻyicha yakdil qaror yoʻq: mutaxassislar disfunksional nafas yoki nafas shakli buzilishini qoʻllaydi.\n\n💡 <b>Amaliyotga:</b> Kelishilgan klinik belgilar shifokorga disfunksional nafas olishga shubha qilingan bolalarni birlamchi boʻgʻinda toʻgʻri yoʻnaltirishga yordam beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330393\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBL2rBU8YytGiUBG5Fu41F7pWc5A_jAAJeJGsbgzQISvQph96JReqjAQADAgADeQADPQQ",
+      "adminMessageId": 303
     }
   ]
 }
