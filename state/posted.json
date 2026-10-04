@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:41407517",
     "pmid:42772675",
     "pmid:42768127",
     "pmid:42784542",
@@ -18,6 +19,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:41407517",
+      "postedAt": "2026-10-04T08:19:23.659Z",
+      "title": "Point-of-care decision rule for antibiotic prescriptions in young children with fever without source: an open cluster randomised trial",
+      "titleUz": "Nomaʼlum sababli isitmada antibiotik tayinlashni kamaytiruvchi ekspress mezon",
+      "link": "https://doi.org/10.1136/archdischild-2025-329438",
+      "source": "Arch Dis Child",
+      "messageId": 799
+    },
     {
       "key": "pmid:42772675",
       "postedAt": "2026-10-03T07:57:23.454Z",
