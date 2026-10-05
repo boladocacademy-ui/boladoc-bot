@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42764176",
     "pmid:41407517",
     "pmid:42772675",
     "pmid:42768127",
@@ -19,6 +20,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42764176",
+      "postedAt": "2026-10-05T08:50:31.807Z",
+      "title": "Implementing Congenital CMV Screening in a Large Hospital System",
+      "titleUz": "Tugʻma sitomegalovirusni gibrid skrining qilish aniqlash chastotasini 2,5 barobarga oshirdi",
+      "link": "https://doi.org/10.1542/peds.2026-076776",
+      "source": "AAP",
+      "messageId": 810
+    },
     {
       "key": "pmid:41407517",
       "postedAt": "2026-10-04T08:19:23.659Z",
