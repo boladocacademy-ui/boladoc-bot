@@ -1,5 +1,22 @@
 {
-  "items": [],
+  "items": [
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42822669",
+      "title": "Higher citation rates of network research publications in Pediatrics education",
+      "titleUz": "Pediatrik taʼlimda tarmoq tadqiqotlari maqolalari 1.5 baravar koʻproq iqtibos olinadi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103475",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Pediatrik taʼlimda tarmoq tadqiqotlari maqolalari 1.5 baravar koʻproq iqtibos olinadi</b>\n\nTibbiy taʼlim boʻyicha ilmiy maqolangiz koʻproq oʻqilishi va iqtibos keltirilishini xohlasangiz, tadqiqot tarmoqlari bilan ishlash zarur.\n\n📊 APPD LEARN tarmoq maqolalari boshqa pediatrik taʼlim maqolalariga nisbatan 1.53 baravar koʻp iqtibos oldi (aIRR 1.53; 95% CI 1.37-1.72).\n🔍 Tadqiqotchilar 50 ta APPD LEARN maqolasini 79 ta pediatrik va 672 ta boshqa yoʻnalishdagi Maqolalar bilan solishtirdi.\n📑 Jurnal, chop etilgan soni va mualliflar soni nazorat qilinganda ham tarmoq maqolalarining ustunligi saqlanib qoldi.\n\n💡 <b>Amaliyotga:</b> Tibbiy taʼlim sohasida ilmiy ish qilayotgan shifokorlar va oʻqituvchilar tadqiqot tarmoqlari (research networks) bilan hamkorlik qilishi maqola nufuzini sezilarli oshiradi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103475\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBQGrFYivEzSj5pa7dhKOfSboaG6KjAAIcI2sb7UQoSohDZB6HynicAQADAgADeQADPQQ",
+      "adminMessageId": 320,
+      "draftId": "2026-10-07-2057",
+      "approvedAt": "2026-10-07T19:23:54.948Z"
+    }
+  ],
   "skipNext": false,
   "handledOn": "2026-10-07"
 }
