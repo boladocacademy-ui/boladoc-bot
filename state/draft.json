@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-07-2057",
-  "createdAt": "2026-10-06T21:03:39.692Z",
+  "draftId": "2026-10-09-2117",
+  "createdAt": "2026-10-08T21:18:12.289Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42830216",
-      "title": "An Overview of Interrupted Time Series as a Research Method.",
-      "titleUz": "Klinik oʻzgarishlar samarasini aniqlashda Interrupted Time Series (ITS) metodi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009232",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-10-05",
-      "caption": "🩺 <b>Klinik oʻzgarishlar samarasini aniqlashda Interrupted Time Series (ITS) metodi</b>\n\nYangi shifoxona protokoli yoki klinik qoʻllanma amaliyotda haqiqatda foyda berganini qanday qilib aniq bilish mumkin?\n\n📈 ITS metodi tayyor bazalardan foydalanib, arzon va oson tahlil qilinadigan grafiklar yaratish imkonini beradi.\n⏱️ Intervensiyadan oldingi va keyingi davrlar solishtirilib, individual xavf omillari taʼsiri kamaytiriladi.\n⚠️ Toʻgʻri xulosa olish uchun uzoq vaqt davomida yigʻilgan yuqori sifatli va izchil maʼlumotlar bazasi talab etiladi.\n\n💡 <b>Amaliyotga:</b> Shifoxona protokollari samarasini aniqlashda qimmat RCT oʻrniga ITS metodini qoʻllash mumkin, buning uchun maʼlumotlar bazasini izchil yuritish kerak.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 5-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009232\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBP2rFYiBKaeJvBHqYak1eJ_l9AQfkAAIbI2sb7UQoSkgPW89fGcjoAQADAgADeQADPQQ",
-      "adminMessageId": 319
+      "key": "pmid:42815921",
+      "title": "Implementing Respiratory Illness Care Pathways in General Hospitals: A Cluster Randomized Trial",
+      "titleUz": "Nafas yoʻllari kasalliklari protokollari davolash sifatini oshiradi",
+      "link": "https://doi.org/10.1542/peds.2026-076299",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Nafas yoʻllari kasalliklari protokollari davolash sifatini oshiradi</b>\n\nBolalardagi oʻtkir nafas yoʻllari kasalliklarida yagona protokollarni joriy etish reanimatsiyaga tushish xavfini sezilarli kamaytiradi.\n\n📈 Protokollarni qoʻllash dalillarga asoslangan tibbiyot tavsiyalariga rioya qilishni 9.9% ga oshirdi.\n🏥 AQShdagi 43 ta umumiy shifoxonada astma, pnevmoniya va bronxiolit bilan yotgan 11 760 nafar bolaning maʼlumotlari tahlil qilindi.\n📉 Yangi tizim reanimatsiyaga oʻtkazishni 31% ga kamaytirdi (aOR 0.69), lekin shifoxonada yotish muddatiga taʼsir qilmadi.\n\n💡 <b>Amaliyotga:</b> Umumiy shifoxonalarda astma, pnevmoniya va bronxiolitda yagona klinik protokollarni joriy etish davolash sifatini oshiradi va ogʻir asoratlarni kamaytiradi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076299\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBSWrICHzHrhH4ebIUDFaVBbMKJcT1AAJBI2sbG31BSsXfVvvPZiWaAQADAgADeQADPQQ",
+      "adminMessageId": 329
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42822669",
-      "title": "Higher citation rates of network research publications in Pediatrics education",
-      "titleUz": "Pediatrik taʼlimda tarmoq tadqiqotlari maqolalari 1.5 baravar koʻproq iqtibos olinadi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103475",
+      "key": "pmid:42822670",
+      "title": "Treat us like humans: Lived experience solutions to improve health care for multiply marginalized children with disabilities",
+      "titleUz": "Imkoniyati cheklangan bolalarga tibbiy yordam koʻrsatishdagi asosiy muammolar va yechimlar",
+      "link": "https://doi.org/10.1016/j.acap.2026.103483",
       "source": "Academic Pediatrics",
       "sourceFull": "Academic Pediatrics",
       "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Pediatrik taʼlimda tarmoq tadqiqotlari maqolalari 1.5 baravar koʻproq iqtibos olinadi</b>\n\nTibbiy taʼlim boʻyicha ilmiy maqolangiz koʻproq oʻqilishi va iqtibos keltirilishini xohlasangiz, tadqiqot tarmoqlari bilan ishlash zarur.\n\n📊 APPD LEARN tarmoq maqolalari boshqa pediatrik taʼlim maqolalariga nisbatan 1.53 baravar koʻp iqtibos oldi (aIRR 1.53; 95% CI 1.37-1.72).\n🔍 Tadqiqotchilar 50 ta APPD LEARN maqolasini 79 ta pediatrik va 672 ta boshqa yoʻnalishdagi Maqolalar bilan solishtirdi.\n📑 Jurnal, chop etilgan soni va mualliflar soni nazorat qilinganda ham tarmoq maqolalarining ustunligi saqlanib qoldi.\n\n💡 <b>Amaliyotga:</b> Tibbiy taʼlim sohasida ilmiy ish qilayotgan shifokorlar va oʻqituvchilar tadqiqot tarmoqlari (research networks) bilan hamkorlik qilishi maqola nufuzini sezilarli oshiradi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103475\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBQGrFYivEzSj5pa7dhKOfSboaG6KjAAIcI2sb7UQoSohDZB6HynicAQADAgADeQADPQQ",
-      "adminMessageId": 320
+      "caption": "🩺 <b>Imkoniyati cheklangan bolalarga tibbiy yordam koʻrsatishdagi asosiy muammolar va yechimlar</b>\n\nImkoniyati cheklangan bolalar va ularning ota-onalari shifokorlar tomonidan kamsitilish va tushunmaslik holatlariga tez-tez duch keladi.\n\n🚫 Shifokorlarning kamsituvchi munosabati va xizmatlardan foydalanishdagi toʻsiqlar eng katta muammo deb topildi.\n👥 AQShdagi 33 nafar imkoniyati cheklangan yoshlar va ularning ota-onalari ishtirokida sifatli tadqiqot oʻtkazildi.\n💡 Yechim sifatida shifokorlar empatiyasini oshirish, ruhiy salomatlikni qoʻllab-quvvatlash va maxsus dizayn taklif etildi.\n\n💡 <b>Amaliyotga:</b> Shifokorlar va tibbiyot tizimi rahbarlari kamsitishlarni bartaraf etishi, empatiyani rivojlantirishi va yordam koʻrsatishda inson qadr-qimmatini birinchi oʻringa qoʻyishi kerak.\n\n📚 <b>Manba:</b> Academic Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103483\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBSmrICJTU63kqdL1feuCs_h84vsm1AAJCI2sbG31BSnJUDcFHeH18AQADAgADeQADPQQ",
+      "adminMessageId": 330
     }
   ]
 }
