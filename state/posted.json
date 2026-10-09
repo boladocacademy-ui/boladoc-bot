@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42810819",
     "pmid:42822669",
     "pmid:42764176",
     "pmid:41407517",
@@ -21,6 +22,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42810819",
+      "postedAt": "2026-10-09T08:51:46.043Z",
+      "title": "Corticosteroid use in children with community acquired sepsis: a multicentre prospective cohort study",
+      "titleUz": "Sepsis bor bolalarning 10 foiziga shok belgilarisiz ham kortikosteroidlar berilgan",
+      "link": "https://doi.org/10.1136/archdischild-2025-330072",
+      "source": "Arch Dis Child",
+      "messageId": 821
+    },
     {
       "key": "pmid:42822669",
       "postedAt": "2026-10-08T08:48:22.821Z",

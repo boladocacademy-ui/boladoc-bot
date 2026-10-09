@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42810819",
-      "title": "Corticosteroid use in children with community acquired sepsis: a multicentre prospective cohort study",
-      "titleUz": "Sepsis bor bolalarning 10 foiziga shok belgilarisiz ham kortikosteroidlar berilgan",
-      "link": "https://doi.org/10.1136/archdischild-2025-330072",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-29",
-      "caption": "🩺 <b>Sepsis bor bolalarning 10 foiziga shok belgilarisiz ham kortikosteroidlar berilgan</b>\n\nBolalar sepsisida kortikosteroidlarni qachon va qanday dozada qoʻllash boʻyicha klinik dalillar hali ham yetarli emas.\n\n💉 Sepsisga shubha qilingan 5119 nafar bolaning 9.6% ga, Feniks (Phoenix) mezoniga tushganlarning 31.3% ga steroid berildi.\n💊 Eng koʻp deksametazon (69.5%) va gidrokortizon (25.4%) qoʻllangan boʻlib, aksariyati shok holatidan tashqarida berilgan.\n📊 Steroid tayinlash katta yosh, hamroh kasalliklar, yuqori laktat hamda vazopressorlar qoʻllanishi bilan bogʻliq boʻldi.\n\n💡 <b>Amaliyotga:</b> Pediatriyada steroidlar refrakter shokdan tashqari ham keng ishlatilmoqda; tayinlashda aniq koʻrsatmalarga va bemor holatiga tayanish lozim.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2025-330072\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBN2rEJnM0yehXpLljPNKkDYEky1KpAAIHI2sb7UQgSmDEsVJEyaCCAQADAgADeQADPQQ",
-      "adminMessageId": 311,
-      "draftId": "2026-10-06-2236",
-      "approvedAt": "2026-10-07T19:24:10.999Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42830209",
@@ -66,5 +50,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-08"
+  "handledOn": "2026-10-09"
 }
