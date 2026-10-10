@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-10-2051",
-  "createdAt": "2026-10-09T20:55:00.014Z",
+  "draftId": "2026-10-11-2002",
+  "createdAt": "2026-10-10T20:03:17.754Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42785517",
-      "title": "Prenatal Risk Stratification with Early Non-Invasive Monitoring Reduces Unnecessary Medicalization in Patients with Coarctation of the Aorta",
-      "titleUz": "Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115349",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
+      "key": "pmid:42784526",
+      "title": "Hepatitis A Outbreak Associated with Cuba - Florida, June 2024-February 2026",
+      "titleUz": "Kubaga borgan sayyohlarda gepatit A avj olgani aniqlandi",
+      "link": "https://doi.org/10.15585/mmwr.mm7537a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
       "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi</b>\n\nPrenatal aorta koarktatsiyasi gumoni chaqaloqlarda keraksiz prostaglandin E (PGE) va markaziy kateter qoʻyishga sabab boʻladi.\n\n📉 Yangi protokol PGE qoʻllashni (P=0.037), asossiz koʻchirish (P=0.006) va markaziy kateter qoʻyishni (P=0.002) kamaytirdi.\n👥 Protokoldan oldingi 106 va keyingi 42 nafar chaqaloq qiyoslandi; past xavfli guruhda jarrohlik ehtimoli atigi 7% boʻldi.\n⚠️ Protokoldan soʻng 2 nafar chaqaloqqa uyga chiqqach tashxis qoʻyildi, 1 chaqaloqda qorincha disfunksiyasi kuzatildi.\n\n💡 <b>Amaliyotga:</b> Invaziv muolajalar va PGE boshlashdan oldin xavfni toʻgʻri tabaqalashtirish hamda noinvaziv monitoring qilish soxta ijobiy holatlarda asoratlarni kamaytiradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115349\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBTWrJVIa4ew7uyS70K6X_YgmKlRJjAAKoJGsbG31JSkxJeS39aj9dAQADAgADeQADPQQ",
-      "adminMessageId": 333
+      "caption": "🩺 <b>Kubaga borgan sayyohlarda gepatit A avj olgani aniqlandi</b>\n\nKubadan qaytgan va oʻtkir gepatit belgilari bor bemorlarda gepatit A ehtimolini koʻrib chiqish zarur.\n\n💉 Floridadagi 249 ta gepatit A (HAV) holatining 31 foizi (76 nafar bemor) Kubaga safar bilan bogʻliq boʻldi.\n👤 Bemorlarning median yoshi 39 yosh boʻlib, 70% erkaklar va 55% Xavana shahrida boʻlgan shaxslardir.\n🧬 Tekshirilgan 18 ta izolyatning 83 foizida IA genotipidagi yagona chaqnash shtammi aniqlandi.\n\n💡 <b>Amaliyotga:</b> Kubaga safar qiluvchi bemorlarga safardan oldin gepatit A emlamasi yoki immunoglobulin yuborishni va anamnezni batafsil olishni tavsiya eting.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7537a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBUWrKmez-CO4Jj5RKuTPZNnhvCIWWAAJAIWsbpKFYSmwLKZIb2AZPAQADAgADeQADPQQ",
+      "adminMessageId": 337
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42803590",
-      "title": "A Systematic Review and Meta-Analysis of the Role of Ultrasonography for the Diagnosis of Vesicoureteral Reflux in Pediatric Patients Following Urinary Tract Infections: Technical Report",
-      "titleUz": "Vezikoureteral reflyuksni aniqlashda ultratovush tekshiruvi ishonchsiz usul boʻlib chiqdi",
-      "link": "https://doi.org/10.1542/peds.2026-078567",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Vezikoureteral reflyuksni aniqlashda ultratovush tekshiruvi ishonchsiz usul boʻlib chiqdi</b>\n\nPeshob yoʻllari infeksiyasini oʻtkazgan bolalarda oddiy ultratovush tekshiruvi reflyuksni aniqlashda yetarli emas.\n\n🔍 Birinchi peshob yoʻllari infeksiyasidan (UTI) keyin ultratovushning (RBUS) sezgirligi atigi 50%, oʻziga xosligi 71% boʻldi.\n📊 90 ta tadqiqot tahlili ogʻir darajadagi (III-V) vezikoureteral reflyuksda (VUR) ham RBUS sezgirligi pastligini (66%) koʻrsatdi.\n🔄 Takroriy UTI boʻlgan bolalarda ultratovush tekshiruvining (RBUS) sezgirligi yanada pasayib, atigi 26% boʻldi.\n\n💡 <b>Amaliyotga:</b> VUR diagnostikasida ultratovushga yagona skrining testi sifatida tayanmang. Klinik qoʻllanmalardagi tavsiyalar yangilanishi va boshqa tekshiruvlar talab etilishi mumkin.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078567\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBTmrJVKOfH4gWcGu81MVY0tsmLcEKAAKpJGsbG31JSmPaAAHHiLnlXQEAAwIAA3kAAz0E",
-      "adminMessageId": 334
+      "key": "pmid:42810820",
+      "title": "Bacterial detection in paediatric cancer patients with febrile neutropenia, from conventional microbiological testing to advanced molecular techniques: a scoping review",
+      "titleUz": "Febril neitropeniyada qayta qon ekmasi va molekulyar diagnostika natijalari",
+      "link": "https://doi.org/10.1136/archdischild-2026-331063",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-09-29",
+      "caption": "🩺 <b>Febril neitropeniyada qayta qon ekmasi va molekulyar diagnostika natijalari</b>\n\nFebril neitropeniyasi bor saratonli bolalarda har kuni qayta qon ektirish har doim ham oʻzini oqlamaydi.\n\n🧪 Barqaror bolalarda 72 soatdan keyin qayta qon ekish (BC) klinik jihatdan foyda bermasligi koʻrsatildi.\n📊 Tahlil 8993 ta febril neitropeniya (FN) epizodini qamrab olgan 33 ta tadqiqot natijalariga asoslandi.\n🧬 Molekulyar usullar qoʻzgʻatuvchini koʻproq topsada, yakka oʻzi yetarli emas; BC hali ham oltin standart.\n\n💡 <b>Amaliyotga:</b> Barqaror kechayotgan febril neitropeniyada 72 soatdan soʻng qayta qon ekishni toʻxtatish va molekulyar usullarni faqat qoʻshimcha sifatida ishlatish tavsiya etiladi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331063\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBUmrKmgWdJ9nRWhNoWlYdKbOeTMi9AAJBIWsbpKFYSuvtUh_-Ci_CAQADAgADeQADPQQ",
+      "adminMessageId": 338
     }
   ]
 }
