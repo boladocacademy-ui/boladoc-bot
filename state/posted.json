@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42830209",
     "pmid:42810819",
     "pmid:42822669",
     "pmid:42764176",
@@ -22,6 +23,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42830209",
+      "postedAt": "2026-10-10T08:23:07.990Z",
+      "title": "One Step at a Time: Design and Rationale for Stepped-Wedge Cluster Randomized Trials.",
+      "titleUz": "Stepped-wedge klasterli tadqiqotlar: resurslar cheklanganda amaliyotni baholash",
+      "link": "https://doi.org/10.1542/hpeds.2025-009158",
+      "source": "Hospital Pediatrics",
+      "messageId": 822
+    },
     {
       "key": "pmid:42810819",
       "postedAt": "2026-10-09T08:51:46.043Z",
