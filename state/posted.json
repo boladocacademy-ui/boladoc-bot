@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42803578",
     "pmid:42830209",
     "pmid:42810819",
     "pmid:42822669",
@@ -23,6 +24,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42803578",
+      "postedAt": "2026-10-11T08:39:59.246Z",
+      "title": "Clinical Practice Guideline for the Diagnosis and Treatment of Urinary Tract Infection in Children From 8 Days to 5 Years of Age",
+      "titleUz": "8 kunlikdan 5 yoshgacha boʻlgan bolalarda UTI: AAP ning yangilangan klinim qoʻllanmasi",
+      "link": "https://doi.org/10.1542/peds.2026-078565",
+      "source": "AAP",
+      "messageId": 823
+    },
     {
       "key": "pmid:42830209",
       "postedAt": "2026-10-10T08:23:07.990Z",
