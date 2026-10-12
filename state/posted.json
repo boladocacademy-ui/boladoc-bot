@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42508813",
     "pmid:42803578",
     "pmid:42830209",
     "pmid:42810819",
@@ -24,6 +25,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42508813",
+      "postedAt": "2026-10-12T09:02:47.498Z",
+      "title": "Clinical Utility of Routine Umbilical Cord Blood Screening for ABO Incompatibility: A Single-Center Observational Study",
+      "titleUz": "Kindik qonini muntazam tekshirish ABO-guruh toʻgʻri kelmasligida reanimatsiya xavfini kamaytiradi",
+      "link": "https://doi.org/10.1542/hpeds.2025-009165",
+      "source": "Hospital Pediatrics",
+      "messageId": 824
+    },
     {
       "key": "pmid:42803578",
       "postedAt": "2026-10-11T08:39:59.246Z",
