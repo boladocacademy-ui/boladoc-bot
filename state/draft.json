@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-12-2013",
-  "createdAt": "2026-10-11T20:16:20.630Z",
+  "draftId": "2026-10-13-2256",
+  "createdAt": "2026-10-12T22:57:25.308Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42809131",
-      "title": "Oral glucose solution for the treatment of persistent asymptomatic neonatal hypoglycemia: a randomized, double-blind, placebo-controlled trial",
-      "titleUz": "Chaqaloqlar gipoglikemiyasida 50% li glyukoza eritmasi infuziyani kamaytiradimi?",
-      "link": "https://doi.org/10.1007/s00431-026-07427-y",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-29",
-      "caption": "🩺 <b>Chaqaloqlar gipoglikemiyasida 50% li glyukoza eritmasi infuziyani kamaytiradimi?</b>\n\nChaqaloqlardagi gipoglikemiyada vena ichiga infuziya oʻtkazish ona va bola kontaktini uzib qoʻyishi mumkin.\n\n📊 Vena ichiga glyukoza quyish ehtiyoji D50W guruhida 4,9%, platsebo guruhida 8,7% chaqaloqda kuzatildi.\n👥 Gestatsiya yoshi ≥34 hafta boʻlgan simptomsiz gipoglikemiyali 400 nafar chaqaloq tekshirildi (RCT).\n🛡️ Glitsidemiya koʻproq oshdi, giperglikemiya, aspiratsiya yoki shilliq qavat zararlanishi kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga infuziya ehtiyojidagi farq statistik ishonchsiz chiqdi (P=0.18), shu sababli usul hozircha klinik amaliyotni oʻzgartirmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07427-y\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBVmrL7jzD95Ud7qXnwJ7XtMrm0zhPAAI6JmsbJNhhSvZrsP5ifxDoAQADAgADeQADPQQ",
-      "adminMessageId": 342
+      "key": "pmid:42586557",
+      "title": "Postoperative Interventions and Cost Associated With Disposition After Tonsil and Adenoidectomy",
+      "titleUz": "Tonsillektomiyadan keyin bolalarni reanimatsiyaga yotqizish har doim ham shartmi?",
+      "link": "https://doi.org/10.1542/hpeds.2026-009276",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Tonsillektomiyadan keyin bolalarni reanimatsiyaga yotqizish har doim ham shartmi?</b>\n\nTonsillektomiya va adenoidektomiyadan (T/A) soʻng bolalarni reanimatsiyaga yoʻllash koʻp hollarda ortiqcha xarajatga olib keladi.\n\n🚨 PICU ga yotqizilgan bemor bolalarning 16% iga shoshilinch va 2% iga oʻta shoshilinch aralashuv zarur boʻlgan.\n📊 T/A oʻtkazilgan 388 071 nafar bemor bolaning 316 323 nafari ambulator, 71 748 nafari stasionarga yotqizilgan.\n💰 Aralashuv zarur boʻlmagan bemor bolalarda PICU va oddiy boʻlim oʻrtasidagi kunlik xarajat farqi $1774 boʻlgan.\n\n💡 <b>Amaliyotga:</b> T/A operatsiyasidan soʻng bemor bolalarni odatiy reanimatsiyaga emas, oddiy boʻlimga yotqizish xavfsiz hamda shifoxona xarajatlarini sezilarli tejaydi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009276\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBXGrNZafKS_eI1uRkoMKLejM-Uh05AALMH2sbJNhxSisoV1DafRroAQADAgADeQADPQQ",
+      "adminMessageId": 348
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42785515",
-      "title": "Antibiotic Duration and Critical Illness After Culture-Negative Late-Onset Sepsis Evaluation in Infants Born Preterm",
-      "titleUz": "Kechki sepsisda ekma manfiy boʻlsa, antibiotik qachon toʻxtatiladi?",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115347",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Kechki sepsisda ekma manfiy boʻlsa, antibiotik qachon toʻxtatiladi?</b>\n\nKechki neonatal sepsis (late-onset sepsis, LOS) shubhasida ekma manfiy boʻlsa ham, antibiotik koʻpincha asossiz choʻzilmoqda.\n\n⏱️ 202 ta holatning 80 tasida ekma toza boʻlsa ham antibiotik 48 soatdan ortiq davom etdi (mediana — 47 soat).\n👶 Tahlil tana vazni juda kam (very low birth weight, VLBW) chala tugʻilgan chaqaloqlarning epizodlarini qamrab oldi.\n📊 nSOFA boʻyicha aʼzolar faoliyati buzilishi antibiotik davomiyligiga umuman taʼsir qilmagan (AUC 0.48–0.60).\n\n💡 <b>Amaliyotga:</b> Ekma toza chiqsa va nSOFA boʻyicha aʼzolar disfunksiyasi boʻlmasa, antibiotikni 48 soat ichida toʻxtatish zarur.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115347\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBWWrL7pRVpIRS9p5OoFuyJVp1g9MeAAI8JmsbJNhhSnizWw_-QARuAQADAgADeQADPQQ",
-      "adminMessageId": 345
+      "key": "pmid:42822668",
+      "title": "Examining Race-Based Puberty Information on Children's Hospital Websites",
+      "titleUz": "Bolalar shifoxonalari saytlarida irqga asoslangan balogʻat koʻrsatkichlari uchramoqda",
+      "link": "https://doi.org/10.1016/j.acap.2026.103482",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Bolalar shifoxonalari saytlarida irqga asoslangan balogʻat koʻrsatkichlari uchramoqda</b>\n\nXalqaro tavsiyalarga qaramay, tibbiy resurslarda jinsiy balogʻat boʻyicha irqiy stereotiplar saqlanib qolmoqda.\n\n📊 Jinsiy balogʻatni yoritgan 85 ta shifoxona saytining 16 tasida (18,8%) irqga bogʻliq koʻrsatkichlar berilgan.\n🌐 AQShdagi 285 ta bolalar shifoxonasi saytida qizlar jinsiy balogʻat yoshi boʻyicha maʼlumotlar tahlil qilindi.\n⚠️ Irqiy maʼlumot bergan saytlarning 50 foizida irq vaqtidan ilgari balogʻatga yetish xavf omili deb koʻrsatilgan.\n\n💡 <b>Amaliyotga:</b> Mintaqaviy farq ishonchsiz boʻlsa ham (P=0.069), bemorlar uchun resurslarni yangilash va irqiy qarashlardan voz kechish zarur.\n\n📚 <b>Manba:</b> Academic Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103482\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBXWrNZdXa3_V71hYTexsWjw1SjpBeAALNH2sbJNhxSqXJIQzBwixJAQADAgADeQADPQQ",
+      "adminMessageId": 349
     }
   ]
 }
