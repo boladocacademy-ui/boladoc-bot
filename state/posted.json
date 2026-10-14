@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42822670",
     "pmid:42508813",
     "pmid:42803578",
     "pmid:42830209",
@@ -25,6 +26,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42822670",
+      "postedAt": "2026-10-14T07:27:36.168Z",
+      "title": "Treat us like humans: Lived experience solutions to improve health care for multiply marginalized children with disabilities",
+      "titleUz": "Imkoniyati cheklangan bolalarga tibbiy yordam koʻrsatishdagi asosiy muammolar va yechimlar",
+      "link": "https://doi.org/10.1016/j.acap.2026.103483",
+      "source": "Academic Pediatrics",
+      "messageId": 825
+    },
     {
       "key": "pmid:42508813",
       "postedAt": "2026-10-12T09:02:47.498Z",
