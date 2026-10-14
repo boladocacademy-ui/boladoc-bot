@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42822667",
+      "title": "ACGME Milestone Levels for Residents Who Are Dismissed or Withdraw from Pediatric Residency Programs",
+      "titleUz": "Rezidenturadan chetlashtirilish xavfi 1-kursdayoq Milestone baholarida namoyon boʻladi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103484",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Rezidenturadan chetlashtirilish xavfi 1-kursdayoq Milestone baholarida namoyon boʻladi</b>\n\nRezidenturadan chetlatish kam uchrasa-da, bu dastur rahbarlari uchun ham, ordinator uchun ham katta yoʻqotishdir.\n\n📉 Chetlashtirilgan ordinatorlarda barcha yoʻnalishlar boʻyicha past baholar 1-kurs bahoridayoq (PGY1) koʻzga tashlangan.\n👥 32 426 nafar ordinatordan 28 345 nafari bitirgan, 99 nafari oʻqishni tark etgan, 29 nafari chetlashtirilgan.\n⏳ Haydalishlar har kursda teng boʻlgan (PGY1: 34%, PGY3: 38%), ixtiyoriy ketish esa asosan 1-kursda (44%) kuzatilgan.\n\n💡 <b>Amaliyotga:</b> Ordinatorlardagi kamchiliklarni 1-kurs bahoridayoq aniqlab, kechki bosqichlardagi chetlashtirishlarning oldini olish uchun erta korreksion yordam berish lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103484\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBbmrP4f-HeUVlhgxunjBmzN-Zj0d1AALmG2sb5YiASnSIcqf36Dp-AQADAgADeQADPQQ",
+      "adminMessageId": 366,
+      "draftId": "2026-10-15-2011"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42803828",
+      "title": "Nine-year ocular developmental outcomes after ranibizumab or laser treatment for zone II retinopathy of prematurity: follow-up of a randomized trial cohort",
+      "titleUz": "ROP davosida ranibizumab va lazerning 9 yillik natijalari deyarli teng chiqdi",
+      "link": "https://doi.org/10.1007/s00431-026-07452-x",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-09-28",
+      "caption": "🩺 <b>ROP davosida ranibizumab va lazerning 9 yillik natijalari deyarli teng chiqdi</b>\n\nChala tugʻilgan chaqaloqlar retinopatiyasi (retinopathy of prematurity, ROP) davosida qaysi usul uzoqroq samara beradi?\n\n📊 9 yillik koʻrish oʻtkirligi (0,21 vs 0,15 logMAR) va refraksiyada (-1,90 vs -1,22 D) guruhlararo farq kuzatilmadi.\n👥 RCT guruhidagi II zona ROP boʻlgan 29 nafar maktab yoshidagi bola (10 lazer, 19 ranibizumab) multimodal baholandi.\n🔬 Ranibizumab guruhida gavhar qalinligi yupqaroq (3,52 vs 3,75 mm) boʻlib, ayrim elektrofiziologik farqlar qayd etildi.\n\n💡 <b>Amaliyotga:</b> Natijalarda farq ishonchsiz boʻlgani (P=0,51) sababli, faqat uzoq muddatli natijalarga tayanib bir usulni ikkinchisidan ustun qoʻyishga hozircha asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07452-x\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBcGrP4kDsXWX9KjZvmjZGoPIP2GTdAALoG2sb5YiASlU3VSydheVlAQADAgADeQADPQQ",
+      "adminMessageId": 368,
+      "draftId": "2026-10-15-2011"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42803592",
       "title": "Urinary Tract Infection Diagnosis-A Companion to the American Academy of Pediatrics' 2026 Clinical Practice Guideline on the Diagnosis and Management of Urinary Tract Infection: Technical Report",
       "titleUz": "Bolalarda siydik yoʻllari infeksiyasi tashxisiga yangi mezonlar kiritildi",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAObaqWYD8jZGbOWcAF-9fO8uCJ3RikAAhohaxufGTBJtJ-9hByPOdwBAAMCAAN5AAM9BA",
       "adminMessageId": 155,
       "draftId": "2026-09-12-1820"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42686199",
-      "title": "A Real-World Evaluation of Large Language Model-Generated Hospital Courses in Pediatrics",
-      "titleUz": "Pediatriyada EHR-integratsiyalangan LLM epikrizlarida 41% nomaqbulliklar aniqlandi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009216",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-09-03",
-      "caption": "🩺 <b>Pediatriyada EHR-integratsiyalangan LLM epikrizlarida 41% nomaqbulliklar aniqlandi</b>\n\nShifokorlar vaqtini tejaydigan AI-epikrizlar amaliyotda qanchalik xavfsiz va aniq ekanini bilasizmi?\n\n🤖 AI yaratgan epikrizlarda 41% nomaqbullik (inaccuracy) va 21% gallyutsinatsiya kuzatildi.\n👨‍⚕️ 50 nafar shifokor Epic EHR tizimi (GPT-4o va GPT-4.1) orqali tayyorlangan 129 ta epikrizni baholadi.\n📊 Matn sifati yuqori (4/5 ball) baholandi, potensial zarar esa past (median 0; IQR 0-1) darajada boʻldi.\n\n💡 <b>Amaliyotga:</b> LLM epikrizlarini faqat shifokor nazorati va yakuniy tahriri sharti bilan boshlangʻich qoralama sifatida ishlatish xavfsiz.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 3-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009216\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOcaqWYHGyNOX08s7VK34AsvpDpNMMAAhshaxufGTBJqO9FHOEpTegBAAMCAAN5AAM9BA",
-      "adminMessageId": 156,
-      "draftId": "2026-09-12-1820"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42507437",
-      "title": "Efficacy of Silver Diamine Fluoride on Young Children With Severe Early Childhood Caries: A Randomized Clinical Trial",
-      "titleUz": "38% SDF vositasi kichik yoshdagi bolalarda kariesni toʻxtatishda samarali boʻldi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.2567",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-01",
-      "caption": "🩺 <b>38% SDF vositasi kichik yoshdagi bolalarda kariesni toʻxtatishda samarali boʻldi</b>\n\nErta bolalikdagi ogʻir karies (severe early childhood caries, S-ECC) kichik yoshdagi bolalarda jiddiy muammo hisoblanadi.\n\n🦷 38% kumush diammin ftorid (SDF) 6 oyda karies zararlanishlarining 54.0% ini toʻxtatdi (platsebo guruhida 22.5%).\n👥 RCT sinovida S-ECC boʻlgan 1-6 yoshli 830 nafar bola qatnashdi.\n🛡️ Vositani takroriy qoʻllashda ham ogʻriq va nojoʻya taʼsirlar boʻyicha guruhlar oʻrtasida farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> 38% SDF vositasi kichik yoshdagi bolalarda kariesni invaziv boʻlmagan holda toʻxtatish uchun samarali va xavfsiz muqobil hisoblanadi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.2567\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOXaqRSSL-AghEE0MHvNxAjsVbZujgAAqYbaxufGShJlzoXppm_GWcBAAMCAAN5AAM9BA",
-      "adminMessageId": 151,
-      "draftId": "2026-09-12-1909"
     }
   ]
 }
