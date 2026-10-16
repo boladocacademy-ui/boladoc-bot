@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42843968",
+      "title": "Financial INcentives to improve Asthma (FINA): a pilot RCT to improve medication adherence for children and young people with asthma",
+      "titleUz": "Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi",
+      "link": "https://doi.org/10.1136/archdischild-2026-331320",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-10-07",
+      "caption": "🩺 <b>Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi</b>\n\nBronxial asmasi bor oʻsmirlarda ingalyatsion dori vositalarini muntazam qoʻllashni taʼminlash murakkab muammo boʻlib qolmoqda.\n\n💰 12 haftada pul bilan ragʻbatlantirilgan oʻsmirlarda doriga rioya koʻrsatkichi 73%, nazorat guruhida 56% boʻldi\n📊 Randomizatsiyalangan klinik sinovda (RCT) ogʻir xurujni boshdan kechirgan 11-17 yoshli 32 nafar oʻsmir qatnashdi\n📉 Keyingi kuzatuvda ikkala guruhda ham doriga rioya koʻrsatkichi keskin pasayib, 31.5-39% ga tushib ketdi\n\n💡 <b>Amaliyotga:</b> Moliyaviy ragʻbatlantirish dastlab rioyani oshirgandek koʻrinsa-da, farq statistik ishonchli boʻlmadi (P=0.077) va uzoq muddatda samarasiz deb topildi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331320\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBeGrSfFgFMf-QAlZH27vqviGkQAlLAALWImsbHeWQSmvCGXwBUA6vAQADAgADeQADPQQ",
+      "adminMessageId": 376,
+      "draftId": "2026-10-17-1932"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42838408",
+      "title": "Association of Early Low Superior Vena Cava Flow among Neonates Born Very Preterm and Outcomes: A Systematic Review and Meta-Analysis",
+      "titleUz": "Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115362",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-10-06",
+      "caption": "🩺 <b>Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi</b>\n\nChala tugʻilgan chaqaloqlarda qorinchalarichiga qon quyilishi (intraventricular hemorrhage, IVH) xavfini erta bashorat qilish oʻta muhim.\n\n🫀 Dastlabki 48 soatda past SVCF (yuqori kovak vena qon oqimi) aniqlanishi IVH xavfini oshirdi (OR 4,7; 95% CI 2,3–9,5).\n📊 Meta-analizga 1 366 nafar juda chala tugʻilgan chaqaloq ishtirok etgan 14 ta original tadqiqot kiritildi.\n⚠️ Topilma ogʻir IVH va oʻlim bilan bogʻliq boʻlsa-da, dalillarning ishonchlilik darajasi past deb baholandi.\n\n💡 <b>Amaliyotga:</b> Dastlabki 48 soatdagi ExokG da past SVCF IVH va oʻlim xavfini koʻrsatishi mumkin, ammo dalillar ishonchliligi pastligi sababli klinik qarorlarda ehtiyotkorlik talab etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 6-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115362\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBeWrSfGbLgupjRb0flT33O8bs2h1ZAALXImsbHeWQSjaDYq4AAeqqXwEAAwIAA3kAAz0E",
+      "adminMessageId": 377,
+      "draftId": "2026-10-17-1932"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42507461",
       "title": "Erythropoietin for Neonatal Hypoxic-Ischemic Encephalopathy: A Randomized Clinical Trial",
       "titleUz": "Gipoksik-ishemik ensefalopatiyada eritropoetin gipotermiya samarasini oshirmadi",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAOjaqhWfUbpIIoGubWcvIKAInWbxAIAAi4kaxuIIUBJqiFtYMLwl_EBAAMCAAN5AAM9BA",
       "adminMessageId": 163,
       "draftId": "2026-09-15-2017"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42732892",
-      "title": "Beta-Lactam Dose Optimization Using Therapeutic Drug Monitoring in Pediatric Patients.",
-      "titleUz": "Pediatriyada beta-laktamlarning standart dozalari maqsadli konsentratsiyani taʼminlay olmayapti",
-      "link": "https://doi.org/10.1542/hpeds.2025-008993",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-09-14",
-      "caption": "🩺 <b>Pediatriyada beta-laktamlarning standart dozalari maqsadli konsentratsiyani taʼminlay olmayapti</b>\n\nPediatrik amaliyotda beta-laktam antibiotiklarning standart dozalari koʻpincha yetarli dori konsentratsiyasini berolmaydi.\n\n💊 Beta-laktam qabul qilgan bolalarning 58,5 foizi 100%fT ≥ 4×MIC terapevtik koʻrsatkichiga erisha olmadi.\n📊 122 bolada dori monitoringi (therapeutic drug monitoring, TDM) dozasini 31% holatda oʻzgartirishga majbur qildi.\n⚠️ Yosh kichikligi va kalava filtratsiyasi (eGFR) yuqoriligi maqsadli konsentratsiyaga erishmaslik xavfini oshirdi.\n\n💡 <b>Amaliyotga:</b> Pediatriyada beta-laktamlarni buyurishda standart doza yetarli boʻlmasligi mumkin, ayniqsa kichik yoshli va buyrak funksiyasi yuqori bolalarda TDM oʻtkazish muhim.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-008993\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOkaqhWh0UK9hjIsRBaUC4gr7Tsp4MAAi8kaxuIIUBJBVoI4qngd7wBAAMCAAN5AAM9BA",
-      "adminMessageId": 164,
-      "draftId": "2026-09-15-2017"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42727989",
-      "title": "Evolving landscape of paediatric sepsis: progress, gaps and the next generation of tools",
-      "titleUz": "Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar",
-      "link": "https://doi.org/10.1136/archdischild-2026-331272",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-11",
-      "caption": "🩺 <b>Bolalar sepsisi diagnostikasida nima oʻzgardi: Phoenix mezonlari va yangi yondashuvlar</b>\n\nSepsisdan oʻlim koʻpincha reanimatsiyaga yotqizilgunga qadar belgilanishi sababli, erta tashxis usullarini qayta koʻrib chiqish shart.\n\n🚨 Phoenix mezonlari sepsisni yalligʻlanishdan koʻra hayotga xavf soluvchi aʼzolar disfunksiyasiga koʻra belgilaydi.\n⏳ Koʻplab oʻlimlar bolalar reanimatsiyasiga (PICU) yuborilgach 24 soatda roʻy beradi, skrining hamon mukammal emas.\n💡 Kelajakda universal skriningdan koʻra xavf stratifikatsiyasi va sunʼiy intellekt modellariga eʼtibor qaratiladi.\n\n💡 <b>Amaliyotga:</b> Tashxisda faqat umumiy skriningga emas, ota-onalar xavotiri va klinik intuitsiyaga tayanib, davolashni ogʻirlik darajasiga qarab individuallashtirish zarur.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 11-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331272\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOfaqbvlOfw7DTlzikmH7ekGJVraZAAAsUkaxvkMzlJQns7jYfuWoABAAMCAAN5AAM9BA",
-      "adminMessageId": 159,
-      "draftId": "2026-09-13-1846"
     }
   ]
 }

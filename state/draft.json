@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-16-1952",
-  "createdAt": "2026-10-15T19:53:11.223Z",
+  "draftId": "2026-10-17-1932",
+  "createdAt": "2026-10-16T19:35:02.375Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42507461",
-      "title": "Erythropoietin for Neonatal Hypoxic-Ischemic Encephalopathy: A Randomized Clinical Trial",
-      "titleUz": "Gipoksik-ishemik ensefalopatiyada eritropoetin gipotermiya samarasini oshirmadi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.3082",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Gipoksik-ishemik ensefalopatiyada eritropoetin gipotermiya samarasini oshirmadi</b>\n\nGipoksik-ishemik ensefalopatiyada (hypoxic-ischemic encephalopathy, HIE) gipotermiyaga qaramay nogironlik xavfi yuqori qolmoqda.\n\n📉 2 yoshda oʻlim va nogironlik eritropoetin (EPO) guruhida 34,1%, platseboda esa 28,7% boʻldi (RR 1,19; 95% CI 0,84-1,68).\n🔬 Oʻrtacha va ogʻir HIE boʻlgan 313 nafar chaqaloqda terapevtik gipotermiya fonida EPO yoki platsebo qoʻllandi.\n🛡️ Serebral falaj va oʻlim darajasida guruhlararo farq kuzatilmadi, preparat xavfsizlik boʻyicha xavotir tugʻdirmadi.\n\n💡 <b>Amaliyotga:</b> Gipotermiyaga EPO qoʻshish klinik natijalarni yaxshilamadi (farq statistik ishonchsiz, P=0,33), shu bois uni HIE davosiga qoʻshimcha sifatida tavsiya etib boʻlmaydi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.3082\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBc2rRLxAqh7LKfT7LZNI0y605rc1RAALqJWsb5YiISsrfQNylZwbTAQADAgADeQADPQQ",
-      "adminMessageId": 371
+      "key": "pmid:42843968",
+      "title": "Financial INcentives to improve Asthma (FINA): a pilot RCT to improve medication adherence for children and young people with asthma",
+      "titleUz": "Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi",
+      "link": "https://doi.org/10.1136/archdischild-2026-331320",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-10-07",
+      "caption": "🩺 <b>Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi</b>\n\nBronxial asmasi bor oʻsmirlarda ingalyatsion dori vositalarini muntazam qoʻllashni taʼminlash murakkab muammo boʻlib qolmoqda.\n\n💰 12 haftada pul bilan ragʻbatlantirilgan oʻsmirlarda doriga rioya koʻrsatkichi 73%, nazorat guruhida 56% boʻldi\n📊 Randomizatsiyalangan klinik sinovda (RCT) ogʻir xurujni boshdan kechirgan 11-17 yoshli 32 nafar oʻsmir qatnashdi\n📉 Keyingi kuzatuvda ikkala guruhda ham doriga rioya koʻrsatkichi keskin pasayib, 31.5-39% ga tushib ketdi\n\n💡 <b>Amaliyotga:</b> Moliyaviy ragʻbatlantirish dastlab rioyani oshirgandek koʻrinsa-da, farq statistik ishonchli boʻlmadi (P=0.077) va uzoq muddatda samarasiz deb topildi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331320\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBeGrSfFgFMf-QAlZH27vqviGkQAlLAALWImsbHeWQSmvCGXwBUA6vAQADAgADeQADPQQ",
+      "adminMessageId": 376
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42507462",
-      "title": "Family-Centered Child Obesity Treatment: The TEAM UP Randomized Clinical Trial",
-      "titleUz": "Oilaviy xulq-atvor terapiyasi bolalarda BMI koʻrsatkichini sezilarli tushirdi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.3067",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Oilaviy xulq-atvor terapiyasi bolalarda BMI koʻrsatkichini sezilarli tushirdi</b>\n\nBolalardagi semizlikni jilovlashda faqat pediatr tavsiyasi yetarli emas, oilaviy yondashuv talab etiladi.\n\n📉 Oilaviy xulq-atvor terapiyasi (FBT) median BMI koʻrsatkichini standartdan 3,8 birlikka koʻp tushirdi (P=0,002).\n👥 Randomizatsiyalangan klinik sinovda (RCT) 6-15 yoshli semizligi bor 730 nafar bola va ota-onalar qatnashdi.\n🌟 Har ikki guruhda hayot sifati oshdi, FBT guruhida koʻrsatkich yaxshiroq va nojoʻya taʼsir kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Pediatr maslahatiga oilaviy xulq-atvor terapiyasini qoʻshish bolalarda vazn tushirishni sezilarli kuchaytiradi. Bemorlar bilan ishlashda ota-onalarni faol jalb qiling.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.3067\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBdGrRLyep4ZZIg_c23itZlg07zA75AALrJWsb5YiISpUZuVcruZrYAQADAgADeQADPQQ",
-      "adminMessageId": 372
+      "key": "pmid:42838408",
+      "title": "Association of Early Low Superior Vena Cava Flow among Neonates Born Very Preterm and Outcomes: A Systematic Review and Meta-Analysis",
+      "titleUz": "Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115362",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-10-06",
+      "caption": "🩺 <b>Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi</b>\n\nChala tugʻilgan chaqaloqlarda qorinchalarichiga qon quyilishi (intraventricular hemorrhage, IVH) xavfini erta bashorat qilish oʻta muhim.\n\n🫀 Dastlabki 48 soatda past SVCF (yuqori kovak vena qon oqimi) aniqlanishi IVH xavfini oshirdi (OR 4,7; 95% CI 2,3–9,5).\n📊 Meta-analizga 1 366 nafar juda chala tugʻilgan chaqaloq ishtirok etgan 14 ta original tadqiqot kiritildi.\n⚠️ Topilma ogʻir IVH va oʻlim bilan bogʻliq boʻlsa-da, dalillarning ishonchlilik darajasi past deb baholandi.\n\n💡 <b>Amaliyotga:</b> Dastlabki 48 soatdagi ExokG da past SVCF IVH va oʻlim xavfini koʻrsatishi mumkin, ammo dalillar ishonchliligi pastligi sababli klinik qarorlarda ehtiyotkorlik talab etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 6-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115362\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBeWrSfGbLgupjRb0flT33O8bs2h1ZAALXImsbHeWQSjaDYq4AAeqqXwEAAwIAA3kAAz0E",
+      "adminMessageId": 377
     }
   ]
 }
