@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42785517",
     "pmid:42815921",
     "pmid:42822670",
     "pmid:42508813",
@@ -27,6 +28,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42785517",
+      "postedAt": "2026-10-16T07:01:33.562Z",
+      "title": "Prenatal Risk Stratification with Early Non-Invasive Monitoring Reduces Unnecessary Medicalization in Patients with Coarctation of the Aorta",
+      "titleUz": "Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115349",
+      "source": "J Pediatrics",
+      "messageId": 832
+    },
     {
       "key": "pmid:42815921",
       "postedAt": "2026-10-15T07:17:54.644Z",

@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42785517",
-      "title": "Prenatal Risk Stratification with Early Non-Invasive Monitoring Reduces Unnecessary Medicalization in Patients with Coarctation of the Aorta",
-      "titleUz": "Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115349",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi</b>\n\nPrenatal aorta koarktatsiyasi gumoni chaqaloqlarda keraksiz prostaglandin E (PGE) va markaziy kateter qoʻyishga sabab boʻladi.\n\n📉 Yangi protokol PGE qoʻllashni (P=0.037), asossiz koʻchirish (P=0.006) va markaziy kateter qoʻyishni (P=0.002) kamaytirdi.\n👥 Protokoldan oldingi 106 va keyingi 42 nafar chaqaloq qiyoslandi; past xavfli guruhda jarrohlik ehtimoli atigi 7% boʻldi.\n⚠️ Protokoldan soʻng 2 nafar chaqaloqqa uyga chiqqach tashxis qoʻyildi, 1 chaqaloqda qorincha disfunksiyasi kuzatildi.\n\n💡 <b>Amaliyotga:</b> Invaziv muolajalar va PGE boshlashdan oldin xavfni toʻgʻri tabaqalashtirish hamda noinvaziv monitoring qilish soxta ijobiy holatlarda asoratlarni kamaytiradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115349\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBTWrJVIa4ew7uyS70K6X_YgmKlRJjAAKoJGsbG31JSkxJeS39aj9dAQADAgADeQADPQQ",
-      "adminMessageId": 333,
-      "draftId": "2026-10-10-2051",
-      "approvedAt": "2026-10-13T20:02:35.644Z"
-    },
-    {
       "index": 1,
       "label": "B",
       "key": "pmid:42803590",
@@ -114,5 +98,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-15"
+  "handledOn": "2026-10-16"
 }
