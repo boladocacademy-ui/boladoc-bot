@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-17-1932",
-  "createdAt": "2026-10-16T19:35:02.375Z",
+  "draftId": "2026-10-17-1827",
+  "createdAt": "2026-10-17T18:28:05.375Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42843968",
-      "title": "Financial INcentives to improve Asthma (FINA): a pilot RCT to improve medication adherence for children and young people with asthma",
-      "titleUz": "Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi",
-      "link": "https://doi.org/10.1136/archdischild-2026-331320",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "key": "pmid:42844453",
+      "title": "Short- versus long-course antibiotic therapy in non-severe CAP in children: a systematic review and meta-analysis",
+      "titleUz": "Bolalarda pnevmoniyani qisqa kursli antibiotik bilan davolash",
+      "link": "https://doi.org/10.1007/s00431-026-07471-8",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
       "pubDate": "2026-10-07",
-      "caption": "🩺 <b>Asmada moliyaviy ragʻbatlantirish terapiyaga rioyani uzoq muddatga oshirmadi</b>\n\nBronxial asmasi bor oʻsmirlarda ingalyatsion dori vositalarini muntazam qoʻllashni taʼminlash murakkab muammo boʻlib qolmoqda.\n\n💰 12 haftada pul bilan ragʻbatlantirilgan oʻsmirlarda doriga rioya koʻrsatkichi 73%, nazorat guruhida 56% boʻldi\n📊 Randomizatsiyalangan klinik sinovda (RCT) ogʻir xurujni boshdan kechirgan 11-17 yoshli 32 nafar oʻsmir qatnashdi\n📉 Keyingi kuzatuvda ikkala guruhda ham doriga rioya koʻrsatkichi keskin pasayib, 31.5-39% ga tushib ketdi\n\n💡 <b>Amaliyotga:</b> Moliyaviy ragʻbatlantirish dastlab rioyani oshirgandek koʻrinsa-da, farq statistik ishonchli boʻlmadi (P=0.077) va uzoq muddatda samarasiz deb topildi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331320\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBeGrSfFgFMf-QAlZH27vqviGkQAlLAALWImsbHeWQSmvCGXwBUA6vAQADAgADeQADPQQ",
-      "adminMessageId": 376
+      "caption": "🩺 <b>Bolalarda pnevmoniyani qisqa kursli antibiotik bilan davolash</b>\n\nBolalarda kasalxonadan tashqari pnevmoniyada (community-acquired pneumonia, CAP) uzoq antibiotik kursi rioyasizlikni oshiradi.\n\n💊 Qisqa kurs (≤5 kun) dori ichish tartibini buzishni 65% ga kamaytirdi, samarasizlik xavfi esa oʻzgarmadi (RR 1.07).\n📊 Meta-analiz 8970 nafar bolani qamragan 10 ta randomizatsiyalangan klinik sinov (RCT) maʼlumotlariga asoslangan.\n🛡️ Nojoʻya taʼsirlar va kasallik qaytalanishida (relaps) uzoq va qisqa kurslar oʻrtasida farq aniqlanmadi.\n\n💡 <b>Amaliyotga:</b> Ogʻir boʻlmagan pediatr CAP da qisqa antibiotik kursi dori qabul qilish intizomini oshiradi va davolash samarasini pasaytirmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07471-8\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBfGrTviYBI1AdPIj9EOsZ4842gnQ1AAKmG2sbHeWgSlNGhc5-RRphAQADAgADeQADPQQ",
+      "adminMessageId": 380
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42838408",
-      "title": "Association of Early Low Superior Vena Cava Flow among Neonates Born Very Preterm and Outcomes: A Systematic Review and Meta-Analysis",
-      "titleUz": "Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115362",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-10-06",
-      "caption": "🩺 <b>Erta past SVCF chaqaloqlarda IVH va oʻlim xavfini 4 baravardan ziyodga oshiradi</b>\n\nChala tugʻilgan chaqaloqlarda qorinchalarichiga qon quyilishi (intraventricular hemorrhage, IVH) xavfini erta bashorat qilish oʻta muhim.\n\n🫀 Dastlabki 48 soatda past SVCF (yuqori kovak vena qon oqimi) aniqlanishi IVH xavfini oshirdi (OR 4,7; 95% CI 2,3–9,5).\n📊 Meta-analizga 1 366 nafar juda chala tugʻilgan chaqaloq ishtirok etgan 14 ta original tadqiqot kiritildi.\n⚠️ Topilma ogʻir IVH va oʻlim bilan bogʻliq boʻlsa-da, dalillarning ishonchlilik darajasi past deb baholandi.\n\n💡 <b>Amaliyotga:</b> Dastlabki 48 soatdagi ExokG da past SVCF IVH va oʻlim xavfini koʻrsatishi mumkin, ammo dalillar ishonchliligi pastligi sababli klinik qarorlarda ehtiyotkorlik talab etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 6-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115362\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBeWrSfGbLgupjRb0flT33O8bs2h1ZAALXImsbHeWQSjaDYq4AAeqqXwEAAwIAA3kAAz0E",
-      "adminMessageId": 377
+      "key": "pmid:42844913",
+      "title": "Improving Discharge Instructions: Systematic Review of Language and Health Literacy Interventions",
+      "titleUz": "Bolalarni shifoxonadan chiqarishda faqat tarjima yetarsiz: multimodal yondashuv natijalari",
+      "link": "https://doi.org/10.1542/hpeds.2026-009374",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-10-08",
+      "caption": "🩺 <b>Bolalarni shifoxonadan chiqarishda faqat tarjima yetarsiz: multimodal yondashuv natijalari</b>\n\nOta-onalar bilan shifoxonadan javob berishdagi muloqot xatolari poststatsionar asoratlarni oshiradi.\n\n🗣️ Tilni moslashtirish va koʻp tarmoqli (multimodal) vizual qoʻllanmalar birga berilganda tushunish darajasi oshdi.\n📊 AQShdagi 10 ta tadqiqot tahlilida shifoxonadan chiqarish (discharge) boʻyicha turli aralashuvlar jamlandi.\n⚠️ Faqat bemor tilida gapirish yetarsiz, shuningdek tadqiqotlarda xolislik xavfi (risk of bias) yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Natijalar amaliyotda ota-onalarga faqat ogʻzaki emas, soddalashtirilgan va koʻrgazmali yoʻriqnomalar berish zarurligini koʻrsatmoqda.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 8-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009374\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBfWrTvjVcjsVJmpD-cEodTQrm_6-gAAKnG2sbHeWgSk7aRXlSxj24AQADAgADeQADPQQ",
+      "adminMessageId": 381
     }
   ]
 }
