@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42810820",
-      "title": "Bacterial detection in paediatric cancer patients with febrile neutropenia, from conventional microbiological testing to advanced molecular techniques: a scoping review",
-      "titleUz": "Febril neitropeniyada qayta qon ekmasi va molekulyar diagnostika natijalari",
-      "link": "https://doi.org/10.1136/archdischild-2026-331063",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-29",
-      "caption": "🩺 <b>Febril neitropeniyada qayta qon ekmasi va molekulyar diagnostika natijalari</b>\n\nFebril neitropeniyasi bor saratonli bolalarda har kuni qayta qon ektirish har doim ham oʻzini oqlamaydi.\n\n🧪 Barqaror bolalarda 72 soatdan keyin qayta qon ekish (BC) klinik jihatdan foyda bermasligi koʻrsatildi.\n📊 Tahlil 8993 ta febril neitropeniya (FN) epizodini qamrab olgan 33 ta tadqiqot natijalariga asoslandi.\n🧬 Molekulyar usullar qoʻzgʻatuvchini koʻproq topsada, yakka oʻzi yetarli emas; BC hali ham oltin standart.\n\n💡 <b>Amaliyotga:</b> Barqaror kechayotgan febril neitropeniyada 72 soatdan soʻng qayta qon ekishni toʻxtatish va molekulyar usullarni faqat qoʻshimcha sifatida ishlatish tavsiya etiladi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-331063\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBUmrKmgWdJ9nRWhNoWlYdKbOeTMi9AAJBIWsbpKFYSuvtUh_-Ci_CAQADAgADeQADPQQ",
-      "adminMessageId": 338,
-      "draftId": "2026-10-11-2002",
-      "approvedAt": "2026-10-13T20:03:06.728Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42809131",
@@ -82,5 +66,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-17"
+  "handledOn": "2026-10-18"
 }

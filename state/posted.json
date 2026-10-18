@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42810820",
     "pmid:42803590",
     "pmid:42785517",
     "pmid:42815921",
@@ -29,6 +30,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42810820",
+      "postedAt": "2026-10-18T07:10:13.522Z",
+      "title": "Bacterial detection in paediatric cancer patients with febrile neutropenia, from conventional microbiological testing to advanced molecular techniques: a scoping review",
+      "titleUz": "Febril neitropeniyada qayta qon ekmasi va molekulyar diagnostika natijalari",
+      "link": "https://doi.org/10.1136/archdischild-2026-331063",
+      "source": "Arch Dis Child",
+      "messageId": 834
+    },
     {
       "key": "pmid:42803590",
       "postedAt": "2026-10-17T06:50:57.720Z",
