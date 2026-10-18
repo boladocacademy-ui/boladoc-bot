@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42838530",
+      "title": "Antibiotic Choice for Community-Acquired Pneumonia in Children With Medical Complexity",
+      "titleUz": "Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?",
+      "link": "https://doi.org/10.1542/peds.2026-076178",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-07",
+      "caption": "🩺 <b>Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?</b>\n\nOgʻir boʻlmagan pnevmoniyada keng spektrli antibiotiklar davolash natijalarini yaxshilamasligi mumkin.\n\n💊 Keng va tor spektrli vositalar oʻrtasida shifoxonadan javob berish vaqtida farq boʻlmadi (HR 0,84; CI 0,68-1,04).\n🏥 Ogʻir boʻlmagan jamoada orttirilgan pnevmoniyali (community-acquired pneumonia, CAP) 742 nafar bola tahlil qilindi.\n📊 Kasallik ogʻirlashishi (OR 1,29) va 30 kunlik qayta murojaat xavfida ham (OR 0,39) statistik farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Murakkab tibbiy holatdagi bolalar pnevmoniyasida ham aminopenitsillinlar birinchi tanlov boʻla oladi, keng spektr har doim ham shart emas.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076178\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBgGrVEfYWcPPJeIUzDz1JQ3mHmf6RAAJdIWsbnLupShi6se27yGfcAQADAgADeQADPQQ",
+      "adminMessageId": 384,
+      "draftId": "2026-10-18-1837"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42665209",
+      "title": "Development of Perinatal Social Determinants of Health Composite Risk Score in Infants Born Preterm",
+      "titleUz": "Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115305",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-10-05",
+      "caption": "🩺 <b>Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi</b>\n\nIjtimoiy-iqtisodiy omillar chala tugʻilgan chaqaloqlarning keyingi asab-ruhiy rivojlanishiga bevosita taʼsir koʻrsatadi.\n\n📊 Yuqori ijtimoiy xavf guruhida 2 yoshda kognitiv ball 13.1, nutq 19 va motorika 7.8 ballga pastroq boʻldi\n👶 Tadqiqot ≤32 haftada tugʻilgan 328 nafar chala tugʻilgan chaqaloq kuzatuviga asoslangan\n🧠 Ijtimoiy salomatlik determinantlari (SDoH) shkalasi 5 yoshda ham kognitiv qobiliyat bilan bogʻliq boʻlib qoldi\n\n💡 <b>Amaliyotga:</b> SDoH xavf shkalasidan foydalanish chala tugʻilgan chaqaloqlarda rivojlanish ortda qolishini erta aniqlash va manzilli reabilitatsiya rejasini tuzishga yordam beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115305\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBgWrVEgduVUgf0LVu1FaQ1jjo1zE9AAJeIWsbnLupSsN5u878bzAgAQADAgADeQADPQQ",
+      "adminMessageId": 385,
+      "draftId": "2026-10-18-1837"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42844453",
       "title": "Short- versus long-course antibiotic therapy in non-severe CAP in children: a systematic review and meta-analysis",
       "titleUz": "Bolalarda pnevmoniyani qisqa kursli antibiotik bilan davolash",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAOraqru6rO--Yrf7Flwl1AD6ZArQhoAAuAbaxsKsFlJJMqEsfDzEQQBAAMCAAN5AAM9BA",
       "adminMessageId": 171,
       "draftId": "2026-09-17-1932"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42736513",
-      "title": "Electro-clinical efficacy and safety of midazolam in neonatal seizures: a systematic review with individual level exploratory analysis of gestational age-related treatment response",
-      "titleUz": "Midazolam chaqaloqlardagi rezistent talvasalarda qanchalik samarali?",
-      "link": "https://doi.org/10.1007/s00431-026-07430-3",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-14",
-      "caption": "🩺 <b>Midazolam chaqaloqlardagi rezistent talvasalarda qanchalik samarali?</b>\n\nFenobarbital chaqaloqlar talvasasini har doim ham toʻliq toʻxtata olmaydi va ikkinchi qator preparatlariga ehtiyoj tugʻiladi.\n\n📊 Midazolam qoʻllanganda elektro-klinik javob 69,2% (101/146) va talvasa toʻliq toʻxtashi 41,8% chaqaloqda kuzatildi.\n🧠 Tizimli sharhga EEG yoki aEEG bilan tasdiqlangan va midazolam olgan 146 nafar chaqaloq qamrab olindi (11 ta tadqiqot).\n⚠️ Gestatsiya yoshi ortgani sayin samaradorlik oshdi (36,5 haftadan soʻng &gt;50%), eng koʻp nojoʻya taʼsir — gipotenziya.\n\n💡 <b>Amaliyotga:</b> Midazolam rezistent talvasada qoʻshimcha dori boʻlishi mumkin, ammo yetukroq chaqaloqlarda samarasi yuqoriroq va arterial bosim nazoratini talab qiladi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07430-3\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOsaqru-LkwKHREiL9hocz_vn61SVQAAuEbaxsKsFlJ_It4C7DBPzABAAMCAAN5AAM9BA",
-      "adminMessageId": 172,
-      "draftId": "2026-09-17-1932"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42736452",
-      "title": "Corticosteroids as adjunctive therapy to standard treatment in Kawasaki disease: a GRADE-assessed systematic review and meta-analysis of randomized controlled trials.",
-      "titleUz": "Kavasaki kasalligida kortikosteroidlar tojdor tomir asoratlarini kamaytirmaydi",
-      "link": "https://doi.org/10.1007/s00431-026-07407-2",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-14",
-      "caption": "🩺 <b>Kavasaki kasalligida kortikosteroidlar tojdor tomir asoratlarini kamaytirmaydi</b>\n\nKavasaki kasalligi (Kawasaki disease, KD) boʻlgan bolalarda standart davoga kortikosteroid qoʻshish samara beradimi?\n\n🫀 Tojdor tomirlar zararlanishi (coronary artery abnormalities, CAA) xavfida sezilarli farq boʻlmadi (RR 0.49).\n📊 4106 nafar bolani qamrab olgan 8 ta randomizatsiyalangan klinik sinov (RCT) jamlab tahlil qilindi.\n🏥 Shifoxonada yotish kuni oʻrtacha 1 kunga qisqardi (MD -0.99), nojoʻya taʼsirlarda esa farq boʻlmadi.\n\n💡 <b>Amaliyotga:</b> Kortikosteroidlar standart davoga qoʻshimcha sifatida asosiy koʻrsatkichlarni yaxshilamaydi va dalillar ishonchliligi oʻta past (GRADE). Standart taktika saqlanib qoladi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07407-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOnaqmfgw6Js5UbmjET-fe4gNfJVqIAAmkcaxuIIVBJ2QbJeeX6zFwBAAMCAAN5AAM9BA",
-      "adminMessageId": 167,
-      "draftId": "2026-09-16-1941"
     }
   ]
 }

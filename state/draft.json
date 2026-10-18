@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-17-1827",
-  "createdAt": "2026-10-17T18:28:05.375Z",
+  "draftId": "2026-10-18-1837",
+  "createdAt": "2026-10-18T18:37:59.845Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42844453",
-      "title": "Short- versus long-course antibiotic therapy in non-severe CAP in children: a systematic review and meta-analysis",
-      "titleUz": "Bolalarda pnevmoniyani qisqa kursli antibiotik bilan davolash",
-      "link": "https://doi.org/10.1007/s00431-026-07471-8",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
+      "key": "pmid:42838530",
+      "title": "Antibiotic Choice for Community-Acquired Pneumonia in Children With Medical Complexity",
+      "titleUz": "Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?",
+      "link": "https://doi.org/10.1542/peds.2026-076178",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
       "pubDate": "2026-10-07",
-      "caption": "🩺 <b>Bolalarda pnevmoniyani qisqa kursli antibiotik bilan davolash</b>\n\nBolalarda kasalxonadan tashqari pnevmoniyada (community-acquired pneumonia, CAP) uzoq antibiotik kursi rioyasizlikni oshiradi.\n\n💊 Qisqa kurs (≤5 kun) dori ichish tartibini buzishni 65% ga kamaytirdi, samarasizlik xavfi esa oʻzgarmadi (RR 1.07).\n📊 Meta-analiz 8970 nafar bolani qamragan 10 ta randomizatsiyalangan klinik sinov (RCT) maʼlumotlariga asoslangan.\n🛡️ Nojoʻya taʼsirlar va kasallik qaytalanishida (relaps) uzoq va qisqa kurslar oʻrtasida farq aniqlanmadi.\n\n💡 <b>Amaliyotga:</b> Ogʻir boʻlmagan pediatr CAP da qisqa antibiotik kursi dori qabul qilish intizomini oshiradi va davolash samarasini pasaytirmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07471-8\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBfGrTviYBI1AdPIj9EOsZ4842gnQ1AAKmG2sbHeWgSlNGhc5-RRphAQADAgADeQADPQQ",
-      "adminMessageId": 380
+      "caption": "🩺 <b>Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?</b>\n\nOgʻir boʻlmagan pnevmoniyada keng spektrli antibiotiklar davolash natijalarini yaxshilamasligi mumkin.\n\n💊 Keng va tor spektrli vositalar oʻrtasida shifoxonadan javob berish vaqtida farq boʻlmadi (HR 0,84; CI 0,68-1,04).\n🏥 Ogʻir boʻlmagan jamoada orttirilgan pnevmoniyali (community-acquired pneumonia, CAP) 742 nafar bola tahlil qilindi.\n📊 Kasallik ogʻirlashishi (OR 1,29) va 30 kunlik qayta murojaat xavfida ham (OR 0,39) statistik farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Murakkab tibbiy holatdagi bolalar pnevmoniyasida ham aminopenitsillinlar birinchi tanlov boʻla oladi, keng spektr har doim ham shart emas.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076178\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBgGrVEfYWcPPJeIUzDz1JQ3mHmf6RAAJdIWsbnLupShi6se27yGfcAQADAgADeQADPQQ",
+      "adminMessageId": 384
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42844913",
-      "title": "Improving Discharge Instructions: Systematic Review of Language and Health Literacy Interventions",
-      "titleUz": "Bolalarni shifoxonadan chiqarishda faqat tarjima yetarsiz: multimodal yondashuv natijalari",
-      "link": "https://doi.org/10.1542/hpeds.2026-009374",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-10-08",
-      "caption": "🩺 <b>Bolalarni shifoxonadan chiqarishda faqat tarjima yetarsiz: multimodal yondashuv natijalari</b>\n\nOta-onalar bilan shifoxonadan javob berishdagi muloqot xatolari poststatsionar asoratlarni oshiradi.\n\n🗣️ Tilni moslashtirish va koʻp tarmoqli (multimodal) vizual qoʻllanmalar birga berilganda tushunish darajasi oshdi.\n📊 AQShdagi 10 ta tadqiqot tahlilida shifoxonadan chiqarish (discharge) boʻyicha turli aralashuvlar jamlandi.\n⚠️ Faqat bemor tilida gapirish yetarsiz, shuningdek tadqiqotlarda xolislik xavfi (risk of bias) yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Natijalar amaliyotda ota-onalarga faqat ogʻzaki emas, soddalashtirilgan va koʻrgazmali yoʻriqnomalar berish zarurligini koʻrsatmoqda.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 8-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009374\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBfWrTvjVcjsVJmpD-cEodTQrm_6-gAAKnG2sbHeWgSk7aRXlSxj24AQADAgADeQADPQQ",
-      "adminMessageId": 381
+      "key": "pmid:42665209",
+      "title": "Development of Perinatal Social Determinants of Health Composite Risk Score in Infants Born Preterm",
+      "titleUz": "Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115305",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-10-05",
+      "caption": "🩺 <b>Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi</b>\n\nIjtimoiy-iqtisodiy omillar chala tugʻilgan chaqaloqlarning keyingi asab-ruhiy rivojlanishiga bevosita taʼsir koʻrsatadi.\n\n📊 Yuqori ijtimoiy xavf guruhida 2 yoshda kognitiv ball 13.1, nutq 19 va motorika 7.8 ballga pastroq boʻldi\n👶 Tadqiqot ≤32 haftada tugʻilgan 328 nafar chala tugʻilgan chaqaloq kuzatuviga asoslangan\n🧠 Ijtimoiy salomatlik determinantlari (SDoH) shkalasi 5 yoshda ham kognitiv qobiliyat bilan bogʻliq boʻlib qoldi\n\n💡 <b>Amaliyotga:</b> SDoH xavf shkalasidan foydalanish chala tugʻilgan chaqaloqlarda rivojlanish ortda qolishini erta aniqlash va manzilli reabilitatsiya rejasini tuzishga yordam beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115305\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBgWrVEgduVUgf0LVu1FaQ1jjo1zE9AAJeIWsbnLupSsN5u878bzAgAQADAgADeQADPQQ",
+      "adminMessageId": 385
     }
   ]
 }
