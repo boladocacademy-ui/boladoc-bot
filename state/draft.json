@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-18-1837",
-  "createdAt": "2026-10-18T18:37:59.845Z",
+  "draftId": "2026-10-20-2101",
+  "createdAt": "2026-10-19T21:02:22.701Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42838530",
-      "title": "Antibiotic Choice for Community-Acquired Pneumonia in Children With Medical Complexity",
-      "titleUz": "Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?",
-      "link": "https://doi.org/10.1542/peds.2026-076178",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-10-07",
-      "caption": "🩺 <b>Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?</b>\n\nOgʻir boʻlmagan pnevmoniyada keng spektrli antibiotiklar davolash natijalarini yaxshilamasligi mumkin.\n\n💊 Keng va tor spektrli vositalar oʻrtasida shifoxonadan javob berish vaqtida farq boʻlmadi (HR 0,84; CI 0,68-1,04).\n🏥 Ogʻir boʻlmagan jamoada orttirilgan pnevmoniyali (community-acquired pneumonia, CAP) 742 nafar bola tahlil qilindi.\n📊 Kasallik ogʻirlashishi (OR 1,29) va 30 kunlik qayta murojaat xavfida ham (OR 0,39) statistik farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Murakkab tibbiy holatdagi bolalar pnevmoniyasida ham aminopenitsillinlar birinchi tanlov boʻla oladi, keng spektr har doim ham shart emas.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076178\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBgGrVEfYWcPPJeIUzDz1JQ3mHmf6RAAJdIWsbnLupShi6se27yGfcAQADAgADeQADPQQ",
-      "adminMessageId": 384
+      "key": "pmid:42879706",
+      "title": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+      "titleUz": "DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi",
+      "link": "https://doi.org/10.15585/mmwr.mm7540a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "pubDate": "2026-10-15",
+      "caption": "🩺 <b>DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi</b>\n\nKoʻkyoʻtal epidemiyasi paytida emlanmagan bolalarda laborator tasdiqlangan kasallik xavfi 26 baravar yuqori boʻladi.\n\n💉 Toʻliq 3 doza DTaP olgan bolalarda vaksinaning samaradorligi 96.2%, qisman emlanganlarda esa 85.3% boʻldi.\n📊 Alyaskadagi 6 oylikdan 6 yoshgacha boʻlgan emlanmagan bolalarda kasallik xavfi 26 baravar yuqori chiqdi (OR=26.1).\n⚠️ DTaP vaksinasining 1-2 dozasini olgan bolalarda ham koʻkyoʻtal bilan kasallanish ehtimoli 4 baravar yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Koʻkyoʻtal avj olishining oldini olish uchun bolalarni DTaP vaksinasi bilan oʻz vaqtida va toʻliq emlash jadvaliga qatʼiy rioya qilish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 15-oktabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7540a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBhGrWhU7oy4-anc2hqAABwN2MzBI7JQACCSRrG1b3sUpAW3oHqaJKHwEAAwIAA3kAAz0E",
+      "adminMessageId": 388
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42665209",
-      "title": "Development of Perinatal Social Determinants of Health Composite Risk Score in Infants Born Preterm",
-      "titleUz": "Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115305",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-10-05",
-      "caption": "🩺 <b>Chala tugʻilgan chaqaloqlarda SDoH xavf shkalasi rivojlanish natijalarini bashorat qiladi</b>\n\nIjtimoiy-iqtisodiy omillar chala tugʻilgan chaqaloqlarning keyingi asab-ruhiy rivojlanishiga bevosita taʼsir koʻrsatadi.\n\n📊 Yuqori ijtimoiy xavf guruhida 2 yoshda kognitiv ball 13.1, nutq 19 va motorika 7.8 ballga pastroq boʻldi\n👶 Tadqiqot ≤32 haftada tugʻilgan 328 nafar chala tugʻilgan chaqaloq kuzatuviga asoslangan\n🧠 Ijtimoiy salomatlik determinantlari (SDoH) shkalasi 5 yoshda ham kognitiv qobiliyat bilan bogʻliq boʻlib qoldi\n\n💡 <b>Amaliyotga:</b> SDoH xavf shkalasidan foydalanish chala tugʻilgan chaqaloqlarda rivojlanish ortda qolishini erta aniqlash va manzilli reabilitatsiya rejasini tuzishga yordam beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115305\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBgWrVEgduVUgf0LVu1FaQ1jjo1zE9AAJeIWsbnLupSsN5u878bzAgAQADAgADeQADPQQ",
-      "adminMessageId": 385
+      "key": "pmid:42860262",
+      "title": "Evaluating OpenEvidence Across Pediatric Subspecialties: A Guideline-Anchored Expert Review",
+      "titleUz": "OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009588",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-10-12",
+      "caption": "🩺 <b>OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi</b>\n\nTibbiy sunʼiy intellekt vositalari pediatriyada ishlatilganda kattalar maʼlumotlariga tayanib xato berish xavfi mavjud.\n\n📊 OpenEvidence AI javoblarining sifati 30 dan 27 ball deb baholandi hamda xavf darajasi juda past deb topildi.\n🔍 6 ta pediatrik mutaxassislik boʻyicha berilgan savollarda havolalar 88.2% holatda keltirilgan fikrni tasdiqladi.\n⚠️ AI bergan javoblarning 35.3% qismida bolalarga xos boʻlmagan (kattalar) tadqiqotlariga havolalar uchradi.\n\n💡 <b>Amaliyotga:</b> OpenEvidence klinik savollarda yuqori aniqlik koʻrsatadi, ammo javoblarda kattalar tadqiqotlari ishlatilmaganiga shifokor doim eʼtibor berishi zarur.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 12-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009588\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBhWrWhV5qZX6-fKNwJZQyI23jjufxAAIKJGsbVvexSu5OvY2kdJPbAQADAgADeQADPQQ",
+      "adminMessageId": 389
     }
   ]
 }

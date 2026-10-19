@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42879706",
+      "title": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+      "titleUz": "DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi",
+      "link": "https://doi.org/10.15585/mmwr.mm7540a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "pubDate": "2026-10-15",
+      "caption": "🩺 <b>DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi</b>\n\nKoʻkyoʻtal epidemiyasi paytida emlanmagan bolalarda laborator tasdiqlangan kasallik xavfi 26 baravar yuqori boʻladi.\n\n💉 Toʻliq 3 doza DTaP olgan bolalarda vaksinaning samaradorligi 96.2%, qisman emlanganlarda esa 85.3% boʻldi.\n📊 Alyaskadagi 6 oylikdan 6 yoshgacha boʻlgan emlanmagan bolalarda kasallik xavfi 26 baravar yuqori chiqdi (OR=26.1).\n⚠️ DTaP vaksinasining 1-2 dozasini olgan bolalarda ham koʻkyoʻtal bilan kasallanish ehtimoli 4 baravar yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Koʻkyoʻtal avj olishining oldini olish uchun bolalarni DTaP vaksinasi bilan oʻz vaqtida va toʻliq emlash jadvaliga qatʼiy rioya qilish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 15-oktabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7540a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBhGrWhU7oy4-anc2hqAABwN2MzBI7JQACCSRrG1b3sUpAW3oHqaJKHwEAAwIAA3kAAz0E",
+      "adminMessageId": 388,
+      "draftId": "2026-10-20-2101"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42860262",
+      "title": "Evaluating OpenEvidence Across Pediatric Subspecialties: A Guideline-Anchored Expert Review",
+      "titleUz": "OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009588",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-10-12",
+      "caption": "🩺 <b>OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi</b>\n\nTibbiy sunʼiy intellekt vositalari pediatriyada ishlatilganda kattalar maʼlumotlariga tayanib xato berish xavfi mavjud.\n\n📊 OpenEvidence AI javoblarining sifati 30 dan 27 ball deb baholandi hamda xavf darajasi juda past deb topildi.\n🔍 6 ta pediatrik mutaxassislik boʻyicha berilgan savollarda havolalar 88.2% holatda keltirilgan fikrni tasdiqladi.\n⚠️ AI bergan javoblarning 35.3% qismida bolalarga xos boʻlmagan (kattalar) tadqiqotlariga havolalar uchradi.\n\n💡 <b>Amaliyotga:</b> OpenEvidence klinik savollarda yuqori aniqlik koʻrsatadi, ammo javoblarda kattalar tadqiqotlari ishlatilmaganiga shifokor doim eʼtibor berishi zarur.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 12-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009588\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBhWrWhV5qZX6-fKNwJZQyI23jjufxAAIKJGsbVvexSu5OvY2kdJPbAQADAgADeQADPQQ",
+      "adminMessageId": 389,
+      "draftId": "2026-10-20-2101"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42838530",
       "title": "Antibiotic Choice for Community-Acquired Pneumonia in Children With Medical Complexity",
       "titleUz": "Murakkab tibbiy holatdagi bolalarda pnevmoniya: keng spektrli antibiotik afzallik beradimi?",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAOvaqxCxyGL3s82YzMy8ti8yySYNAgAAvYwaxtHNGFJ8oUcEvw2AtUBAAMCAAN5AAM9BA",
       "adminMessageId": 175,
       "draftId": "2026-09-18-1942"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42744211",
-      "title": "Redesigning Primary Care Via Health Systems and Communities",
-      "titleUz": "Pediatriyada birlamchi tibbiy yordam va ijtimoiy xizmatlar integratsiyasi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103429",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-09-15",
-      "caption": "🩺 <b>Pediatriyada birlamchi tibbiy yordam va ijtimoiy xizmatlar integratsiyasi</b>\n\nBolalar salomatligida faqat tibbiy muolajalar emas, balki ijtimoiy omillar ham hal qiluvchi oʻrin tutadi.\n\n🤝 Tibbiy xizmatlarni ijtimoiy parvarish (social care) va jamoat hamkorligi bilan birlashtirish modeli taklif etildi.\n🏥 Kichik shifokorlar guruhi individual, yirik tibbiyot tizimlari esa jamoa miqyosida ijtimoiy integratsiyani beradi.\n💡 Muvaffaqiyat barqaror moliyalashtirish, kadrlar va maʼlumotlarga asoslangan tahlilga bogʻliq.\n\n💡 <b>Amaliyotga:</b> Bolalar salomatligida eng yaxshi natijaga erishish uchun birlamchi boʻgʻin shifokorlari ijtimoiy xizmatlar bilan integratsiyalashgan holda ishlashlari lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 15-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103429\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOwaqxC09d9_RCCDjpqbwY9oVaC5CUAAvcwaxtHNGFJgj0vt2RxLHoBAAMCAAN5AAM9BA",
-      "adminMessageId": 176,
-      "draftId": "2026-09-18-1942"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42734908",
-      "title": "Individually Targeted Human Milk Fortification: A Randomized Clinical Trial",
-      "titleUz": "Chala tugʻilgan chaqaloqlarda koʻkrak sutini individual boyitish kutilgan natijani bermadi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4220",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-14",
-      "caption": "🩺 <b>Chala tugʻilgan chaqaloqlarda koʻkrak sutini individual boyitish kutilgan natijani bermadi</b>\n\nOna suti tahlili asosida ozuqani individual dozalash chala tugʻilgan chaqaloqlar oʻsishini tezlashtiradi deb hisoblanardi.\n\n📊 Tana vazni, boʻyi, bosh aylana z-score koʻrsatkichlari va bosh miya MRT natijalarida guruhlararo farq kuzatilmadi.\n👶 Gestatsiya yoshi 24–30 haftalik 130 nafar chala tugʻilgan chaqaloq klinik sinovga (RCT) jalb qilindi.\n🥛 Standart boyitish usulining oʻzi ham chaqaloqlar uchun barcha kerakli ozuqa darajasini yetarlicha taʼminlay oldi.\n\n💡 <b>Amaliyotga:</b> Individual fortifikatsiya standart usuldan ustunlik koʻrsatgani yoʻq. Shuning uchun neonatologiyada mavjud standart boyitish protokollarini davom ettirish kifoya.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 14-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4220\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAOraqru6rO--Yrf7Flwl1AD6ZArQhoAAuAbaxsKsFlJJMqEsfDzEQQBAAMCAAN5AAM9BA",
-      "adminMessageId": 171,
-      "draftId": "2026-09-17-1932"
     }
   ]
 }
