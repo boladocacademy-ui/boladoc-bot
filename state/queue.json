@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42809131",
-      "title": "Oral glucose solution for the treatment of persistent asymptomatic neonatal hypoglycemia: a randomized, double-blind, placebo-controlled trial",
-      "titleUz": "Chaqaloqlar gipoglikemiyasida 50% li glyukoza eritmasi infuziyani kamaytiradimi?",
-      "link": "https://doi.org/10.1007/s00431-026-07427-y",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-09-29",
-      "caption": "🩺 <b>Chaqaloqlar gipoglikemiyasida 50% li glyukoza eritmasi infuziyani kamaytiradimi?</b>\n\nChaqaloqlardagi gipoglikemiyada vena ichiga infuziya oʻtkazish ona va bola kontaktini uzib qoʻyishi mumkin.\n\n📊 Vena ichiga glyukoza quyish ehtiyoji D50W guruhida 4,9%, platsebo guruhida 8,7% chaqaloqda kuzatildi.\n👥 Gestatsiya yoshi ≥34 hafta boʻlgan simptomsiz gipoglikemiyali 400 nafar chaqaloq tekshirildi (RCT).\n🛡️ Glitsidemiya koʻproq oshdi, giperglikemiya, aspiratsiya yoki shilliq qavat zararlanishi kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Vena ichiga infuziya ehtiyojidagi farq statistik ishonchsiz chiqdi (P=0.18), shu sababli usul hozircha klinik amaliyotni oʻzgartirmaydi.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07427-y\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBVmrL7jzD95Ud7qXnwJ7XtMrm0zhPAAI6JmsbJNhhSvZrsP5ifxDoAQADAgADeQADPQQ",
-      "adminMessageId": 342,
-      "draftId": "2026-10-12-2013",
-      "approvedAt": "2026-10-13T20:03:20.927Z"
-    },
-    {
       "index": 1,
       "label": "B",
       "key": "pmid:42785515",
@@ -66,5 +50,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-18"
+  "handledOn": "2026-10-19"
 }

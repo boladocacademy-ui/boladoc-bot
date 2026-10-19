@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42809131",
     "pmid:42810820",
     "pmid:42803590",
     "pmid:42785517",
@@ -30,6 +31,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42809131",
+      "postedAt": "2026-10-19T07:39:13.975Z",
+      "title": "Oral glucose solution for the treatment of persistent asymptomatic neonatal hypoglycemia: a randomized, double-blind, placebo-controlled trial",
+      "titleUz": "Chaqaloqlar gipoglikemiyasida 50% li glyukoza eritmasi infuziyani kamaytiradimi?",
+      "link": "https://doi.org/10.1007/s00431-026-07427-y",
+      "source": "Eur J Pediatrics",
+      "messageId": 835
+    },
     {
       "key": "pmid:42810820",
       "postedAt": "2026-10-18T07:10:13.522Z",
