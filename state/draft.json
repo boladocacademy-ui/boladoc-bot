@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-20-2101",
-  "createdAt": "2026-10-19T21:02:22.701Z",
+  "draftId": "2026-10-21-1959",
+  "createdAt": "2026-10-20T20:00:39.354Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42879706",
-      "title": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
-      "titleUz": "DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi",
-      "link": "https://doi.org/10.15585/mmwr.mm7540a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "key": "pmid:42875564",
+      "title": "Epididymal cysts in children: a systematic review and meta-analysis of treatment approaches and clinical outcomes",
+      "titleUz": "Bolalarda epididimal kistalar: konservativ yondashuv va jarrohlik koʻrsatmalari",
+      "link": "https://doi.org/10.1007/s00431-026-07501-5",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
       "pubDate": "2026-10-15",
-      "caption": "🩺 <b>DTaP vaksinasining koʻkyoʻtal epidemiyasidagi samaradorligi 96% boʻldi</b>\n\nKoʻkyoʻtal epidemiyasi paytida emlanmagan bolalarda laborator tasdiqlangan kasallik xavfi 26 baravar yuqori boʻladi.\n\n💉 Toʻliq 3 doza DTaP olgan bolalarda vaksinaning samaradorligi 96.2%, qisman emlanganlarda esa 85.3% boʻldi.\n📊 Alyaskadagi 6 oylikdan 6 yoshgacha boʻlgan emlanmagan bolalarda kasallik xavfi 26 baravar yuqori chiqdi (OR=26.1).\n⚠️ DTaP vaksinasining 1-2 dozasini olgan bolalarda ham koʻkyoʻtal bilan kasallanish ehtimoli 4 baravar yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Koʻkyoʻtal avj olishining oldini olish uchun bolalarni DTaP vaksinasi bilan oʻz vaqtida va toʻliq emlash jadvaliga qatʼiy rioya qilish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 15-oktabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7540a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBhGrWhU7oy4-anc2hqAABwN2MzBI7JQACCSRrG1b3sUpAW3oHqaJKHwEAAwIAA3kAAz0E",
-      "adminMessageId": 388
+      "caption": "🩺 <b>Bolalarda epididimal kistalar: konservativ yondashuv va jarrohlik koʻrsatmalari</b>\n\nBolalardagi epididimal kistalar xavfsiz oʻsma boʻlib, aksariyat hollarda jarrohlik amaliyotisiz ham barqaror kechadi.\n\n🎯 Meta-analizda spontan soʻrilish 12.2% holatda kuzatildi, operatsiya esa faqat 7.4% bolada oʻtkazilgan.\n📊 492 nafar oʻgʻil bolani qamrab olgan 9 ta tadqiqotda kistalarning 8 foizi ikki tomonlama boʻlib chiqqan.\n⚠️ Jarrohlikdan soʻng asoratlar 3.4% ni tashkil etdi, kistalar moyak buralishiga olib kelishi isbotlanmadi (1.6%).\n\n💡 <b>Amaliyotga:</b> Epididimal kistalarda birinchi navbatda konservativ kuzatuv tavsiya etiladi. Jarrohlik faqat doimiy ogʻriq va oʻsish kuzatilganda bajarilishi lozim.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 15-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07501-5\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBiGrXyEzHexBw6HtyucWO93vCklXJAALuJWsbipnASizRuipQNeH_AQADAgADeQADPQQ",
+      "adminMessageId": 392
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42860262",
-      "title": "Evaluating OpenEvidence Across Pediatric Subspecialties: A Guideline-Anchored Expert Review",
-      "titleUz": "OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi",
-      "link": "https://doi.org/10.1542/hpeds.2026-009588",
+      "key": "pmid:42893807",
+      "title": "Intrapleural TPA vs Normal Saline in Pediatric Empyema: A Comparative Study.",
+      "titleUz": "Bolalar empiyemasida TPA yuborish statsionar yotish vaqtini qisqartiradimi?",
+      "link": "https://doi.org/10.1542/hpeds.2026-009645",
       "source": "Hospital Pediatrics",
       "sourceFull": "Hospital Pediatrics — AAP",
-      "pubDate": "2026-10-12",
-      "caption": "🩺 <b>OpenEvidence AI platformasining pediatrik tavsiyalardagi aniqligi va xavfsizligi</b>\n\nTibbiy sunʼiy intellekt vositalari pediatriyada ishlatilganda kattalar maʼlumotlariga tayanib xato berish xavfi mavjud.\n\n📊 OpenEvidence AI javoblarining sifati 30 dan 27 ball deb baholandi hamda xavf darajasi juda past deb topildi.\n🔍 6 ta pediatrik mutaxassislik boʻyicha berilgan savollarda havolalar 88.2% holatda keltirilgan fikrni tasdiqladi.\n⚠️ AI bergan javoblarning 35.3% qismida bolalarga xos boʻlmagan (kattalar) tadqiqotlariga havolalar uchradi.\n\n💡 <b>Amaliyotga:</b> OpenEvidence klinik savollarda yuqori aniqlik koʻrsatadi, ammo javoblarda kattalar tadqiqotlari ishlatilmaganiga shifokor doim eʼtibor berishi zarur.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 12-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009588\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBhWrWhV5qZX6-fKNwJZQyI23jjufxAAIKJGsbVvexSu5OvY2kdJPbAQADAgADeQADPQQ",
-      "adminMessageId": 389
+      "pubDate": "2026-10-19",
+      "caption": "🩺 <b>Bolalar empiyemasida TPA yuborish statsionar yotish vaqtini qisqartiradimi?</b>\n\nAsoratlangan parapnevmonik ekssudatli bolalarda intraplevral fibrinoliz haqiqatan ham shifoxonada yotish vaqtini qisqartiradimi?\n\n🏥 Kasalxonada yotish muddati TPA guruhida 20.28 kun, saline guruhida 19.17 kun boʻldi (tuzatilgan farq: 0.36 kun).\n👶 Retrospektiv tadqiqotda empiyemasi bor 1 oylikdan 18 yoshgacha boʻlgan 85 nafar bemor bola maʼlumotlari taqqoslandi.\n🫁 Reanimatsiya vaqti va isitma davomiyligida ham ikkala guruh orasida sezilarli farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Intraplevral TPA oddiy tuzli eritma bilan yuvishga nisbatan ustunlik koʻrsatmadi (P=0.826). Natija amaliyotni oʻzgartirish uchun yetarli emas, RCT sinovlari kerak.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009645\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBiWrXyGcwKqQ3-LCpGQABt4yYr_l8vwAC7yVrG4qZwEqIR3qocAZ9hgEAAwIAA3kAAz0E",
+      "adminMessageId": 393
     }
   ]
 }
