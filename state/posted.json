@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42785515",
     "pmid:42809131",
     "pmid:42810820",
     "pmid:42803590",
@@ -31,6 +32,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42785515",
+      "postedAt": "2026-10-20T07:24:37.175Z",
+      "title": "Antibiotic Duration and Critical Illness After Culture-Negative Late-Onset Sepsis Evaluation in Infants Born Preterm",
+      "titleUz": "Kechki sepsisda ekma manfiy boʻlsa, antibiotik qachon toʻxtatiladi?",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115347",
+      "source": "J Pediatrics",
+      "messageId": 843
+    },
     {
       "key": "pmid:42809131",
       "postedAt": "2026-10-19T07:39:13.975Z",
