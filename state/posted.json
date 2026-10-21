@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42586557",
     "pmid:42785515",
     "pmid:42809131",
     "pmid:42810820",
@@ -32,6 +33,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42586557",
+      "postedAt": "2026-10-21T07:26:56.666Z",
+      "title": "Postoperative Interventions and Cost Associated With Disposition After Tonsil and Adenoidectomy",
+      "titleUz": "Tonsillektomiyadan keyin bolalarni reanimatsiyaga yotqizish har doim ham shartmi?",
+      "link": "https://doi.org/10.1542/hpeds.2026-009276",
+      "source": "Hospital Pediatrics",
+      "messageId": 844
+    },
     {
       "key": "pmid:42785515",
       "postedAt": "2026-10-20T07:24:37.175Z",
