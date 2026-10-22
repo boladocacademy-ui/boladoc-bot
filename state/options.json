@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42895728",
+      "title": "Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial",
+      "titleUz": "Bosh miya chayqalishida masofaviy aerobik mashqlar tiklanishni tezlashtiradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.4927",
+      "source": "JAMA Pediatrics",
+      "sourceFull": "JAMA Pediatrics",
+      "pubDate": "2026-10-19",
+      "caption": "🩺 <b>Bosh miya chayqalishida masofaviy aerobik mashqlar tiklanishni tezlashtiradi</b>\n\nBosh miya chayqalishi (concussion) asorati choʻzilgan oʻsmirlarda uyda bajariladigan aerob mashqlar tuzalishni tezlashtiradi.\n\n🏃 3 oyda MSTEP guruhida simptomlar sezilarli kamayib, hayot sifati nazorat guruhiga qaraganda yuqori boʻldi (P=0.04).\n👥 Randomizatsiyalangan sinovda 11-18 yoshli 210 nafar oʻsmir 6 haftalik telemeditsina nazoratidagi mashqlarni bajardi.\n⏱️ Aerobik mashqlarning afzalligi faqat jarohatdan keyin 3 oydan kam vaqt oʻtgan oʻsmirlarda yaqqol namoyon boʻldi.\n\n💡 <b>Amaliyotga:</b> Bosh miya chayqalishi belgilari choʻzilgan oʻsmirlarga aerobik mashqlarni jarohatdan keyingi dastlabki 3 oyda tavsiya qilish tiklanishni tezlashtiradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4927\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBkmrabHAUtUGB2cafJ95_Cd7HipG1AAJ2IWsbvMHRSpu1nz3Zxm7ZAQADAgADeQADPQQ",
+      "adminMessageId": 402,
+      "draftId": "2026-10-23-2004"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42895565",
+      "title": "Paediatric Helicobacter pylori infection and allergic and inflammatory diseases: a contemporary systematic review with meta-analysis",
+      "titleUz": "H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi",
+      "link": "https://doi.org/10.1007/s00431-026-07512-2",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-10-19",
+      "caption": "🩺 <b>H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi</b>\n\nH. pylori infeksiyasi bolalarni allergik va immun kasalliklardan himoya qiladi degan gipoteza qanchalik asosli?\n\n📊 Astma boʻyicha meta-analizda H. pylori bilan bogʻliqlik koʻrsatkichi OR 0.75 (95% CI 0.54-1.05) boʻldi.\n🔍 Sharhga astma, seliakiya, eozinofil ezofagit (EoE) va ichak yalligʻlanishi (IBD) boʻyicha 35 ta tadqiqot kiritildi.\n🧪 Gistologik tahlilda farq boʻlmadi, teskari bogʻliqlik faqat UBT va SAT kabi noinvasiv testlarda kuzatildi.\n\n💡 <b>Amaliyotga:</b> Ishonch oraligʻi 1 ni kesgani uchun (CI 0.54-1.05) statistik farq ishonchsiz. H. pylori allergiyadan himoya qiladi deb davolash taktikasini oʻzgartirishga asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07512-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBk2rabJ01TKJEEliyzw8Ntx5XX0AFAAJ3IWsbvMHRSqzxV4vl5yCaAQADAgADeQADPQQ",
+      "adminMessageId": 403,
+      "draftId": "2026-10-23-2004"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "2855372",
       "title": "Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery",
       "titleUz": "Bosh miya chayqalishidan keyin masofaviy aerob mashqlar tuzalishni tezlashtiradi",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAPEarAp48q3SaJM0DCxj_gTHOZIYAEAAmcnaxuK2oBJgnRrgl05qXABAAMCAAN5AAM9BA",
       "adminMessageId": 196,
       "draftId": "2026-09-20-1845"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42309668",
-      "title": "Real-world outcomes of hybrid closed-loop insulin pump therapy in UK children and young people with type 1 diabetes and high HbA1c: a multicentre retrospective cohort study",
-      "titleUz": "Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi",
-      "link": "https://doi.org/10.1136/archdischild-2026-330408",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-09-18",
-      "caption": "🩺 <b>Gibrid yopiq konturli insulin pompalari bolalarda HbA1c darajasini sezilarli darajada pasaytirdi</b>\n\nHbA1c darajasi oʻta yuqori boʻlgan bolalarda glikemiyani barqarorlashtirish va gospitalizatsiyani kamaytirish endi osonroq.\n\n📉 HCL (gibrid yopiq konturli) insulin pompasi 12 oyda HbA1c darajasini oʻrtacha 14.4 mmol/mol ga pasaytirdi.\n👥 Retrospektiv tadqiqotda HbA1c darajasi yuqori (≥69 mmol/mol) boʻlgan 220 nafar bolaning natijalari tahlil qilindi.\n🏥 Eng katta samara boshlangʻich HbA1c &gt;100 mmol/mol boʻlgan bolalarda kuzatildi va gospitalizatsiya holatlari kamaydi.\n\n💡 <b>Amaliyotga:</b> HbA1c darajasi yuqori boʻlgan bolalarda HCL terapiyasini qoʻllash glikemiyani uzoq muddatli yaxshilash va gospitalizatsiyani kamaytirish imkonini beradi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 18-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330408\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAPFarAqBxQL8hGbNoxNkcDVy5aSkKEAAmgnaxuK2oBJWQz3DTPXJfUBAAMCAAN5AAM9BA",
-      "adminMessageId": 197,
-      "draftId": "2026-09-20-1845"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42752608",
-      "title": "Syphilis Screening in Correctional Facilities - Alaska, October 2023-September 2025",
-      "titleUz": "Jazo muassasalarida opt-out skrining sifilisni aniqlash va davolash koʻrsatkichini oshirdi",
-      "link": "https://doi.org/10.15585/mmwr.mm7536a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
-      "pubDate": "2026-09-17",
-      "caption": "🩺 <b>Jazo muassasalarida opt-out skrining sifilisni aniqlash va davolash koʻrsatkichini oshirdi</b>\n\nYopiq muassasalardagi infeksiya oʻchoqlari umumiy populyatsiyada sifilis va tugʻma sifilis tarqalishiga bevosita taʼsir qiladi.\n\n🔍 Muntazam (opt-out) skriningda 5 163 nafar mahkumdan 114 tasida (2,2%) yangi sifilis aniqlanib, 77,2% i davolandi.\n📊 Ayol mahkumlar orasida tezkor plazma reagini (rapid plasma reagin, RPR) testi 9,3% holatda musbat natija berdi.\n🛡 Ushbu yondashuv infeksiya oʻchogʻini bartaraf etish hamda tugʻma sifilis uzatilishini oldini olishga yordam beradi.\n\n💡 <b>Amaliyotga:</b> Jazo muassasalarida opt-out skrining tizimini joriy etish sifilisni erta davolashga hamda jamiyatda va chaqaloqlarda infeksiya tarqalishini kamaytirishga xizmat qiladi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 17-sentabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7536a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAO_aq7WCJKyp-8i2yiEJfh48rWVtc0AAi8haxtYlnhJ8xqJeeE5eXQBAAMCAAN5AAM9BA",
-      "adminMessageId": 191,
-      "draftId": "2026-09-19-1835"
     }
   ]
 }
