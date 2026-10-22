@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42822668",
     "pmid:42586557",
     "pmid:42785515",
     "pmid:42809131",
@@ -33,6 +34,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42822668",
+      "postedAt": "2026-10-22T07:27:27.242Z",
+      "title": "Examining Race-Based Puberty Information on Children's Hospital Websites",
+      "titleUz": "Bolalar shifoxonalari saytlarida irqga asoslangan balogʻat koʻrsatkichlari uchramoqda",
+      "link": "https://doi.org/10.1016/j.acap.2026.103482",
+      "source": "Academic Pediatrics",
+      "messageId": 845
+    },
     {
       "key": "pmid:42586557",
       "postedAt": "2026-10-21T07:26:56.666Z",
