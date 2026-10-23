@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-23-2004",
-  "createdAt": "2026-10-22T20:05:49.623Z",
+  "draftId": "2026-10-24-1956",
+  "createdAt": "2026-10-23T19:57:04.366Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42895728",
-      "title": "Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial",
-      "titleUz": "Bosh miya chayqalishida masofaviy aerobik mashqlar tiklanishni tezlashtiradi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4927",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-10-19",
-      "caption": "🩺 <b>Bosh miya chayqalishida masofaviy aerobik mashqlar tiklanishni tezlashtiradi</b>\n\nBosh miya chayqalishi (concussion) asorati choʻzilgan oʻsmirlarda uyda bajariladigan aerob mashqlar tuzalishni tezlashtiradi.\n\n🏃 3 oyda MSTEP guruhida simptomlar sezilarli kamayib, hayot sifati nazorat guruhiga qaraganda yuqori boʻldi (P=0.04).\n👥 Randomizatsiyalangan sinovda 11-18 yoshli 210 nafar oʻsmir 6 haftalik telemeditsina nazoratidagi mashqlarni bajardi.\n⏱️ Aerobik mashqlarning afzalligi faqat jarohatdan keyin 3 oydan kam vaqt oʻtgan oʻsmirlarda yaqqol namoyon boʻldi.\n\n💡 <b>Amaliyotga:</b> Bosh miya chayqalishi belgilari choʻzilgan oʻsmirlarga aerobik mashqlarni jarohatdan keyingi dastlabki 3 oyda tavsiya qilish tiklanishni tezlashtiradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4927\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBkmrabHAUtUGB2cafJ95_Cd7HipG1AAJ2IWsbvMHRSpu1nz3Zxm7ZAQADAgADeQADPQQ",
-      "adminMessageId": 402
+      "key": "pmid:42843627",
+      "title": "The association between race, ethnicity and presentation to a pediatric capable hospital",
+      "titleUz": "Irqiy mansublik bolalarning pediatriya shifoxonasiga tushishiga taʼsir qiladi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103466",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-10-07",
+      "caption": "🩺 <b>Irqiy mansublik bolalarning pediatriya shifoxonasiga tushishiga taʼsir qiladi</b>\n\nShoshilinch pediatr yordami sifatidagi tengsizliklar koʻp jihatdan shifoxonalarning pediatrik tayyorgarligiga bogʻliq.\n\n📊 Tuzatilgan tahlilda qora tanli bolalarda pediatrik statsionarga ega shifoxonaga tushish imkoni yuqori boʻldi (OR 1,47).\n🏥 Tahlilga 4,9 mln statsionar, 4,4 mln PECC va 2,2 mln NPRP qabullarini qamragan AQSH maʼlumotlar bazasi kiritildi.\n🌐 Ispan tilli bolalar koʻproq pediatriya shoshilinch koordinatori (PECC) bor shifoxonalarga murojaat qildi (OR 1,48).\n\n💡 <b>Amaliyotga:</b> Shoshilinch yordam koordinatori (PECC) kabi pediatrik imkoniyatlardan kengroq foydalanish tibbiy xizmatdagi irqiy tengsizlikni kamaytirishga xizmat qiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103466\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBlmrbvAISculaAAEJQU3OnT_Lx4fhkwAC5htrG7zB4Ur05M4e-EpKwwEAAwIAA3kAAz0E",
+      "adminMessageId": 406
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42895565",
-      "title": "Paediatric Helicobacter pylori infection and allergic and inflammatory diseases: a contemporary systematic review with meta-analysis",
-      "titleUz": "H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi",
-      "link": "https://doi.org/10.1007/s00431-026-07512-2",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-10-19",
-      "caption": "🩺 <b>H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi</b>\n\nH. pylori infeksiyasi bolalarni allergik va immun kasalliklardan himoya qiladi degan gipoteza qanchalik asosli?\n\n📊 Astma boʻyicha meta-analizda H. pylori bilan bogʻliqlik koʻrsatkichi OR 0.75 (95% CI 0.54-1.05) boʻldi.\n🔍 Sharhga astma, seliakiya, eozinofil ezofagit (EoE) va ichak yalligʻlanishi (IBD) boʻyicha 35 ta tadqiqot kiritildi.\n🧪 Gistologik tahlilda farq boʻlmadi, teskari bogʻliqlik faqat UBT va SAT kabi noinvasiv testlarda kuzatildi.\n\n💡 <b>Amaliyotga:</b> Ishonch oraligʻi 1 ni kesgani uchun (CI 0.54-1.05) statistik farq ishonchsiz. H. pylori allergiyadan himoya qiladi deb davolash taktikasini oʻzgartirishga asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07512-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBk2rabJ01TKJEEliyzw8Ntx5XX0AFAAJ3IWsbvMHRSqzxV4vl5yCaAQADAgADeQADPQQ",
-      "adminMessageId": 403
+      "key": "pmid:42863843",
+      "title": "Association of Caregiver Mental Health and a Childhood Parenting Intervention in China",
+      "titleUz": "Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi",
+      "link": "https://doi.org/10.1542/peds.2026-076649",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-13",
+      "caption": "🩺 <b>Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi</b>\n\nErta yoshdagi bolalarni rivojlantirish dasturlari ota-onaning ruhiy holati sababli kutilgan natijani bermasligi mumkin.\n\n🧠 Depressiyasiz parvarishlovchilar farzandlarida kognitiv (β=0,17 SD) va til rivojlanishi (β=0,10 SD) yaxshilandi.\n📊 Xitoyda 2044 ta parvarishlovchi va bola juftligida 1 yillik klasterli randomizatsiyalangan sinov (RCT) oʻtkazildi.\n⚠️ Ruhiy buzilishi bor parvarishlovchilar oilasida intervensiya bolalar rivojlanishiga taʼsir koʻrsatmadi.\n\n💡 <b>Amaliyotga:</b> Bolalar rivojlanishi boʻyicha dasturlarni joriy etishdan oldin parvarishlovchilarning ruhiy salomatligini aniqlash va ularni qoʻllab-quvvatlash lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 13-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076649\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBl2rbvBDf5oEyx_d-yWfPxzuQ7rpIAALnG2sbvMHhSolSgxadanpUAQADAgADeQADPQQ",
+      "adminMessageId": 407
     }
   ]
 }
