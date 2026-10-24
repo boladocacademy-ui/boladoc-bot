@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-24-1956",
-  "createdAt": "2026-10-23T19:57:04.366Z",
+  "draftId": "2026-10-24-1846",
+  "createdAt": "2026-10-24T18:46:47.099Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42843627",
-      "title": "The association between race, ethnicity and presentation to a pediatric capable hospital",
-      "titleUz": "Irqiy mansublik bolalarning pediatriya shifoxonasiga tushishiga taʼsir qiladi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103466",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-10-07",
-      "caption": "🩺 <b>Irqiy mansublik bolalarning pediatriya shifoxonasiga tushishiga taʼsir qiladi</b>\n\nShoshilinch pediatr yordami sifatidagi tengsizliklar koʻp jihatdan shifoxonalarning pediatrik tayyorgarligiga bogʻliq.\n\n📊 Tuzatilgan tahlilda qora tanli bolalarda pediatrik statsionarga ega shifoxonaga tushish imkoni yuqori boʻldi (OR 1,47).\n🏥 Tahlilga 4,9 mln statsionar, 4,4 mln PECC va 2,2 mln NPRP qabullarini qamragan AQSH maʼlumotlar bazasi kiritildi.\n🌐 Ispan tilli bolalar koʻproq pediatriya shoshilinch koordinatori (PECC) bor shifoxonalarga murojaat qildi (OR 1,48).\n\n💡 <b>Amaliyotga:</b> Shoshilinch yordam koordinatori (PECC) kabi pediatrik imkoniyatlardan kengroq foydalanish tibbiy xizmatdagi irqiy tengsizlikni kamaytirishga xizmat qiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 7-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103466\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBlmrbvAISculaAAEJQU3OnT_Lx4fhkwAC5htrG7zB4Ur05M4e-EpKwwEAAwIAA3kAAz0E",
-      "adminMessageId": 406
+      "key": "pmid:42914139",
+      "title": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents.",
+      "titleUz": "Oqsilga asoslangan PHH-1V buster vaksinasi oʻsmirlarda kuchli va uzoq immun javob hosil qildi",
+      "link": "https://doi.org/10.1542/peds.2026-076225",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-23",
+      "caption": "🩺 <b>Oqsilga asoslangan PHH-1V buster vaksinasi oʻsmirlarda kuchli va uzoq immun javob hosil qildi</b>\n\nmRNA boʻlmagan COVID-19 buster vaksinasi oʻsmirlarni turli shtamlardan uzoq muddatli himoya qilish imkonini beradi.\n\n💉 PHH-1V busteri oʻsmirlarda Omicron BA.1 va boshqa shtamlarga qarshi titrlarni kattalarga nisbatan yuqoriroq oshirdi (P&lt;0.001).\n🧪 HIPRA-HH-3 ochiq sinovida BNT162b2 olgan 240 nafar oʻsmirda (12–17 yosh) heterologik buster samarasi baholandi.\n🛡 Antitelolar 336 kunga qadar saqlandi, nojoʻya taʼsirlar esa asosan yengil ukol joyi ogʻrigʻi va bosh ogʻrigʻi boʻldi.\n\n💡 <b>Amaliyotga:</b> BNT162b2 bilan emlangan oʻsmirlarda PHH-1V oqsil busterini qoʻllash xavfsiz va koʻp variantli immun javobni uzoq vaqtga kuchaytirishda samarali vositadir.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 23-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076225\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBmmrc_QhMrifNv6py826ylHFp1MtxAALvHGsbJ_3oSrU4n_TKQ8-cAQADAgADeQADPQQ",
+      "adminMessageId": 410
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42863843",
-      "title": "Association of Caregiver Mental Health and a Childhood Parenting Intervention in China",
-      "titleUz": "Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi",
-      "link": "https://doi.org/10.1542/peds.2026-076649",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-10-13",
-      "caption": "🩺 <b>Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi</b>\n\nErta yoshdagi bolalarni rivojlantirish dasturlari ota-onaning ruhiy holati sababli kutilgan natijani bermasligi mumkin.\n\n🧠 Depressiyasiz parvarishlovchilar farzandlarida kognitiv (β=0,17 SD) va til rivojlanishi (β=0,10 SD) yaxshilandi.\n📊 Xitoyda 2044 ta parvarishlovchi va bola juftligida 1 yillik klasterli randomizatsiyalangan sinov (RCT) oʻtkazildi.\n⚠️ Ruhiy buzilishi bor parvarishlovchilar oilasida intervensiya bolalar rivojlanishiga taʼsir koʻrsatmadi.\n\n💡 <b>Amaliyotga:</b> Bolalar rivojlanishi boʻyicha dasturlarni joriy etishdan oldin parvarishlovchilarning ruhiy salomatligini aniqlash va ularni qoʻllab-quvvatlash lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 13-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076649\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBl2rbvBDf5oEyx_d-yWfPxzuQ7rpIAALnG2sbvMHhSolSgxadanpUAQADAgADeQADPQQ",
-      "adminMessageId": 407
+      "key": "pmid:42909632",
+      "title": "Immediate vs delayed extubation after pediatric liver transplantation: a systematic review and meta-analysis.",
+      "titleUz": "Jigar transplantatsiyasidan soʻng darhol ekstubatsiya qilish xavfsizmi?",
+      "link": "https://doi.org/10.1007/s00431-026-07544-8",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-10-23",
+      "caption": "🩺 <b>Jigar transplantatsiyasidan soʻng darhol ekstubatsiya qilish xavfsizmi?</b>\n\nJigar transplantatsiyasidan soʻng operatsiya xonasining oʻzida ekstubatsiya qilish tobora keng qoʻllanilmoqda.\n\n🫁 Operatsiyadagi darhol ekstubatsiya (IE) qayta intubatsiya (OR 0,32) va oʻlim xavfini (OR 0,35) sezilarli kamaytirdi.\n📊 Metatahlil 1158 nafar jigari koʻchirilgan bolaga oid 12 ta retrospektiv tadqiqot maʼlumotlarini jamladi.\n⚠️ IE reanimatsiyada yotish vaqtini qisqartirdi (SMD -0,88), lekin bu tanlov xatoligi (selection bias) boʻlishi mumkin.\n\n💡 <b>Amaliyotga:</b> Natijalar ijobiy boʻlsa-da, ular retrospektiv maʼlumotlarga tayanadi. Amaliyotni oʻzgartirish uchun prospektiv sinovlar kerak.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 23-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07544-8\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBm2rc_RZxTpIJu8dULQ6nTv_5XSjSAALwHGsbJ_3oSl5BMulNrmwvAQADAgADeQADPQQ",
+      "adminMessageId": 411
     }
   ]
 }
