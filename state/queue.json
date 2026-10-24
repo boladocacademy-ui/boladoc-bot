@@ -1,5 +1,22 @@
 {
-  "items": [],
+  "items": [
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42863843",
+      "title": "Association of Caregiver Mental Health and a Childhood Parenting Intervention in China",
+      "titleUz": "Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi",
+      "link": "https://doi.org/10.1542/peds.2026-076649",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-13",
+      "caption": "🩺 <b>Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi</b>\n\nErta yoshdagi bolalarni rivojlantirish dasturlari ota-onaning ruhiy holati sababli kutilgan natijani bermasligi mumkin.\n\n🧠 Depressiyasiz parvarishlovchilar farzandlarida kognitiv (β=0,17 SD) va til rivojlanishi (β=0,10 SD) yaxshilandi.\n📊 Xitoyda 2044 ta parvarishlovchi va bola juftligida 1 yillik klasterli randomizatsiyalangan sinov (RCT) oʻtkazildi.\n⚠️ Ruhiy buzilishi bor parvarishlovchilar oilasida intervensiya bolalar rivojlanishiga taʼsir koʻrsatmadi.\n\n💡 <b>Amaliyotga:</b> Bolalar rivojlanishi boʻyicha dasturlarni joriy etishdan oldin parvarishlovchilarning ruhiy salomatligini aniqlash va ularni qoʻllab-quvvatlash lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 13-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-076649\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBl2rbvBDf5oEyx_d-yWfPxzuQ7rpIAALnG2sbvMHhSolSgxadanpUAQADAgADeQADPQQ",
+      "adminMessageId": 407,
+      "draftId": "2026-10-24-1956",
+      "approvedAt": "2026-10-24T19:02:07.577Z"
+    }
+  ],
   "skipNext": false,
   "handledOn": "2026-10-24"
 }
