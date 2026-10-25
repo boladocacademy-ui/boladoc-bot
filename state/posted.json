@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42863843",
     "pmid:42822668",
     "pmid:42586557",
     "pmid:42785515",
@@ -34,6 +35,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42863843",
+      "postedAt": "2026-10-25T07:31:14.661Z",
+      "title": "Association of Caregiver Mental Health and a Childhood Parenting Intervention in China",
+      "titleUz": "Ota-onaning ruhiy salomatligi bolalar rivojlanish dasturlarining samarasini belgilaydi",
+      "link": "https://doi.org/10.1542/peds.2026-076649",
+      "source": "AAP",
+      "messageId": 851
+    },
     {
       "key": "pmid:42822668",
       "postedAt": "2026-10-22T07:27:27.242Z",
