@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42843627",
     "pmid:42863843",
     "pmid:42822668",
     "pmid:42586557",
@@ -35,6 +36,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42843627",
+      "postedAt": "2026-10-26T07:42:15.497Z",
+      "title": "The association between race, ethnicity and presentation to a pediatric capable hospital",
+      "titleUz": "Irqiy mansublik bolalarning pediatriya shifoxonasiga tushishiga taʼsir qiladi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103466",
+      "source": "Academic Pediatrics",
+      "messageId": 852
+    },
     {
       "key": "pmid:42863843",
       "postedAt": "2026-10-25T07:31:14.661Z",
