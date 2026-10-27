@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42895565",
     "pmid:42843627",
     "pmid:42863843",
     "pmid:42822668",
@@ -36,6 +37,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42895565",
+      "postedAt": "2026-10-27T07:40:16.096Z",
+      "title": "Paediatric Helicobacter pylori infection and allergic and inflammatory diseases: a contemporary systematic review with meta-analysis",
+      "titleUz": "H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi",
+      "link": "https://doi.org/10.1007/s00431-026-07512-2",
+      "source": "Eur J Pediatrics",
+      "messageId": 862
+    },
     {
       "key": "pmid:42843627",
       "postedAt": "2026-10-26T07:42:15.497Z",

@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42895565",
-      "title": "Paediatric Helicobacter pylori infection and allergic and inflammatory diseases: a contemporary systematic review with meta-analysis",
-      "titleUz": "H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi",
-      "link": "https://doi.org/10.1007/s00431-026-07512-2",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-10-19",
-      "caption": "🩺 <b>H. pylori va bolalardagi allergik kasalliklar oʻrtasida aniq bogʻliqlik topilmadi</b>\n\nH. pylori infeksiyasi bolalarni allergik va immun kasalliklardan himoya qiladi degan gipoteza qanchalik asosli?\n\n📊 Astma boʻyicha meta-analizda H. pylori bilan bogʻliqlik koʻrsatkichi OR 0.75 (95% CI 0.54-1.05) boʻldi.\n🔍 Sharhga astma, seliakiya, eozinofil ezofagit (EoE) va ichak yalligʻlanishi (IBD) boʻyicha 35 ta tadqiqot kiritildi.\n🧪 Gistologik tahlilda farq boʻlmadi, teskari bogʻliqlik faqat UBT va SAT kabi noinvasiv testlarda kuzatildi.\n\n💡 <b>Amaliyotga:</b> Ishonch oraligʻi 1 ni kesgani uchun (CI 0.54-1.05) statistik farq ishonchsiz. H. pylori allergiyadan himoya qiladi deb davolash taktikasini oʻzgartirishga asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 19-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07512-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBk2rabJ01TKJEEliyzw8Ntx5XX0AFAAJ3IWsbvMHRSqzxV4vl5yCaAQADAgADeQADPQQ",
-      "adminMessageId": 403,
-      "draftId": "2026-10-23-2004",
-      "approvedAt": "2026-10-24T19:02:23.329Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42895728",
@@ -34,5 +18,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-10-26"
+  "handledOn": "2026-10-27"
 }
