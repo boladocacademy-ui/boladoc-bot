@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42895728",
     "pmid:42895565",
     "pmid:42843627",
     "pmid:42863843",
@@ -37,6 +38,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42895728",
+      "postedAt": "2026-10-28T08:16:37.175Z",
+      "title": "Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial",
+      "titleUz": "Bosh miya chayqalishida masofaviy aerobik mashqlar tiklanishni tezlashtiradi",
+      "link": "https://doi.org/10.1001/jamapediatrics.2026.4927",
+      "source": "JAMA Pediatrics",
+      "messageId": 863
+    },
     {
       "key": "pmid:42895565",
       "postedAt": "2026-10-27T07:40:16.096Z",
