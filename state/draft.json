@@ -1,35 +1,6 @@
 {
-  "draftId": "2026-10-28-2040",
-  "createdAt": "2026-10-27T20:41:08.538Z",
-  "status": "pending",
-  "options": [
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42928391",
-      "title": "Systematic STI screening in unaccompanied migrant minors: a 6-year experience with urine-based NAAT",
-      "titleUz": "Migrant oʻsmirlarda siydik NAAT skriningi serologiya aniqlamagan JYYI larni topdi",
-      "link": "https://doi.org/10.1007/s00431-026-07549-3",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-10-26",
-      "caption": "🩺 <b>Migrant oʻsmirlarda siydik NAAT skriningi serologiya aniqlamagan JYYI larni topdi</b>\n\nHamrohsiz migrant oʻsmirlarda jinsiy yoʻl bilan yuqadigan infeksiyalar koʻpincha simptomsiz kechadi va oddiy serologiyada koʻrinmaydi.\n\n🔬 Siydik NAAT testi serologik tahlil oʻtkazib yuborgan 6 ta (3.7%) simptomsiz JYYI holatini aniqladi.\n📊 Madridda 226 nafar hamrohsiz migrant oʻsmirda (99.6% oʻgʻil bola) serologik va siydik NAAT skriningi oʻtkazildi.\n⚠️ Simptomsiz JYYI aniqlangan 8 nafar bemordan 3 nafari keyingi kuzatuv jarayonida yoʻqotildi.\n\n💡 <b>Amaliyotga:</b> JYYI skriningida faqat serologiya bilan cheklanmay siydik NAAT testini qoʻllash lozim, lekin test bilan birga bemorlarni davolashga yoʻnaltirish tizimini ham kuchaytirish zarur.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 26-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07549-3\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBs2rhDE-6akTFiCKI4orBkof_IyHAAALuJmsboNUIS2IW_7URzECZAQADAgADeQADPQQ",
-      "adminMessageId": 435
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42918493",
-      "title": "Exercise Capacity, Muscle Mass, and Quality of Life in Pediatric Patients with Fontan Circulation",
-      "titleUz": "Fontan sirkulatsiyali bolalarda mushak massasi hayot sifatiga bevosita taʼsir qiladi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115379",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-10-23",
-      "caption": "🩺 <b>Fontan sirkulatsiyali bolalarda mushak massasi hayot sifatiga bevosita taʼsir qiladi</b>\n\nFontan operatsiyasidan keyin bolalar hayot sifatini yaxshilashda kislorod isteʼmolidan koʻra mushak massasi koʻproq rol oʻynaydi.\n\n🏋️ Skelet mushak massasi indeksi (ALMI) PedsQL hayot sifati koʻrsatkichi bilan toʻgʻridan-toʻgʻri bogʻliq boʻldi (ρ=0.28).\n📊 Fontan operatsiyasini oʻtkazgan 8-19 yoshli 135 nafar bolada oʻrtacha ALMI z-koʻrsatkichi -0.84 ni tashkil etdi.\n🫀 Tana vazniga moslashtirilgan eng yuqori kislorod isteʼmoli (peak VO2) va hayot sifati oʻrtasida bogʻliqlik chiqmadi.\n\n💡 <b>Amaliyotga:</b> Fontan sirkulatsiyasiga ega bolalarda hayot sifatini oshirish uchun nafaqat kardio mashqlar, balki skelet mushak massasini koʻpaytirishga ham eʼtibor qaratish kerak.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 23-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115379\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBtGrhDGSs2mUbjlhUD4OCoDyQkSoOAALwJmsboNUIS3_Z2E2j0FwAAQEAAwIAA3kAAz0E",
-      "adminMessageId": 436
-    }
-  ]
+  "draftId": "2026-10-29-2101",
+  "createdAt": "2026-10-28T21:02:36.644Z",
+  "status": "failed",
+  "options": []
 }
