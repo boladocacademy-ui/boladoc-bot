@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42927767",
     "pmid:42895728",
     "pmid:42895565",
     "pmid:42843627",
@@ -38,6 +39,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42927767",
+      "postedAt": "2026-10-29T08:20:51.423Z",
+      "title": "The Bag Is Not Always Bad: Intrahospital Spread of 2-Step Urinary Tract Infection Screening.",
+      "titleUz": "Siydik yoʻllari infeksiyasida 2 bosqichli skrining asossiz ekishlarni 65% dan 22% ga tushirdi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009299",
+      "source": "Hospital Pediatrics",
+      "messageId": 877
+    },
     {
       "key": "pmid:42895728",
       "postedAt": "2026-10-28T08:16:37.175Z",
