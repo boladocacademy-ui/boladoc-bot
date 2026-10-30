@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-10-30-2106",
-  "createdAt": "2026-10-29T21:06:46.297Z",
+  "draftId": "2026-10-31-2044",
+  "createdAt": "2026-10-30T20:45:30.371Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42951101",
-      "title": "Parent- and teen-reported prevalence of sleep health and habits and teen-reported associations with screen time.",
-      "titleUz": "Oʻsmirlarda ekran vaqti ortishi uyqu buzilishini koʻpaytiradi va ota-onalar buni kam baholaydi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103489",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-10-28",
-      "caption": "🩺 <b>Oʻsmirlarda ekran vaqti ortishi uyqu buzilishini koʻpaytiradi va ota-onalar buni kam baholaydi</b>\n\nOʻsmirlar orasidagi uyqu muammolarini ota-onalar koʻpincha sezishmaydi, holbuki kunlik ekran vaqti bunga bevosita taʼsir qiladi.\n\n📱 Kuniga 4 soatdan koʻp ekran qarshisida boʻlgan oʻsmir bolalarda uyqu rejasi buzilishi va kunduzgi uyquchilik ortgan.\n📊 Tahlil NHIS-Teen va NHIS milliy soʻrovnomalari asosida oʻsmir va ota-onalar juftliklarida amalga oshirilgan.\n👨‍👩‍👦 Ota-onalar oʻz farzandlariga nisbatan uyqu buzilishi koʻrsatkichlarini izchil ravishda pastroq baholagan.\n\n💡 <b>Amaliyotga:</b> Oʻsmir bolalardagi uyqu buzilishini baholashda faqat ota-ona soʻroviga tayanmay, oʻsmirning oʻzidan ekran vaqti va uyqu sifatini surishtirish zarur.\n\n📚 <b>Manba:</b> Academic Pediatrics · 28-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103489\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBuWrjtVjr2oWs_C0keWT3wpkw6FdEAAKHIWsb5NcgSygGGqMAAdCZywEAAwIAA3kAAz0E",
-      "adminMessageId": 441
+      "key": "pmid:42955434",
+      "title": "Timing of intratracheal administration of budesonide mixed with surfactant to prevent bronchopulmonary dysplasia: a systematic review and meta-analysis.",
+      "titleUz": "Budesonid va surfaktantni yuborish vaqti BPD profilaktikasida hal qiluvchi rol oʻynaydi",
+      "link": "https://doi.org/10.1007/s00431-026-07582-2",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-10-29",
+      "caption": "🩺 <b>Budesonid va surfaktantni yuborish vaqti BPD profilaktikasida hal qiluvchi rol oʻynaydi</b>\n\nChala tugʻilgan chaqaloqlarda bronxopulmonar displaziya (bronchopulmonary dysplasia, BPD) profilaktikasida dori vaqti muhim.\n\n⏱️ Tugʻilgach dastlabki 4 soatda berilganda 36-haftadagi BPD xavfi 42% ga kamaydi (RR 0,58; 95% CI 0,46–0,72).\n📊 Tahlil 3522 nafar chaqaloq qatnashgan 15 ta randomizatsiyalangan klinik sinov (RCT) natijalarini qamrab oldi.\n⚠️ Dori 4 soatdan keyin yuborilganda (RR 0,98) hamda oʻlim xavfida hech qanday farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Natijalar rutin budesonid-surfaktant amaliyotini hali qoʻllab-quvvatlamaydi; 4 soatlik muddat boʻyicha yirik tadqiqotlar kutilmoqda.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 29-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07582-2\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBvWrlAdW5n_iyxzLBhVADbigWanwPAAI2Imsb56ooS2gXnnfh0vI2AQADAgADeQADPQQ",
+      "adminMessageId": 445
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42946300",
-      "title": "Early Detection of Cerebral Palsy in Ireland: A National NICU Implementation Initiative",
-      "titleUz": "Bolalar bosh miya falaji tashxisi yoshi 24 oydan 7 oyga tushirildi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115377",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-10-27",
-      "caption": "🩺 <b>Bolalar bosh miya falaji tashxisi yoshi 24 oydan 7 oyga tushirildi</b>\n\nCP tashxisini qanchalik barvaqt qoʻysak, reabilitatsiyani oʻz vaqtida boshlab, motor asoratlarni shunchalik kamaytiramiz.\n\n🎯 CP (bolalar bosh miya falaji) tashxisining median yoshi 24 oydan 7 oyga (korreksiyalangan yosh) tushdi.\n👶 NICU (chaqaloqlar intensiv terapiyasi)dan chiqqan 1161 nafar yuqori xavfli chaqaloq qamrab olindi.\n📈 Standartlashtirilgan skrining algoritmi uchlamchi neonatal markazlarda oʻzining yuqori samarasini koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> NICU kuzatuv dasturlarida standartlashtirilgan skrining protokollarini qoʻllash bolalar bosh miya falajini hayotining birinchi yilida aniqlash imkonini beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 27-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115377\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBumrjtWbi05UTm-yKT7Sa7oU9CbEwAAKJIWsb5NcgS83w25uXkgVMAQADAgADeQADPQQ",
-      "adminMessageId": 442
+      "key": "pmid:42838725",
+      "title": "<i>Streptococcus pneumoniae</i> haemolytic uraemic syndrome in Aotearoa New Zealand across changing pneumococcal conjugate vaccine eras",
+      "titleUz": "Pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) koʻpaydi: 19A serotipi xavfi",
+      "link": "https://doi.org/10.1136/archdischild-2026-330946",
+      "source": "Arch Dis Child",
+      "sourceFull": "Archives of Disease in Childhood — BMJ",
+      "pubDate": "2026-10-06",
+      "caption": "🩺 <b>Pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) koʻpaydi: 19A serotipi xavfi</b>\n\nPnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) bolalarda oʻtkir va uzoq muddatli ogʻir buyrak zararlanishiga olib kelmoqda.\n\n🦠 Jami 39 ta pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) holatining 67 foizi 2020–2024-yillarga toʻgʻri keldi.\n👶 2008–2024-yillardagi 0–15 yoshli bolalar kuzatuvida bemorlarning 67 foizini 2 yoshgacha boʻlgan bolalar tashkil etdi.\n⚠️ Kasallanish asosan 19A serotipi hisobiga ortib, bemor bolalarda ogʻir va uzoq muddatli buyrak zarari kuzatildi.\n\n💡 <b>Amaliyotga:</b> Pnevmokokk konʼyugatsiyalangan vaksinasiyasida (PCV) lokal epidemiologiya va 19A serotipiga qarshi qamrovni doimiy qayta koʻrib chiqish talab etiladi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 6-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330946\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBvmrlAeqx6FSMuiFoY_4frxYsw9YpAAI4Imsb56ooS7dM9nZg7RW3AQADAgADeQADPQQ",
+      "adminMessageId": 446
     }
   ]
 }
