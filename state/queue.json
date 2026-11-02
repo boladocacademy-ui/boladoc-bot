@@ -1,5 +1,22 @@
 {
-  "items": [],
+  "items": [
+    {
+      "index": 0,
+      "label": "A",
+      "key": "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
+      "title": "Recommendations for the Prevention of Respiratory Syncytial Virus Disease in Infants and Children: Technical Report",
+      "titleUz": "AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?",
+      "link": "https://publications.aap.org/pediatrics/article/158/5/e2026079049/208787/Recommendations-for-the-Prevention-of-Respiratory",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
+      "caption": "🩺 <b>AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?</b>\n\nChaqaloqlarda respirator-sinsitsial virus (respiratory syncytial virus, RSV) ogʻir asoratlar keltirib chiqarishi mumkin.\n\n🛡️ Birinchi RSV mavsumiga kirayotgan 8 oylikkacha boʻlgan barcha chaqaloqlarga immunizatsiya tavsiya etildi.\n👶 Onasi homiladorlikda emlanmagan chaqaloqlar va xavf guruhidagi 8-19 oylik bolalar ikkinchi mavsumda emlanadi.\n💉 Hisobotda mavjud preparatlar, ularning samaradorligi va boshqa emlamalar bilan birga qoʻllash tartibi berilgan.\n\n💡 <b>Amaliyotga:</b> Yangi RSV mavsumida 8 oylikkacha boʻlgan barcha chaqaloqlarni va xavf guruhidagi 8-19 oylik bolalarni oʻz vaqtida immunizatsiya qilish zarur.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 26-oktabr 2026\n🔗 <a href=\"https://publications.aap.org/pediatrics/article/158/5/e2026079049/208787/Recommendations-for-the-Prevention-of-Respiratory\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBxmrnoQABxpLDE8EfL43sPP4KT4W9SAACjyJrG6ekQEsUD1caDC2u-gEAAwIAA3kAAz0E",
+      "adminMessageId": 454,
+      "draftId": "2026-11-02-2028",
+      "approvedAt": "2026-11-02T02:53:10.500Z"
+    }
+  ],
   "skipNext": false,
   "handledOn": "2026-11-01"
 }
