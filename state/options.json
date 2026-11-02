@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42803594",
+      "title": "A Systematic Review and Meta-Analysis of the Prevention and Management of Pediatric Urinary Tract Infection and Suspected Urinary Tract Infection: Technical Report",
+      "titleUz": "Bolalarda siydik yoʻllari infeksiyasini davolash va profilaktikasi: AAP metasintezi",
+      "link": "https://doi.org/10.1542/peds.2026-078568",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Bolalarda siydik yoʻllari infeksiyasini davolash va profilaktikasi: AAP metasintezi</b>\n\nBolalardagi siydik yoʻllari infeksiyasini (urinary tract infection, UTI) parenteral dorilarsiz ham muvaffaqiyatli davolash mumkin.\n\n💊 ≤7 kunlik oral antibiotik terapiyasi UTI qaytalanish xavfini oshirmay, nojoʻya taʼsirlarni sezilarli kamaytirdi.\n📊 AAP metasintezida 60 ta tadqiqot koʻrib chiqildi; barcha natijalar boʻyicha dalillar ishonchliligi past boʻldi.\n⏱ Uzluksiz antibiotik profilaktikasi (CAP) rezistentlikni oshiradi; 72 soatda aralashuv chandiqlanishni kamaytiradi.\n\n💡 <b>Amaliyotga:</b> Buyrak chandiqlanishi xavfini kamaytirish uchun UTI boʻlgan bolalarni 72 soat ichida baholash va qisqa oral kurs tayinlash yetarli.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078568\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBz2rpHMHt5stGYBamcYmJ2lfrjGsvAAKHHmsb0aNJS9A2EY6mgP0JAQADAgADeQADPQQ",
+      "adminMessageId": 463,
+      "draftId": "2026-11-03-2328"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42966488",
+      "title": "Childhood family connection and its association with social connection in middle and late adulthood.",
+      "titleUz": "Bolalikdagi oilaviy bogʻliqlik kattalardagi ijtimoiy munosabatlarni belgilaydi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103730",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-10-31",
+      "caption": "🩺 <b>Bolalikdagi oilaviy bogʻliqlik kattalardagi ijtimoiy munosabatlarni belgilaydi</b>\n\nBolalikdagi mustahkam oilaviy muhit kelajakda shaxsning jamiyatdagi ijtimoiy va emotsional salomatligini taʼminlaydi.\n\n📊 Oilaga yaqin oʻsgan bolalarda katta yoshda yuqori ijtimoiy aloqadorlik 32.4%, past guruhda esa 13.0% boʻldi.\n👥 MIDUS boylama (longitudinal) tadqiqotida 1 504 nafar katta yoshli inson 10 yildan ortiq davomida kuzatildi.\n🔍 Oilaviy bogʻliqligi eng yuqori bolalarda katta yoshdagi ijtimoiy aloqalar ehtimoli 19.4 foiz punktga koʻproq chiqdi.\n\n💡 <b>Amaliyotga:</b> Shifokorlar bolalarda oilaviy bogʻliqlikni rivojlantirish orqali ularning katta yoshdagi psixososial salomatligi poydevorini yaratishadi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 31-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103730\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB0GrpHNPocRdWtVleGsyvj5qCQzOTAAKIHmsb0aNJS51OoGqpeF5GAQADAgADeQADPQQ",
+      "adminMessageId": 464,
+      "draftId": "2026-11-03-2328"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
       "title": "Recommendations for the Prevention of Respiratory Syncytial Virus Disease in Infants and Children: Technical Report",
       "titleUz": "AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAIBK2rAGPgoQtBwtr2JRM6WGFT8YgqEAAKjHWsbgzQAAUqlmKKBA-MVDAEAAwIAA3kAAz0E",
       "adminMessageId": 299,
       "draftId": "2026-10-03-2041"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42804221",
-      "title": "Diagnostic Yield of Genetic Testing in Cerebral Palsy: A Systematic Review and Meta-Analysis",
-      "titleUz": "Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4471",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Sababi nomaʼlum bolalar serebral falajida genetik testlar 44% gacha aniqlik beradi</b>\n\nBolalar serebral falaji (BSF) boʻlgan bolalarda genetik testlar qachon eng yuqori diagnostik foyda berishini bilasizmi?\n\n🧬 Sababi nomaʼlum (cryptogenic) BSFda genetik testlar 44%, NGS va CMA birgalikda qoʻllanganda esa 53% aniqlik berdi.\n📊 Olimlar 31 ta tadqiqotni tahlil qilib, BSF boʻlgan bolalarda genetik testlar samaradorligini solishtirdi.\n🧠 MRT normalligi (25-80%), yuz dismorfiyasi (66-71%) va tugʻma anomaliyasi (85%) bor bolalarda samara yuqori boʻldi.\n\n💡 <b>Amaliyotga:</b> Sababi aniq boʻlmagan BSFda, ayniqsa MRT normalligi yoki yuz dismorfiyasi boʻlgan bolalarda NGS va CMA genetik testlarini standart tekshiruvga kiritish tavsiya etiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4471\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBIGq-yiCATc9G5mEKAAFgqe45d_a7ZwACSxlrG53U-EmuVaglgNWSygEAAwIAA3kAAz0E",
-      "adminMessageId": 288,
-      "draftId": "2026-10-02-2100"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42805287",
-      "title": "Defining Graduation Expectations for Managing Acute Injury in General Pediatrics",
-      "titleUz": "Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103472",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-09-28",
-      "caption": "🩺 <b>Yosh pediatrlar bilishi shart boʻlgan 54 ta oʻtkir jarohat va klinik koʻnikma roʻyxati shakllantirildi</b>\n\nRezidenturani bitirgan pediatr oʻtkir jarohatli bolaga qachon mustaqil yordam berishi, qachon esa mutaxassisga yuborishi kerakligini bilishi zarur.\n\n📋 Pediatrlar uchun 54 ta oʻtkir holat saralandi: 34 tasini aniqlash, 9 tasini davolash va 11 ta muolajani bajarish talab etiladi.\n🔍 Delphi usulidagi 3 bosqichli soʻrovnomada umumiy pediatrlar, shoshilinch yordam va sport tibbiyoti shifokorlari qatnashdi.\n🤝 Roʻyxatga oʻtkir jarohatlar va koʻnikmalarni kiritishda mutaxassislar oʻrtasida kamida 90 foizlik kelishuv mezoni qoʻllanildi.\n\n💡 <b>Amaliyotga:</b> Ushbu 54 ta standart yosh pediatrlarni tayyorlash dasturini yangilash va oʻtkir jarohatlarda amaliy xatolarni kamaytirish uchun asos boʻlib xizmat qiladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 28-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103472\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBI2q-yqiJoqPgDfTjXNK7wv6fgDwwAAJVGWsbndT4SSB00JGMJd2BAQADAgADeQADPQQ",
-      "adminMessageId": 291,
-      "draftId": "2026-10-02-2100"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-02-2028",
-  "createdAt": "2026-11-01T20:29:04.220Z",
+  "draftId": "2026-11-03-2328",
+  "createdAt": "2026-11-02T23:29:23.616Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
-      "title": "Recommendations for the Prevention of Respiratory Syncytial Virus Disease in Infants and Children: Technical Report",
-      "titleUz": "AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?",
-      "link": "https://publications.aap.org/pediatrics/article/158/5/e2026079049/208787/Recommendations-for-the-Prevention-of-Respiratory",
+      "key": "pmid:42803594",
+      "title": "A Systematic Review and Meta-Analysis of the Prevention and Management of Pediatric Urinary Tract Infection and Suspected Urinary Tract Infection: Technical Report",
+      "titleUz": "Bolalarda siydik yoʻllari infeksiyasini davolash va profilaktikasi: AAP metasintezi",
+      "link": "https://doi.org/10.1542/peds.2026-078568",
       "source": "AAP",
       "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
-      "caption": "🩺 <b>AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?</b>\n\nChaqaloqlarda respirator-sinsitsial virus (respiratory syncytial virus, RSV) ogʻir asoratlar keltirib chiqarishi mumkin.\n\n🛡️ Birinchi RSV mavsumiga kirayotgan 8 oylikkacha boʻlgan barcha chaqaloqlarga immunizatsiya tavsiya etildi.\n👶 Onasi homiladorlikda emlanmagan chaqaloqlar va xavf guruhidagi 8-19 oylik bolalar ikkinchi mavsumda emlanadi.\n💉 Hisobotda mavjud preparatlar, ularning samaradorligi va boshqa emlamalar bilan birga qoʻllash tartibi berilgan.\n\n💡 <b>Amaliyotga:</b> Yangi RSV mavsumida 8 oylikkacha boʻlgan barcha chaqaloqlarni va xavf guruhidagi 8-19 oylik bolalarni oʻz vaqtida immunizatsiya qilish zarur.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 26-oktabr 2026\n🔗 <a href=\"https://publications.aap.org/pediatrics/article/158/5/e2026079049/208787/Recommendations-for-the-Prevention-of-Respiratory\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBxmrnoQABxpLDE8EfL43sPP4KT4W9SAACjyJrG6ekQEsUD1caDC2u-gEAAwIAA3kAAz0E",
-      "adminMessageId": 454
+      "pubDate": "2026-10-01",
+      "caption": "🩺 <b>Bolalarda siydik yoʻllari infeksiyasini davolash va profilaktikasi: AAP metasintezi</b>\n\nBolalardagi siydik yoʻllari infeksiyasini (urinary tract infection, UTI) parenteral dorilarsiz ham muvaffaqiyatli davolash mumkin.\n\n💊 ≤7 kunlik oral antibiotik terapiyasi UTI qaytalanish xavfini oshirmay, nojoʻya taʼsirlarni sezilarli kamaytirdi.\n📊 AAP metasintezida 60 ta tadqiqot koʻrib chiqildi; barcha natijalar boʻyicha dalillar ishonchliligi past boʻldi.\n⏱ Uzluksiz antibiotik profilaktikasi (CAP) rezistentlikni oshiradi; 72 soatda aralashuv chandiqlanishni kamaytiradi.\n\n💡 <b>Amaliyotga:</b> Buyrak chandiqlanishi xavfini kamaytirish uchun UTI boʻlgan bolalarni 72 soat ichida baholash va qisqa oral kurs tayinlash yetarli.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078568\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIBz2rpHMHt5stGYBamcYmJ2lfrjGsvAAKHHmsb0aNJS9A2EY6mgP0JAQADAgADeQADPQQ",
+      "adminMessageId": 463
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42966489",
-      "title": "APA Health Policy Scholars Program: Creation and evaluation of a faculty development program designed to support a scholarly approach to health policy and advocacy.",
-      "titleUz": "Pediatriyada advokasiya boʻyicha 3 yillik dastur ilmiy mahsuldorlikni oshirdi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103487",
+      "key": "pmid:42966488",
+      "title": "Childhood family connection and its association with social connection in middle and late adulthood.",
+      "titleUz": "Bolalikdagi oilaviy bogʻliqlik kattalardagi ijtimoiy munosabatlarni belgilaydi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103730",
       "source": "Academic Pediatrics",
       "sourceFull": "Academic Pediatrics",
       "pubDate": "2026-10-31",
-      "caption": "🩺 <b>Pediatriyada advokasiya boʻyicha 3 yillik dastur ilmiy mahsuldorlikni oshirdi</b>\n\nBolalar salomatligini himoya qilish va tibbiy siyosatga taʼsir koʻrsatish uchun shifokorlarga tizimli koʻnikma yetishmaydi.\n\n🎓 23 nafar pediatr shifokor barcha yoʻnalishlar boʻyicha oʻz bilimini boshlangʻichdan tajribali darajaga oshirdi.\n📅 HPSP — tizimli oʻquv dasturi, ustozlik va qonunchilik tajribasini oʻz ichiga olgan 3 yillik taʼlim loyihasi.\n📈 Ishtirokchi shifokorlarning maqolalari, grantlari va OAVdagi chiqishlari kabi ilmiy koʻrsatkichlari oshdi.\n\n💡 <b>Amaliyotga:</b> Tizimli va uzoq muddatli taʼlim pediatr shifokorlar uchun advokasiya va ilmiy mahsuldorlikni birga rivojlantirishga yordam beradi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 31-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103487\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBx2rnoRBr82TwG-zixA-624BBIDynAAKQImsbp6RAS2WTyM5HyksJAQADAgADeQADPQQ",
-      "adminMessageId": 455
+      "caption": "🩺 <b>Bolalikdagi oilaviy bogʻliqlik kattalardagi ijtimoiy munosabatlarni belgilaydi</b>\n\nBolalikdagi mustahkam oilaviy muhit kelajakda shaxsning jamiyatdagi ijtimoiy va emotsional salomatligini taʼminlaydi.\n\n📊 Oilaga yaqin oʻsgan bolalarda katta yoshda yuqori ijtimoiy aloqadorlik 32.4%, past guruhda esa 13.0% boʻldi.\n👥 MIDUS boylama (longitudinal) tadqiqotida 1 504 nafar katta yoshli inson 10 yildan ortiq davomida kuzatildi.\n🔍 Oilaviy bogʻliqligi eng yuqori bolalarda katta yoshdagi ijtimoiy aloqalar ehtimoli 19.4 foiz punktga koʻproq chiqdi.\n\n💡 <b>Amaliyotga:</b> Shifokorlar bolalarda oilaviy bogʻliqlikni rivojlantirish orqali ularning katta yoshdagi psixososial salomatligi poydevorini yaratishadi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 31-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103730\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB0GrpHNPocRdWtVleGsyvj5qCQzOTAAKIHmsb0aNJS51OoGqpeF5GAQADAgADeQADPQQ",
+      "adminMessageId": 464
     }
   ]
 }
