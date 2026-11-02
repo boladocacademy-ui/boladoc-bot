@@ -1,5 +1,6 @@
 {
   "keys": [
+    "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
     "pmid:42927767",
     "pmid:42895728",
     "pmid:42895565",
@@ -39,6 +40,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
+      "postedAt": "2026-11-02T09:18:33.341Z",
+      "title": "Recommendations for the Prevention of Respiratory Syncytial Virus Disease in Infants and Children: Technical Report",
+      "titleUz": "AAP ning RSV profilaktikasi boʻyicha yangi tavsiyalari: kimlarni emlash kerak?",
+      "link": "https://publications.aap.org/pediatrics/article/158/5/e2026079049/208787/Recommendations-for-the-Prevention-of-Respiratory",
+      "source": "AAP",
+      "messageId": 906
+    },
     {
       "key": "pmid:42927767",
       "postedAt": "2026-10-29T08:20:51.423Z",
