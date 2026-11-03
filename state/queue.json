@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42838725",
-      "title": "<i>Streptococcus pneumoniae</i> haemolytic uraemic syndrome in Aotearoa New Zealand across changing pneumococcal conjugate vaccine eras",
-      "titleUz": "Pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) koʻpaydi: 19A serotipi xavfi",
-      "link": "https://doi.org/10.1136/archdischild-2026-330946",
-      "source": "Arch Dis Child",
-      "sourceFull": "Archives of Disease in Childhood — BMJ",
-      "pubDate": "2026-10-06",
-      "caption": "🩺 <b>Pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) koʻpaydi: 19A serotipi xavfi</b>\n\nPnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) bolalarda oʻtkir va uzoq muddatli ogʻir buyrak zararlanishiga olib kelmoqda.\n\n🦠 Jami 39 ta pnevmokokk chaqirgan gemolitik-uremik sindrom (SpHUS) holatining 67 foizi 2020–2024-yillarga toʻgʻri keldi.\n👶 2008–2024-yillardagi 0–15 yoshli bolalar kuzatuvida bemorlarning 67 foizini 2 yoshgacha boʻlgan bolalar tashkil etdi.\n⚠️ Kasallanish asosan 19A serotipi hisobiga ortib, bemor bolalarda ogʻir va uzoq muddatli buyrak zarari kuzatildi.\n\n💡 <b>Amaliyotga:</b> Pnevmokokk konʼyugatsiyalangan vaksinasiyasida (PCV) lokal epidemiologiya va 19A serotipiga qarshi qamrovni doimiy qayta koʻrib chiqish talab etiladi.\n\n📚 <b>Manba:</b> Archives of Disease in Childhood — BMJ · 6-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1136/archdischild-2026-330946\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBvmrlAeqx6FSMuiFoY_4frxYsw9YpAAI4Imsb56ooS7dM9nZg7RW3AQADAgADeQADPQQ",
-      "adminMessageId": 446,
-      "draftId": "2026-10-31-2044",
-      "approvedAt": "2026-11-02T02:53:41.246Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42955434",
@@ -66,5 +50,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-11-02"
+  "handledOn": "2026-11-03"
 }
