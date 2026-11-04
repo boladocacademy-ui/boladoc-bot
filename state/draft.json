@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-04-2144",
-  "createdAt": "2026-11-03T21:44:57.012Z",
+  "draftId": "2026-11-05-2151",
+  "createdAt": "2026-11-04T21:51:39.278Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42683684",
-      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement",
-      "titleUz": "Bolalarda COVID-19 vaksinatsiyasi boʻyicha AAP ning yangi tavsiyalari",
-      "link": "https://doi.org/10.1542/peds.2026-079045",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-11-01",
-      "caption": "🩺 <b>Bolalarda COVID-19 vaksinatsiyasi boʻyicha AAP ning yangi tavsiyalari</b>\n\nCOVID-19 ga qarshi mavsumiy emlash tartibi bolalarning yoshi hamda xavf darajasiga qarab belgilandi.\n\n💉 6-23 oylik chaqaloqlarga monelik boʻlmasa, 2026-2027 mavsumiy COVID-19 vaksinasi berish tavsiya etiladi.\n🛡 Ogʻir COVID-19 xavfi yuqori 2-18 yoshli bolalarga avvalgi emlash tarixidan qatʼi nazar 1 doza yuboriladi.\n⚙️ Xavf guruhida boʻlmagan 2-18 yoshli bolalarga ota-ona xohishi boʻlsa 1 doza yangi vaksina taklif qilinadi.\n\n💡 <b>Amaliyotga:</b> Pediatrlar 6-23 oylik chaqaloqlar hamda xavf guruhidagi 2-18 yoshli bolalarda mavsumiy yangi COVID-19 vaksinatsiyasini birinchi navbatda taʼminlashi lozim.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-079045\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB02rqVceGQEahbymWDwVWMif37FoAA-Ataxs4NlBLhVdCjlm9ZXgBAAMCAAN5AAM9BA",
-      "adminMessageId": 467
+      "key": "pmid:42977847",
+      "title": "Fluid choice in pediatric diabetic ketoacidosis: a Systematic Review and Meta-Analysis.",
+      "titleUz": "Bolalardagi diabetik ketoatsidozda muvozanatlashgan eritma 0.9% natriy xloriddan ustun boʻlmadi",
+      "link": "https://doi.org/10.1007/s00431-026-07565-3",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
+      "pubDate": "2026-11-03",
+      "caption": "🩺 <b>Bolalardagi diabetik ketoatsidozda muvozanatlashgan eritma 0.9% natriy xloriddan ustun boʻlmadi</b>\n\nDiabetik ketoatsidozda (diabetic ketoacidosis, DKA) 0.9% fiziologik eritma keltirib chiqaradigan giperxloremik atsidoz xavfi muhim muammo hisoblanadi.\n\n💧 DKA bartaraf boʻlish vaqti (MD 2.27 soat) hamda shifoxonada yotish muddatida guruhlar oʻrtasida farq kuzatilmadi.\n📊 Meta-analizga DKA boʻlgan 47 840 nafar pediatrik bemor ishtirok etgan 8 ta tadqiqot maʼlumotlari kiritildi.\n⚠️ Bosh miya shishi (RR 1.82) va oʻtkir buyrak shikastlanishi (RR 1.39) xavfida ham statistik farq ajratilmadi.\n\n💡 <b>Amaliyotga:</b> Hozircha muvozanatlashgan eritmalar 0.9% natriy xloriddan afzal ekani isbotlanmadi, shuning uchun amaldagi DKA infuzion protokollarini oʻzgartirishga yetarli asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 3-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07565-3\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB12rrqN36QVgXI8GuonjqROmLTLxjAAKTLmsbODZYS3gByRYh_bvbAQADAgADeQADPQQ",
+      "adminMessageId": 471
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42709454",
-      "title": "RSV Bivalent Prefusion F Protein Vaccine in Pregnancy and Protection Against RSV-Associated Illness in Infants: A Systematic Review and Meta-Analysis",
-      "titleUz": "Homiladorlikdagi RSV vaksinasi chaqaloqlarni gospitalizatsiyadan 82% ga himoya qiladi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.4074",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
+      "key": "pmid:42732889",
+      "title": "Improving Goal Feeding and Discharge Time in Pediatrics After G-Tube Placement: A QI Project",
+      "titleUz": "GT oʻrnatilgandan soʻng standart protokol toʻliq oziqlantirish va javob berishni tezlashtiradi",
+      "link": "https://doi.org/10.1542/hpeds.2025-009110",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
       "pubDate": "2026-11-01",
-      "caption": "🩺 <b>Homiladorlikdagi RSV vaksinasi chaqaloqlarni gospitalizatsiyadan 82% ga himoya qiladi</b>\n\nRespirator-sintsitial virus (RSV) goʻdaklarda ogʻir bronxiolit va gospitalizatsiyaning asosiy sababchilaridan biridir.\n\n🛡️ Ona emlanganda chaqaloqlar hayotining dastlabki 3 oyida RSV sababli gospitalizatsiya xavfi 82% ga kamaydi.\n📊 Tahlil 7 112 chaqaloqni qamradi; samara 6 oylikkacha boʻlgan davrda 78% (95% CI: 70-84%) darajasida saqlanib qoldi.\n⏱️ Yuqori samara vaksina (RSVpreF) tugʻruqdan kamida 14 kun oldin yuborilganda kuzatildi.\n\n💡 <b>Amaliyotga:</b> Homilador ayollarni antenatal davrda RSVpreF bilan emlash chaqaloqlarni dastlabki 6 oyda RSV asoratlaridan va shifoxonaga yotishdan samarali himoya qiladi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.4074\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB1GrqVdhP4qlZLGLNhBjtoQyhjkh5AALhLWsbODZQS6tzoi0Y8cWJAQADAgADeQADPQQ",
-      "adminMessageId": 468
+      "caption": "🩺 <b>GT oʻrnatilgandan soʻng standart protokol toʻliq oziqlantirish va javob berishni tezlashtiradi</b>\n\nGastrostomiya naychasi oʻrnatilgan bolalarda yagona protokol yoʻqligi toʻliq oziqlantirish va javob berishni kechiktiradi.\n\n⏱ Klinik koʻrsatma (CPG) toʻliq oziqlantirish vaqtini 25,8 soatdan 19,3 soatga, shifoxonada qolishni 27,1 soatga tushirdi.\n📊 Sifatni yaxshilash (QI) loyihasida gastrostomiya naychasi (GT) oʻrnatilgan bolalar koʻrib chiqildi.\n🛡 Operatsiyadan keyingi qusish 24% dan 14% ga kamaydi, shoshilinch boʻlimga (ED) qayta murojaat esa oʻzgarmadi (23%).\n\n💡 <b>Amaliyotga:</b> GT oʻrnatilgandan soʻng standartlashtirilgan bosqichma-bosqich oziqlantirish va parvarish protokolini qoʻllash asoratsiz tezroq javob berish imkonini beradi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-009110\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB2GrrqOun-mu99WpDAAGBU1vX71V9cQAClC5rGzg2WEue0u5laad9SAEAAwIAA3kAAz0E",
+      "adminMessageId": 472
     }
   ]
 }
