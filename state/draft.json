@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-05-2151",
-  "createdAt": "2026-11-04T21:51:39.278Z",
+  "draftId": "2026-11-06-2158",
+  "createdAt": "2026-11-05T21:59:34.075Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42977847",
-      "title": "Fluid choice in pediatric diabetic ketoacidosis: a Systematic Review and Meta-Analysis.",
-      "titleUz": "Bolalardagi diabetik ketoatsidozda muvozanatlashgan eritma 0.9% natriy xloriddan ustun boʻlmadi",
-      "link": "https://doi.org/10.1007/s00431-026-07565-3",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-11-03",
-      "caption": "🩺 <b>Bolalardagi diabetik ketoatsidozda muvozanatlashgan eritma 0.9% natriy xloriddan ustun boʻlmadi</b>\n\nDiabetik ketoatsidozda (diabetic ketoacidosis, DKA) 0.9% fiziologik eritma keltirib chiqaradigan giperxloremik atsidoz xavfi muhim muammo hisoblanadi.\n\n💧 DKA bartaraf boʻlish vaqti (MD 2.27 soat) hamda shifoxonada yotish muddatida guruhlar oʻrtasida farq kuzatilmadi.\n📊 Meta-analizga DKA boʻlgan 47 840 nafar pediatrik bemor ishtirok etgan 8 ta tadqiqot maʼlumotlari kiritildi.\n⚠️ Bosh miya shishi (RR 1.82) va oʻtkir buyrak shikastlanishi (RR 1.39) xavfida ham statistik farq ajratilmadi.\n\n💡 <b>Amaliyotga:</b> Hozircha muvozanatlashgan eritmalar 0.9% natriy xloriddan afzal ekani isbotlanmadi, shuning uchun amaldagi DKA infuzion protokollarini oʻzgartirishga yetarli asos yoʻq.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 3-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07565-3\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB12rrqN36QVgXI8GuonjqROmLTLxjAAKTLmsbODZYS3gByRYh_bvbAQADAgADeQADPQQ",
-      "adminMessageId": 471
+      "key": "pmid:42971526",
+      "title": "Adverse Childhood Experiences screening in pediatric primary care and concurrent health",
+      "titleUz": "ACEs skriningining pediatriyadagi surunkali kasalliklar bilan bogʻliqligi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103732",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-11-02",
+      "caption": "🩺 <b>ACEs skriningining pediatriyadagi surunkali kasalliklar bilan bogʻliqligi</b>\n\nBolalikdagi salbiy tajribalar (adverse childhood experiences, ACEs) surunkali patologiyalar xavfini oshiradi.\n\n🔍 Musbat ACEs skriningi arterial gipertenziyadan tashqari barcha surunkali kasalliklar xavfi yuqoriligi bilan bogʻliq.\n📊 Tadqiqotda 2–18 yoshli 684 887 nafar bola qamrab olinib, shundan 599 989 nafari skriningdan oʻtkazildi.\n⚠️ Qoʻshimcha omillar (Part 2) klassik 10 ta ACEs koʻrsatkichiga nisbatan kasalliklar xavfiga kuchliroq taʼsir koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Pediatrlar erta profilaktika va davolash uchun birlamchi boʻgʻinda ACEs skriningini qoʻllash orqali xavf guruhlarini aniqlashlari lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 2-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103732\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB22rs_CibS3fDwTIPFAfhEeFvTMZYAAJ6I2sbiAlpS9EFTqd22GLPAQADAgADeQADPQQ",
+      "adminMessageId": 475
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42732889",
-      "title": "Improving Goal Feeding and Discharge Time in Pediatrics After G-Tube Placement: A QI Project",
-      "titleUz": "GT oʻrnatilgandan soʻng standart protokol toʻliq oziqlantirish va javob berishni tezlashtiradi",
-      "link": "https://doi.org/10.1542/hpeds.2025-009110",
+      "key": "pmid:42686209",
+      "title": "Sleep Management and Recovery After TBI in Kids (SMART-Kids): Pilot Trial Using Melatonin",
+      "titleUz": "Bolalarda TBI dan soʻng melatonin va uyqu gigiyenasi uyqu buzilishini kamaytirishi mumkin",
+      "link": "https://doi.org/10.1542/hpeds.2026-009244",
       "source": "Hospital Pediatrics",
       "sourceFull": "Hospital Pediatrics — AAP",
       "pubDate": "2026-11-01",
-      "caption": "🩺 <b>GT oʻrnatilgandan soʻng standart protokol toʻliq oziqlantirish va javob berishni tezlashtiradi</b>\n\nGastrostomiya naychasi oʻrnatilgan bolalarda yagona protokol yoʻqligi toʻliq oziqlantirish va javob berishni kechiktiradi.\n\n⏱ Klinik koʻrsatma (CPG) toʻliq oziqlantirish vaqtini 25,8 soatdan 19,3 soatga, shifoxonada qolishni 27,1 soatga tushirdi.\n📊 Sifatni yaxshilash (QI) loyihasida gastrostomiya naychasi (GT) oʻrnatilgan bolalar koʻrib chiqildi.\n🛡 Operatsiyadan keyingi qusish 24% dan 14% ga kamaydi, shoshilinch boʻlimga (ED) qayta murojaat esa oʻzgarmadi (23%).\n\n💡 <b>Amaliyotga:</b> GT oʻrnatilgandan soʻng standartlashtirilgan bosqichma-bosqich oziqlantirish va parvarish protokolini qoʻllash asoratsiz tezroq javob berish imkonini beradi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-009110\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB2GrrqOun-mu99WpDAAGBU1vX71V9cQAClC5rGzg2WEue0u5laad9SAEAAwIAA3kAAz0E",
-      "adminMessageId": 472
+      "caption": "🩺 <b>Bolalarda TBI dan soʻng melatonin va uyqu gigiyenasi uyqu buzilishini kamaytirishi mumkin</b>\n\nBosh miya shikastlanishi (traumatic brain injury, TBI) olgan bolalarning 50 foizdan ortigʻida uyqu buzilishi kuzatiladi.\n\n💊 Platsebo guruhida 30-kunda klinik ahamiyatli uyqu buzilishlari melatonin guruhiga nisbatan koʻproq uchradi.\n👥 Shifoxonaga yotqizilgan 72 soat ichida 6-18 yoshli TBI boʻlgan bolalardan 91 foizi sinovni yakunladi.\n🛡️ Melatonin va uyqu gigiyenasi taʼlimi xavfsiz boʻlib, nojoʻya taʼsirlar va xavfsizlik muammolari aniqlanmadi.\n\n💡 <b>Amaliyotga:</b> Tadqiqot hajm jihatidan kichik boʻlgani uchun natijalar amaliyotni hali oʻzgartirmaydi, lekin melatonin TBI dan soʻng uyquni tiklashda xavfsiz chora hisoblanadi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009244\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB3Grs_EVgu0yLNRzUZlyCrz5f1HFkAAJ7I2sbiAlpS5s8TTFuVFm2AQADAgADeQADPQQ",
+      "adminMessageId": 476
     }
   ]
 }
