@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42946300",
     "pmid:42955434",
     "pmid:42838725",
     "publications.aap.org/pediatrics/article/158/5/e2026079049/208787/recommendations-for-the-prevention-of-respiratory",
@@ -42,6 +43,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42946300",
+      "postedAt": "2026-11-05T09:21:05.048Z",
+      "title": "Early Detection of Cerebral Palsy in Ireland: A National NICU Implementation Initiative",
+      "titleUz": "Bolalar bosh miya falaji tashxisi yoshi 24 oydan 7 oyga tushirildi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115377",
+      "source": "J Pediatrics",
+      "messageId": 921
+    },
     {
       "key": "pmid:42955434",
       "postedAt": "2026-11-04T08:57:49.182Z",

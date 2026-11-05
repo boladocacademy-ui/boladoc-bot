@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42946300",
-      "title": "Early Detection of Cerebral Palsy in Ireland: A National NICU Implementation Initiative",
-      "titleUz": "Bolalar bosh miya falaji tashxisi yoshi 24 oydan 7 oyga tushirildi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115377",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-10-27",
-      "caption": "🩺 <b>Bolalar bosh miya falaji tashxisi yoshi 24 oydan 7 oyga tushirildi</b>\n\nCP tashxisini qanchalik barvaqt qoʻysak, reabilitatsiyani oʻz vaqtida boshlab, motor asoratlarni shunchalik kamaytiramiz.\n\n🎯 CP (bolalar bosh miya falaji) tashxisining median yoshi 24 oydan 7 oyga (korreksiyalangan yosh) tushdi.\n👶 NICU (chaqaloqlar intensiv terapiyasi)dan chiqqan 1161 nafar yuqori xavfli chaqaloq qamrab olindi.\n📈 Standartlashtirilgan skrining algoritmi uchlamchi neonatal markazlarda oʻzining yuqori samarasini koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> NICU kuzatuv dasturlarida standartlashtirilgan skrining protokollarini qoʻllash bolalar bosh miya falajini hayotining birinchi yilida aniqlash imkonini beradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 27-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115377\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBumrjtWbi05UTm-yKT7Sa7oU9CbEwAAKJIWsb5NcgS83w25uXkgVMAQADAgADeQADPQQ",
-      "adminMessageId": 442,
-      "draftId": "2026-10-30-2106",
-      "approvedAt": "2026-11-02T02:54:28.775Z"
-    },
-    {
       "index": 0,
       "label": "A",
       "key": "pmid:42951101",
@@ -34,5 +18,5 @@
     }
   ],
   "skipNext": false,
-  "handledOn": "2026-11-04"
+  "handledOn": "2026-11-05"
 }
