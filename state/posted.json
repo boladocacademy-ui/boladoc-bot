@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42951101",
     "pmid:42946300",
     "pmid:42955434",
     "pmid:42838725",
@@ -43,6 +44,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42951101",
+      "postedAt": "2026-11-06T09:14:35.821Z",
+      "title": "Parent- and teen-reported prevalence of sleep health and habits and teen-reported associations with screen time.",
+      "titleUz": "Oʻsmirlarda ekran vaqti ortishi uyqu buzilishini koʻpaytiradi va ota-onalar buni kam baholaydi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103489",
+      "source": "Academic Pediatrics",
+      "messageId": 923
+    },
     {
       "key": "pmid:42946300",
       "postedAt": "2026-11-05T09:21:05.048Z",
