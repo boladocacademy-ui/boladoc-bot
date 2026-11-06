@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-06-2158",
-  "createdAt": "2026-11-05T21:59:34.075Z",
+  "draftId": "2026-11-07-2128",
+  "createdAt": "2026-11-06T21:28:52.103Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42971526",
-      "title": "Adverse Childhood Experiences screening in pediatric primary care and concurrent health",
-      "titleUz": "ACEs skriningining pediatriyadagi surunkali kasalliklar bilan bogʻliqligi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103732",
+      "key": "pmid:42971528",
+      "title": "Delayed Recognition of Abusive Head Trauma: A Diagnostic Error",
+      "titleUz": "Bolalarda shafqatsiz munosabat oqibatidagi bosh miya shikastlanishi tashxisidagi kechikishlar",
+      "link": "https://doi.org/10.1016/j.acap.2026.103740",
       "source": "Academic Pediatrics",
       "sourceFull": "Academic Pediatrics",
       "pubDate": "2026-11-02",
-      "caption": "🩺 <b>ACEs skriningining pediatriyadagi surunkali kasalliklar bilan bogʻliqligi</b>\n\nBolalikdagi salbiy tajribalar (adverse childhood experiences, ACEs) surunkali patologiyalar xavfini oshiradi.\n\n🔍 Musbat ACEs skriningi arterial gipertenziyadan tashqari barcha surunkali kasalliklar xavfi yuqoriligi bilan bogʻliq.\n📊 Tadqiqotda 2–18 yoshli 684 887 nafar bola qamrab olinib, shundan 599 989 nafari skriningdan oʻtkazildi.\n⚠️ Qoʻshimcha omillar (Part 2) klassik 10 ta ACEs koʻrsatkichiga nisbatan kasalliklar xavfiga kuchliroq taʼsir koʻrsatdi.\n\n💡 <b>Amaliyotga:</b> Pediatrlar erta profilaktika va davolash uchun birlamchi boʻgʻinda ACEs skriningini qoʻllash orqali xavf guruhlarini aniqlashlari lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 2-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103732\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB22rs_CibS3fDwTIPFAfhEeFvTMZYAAJ6I2sbiAlpS9EFTqd22GLPAQADAgADeQADPQQ",
-      "adminMessageId": 475
+      "caption": "🩺 <b>Bolalarda shafqatsiz munosabat oqibatidagi bosh miya shikastlanishi tashxisidagi kechikishlar</b>\n\nBolalarda shafqatsiz munosabat oqibatidagi bosh miya shikastlanishini (abusive head trauma, AHT) sezmay qolish ogʻir oqibatlarga olib keladi.\n\n🚨 AHT aniqlangan 2 yoshgacha boʻlgan bolalarning 9,3 foizida tashxis oʻtkazib yuborilgan yoki kechiktirilgan.\n👥 Nazorat guruhi tadqiqotida kalla ichi jarohati boʻlgan 2 yoshgacha boʻlgan 118 nafar bola tahlil qilindi.\n📌 Tashxis kechikkan holatlarning 36,4 foizida bolalar tanasida yuqori xavfli koʻkarishlar (bruising) boʻlgan.\n\n💡 <b>Amaliyotga:</b> 2 yoshgacha boʻlgan bolalarda tana koʻkarishlariga alohida eʼtibor berish AHT tashxisidagi xatoliklarni kamaytirishga yordam beradi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 2-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103740\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB32ruRoZg7ipzlZakHwfAGE_GTK7aAALBJGsboCVxSwyKZ9KaNa55AQADAgADeQADPQQ",
+      "adminMessageId": 479
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42686209",
-      "title": "Sleep Management and Recovery After TBI in Kids (SMART-Kids): Pilot Trial Using Melatonin",
-      "titleUz": "Bolalarda TBI dan soʻng melatonin va uyqu gigiyenasi uyqu buzilishini kamaytirishi mumkin",
-      "link": "https://doi.org/10.1542/hpeds.2026-009244",
-      "source": "Hospital Pediatrics",
-      "sourceFull": "Hospital Pediatrics — AAP",
+      "key": "pmid:42683691",
+      "title": "Recommendations for the Prevention of Respiratory Syncytial Virus Disease in Infants and Children: Policy Statement",
+      "titleUz": "RSV immunizatsiyasi boʻyicha AAPʼning yangilangan tavsiyalari",
+      "link": "https://doi.org/10.1542/peds.2026-079047",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
       "pubDate": "2026-11-01",
-      "caption": "🩺 <b>Bolalarda TBI dan soʻng melatonin va uyqu gigiyenasi uyqu buzilishini kamaytirishi mumkin</b>\n\nBosh miya shikastlanishi (traumatic brain injury, TBI) olgan bolalarning 50 foizdan ortigʻida uyqu buzilishi kuzatiladi.\n\n💊 Platsebo guruhida 30-kunda klinik ahamiyatli uyqu buzilishlari melatonin guruhiga nisbatan koʻproq uchradi.\n👥 Shifoxonaga yotqizilgan 72 soat ichida 6-18 yoshli TBI boʻlgan bolalardan 91 foizi sinovni yakunladi.\n🛡️ Melatonin va uyqu gigiyenasi taʼlimi xavfsiz boʻlib, nojoʻya taʼsirlar va xavfsizlik muammolari aniqlanmadi.\n\n💡 <b>Amaliyotga:</b> Tadqiqot hajm jihatidan kichik boʻlgani uchun natijalar amaliyotni hali oʻzgartirmaydi, lekin melatonin TBI dan soʻng uyquni tiklashda xavfsiz chora hisoblanadi.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009244\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB3Grs_EVgu0yLNRzUZlyCrz5f1HFkAAJ7I2sbiAlpS5s8TTFuVFm2AQADAgADeQADPQQ",
-      "adminMessageId": 476
+      "caption": "🩺 <b>RSV immunizatsiyasi boʻyicha AAPʼning yangilangan tavsiyalari</b>\n\nRSV quyi nafas yoʻllari infeksiyasi goʻdaklarda ogʻir asoratlarga va gospitalizatsiyaga sabab boʻladigan asosiy omillardan biridir.\n\n💉 8 oylikkacha barcha chaqaloqlarga birinchi RSV mavsumida immunizatsiya qilish tavsiya etildi.\n🤰 Onasi homiladorlik davrida emlangan boʻlsa, chaqaloqqa qoʻshimcha profilaktika shart emas.\n🫁 Ikkinchi RSV mavsumiga kirayotgan 8–19 oylik yuqori xavfli bolalar uchun qamrov mezonlari kengaytirildi.\n\n💡 <b>Amaliyotga:</b> 8 oylikkacha chaqaloqlarni (ona emlanmagan boʻlsa) va ikkinchi mavsumdagi yuqori xavfli 8–19 oylik bolalarni retspirator-sintsitial virus (RSV) profilaktikasi bilan qamrab oling.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-079047\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB4GruRpNWpcyGusGNm4S4AozsEr33AALCJGsboCVxSx3D-b6GbRouAQADAgADeQADPQQ",
+      "adminMessageId": 480
     }
   ]
 }
