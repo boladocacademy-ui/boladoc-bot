@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-08-2012",
-  "createdAt": "2026-11-07T20:13:58.317Z",
+  "draftId": "2026-11-09-2026",
+  "createdAt": "2026-11-08T20:27:20.303Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:42970265",
-      "title": "SARS-CoV-2 mRNA Vaccination in Pregnancy and Child Neurodevelopment at 18 to 30 Months",
-      "titleUz": "Homiladorlikda mRNK vaksinasi bolaning asab tizimi rivojlanishiga taʼsir qiladimi?",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.5142",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-11-02",
-      "caption": "🩺 <b>Homiladorlikda mRNK vaksinasi bolaning asab tizimi rivojlanishiga taʼsir qiladimi?</b>\n\nHomilador ayollarni emlashda eng koʻp beriladigan savol — bu boʻlajak bolaning asab tizimi va ruhiyatiga taʼsir qiladimi?\n\n🧠 ASQ-3 soʻrovnomasida emlangan va emlanmagan analar farzandlari ballari teng boʻldi (255 vs 260 ball, farq -3.4).\n📊 Istiqbolli tadqiqotda 18–30 oylik 434 nafar bola (217 juftlik) barcha demografik omillar boʻyicha solishtirildi.\n👶 Autizm va xulq-atvor koʻrsatkichlarida (M-CHAT, CBCL) ham guruhlar oʻrtasida biror-bir farq kuzatilmadi.\n\n💡 <b>Amaliyotga:</b> Homiladorlikda yoki undan 30 kun oldin mRNK vaksinasini olish 18–30 oylik bolalarda psixomotor va ruhiy rivojlanish ortda qolishi xavfini oshirmaydi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 2-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.5142\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB42rvhnW_DSCi1WmlbcWE-AAByPlHxQAC2CFrG6AleUtrk6nydZZYDgEAAwIAA3kAAz0E",
-      "adminMessageId": 483
+      "key": "pmid:42648733",
+      "title": "Sociodemographic and Clinical Factors Associated With Nirsevimab Receipt Among Children Aged Younger Than 20 Months in the New Vaccine Surveillance Network in 2023 to 2025",
+      "titleUz": "RSV ga qarshi nirsevimab qamrovi: 2 mavsum davomidagi dinamika va xavf omillari",
+      "link": "https://doi.org/10.1542/hpeds.2025-009168",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-11-01",
+      "caption": "🩺 <b>RSV ga qarshi nirsevimab qamrovi: 2 mavsum davomidagi dinamika va xavf omillari</b>\n\nRSV infeksiyasidan himoya qiluvchi nirsevimab mavjud boʻlsada, uni olish imkoniyati barcha chaqaloqlarda bir xil emas.\n\n💉 ARI boʻlgan 8 oylikkacha bolalarda nirsevimab olish koʻrsatkichi 2023-24 mavsumida 14%, 2024-25 da 36% boʻldi.\n📊 RSV (respiratory syncytial virus) mavsumida tugʻilgan va surunkali kasalligi bor chaqaloqlar uni koʻproq olgan.\n⚠️ RSV mavsumidan oldin tugʻilgan chaqaloqlarda qamrov pastligi tugʻuruqxonadan keyingi alohida eʼtiborni talab etadi.\n\n💡 <b>Amaliyotga:</b> RSV mavsumidan oldin tugʻilgan chaqaloqlar profilaktikadan chetda qolish xavfi yuqori. Ambulator amaliyotda ushbu guruhga koʻproq eʼtibor berish zarur.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2025-009168\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB52rw2x2tW6LXN_u9JO-69QR8Uo5HAAKXI2sb_J2JS3a-aMYGsTRJAQADAgADeQADPQQ",
+      "adminMessageId": 487
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:42821514",
-      "title": "Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026",
-      "titleUz": "Yuqumli kasalliklar xavfida shifokorlarning atigi 25 foizi toʻliq SHVAV ishlatgan",
-      "link": "https://doi.org/10.15585/mmwr.mm7538a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
-      "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Yuqumli kasalliklar xavfida shifokorlarning atigi 25 foizi toʻliq SHVAV ishlatgan</b>\n\nTibbiyot muassasalarining kutilmagan epidemiologik xavflarga tayyorgarlik darajasi amaliyotda har doim ham yetarli emas.\n\n🚨 Parrandalar grippi A(H5) ssenariysida bemorga niqob taqish va izolyatsiya qilish 60% holatda bir vaqtda bajarildi.\n🕵️ 73 ta yashirin simulyatsiya mashgʻulotida shifokorlarning 25 foizi toʻliq shaxsiy himoya vositalarini kiydi.\n⏱️ Bemorga niqob taqishgacha 2 daqiqa (maqsad: 1 min), izolyatsiyagacha 11 daqiqa (maqsad: 10 min) vaqt ketdi.\n\n💡 <b>Amaliyotga:</b> Kasallikni tez aniqlash, bemorni izolyatsiya qilish va tibbiyot xodimlarining shaxsiy himoya vositalarini (PPE) kiyish intizomini oshirish zarur.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7538a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIB5GrvhoY5xkOyMSWeDoORnDwiOwXqAALZIWsboCV5S-B_EVDdIGHTAQADAgADeQADPQQ",
-      "adminMessageId": 484
+      "key": "pmid:42683687",
+      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Technical Report",
+      "titleUz": "AAP tavsiyasi: 2026-2027 mavsumida bolalarda COVID-19 vaksinatsiyasi",
+      "link": "https://doi.org/10.1542/peds.2026-079046",
+      "source": "AAP",
+      "sourceFull": "American Academy of Pediatrics — Pediatrics",
+      "pubDate": "2026-11-01",
+      "caption": "🩺 <b>AAP tavsiyasi: 2026-2027 mavsumida bolalarda COVID-19 vaksinatsiyasi</b>\n\nYangi mavsumda 6 oylikdan 23 oylikkacha boʻlgan barcha goʻdaklarni COVID-19 ga qarshi emlash tavsiya etiladi.\n\n💉 6–23 oylik barcha goʻdaklar va xavf guruhidagi 2–18 yoshli bolalarda COVID-19 emlamasi koʻrsatilgan.\n🛡️ Oʻrta va ogʻir immunodefitsiti bor 6 oylikdan 18 yoshgacha boʻlgan bolalar alohida emlanishi zarur.\n📌 Hisobotda vaksinalar xavfsizligi, saqlash qoidalari va boshqa emlashlar bilan birga qoʻllash koʻrsatilgan.\n\n💡 <b>Amaliyotga:</b> Yangi mavsumda 6–23 oylik goʻdaklar hamda xavf guruhidagi bolalarni COVID-19 ga qarshi emlash va boshqa emlashlar bilan birga olib borish tavsiya etiladi.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-079046\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB6Grw2ygvdpQditu7SGDCnxr1P0NqAAKYI2sb_J2JS-29Q-63J7jzAQADAgADeQADPQQ",
+      "adminMessageId": 488
     }
   ]
 }
