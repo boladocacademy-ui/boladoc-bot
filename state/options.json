@@ -3,6 +3,36 @@
     {
       "index": 0,
       "label": "A",
+      "key": "pmid:42986793",
+      "title": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+      "titleUz": "Andes virusi chaqirgan epidemiya: 88 ta muloqotda boʻlgan shaxsda ikkilamchi infeksiya aniqlanmadi",
+      "link": "https://doi.org/10.15585/mmwr.mm7543a1",
+      "source": "CDC MMWR",
+      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "pubDate": "2026-11-05",
+      "caption": "🩺 <b>Andes virusi chaqirgan epidemiya: 88 ta muloqotda boʻlgan shaxsda ikkilamchi infeksiya aniqlanmadi</b>\n\nAndes virusi odamdan odamga yuqadigan yagona hantavirus boʻlib, oʻtkir nafas yetishmovchiligi va 40% oʻlimga olib kelishi mumkin.\n\n🚢 Kruiz kemasida 7 nafar yoʻlovchida ogʻir nafas kasalligi aniqlandi va 3 ta oʻlim holati qayd etildi.\n🔍 AQShda monitoringga olingan 88 ta kontaktda boʻlgan shaxsning hech birida ikkilamchi ANDV infeksiyasi chiqmadi.\n🌍 Dunyo boʻyicha 33 ta davlatdan 653 nafar muloqotda boʻlgan fuqaro 42 kunlik nazoratdan oʻtkazildi.\n\n💡 <b>Amaliyotga:</b> Xalqaro sayohatlarda shubhali respirator infeksiyalarni tezkor xabar qilish va kontaktlarni kuzatish ikkilamchi tarqalishni oldini oladi.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 5-noyabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7543a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB62ryYfAuoDdGX-pcvkCDUKbYIT8eAAJ7IGsbIwiZS4YOaqjAtoLTAQADAgADeQADPQQ",
+      "adminMessageId": 491,
+      "draftId": "2026-11-10-0014"
+    },
+    {
+      "index": 1,
+      "label": "B",
+      "key": "pmid:42988320",
+      "title": "Digital Twins to Mimic the Control Arm of a Neonatal Randomized Controlled Trial: A \"Proof-of-Principle\" Feasibility and Comparability Study",
+      "titleUz": "RKI nazorat guruhini raqamli egizaklar bilan almashtirish mumkinmi?",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115385",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-11-05",
+      "caption": "🩺 <b>RKI nazorat guruhini raqamli egizaklar bilan almashtirish mumkinmi?</b>\n\nNeonatologiyada platsebo guruhisiz klinik sinov oʻtkazish imkoni paydo boʻldi — raqamli egizaklar nazorat oʻrnini bosa oladi.\n\n📊 Raqamli egizaklar (DTC) nazorat guruhi bilan oʻxshash chiqdi, faqat DTC guruhida nekrotik enterokolit (NEC) koʻproq boʻldi.\n👶 MOBYDICK randomizatsiyalangan klinik sinovidagi (RCT) 255 nafar chaqaloq uchun Kanada bazasidan (CNN) DTC topildi.\n⚠️ DTC guruhida shifoxonadan tashqarida tugʻilish darajasi yuqori va antenatal kortikosteroidlar qoʻllanishi pastroq boʻldi.\n\n💡 <b>Amaliyotga:</b> Raqamli nazorat guruhi (DTC) RKI nazoratining oʻrnini bosishi mumkin, ammo kelajakda amaliyotga keng qoʻllash uchun qoʻshimcha tasdiqlovchi tadqiqotlar kerak.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115385\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAIB7GryYgVVYItlMfus7RT1IUOPjk1EAAJ8IGsbIwiZSxEwhxr-ibMHAQADAgADeQADPQQ",
+      "adminMessageId": 492,
+      "draftId": "2026-11-10-0014"
+    },
+    {
+      "index": 0,
+      "label": "A",
       "key": "pmid:42648733",
       "title": "Sociodemographic and Clinical Factors Associated With Nirsevimab Receipt Among Children Aged Younger Than 20 Months in the New Vaccine Surveillance Network in 2023 to 2025",
       "titleUz": "RSV ga qarshi nirsevimab qamrovi: 2 mavsum davomidagi dinamika va xavf omillari",
@@ -869,36 +899,6 @@
       "fileId": "AgACAgIAAxkDAAIBUmrKmgWdJ9nRWhNoWlYdKbOeTMi9AAJBIWsbpKFYSuvtUh_-Ci_CAQADAgADeQADPQQ",
       "adminMessageId": 338,
       "draftId": "2026-10-11-2002"
-    },
-    {
-      "index": 0,
-      "label": "A",
-      "key": "pmid:42785517",
-      "title": "Prenatal Risk Stratification with Early Non-Invasive Monitoring Reduces Unnecessary Medicalization in Patients with Coarctation of the Aorta",
-      "titleUz": "Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115349",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
-      "pubDate": "2026-09-24",
-      "caption": "🩺 <b>Prenatal aorta koarktatsiyasida yangi protokol ortiqcha aralashuvlarni keskin kamaytirdi</b>\n\nPrenatal aorta koarktatsiyasi gumoni chaqaloqlarda keraksiz prostaglandin E (PGE) va markaziy kateter qoʻyishga sabab boʻladi.\n\n📉 Yangi protokol PGE qoʻllashni (P=0.037), asossiz koʻchirish (P=0.006) va markaziy kateter qoʻyishni (P=0.002) kamaytirdi.\n👥 Protokoldan oldingi 106 va keyingi 42 nafar chaqaloq qiyoslandi; past xavfli guruhda jarrohlik ehtimoli atigi 7% boʻldi.\n⚠️ Protokoldan soʻng 2 nafar chaqaloqqa uyga chiqqach tashxis qoʻyildi, 1 chaqaloqda qorincha disfunksiyasi kuzatildi.\n\n💡 <b>Amaliyotga:</b> Invaziv muolajalar va PGE boshlashdan oldin xavfni toʻgʻri tabaqalashtirish hamda noinvaziv monitoring qilish soxta ijobiy holatlarda asoratlarni kamaytiradi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 24-sentabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115349\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBTWrJVIa4ew7uyS70K6X_YgmKlRJjAAKoJGsbG31JSkxJeS39aj9dAQADAgADeQADPQQ",
-      "adminMessageId": 333,
-      "draftId": "2026-10-10-2051"
-    },
-    {
-      "index": 1,
-      "label": "B",
-      "key": "pmid:42803590",
-      "title": "A Systematic Review and Meta-Analysis of the Role of Ultrasonography for the Diagnosis of Vesicoureteral Reflux in Pediatric Patients Following Urinary Tract Infections: Technical Report",
-      "titleUz": "Vezikoureteral reflyuksni aniqlashda ultratovush tekshiruvi ishonchsiz usul boʻlib chiqdi",
-      "link": "https://doi.org/10.1542/peds.2026-078567",
-      "source": "AAP",
-      "sourceFull": "American Academy of Pediatrics — Pediatrics",
-      "pubDate": "2026-10-01",
-      "caption": "🩺 <b>Vezikoureteral reflyuksni aniqlashda ultratovush tekshiruvi ishonchsiz usul boʻlib chiqdi</b>\n\nPeshob yoʻllari infeksiyasini oʻtkazgan bolalarda oddiy ultratovush tekshiruvi reflyuksni aniqlashda yetarli emas.\n\n🔍 Birinchi peshob yoʻllari infeksiyasidan (UTI) keyin ultratovushning (RBUS) sezgirligi atigi 50%, oʻziga xosligi 71% boʻldi.\n📊 90 ta tadqiqot tahlili ogʻir darajadagi (III-V) vezikoureteral reflyuksda (VUR) ham RBUS sezgirligi pastligini (66%) koʻrsatdi.\n🔄 Takroriy UTI boʻlgan bolalarda ultratovush tekshiruvining (RBUS) sezgirligi yanada pasayib, atigi 26% boʻldi.\n\n💡 <b>Amaliyotga:</b> VUR diagnostikasida ultratovushga yagona skrining testi sifatida tayanmang. Klinik qoʻllanmalardagi tavsiyalar yangilanishi va boshqa tekshiruvlar talab etilishi mumkin.\n\n📚 <b>Manba:</b> American Academy of Pediatrics — Pediatrics · 1-oktabr 2026\n🔗 <a href=\"https://doi.org/10.1542/peds.2026-078567\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAIBTmrJVKOfH4gWcGu81MVY0tsmLcEKAAKpJGsbG31JSmPaAAHHiLnlXQEAAwIAA3kAAz0E",
-      "adminMessageId": 334,
-      "draftId": "2026-10-10-2051"
     }
   ]
 }
