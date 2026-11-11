@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42986793",
     "pmid:42951101",
     "pmid:42946300",
     "pmid:42955434",
@@ -44,6 +45,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42986793",
+      "postedAt": "2026-11-11T09:13:33.569Z",
+      "title": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+      "titleUz": "Andes virusi chaqirgan epidemiya: 88 ta muloqotda boʻlgan shaxsda ikkilamchi infeksiya aniqlanmadi",
+      "link": "https://doi.org/10.15585/mmwr.mm7543a1",
+      "source": "CDC MMWR",
+      "messageId": 929
+    },
     {
       "key": "pmid:42951101",
       "postedAt": "2026-11-06T09:14:35.821Z",
