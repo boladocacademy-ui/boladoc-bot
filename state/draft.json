@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-15-2041",
-  "createdAt": "2026-11-14T20:42:18.000Z",
+  "draftId": "2026-11-16-2100",
+  "createdAt": "2026-11-15T21:01:44.049Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:43023970",
-      "title": "Attention-Deficit/Hyperactivity Disorder Accommodations, Behavior Therapy, and Stimulant Medication: A Randomized Clinical Trial",
-      "titleUz": "ADHD da metilfenidat va xulq-atvor terapiyasi oʻquv unumdorligini oshiradi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.5973",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
-      "pubDate": "2026-11-13",
-      "caption": "🩺 <b>ADHD da metilfenidat va xulq-atvor terapiyasi oʻquv unumdorligini oshiradi</b>\n\nADHD bor bolalarda faqat akademik yengilliklar yetarlimi yoki medikamentoz davo va terapiya shartmi?\n\n💊 Metilfenidat platseboga qaraganda topshiriqlar unumdorligini 22% ga va viktorina ballini 3.9 ga oshirdi.\n📊 Diqqat yetishmovchiligi va giperaktivlik sindromi (ADHD) boʻlgan 235 nafar bola kesishuvchi RCT da qatnashdi.\n🏫 Stimulyator va xulq-atvor terapiyasi sinfda qoidalar buzilishini sezilarli darajada kamaytirdi.\n\n💡 <b>Amaliyotga:</b> ADHD da faqat oʻquv sharoitini oʻzgartirish yetarsiz; metilfenidat (0.3 mg/kg) va xulq-atvor terapiyasi kombinatsiyasi koʻproq samara beradi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 13-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.5973\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICAWr4x5dpDGSvgspo-MbzG-o6e_NlAALjJWsbi1PIS8h8ImUKfj7mAQADAgADeQADPQQ",
-      "adminMessageId": 513
+      "key": "pmid:42988318",
+      "title": "State‑Wide Implementation of Early Identification for Cerebral Palsy and Broader Neurodevelopmental Outcomes: Baseline Findings from the Queensland Early Detection and Intervention Network (QEDIN)",
+      "titleUz": "Bolalar miya falajini erta skrining qilish boʻyicha QEDIN dasturi natijalari",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115384",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-11-05",
+      "caption": "🩺 <b>Bolalar miya falajini erta skrining qilish boʻyicha QEDIN dasturi natijalari</b>\n\nBolalar miya falaji (cerebral palsy, CP) ni hayotning birinchi oylarida aniqlash erta reabilitatsiya imkonini beradi.\n\n📊 Skriningga yoʻnaltirilgan chaqaloqlarning 89 foizi (1100/1234) tekshiruv bilan qamrab olindi.\n👨‍⚕️ Dastur doirasida 688 nafar shifokor GMA va HINE kabi xalqaro skrining usullariga oʻqitildi.\n🎯 Tekshirilgan chaqaloqlarning 13 foizi (136 nafari) CP boʻyicha erta aralashuv dasturlariga jalb qilindi.\n\n💡 <b>Amaliyotga:</b> GMA va HINE kabi vositalarni tizimli joriy etish yuqori xavfli chaqaloqlarda BMFni oʻz vaqtida aniqlashni taʼminlaydi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115384\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICBWr6HatmI_qDq56rNl9AsNstGotdAAIyHWsb0OfRS2W9YrIaDRpbAQADAgADeQADPQQ",
+      "adminMessageId": 517
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:43003928",
-      "title": "Clinical recommendations for the inpatient management of lower respiratory tract infections in children and adolescents with severe neurological impairment in Germany-2026 Update",
-      "titleUz": "Ogʻir nevrologik buzilishlari bor bolalarda LRTI davolash: 2026-yil tavsiyalari",
-      "link": "https://doi.org/10.1007/s00431-026-07482-5",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
+      "key": "pmid:43000047",
+      "title": "Outpatient Parenteral Antimicrobial Therapy in Infants Aged Under 1 Year",
+      "titleUz": "Chaqaloqlarda OPAT xavfi yoshga emas, hamroh kasalliklar va davomiylikka bogʻliq",
+      "link": "https://doi.org/10.1542/hpeds.2026-009466",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
       "pubDate": "2026-11-09",
-      "caption": "🩺 <b>Ogʻir nevrologik buzilishlari bor bolalarda LRTI davolash: 2026-yil tavsiyalari</b>\n\nOgʻir nevrologik buzilishi (severe neurological impairment, SNI) bor bolalarda asossiz keng qamrovli antibiotik qoʻllash xavflidir.\n\n💡 Quyi nafas yoʻllari infektsiyasida (LRTI) aminopenitsillin va beta-laktamaza ingibitori birinchi tanlov hisoblanadi.\n💧 Simptomatik parvarishda gidratatsiya, kislorod, sekretsiya va yoʻtal evakuatsiyasini taʼminlash muhim oʻrin tutadi.\n🛡️ Piperatsillin-tazobaktam faqat yuqori xavfli va chidamli patogenlar aniqlangan bolalarga zaxira qilib saqlanadi.\n\n💡 <b>Amaliyotga:</b> SNI boʻlgan bolalarda antibiotiklarni darhol zaxira guruhidan boshlamay, xavf darajasiga koʻra va simptomatik parvarish bilan birga qoʻllang.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 9-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07482-5\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICAmr4x6lmoDD68aN7TQ7353evcojaAALkJWsbi1PIS46Lcnq51BrgAQADAgADeQADPQQ",
-      "adminMessageId": 514
+      "caption": "🩺 <b>Chaqaloqlarda OPAT xavfi yoshga emas, hamroh kasalliklar va davomiylikka bogʻliq</b>\n\n90 kunlikdan kichik chaqaloqlarda ambulator parenteral antimikrob terapiya berishda asosiy xavf yosh emas.\n\n💊 90 kunlikgacha chaqaloqlarda OPAT nojoʻya taʼsiri (12.1%) 90 kundan kattalarga (26.5%) nisbatan yuqori boʻlmadi.\n📊 Retrospektiv kuzatuvda 1 yoshgacha 88 nafar chaqaloqdagi 97 ta ambulator parenteral terapiya epizodi tahlil qilindi.\n⚠️ Nojoʻya hodisalar xavfini yosh emas, surunkali kasalliklar (OR 3.53) va terapiya davomiyligi (OR 1.06) oshirdi.\n\n💡 <b>Amaliyotga:</b> Chaqaloqlarga ambulator parenteral antimikrob terapiya (OPAT) tayinlashda qarorni yoshga qarab emas, surunkali kasalliklar mavjudligi va davolash muddatiga qarab qabul qiling.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 9-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009466\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICBmr6HbefocFDe7WnL6ZqC8vmIlgWAAIzHWsb0OfRSwaxn80Qe_EdAQADAgADeQADPQQ",
+      "adminMessageId": 518
     }
   ]
 }
