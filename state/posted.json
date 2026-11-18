@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:42988318",
     "pmid:42986793",
     "pmid:42951101",
     "pmid:42946300",
@@ -45,6 +46,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:42988318",
+      "postedAt": "2026-11-18T10:00:13.783Z",
+      "title": "State‑Wide Implementation of Early Identification for Cerebral Palsy and Broader Neurodevelopmental Outcomes: Baseline Findings from the Queensland Early Detection and Intervention Network (QEDIN)",
+      "titleUz": "Bolalar miya falajini erta skrining qilish boʻyicha QEDIN dasturi natijalari",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115384",
+      "source": "J Pediatrics",
+      "messageId": 951
+    },
     {
       "key": "pmid:42986793",
       "postedAt": "2026-11-11T09:13:33.569Z",
