@@ -1,5 +1,22 @@
 {
-  "items": [],
+  "items": [
+    {
+      "index": 0,
+      "label": "A",
+      "key": "pmid:42988318",
+      "title": "State‑Wide Implementation of Early Identification for Cerebral Palsy and Broader Neurodevelopmental Outcomes: Baseline Findings from the Queensland Early Detection and Intervention Network (QEDIN)",
+      "titleUz": "Bolalar miya falajini erta skrining qilish boʻyicha QEDIN dasturi natijalari",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115384",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-11-05",
+      "caption": "🩺 <b>Bolalar miya falajini erta skrining qilish boʻyicha QEDIN dasturi natijalari</b>\n\nBolalar miya falaji (cerebral palsy, CP) ni hayotning birinchi oylarida aniqlash erta reabilitatsiya imkonini beradi.\n\n📊 Skriningga yoʻnaltirilgan chaqaloqlarning 89 foizi (1100/1234) tekshiruv bilan qamrab olindi.\n👨‍⚕️ Dastur doirasida 688 nafar shifokor GMA va HINE kabi xalqaro skrining usullariga oʻqitildi.\n🎯 Tekshirilgan chaqaloqlarning 13 foizi (136 nafari) CP boʻyicha erta aralashuv dasturlariga jalb qilindi.\n\n💡 <b>Amaliyotga:</b> GMA va HINE kabi vositalarni tizimli joriy etish yuqori xavfli chaqaloqlarda BMFni oʻz vaqtida aniqlashni taʼminlaydi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 5-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115384\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICBWr6HatmI_qDq56rNl9AsNstGotdAAIyHWsb0OfRS2W9YrIaDRpbAQADAgADeQADPQQ",
+      "adminMessageId": 517,
+      "draftId": "2026-11-16-2100",
+      "approvedAt": "2026-11-18T04:20:42.828Z"
+    }
+  ],
   "skipNext": false,
   "handledOn": "2026-11-17"
 }
