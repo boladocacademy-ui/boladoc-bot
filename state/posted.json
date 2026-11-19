@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:43035105",
     "pmid:42988318",
     "pmid:42986793",
     "pmid:42951101",
@@ -46,6 +47,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:43035105",
+      "postedAt": "2026-11-19T10:09:30.221Z",
+      "title": "Social Media Asthma Education to Reduce Pediatric Health Care Use: A Bayesian Randomized Control Trial.",
+      "titleUz": "Ijtimoiy tarmoqlardagi astma maktabi shoshilinch murojaatlarni kamaytirdi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009614",
+      "source": "Hospital Pediatrics",
+      "messageId": 952
+    },
     {
       "key": "pmid:42988318",
       "postedAt": "2026-11-18T10:00:13.783Z",
