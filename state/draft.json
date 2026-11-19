@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-19-2256",
-  "createdAt": "2026-11-18T23:02:26.656Z",
+  "draftId": "2026-11-20-2301",
+  "createdAt": "2026-11-19T23:02:52.238Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:43037991",
-      "title": "Cannabidiol for Severe Behavioral Problems in Youths With Intellectual Disability: A Randomized Clinical Trial",
-      "titleUz": "Intellektual buzilishi bor bolalarda kannabidiol (CBD) ogʻir xulq-atvorni kamaytirmaydi",
-      "link": "https://doi.org/10.1001/jamapediatrics.2026.5152",
-      "source": "JAMA Pediatrics",
-      "sourceFull": "JAMA Pediatrics",
+      "key": "pmid:43040175",
+      "title": "Polypharmacy and use of prescription medication in children and adolescents with life-limiting conditions-a nationwide cohort study",
+      "titleUz": "Hayotni cheklovchi kasalliklar bilan ogʻrigan bolalarda polipragmaziya xavfi",
+      "link": "https://doi.org/10.1007/s00431-026-07594-y",
+      "source": "Eur J Pediatrics",
+      "sourceFull": "European Journal of Pediatrics",
       "pubDate": "2026-11-16",
-      "caption": "🩺 <b>Intellektual buzilishi bor bolalarda kannabidiol (CBD) ogʻir xulq-atvorni kamaytirmaydi</b>\n\nIntellektual buzilishi bor bolalarda ogʻir xulq-atvor muammolarini davolashda kannabidiolga boʻlgan qiziqish yuqori boʻlib kelayotgan edi.\n\n❌ 8 haftadan soʻng ABC-I shkalasi bali CBD olgan bolalarda 21.7 va platsebo guruhida 19.2 boʻldi (oʻrtacha farq 2.4).\n🧪 Sinov 6-18 yoshli intellektual buzilishi va ogʻir xulq-atvor muammosi bor 131 nafar bolada oʻtkazildi (84%ida autizm).\n⚠️ Nojoʻya taʼsirlar CBD guruhidagi bolalarda (63.1%) va platsebo guruhida (60.6%) bir xil chastotada uchradi.\n\n💡 <b>Amaliyotga:</b> Kannabidiol (CBD) intellektual buzilishi bor bolalarda ogʻir xulq-atvor muammolarini kamaytirishda samarasiz boʻlib chiqdi. Uni ushbu maqsadda qoʻllash tavsiya etilmaydi.\n\n📚 <b>Manba:</b> JAMA Pediatrics · 16-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1001/jamapediatrics.2026.5152\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICHmr-LTbW3xc3dCaE97aFGae6hDhlAAItI2sbmqbwSw7OwkFAMj__AQADAgADeQADPQQ",
-      "adminMessageId": 542
+      "caption": "🩺 <b>Hayotni cheklovchi kasalliklar bilan ogʻrigan bolalarda polipragmaziya xavfi</b>\n\nHayotni cheklovchi holatlarda (life-limiting conditions, LLC) dorilarning koʻpligi bemor asoratlarini oshiradi.\n\n💊 Tashxisdan 1 yil oʻtgach, LLC bor bolalarning 4.53% ida koʻp miqdorda (≥5 dori) polipragmaziya kuzatildi.\n👥 Daniyadagi 98 508 nafar LLC bor bola va 492 540 nazorat guruhi 25 yilgacha boʻlgan davrda taqqoslandi.\n🧠 Nevrologik xastalikda va past maʼlumotli oilalarda antiepileptik hamda sedativ dorilar eng koʻp buyurildi.\n\n💡 <b>Amaliyotga:</b> LLC bor bolalarda simptomlarni davolash bilan birga koʻp dori tayinlashning salbiy taʼsirini ham doim hisobga olish lozim.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 16-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07594-y\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICI2r_gAXL1-X1H-6prl74ScFUIxh-AAJwHmsbmqYAAUhf0fUhF_6SiwEAAwIAA3kAAz0E",
+      "adminMessageId": 547
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:43039313",
-      "title": "Stress Fracture Recovery and Return to Sports in Youth with Juvenile Idiopathic Arthritis",
-      "titleUz": "YIA bor bolalarda umurtqa stress sinishlaridan tiklanish koʻproq vaqt oladi",
-      "link": "https://doi.org/10.1016/j.jpeds.2026.115403",
-      "source": "J Pediatrics",
-      "sourceFull": "The Journal of Pediatrics",
+      "key": "pmid:43035113",
+      "title": "Pharmacologic Management of Pediatric Paroxysmal Sympathetic Hyperactivity in North America",
+      "titleUz": "Pediatrik PSH davolashda yagona standart yoʻq: mutaxassislar yondashuvidagi tafovutlar",
+      "link": "https://doi.org/10.1542/hpeds.2026-009531",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
       "pubDate": "2026-11-16",
-      "caption": "🩺 <b>YIA bor bolalarda umurtqa stress sinishlaridan tiklanish koʻproq vaqt oladi</b>\n\nYuvenil idiopatik artritli yosh sportchilarda stress sinishlaridan tiklanish muddati jarohat joyiga bogʻliq.\n\n🦴 Yuvenil idiopatik artrit (JIA) bor bolalarda umurtqa yoyi sinishida tiklanish 1,44 baravar uzoq davom etdi (P=0,045).\n👥 Retrospektiv tadqiqotda 260 nafar bola (65 nafar JIA va 195 nafar nazorat guruhi) koʻrib chiqildi.\n🩺 Umurtqasi singan JIA li bolalarning 75 foizida entezit bilan bogʻliq artrit (ERA) fenotipi aniqlandi.\n\n💡 <b>Amaliyotga:</b> JIA va umurtqa stress sinishi bor bolalarda, ayniqsa ERA fenotipida, sportga qaytish rejasini tuzishda koʻproq vaqt ajratish tavsiya etiladi.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 16-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115403\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICIGr-LoKPNOr0uRTSD3_y-kHy2YoFAAIuI2sbmqbwS6pw8zs6BldsAQADAgADeQADPQQ",
-      "adminMessageId": 544
+      "caption": "🩺 <b>Pediatrik PSH davolashda yagona standart yoʻq: mutaxassislar yondashuvidagi tafovutlar</b>\n\nBolalarda paroksizmal simpatik hiperaktivlik (paroxysmal sympathetic hyperactivity, PSH) davosida katta tafovutlar bor.\n\n💊 Profilaktikada alfa-2 agonistlar (90%), xurujni toʻxtatishda esa GABA-A agonistlari (86%) eng koʻp qoʻllandi.\n📊 Shimoliy Amerikadagi 295 nafar pediatr-mutaxassis (nevrologiya, palliativ va boshqa sohalar) soʻrovda qatnashdi.\n⚠️ Har bir mutaxassislik boʻyicha dori tanlashda statistik ishonchli sezilarli tafovutlar (P &lt; 0.05) qayd etildi.\n\n💡 <b>Amaliyotga:</b> Pediatrik PSH davolashda yagona konsensus yoʻq. Bemorlar uchun standartlashtirilgan va dalillarga asoslangan protokollar zarur.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 16-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009531\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICJGr_gBwifiLBUOCJrOPfXQ0bCRQKAAJxHmsbmqYAAUiks6nOOz7n_gEAAwIAA3kAAz0E",
+      "adminMessageId": 548
     }
   ]
 }
