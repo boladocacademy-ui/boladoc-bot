@@ -1,5 +1,6 @@
 {
   "keys": [
+    "pmid:43019237",
     "pmid:43035105",
     "pmid:42988318",
     "pmid:42986793",
@@ -47,6 +48,15 @@
     "2852670"
   ],
   "entries": [
+    {
+      "key": "pmid:43019237",
+      "postedAt": "2026-11-20T09:55:38.592Z",
+      "title": "Use of Glucagon-Like Peptide-1 Medications and Modified Medication Use Among Adults - United States, 2025",
+      "titleUz": "AQShda har 10 nafar kattadan biri GLP-1 retseptor agonistlarini qabul qilmoqda",
+      "link": "https://doi.org/10.15585/mmwr.mm7544a1",
+      "source": "CDC MMWR",
+      "messageId": 953
+    },
     {
       "key": "pmid:43035105",
       "postedAt": "2026-11-19T10:09:30.221Z",
