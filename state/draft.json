@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-23-2144",
-  "createdAt": "2026-11-22T21:45:44.295Z",
+  "draftId": "2026-11-24-0253",
+  "createdAt": "2026-11-24T02:55:00.348Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:43064147",
-      "title": "Correlates of Consultant Disposition Recommendations in the California Child and Adolescent Mental Health Access Program.",
-      "titleUz": "Pediatrlar uchun masofaviy psixiatrik konsultatsiya: 74% holat birinchi boʻgʻinda qoladi",
-      "link": "https://doi.org/10.1016/j.acap.2026.103761",
-      "source": "Academic Pediatrics",
-      "sourceFull": "Academic Pediatrics",
-      "pubDate": "2026-11-20",
-      "caption": "🩺 <b>Pediatrlar uchun masofaviy psixiatrik konsultatsiya: 74% holat birinchi boʻgʻinda qoladi</b>\n\nBolalar psixiatri maslahatidan soʻng aksariyat bemorlarni pediatrning oʻzi davolashda davom ettirishi mumkin.\n\n📞 Cal-MAP tele-psixiatriya konsultatsiyasidan soʻng 74% bolalarni birinchi boʻgʻinda davolash davom ettirildi.\n📊 Koʻndalang (cross-sectional) tadqiqotda 1 295 nafar bemor tahlil qilindi, 55,9 foizi 12-17 yoshli oʻsmirlar boʻldi.\n⚠️ Ruhiy murakkablik (aOR 0,18) va boshqa tildagi oilalar (aOR 0,57) tor mutaxassisga koʻproq yoʻnaltirildi.\n\n💡 <b>Amaliyotga:</b> Masofaviy psixiatr konsultatsiyasi pediatrga aksariyat ruhiy muammoli bolalarni oʻzi davolashga yordam beradi, murakkab holatlar esa tor mutaxassisga yuboriladi.\n\n📚 <b>Manba:</b> Academic Pediatrics · 20-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103761\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICL2sDYmdzAlhtZ2nAYauw92_2xq2tAAJzH2sb6SYYSGOKCBj_fwiPAQADAgADeQADPQQ",
-      "adminMessageId": 559
+      "key": "pmid:43068707",
+      "title": "Standards to Support Healthy Sleep for Pediatric Inpatients and Their Families: A Delphi Survey.",
+      "titleUz": "Statsionardagi bolalar uyqusi boʻyicha 5 ta xalqaro standart tasdiqlandi",
+      "link": "https://doi.org/10.1542/hpeds.2026-009282",
+      "source": "Hospital Pediatrics",
+      "sourceFull": "Hospital Pediatrics — AAP",
+      "pubDate": "2026-11-23",
+      "caption": "🩺 <b>Statsionardagi bolalar uyqusi boʻyicha 5 ta xalqaro standart tasdiqlandi</b>\n\nKasalxonadagi shovqin va tartibsiz rejim bemor bolalarning tuzalishiga hamda ota-onalarning koʻmagiga salbiy taʼsir koʻrsatadi.\n\nEkspertlar stasionarlarda bolalar uyqusini yaxshilash boʻyicha 5 ta asosiy standartni 96% kelishuv bilan tasdiqladi.\nXalqaro pediatr-uyqushunoslar assotsiatsiyasi (IPSA) vakillari 3 bosqichli Delphi soʻrovini yakunladi.\nStandartlar sirkad maromlarni ragʻbatlantirish, muhitni moslash va ota-onalarni qoʻllab-quvvatlashni oʻz ichiga oladi.\n\n💡 <b>Amaliyotga:</b> Kasalxonalarda tungi shovqinni kamaytirish va sirkad maromlarni saqlash orqali bemor bolalarning tuzalishini tezlashtirish mumkin.\n\n📚 <b>Manba:</b> Hospital Pediatrics — AAP · 23-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1542/hpeds.2026-009282\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICM2sE_GEQVonjWNB0geIZ9g5ZYetJAAJ3GmsbWM8pSOBS4Ml-WlrnAQADAgADeQADPQQ",
+      "adminMessageId": 563
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:43055802",
-      "title": "Prevalence and pretreatment predictors of acetaminophen treatment failure for patent ductus arteriosus in preterm infants: A systematic review and meta-analysis",
-      "titleUz": "Paratsetamol bilan PDA davolash samarasizligi va uning xavf omillari",
-      "link": "https://doi.org/10.1007/s00431-026-07635-6",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-11-19",
-      "caption": "🩺 <b>Paratsetamol bilan PDA davolash samarasizligi va uning xavf omillari</b>\n\nChala tugʻilgan chaqaloqlarda ochiq arterial yoʻlni (PDA) paratsetamol bilan davolash har uchinchi holatda kutilgan natijani bermaydi.\n\n📊 28 ta tadqiqot (1559 chaqaloq) tahlilida paratsetamol terapiyasi 34% (95% CI 28-42%) chaqaloqda samarasiz boʻldi.\n⚠️ Chuqur chala tugʻilganlik (OR 2,97), qiz jinsi (OR 1,64) va trombotsitopeniya samarasizlik xavfini oshiruvchi omillardir.\n💊 Terapiya dozasi va davomiyligi natijaga taʼsir qildi, ammo yuborish yoʻli (enteral/parenteral) farq qilmadi.\n\n💡 <b>Amaliyotga:</b> Chuqur chala tugʻilgan va trombotsitopeniyasi bor chaqaloqlarda paratsetamol samarasiz boʻlishi ehtimoli yuqori, buni davolash taktikasida hisobga olish lozim.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 19-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07635-6\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICMGsDYoip6S2v3FmIDsxpwYHCr3oeAAJ0H2sb6SYYSPFGFGz7aUtaAQADAgADeQADPQQ",
-      "adminMessageId": 560
+      "key": "pmid:43068797",
+      "title": "Characterizing experiences with interpersonal bias among caregivers of children in the ECHO Cohort.",
+      "titleUz": "Bolali onalarning 66 foizi kamsitish holatlariga duch keladi",
+      "link": "https://doi.org/10.1016/j.acap.2026.103763",
+      "source": "Academic Pediatrics",
+      "sourceFull": "Academic Pediatrics",
+      "pubDate": "2026-11-22",
+      "caption": "🩺 <b>Bolali onalarning 66 foizi kamsitish holatlariga duch keladi</b>\n\nOnalar uchraydigan kamsitishlar bolalar salomatligiga va tibbiy yordam sifatiga bevosita taʼsir koʻrsatadi.\n\n📊 ECHO kohortasidagi onalar va parvarishlovchilarning 66% qismi kamsitilish (diskriminatsiya)ga uchragan.\n👥 24 558 nafar ona va parvarishlovchi Williams Everyday Discrimination Scale (WEDS) soʻrovnomasi orqali baholangan.\n🎯 Diskriminatsiya eng koʻp jins (30%), yosh (17%) va irq (16%) omillariga koʻra yuz bergani aniqlandi.\n\n💡 <b>Amaliyotga:</b> Pediatrlar bolalar salomatligini baholashda onalarning ijtimoiy-psixologik holati va kamsitilish xavflarini ham inobatga olishlari lozim.\n\n📚 <b>Manba:</b> Academic Pediatrics · 22-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.acap.2026.103763\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICNGsE_IRlMGL9gjl8_R-peruF5FqFAAJ4GmsbWM8pSFJp5nmny82gAQADAgADeQADPQQ",
+      "adminMessageId": 564
     }
   ]
 }
