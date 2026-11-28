@@ -1,35 +1,35 @@
 {
-  "draftId": "2026-11-27-0033",
-  "createdAt": "2026-11-27T00:40:41.153Z",
+  "draftId": "2026-11-28-0001",
+  "createdAt": "2026-11-28T00:02:22.320Z",
   "status": "pending",
   "options": [
     {
       "index": 0,
       "label": "A",
-      "key": "pmid:43076945",
-      "title": "Prevalence, etiology, and trajectory of anemia in pediatric inflammatory bowel disease: a systematic review and meta-analysis",
-      "titleUz": "Pediatrik IBD tashxisida bolalarning 61.7 foizida anemiya kuzatiladi",
-      "link": "https://doi.org/10.1007/s00431-026-07640-9",
-      "source": "Eur J Pediatrics",
-      "sourceFull": "European Journal of Pediatrics",
-      "pubDate": "2026-11-24",
-      "caption": "🩺 <b>Pediatrik IBD tashxisida bolalarning 61.7 foizida anemiya kuzatiladi</b>\n\nPediatrik yalligʻlanishli ichak kasalligida (IBD) anemiyani notoʻgʻri mezonlar bilan baholash jiddiy gipodiagnostikaga olib keladi.\n\n📊 IBD tashxisi qoʻyilgan bolalarning 61.7% ida anemiya uchraydi, ularning 78.0% ida temir tanqisligi yetakchilik qiladi.\n👥 Metatahlil 15 994 nafar bolani qamrab oldi: yoshga mos JSST (WHO) mezonlari boʻyicha anemiya chastotasi 60.8% boʻldi.\n📉 Kasallik aktiv davrida anemiya 74.8% bolada uchrab, 1 yildan soʻng bu koʻrsatkich 37.0% gacha pasaydi.\n\n💡 <b>Amaliyotga:</b> Pediatrik IBD bor bolalarda anemiyani aniqlashda standart emas, aynan JSSTning yosh va jinsga mos mezonlaridan foydalanish zarur.\n\n📚 <b>Manba:</b> European Journal of Pediatrics · 24-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1007/s00431-026-07640-9\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICQWsI0LAumhPRIuwb3IxIKGCtywT_AAIQK2sbbP5JSBATKMylN6SfAQADAgADeQADPQQ",
-      "adminMessageId": 577
+      "key": "pmid:43098478",
+      "title": "Single-Dose Amoxicillin Challenge for Suspected Serum Sickness-Like Reactions.",
+      "titleUz": "Amoksitsillinning bir martalik sinamasi zardob reaksiyasida 97% holatda xavfsiz chiqdi",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115422",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
+      "pubDate": "2026-11-26",
+      "caption": "🩺 <b>Amoksitsillinning bir martalik sinamasi zardob reaksiyasida 97% holatda xavfsiz chiqdi</b>\n\nPenitsillinga zardob kasalligiga oʻxshash reaksiya (serum sickness-like reaction, SSLR) bergan bolalarda allergenni aniqlash zarur.\n\n💉 Bir doza amoksitsillin berilgan 62 nafar bolaning hech birida darhol nojoʻya reaksiya kuzatilmadi.\n⏳ Kuzatilgan bolalardan faqat 2 tasida (3%) kechikkan alomatlar rivojlandi, qolgan 97% bolada asorat boʻlmadi.\n📋 SSLR shubhasi boʻlgan bolalarda bir martalik amoksitsillin provokatsiyasi dastlabki bosqichda oʻzini oqladi.\n\n💡 <b>Amaliyotga:</b> Bir martalik amoksitsillin sinamasi protokolini qoʻllash mumkin, lekin ota-onalarni kechikkan reaksiyalar haqida ogohlantirish shart.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 26-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115422\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICRWsKGfePihTQvmX9ZXShZ6_2dANnAALzJ2sbs8hQSIxg7JJu7rR_AQADAgADeQADPQQ",
+      "adminMessageId": 581
     },
     {
       "index": 1,
       "label": "B",
-      "key": "pmid:43084440",
-      "title": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths - United States, 2015-2024",
-      "titleUz": "Qishloq hududlarida homiladorlik bilan bogʻliq oʻlim koʻrsatkichi shahardagidan yuqori",
-      "link": "https://doi.org/10.15585/mmwr.mm7546a1",
-      "source": "CDC MMWR",
-      "sourceFull": "CDC — Morbidity and Mortality Weekly Report",
+      "key": "pmid:43098477",
+      "title": "Familial Liability for Neurodevelopmental Disorders in Non-Syndromic Craniosynostosis.",
+      "titleUz": "Sindromal boʻlmagan kraniosinostozda neyrorivojlanish buzilishlari oilaviy xarakterga ega",
+      "link": "https://doi.org/10.1016/j.jpeds.2026.115416",
+      "source": "J Pediatrics",
+      "sourceFull": "The Journal of Pediatrics",
       "pubDate": "2026-11-26",
-      "caption": "🩺 <b>Qishloq hududlarida homiladorlik bilan bogʻliq oʻlim koʻrsatkichi shahardagidan yuqori</b>\n\nHomilador ayollar oʻlimining asosiy sabablari har ikkala hududda bir xil boʻlsa-da, qishloqda umumiy xavf yuqoriroq.\n\n📊 Qishloq tumanlaridagi ayollarda homiladorlik bilan bogʻliq oʻlim koʻrsatkichi (PRMR) shahar aholisidan yuqori boʻldi.\n👥 CDC bazasidagi 2015-2024 yillarda yuz bergan 7 357 ta homiladorlik bilan bogʻliq oʻlim holatlari tahlil qilindi.\n🫀 Yurak-qon tomir kasalliklari (kardiomiopatiya ham) va sepsis barcha hududlarda oʻlimning asosiy sababi boʻldi.\n\n💡 <b>Amaliyotga:</b> Qishloq joylarda homiladorlarni akusherlik, kardiologik va ixtisoslashgan tibbiy yordam bilan oʻz vaqtida taʼminlashga alohida eʼtibor qaratish lozim.\n\n📚 <b>Manba:</b> CDC — Morbidity and Mortality Weekly Report · 26-noyabr 2026\n🔗 <a href=\"https://doi.org/10.15585/mmwr.mm7546a1\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
-      "fileId": "AgACAgIAAxkDAAICQmsI0Yi-i_htcVCm-XDjJMj1GyM5AAISK2sbbP5JSNunOtqx4B6_AQADAgADeQADPQQ",
-      "adminMessageId": 578
+      "caption": "🩺 <b>Sindromal boʻlmagan kraniosinostozda neyrorivojlanish buzilishlari oilaviy xarakterga ega</b>\n\nKraniosinostozdagi neyrorivojlanish orqada qolishi faqat choklar bitishi va mexanik bosim oqibati boʻlmasligi mumkin.\n\n🧠 NSC boʻlgan bolalarning sogʻlom egizak va tugʻishganlarida ham neyrokognitiv muammolar uchrash xavfi yuqori boʻldi.\n📊 Epic Cosmos bazasidan 22 920 juft populyatsiya, 13 594 juft tugʻishgan va 1 249 juft egizaklar tahlilga olindi.\n📈 Motor buzilishlar aOR koʻrsatkichi populyatsiya nazoratida 4.47, tugʻishganlarda 1.96 va egizaklarda 1.40 boʻldi.\n\n💡 <b>Amaliyotga:</b> Sindromal boʻlmagan kraniosinostoz (NSC) boʻlgan bolalarni baholashda oilaviy anamnezni hisobga oling — rivojlanish kogerentligi irsiy omillarga ham bogʻliq.\n\n📚 <b>Manba:</b> The Journal of Pediatrics · 26-noyabr 2026\n🔗 <a href=\"https://doi.org/10.1016/j.jpeds.2026.115416\">Original maqolani o‘qish</a>\n\n\n\n📞 +998908161498\n\n😎 @Boladoc_uz\n\n😎 <a href=\"https://www.instagram.com/boladoc_uz\">Instagram</a>",
+      "fileId": "AgACAgIAAxkDAAICRmsKGg4lb5FyYRb9SzLiB4_noplSAAL0J2sbs8hQSJIDy-t1MNCbAQADAgADeQADPQQ",
+      "adminMessageId": 582
     }
   ]
 }
